@@ -62,3 +62,12 @@
 - Napisano: `00_IZVESTAJ.md`, `09_otvorena_pitanja.md`.
 - NIJE urađeno: Faza 3 (čeka Aleksinu prijavu na ucilnice.arnes.si); mapiranje kazala udžbenika; lektura slovenačkog od izvornog govornika; nezavisna provera rečnika; VS predmet V364; tema 6 (2. kolokvijum) sistematski.
 - Ponovno građenje posle izmena: `python3 izvori/delovi/merge.py && python3 07_simulator/build.py`.
+
+## 2026-11-13 00:56 — Objavljeno na netu (odluka korisnika: javna stranica, sa svim izvorima)
+- Repo: https://github.com/paunov-tech/gp-aleksa — **JAVAN** (GitHub plan ne dozvoljava Pages iz privatnog repoa; pokušano prvo privatno → 422).
+- Stranica: https://paunov-tech.github.io/gp-aleksa/ (Jekyll, tema primer; `README.md` = početna). Simulator: `/07_simulator/index.html`.
+- Dodato: `robots.txt` (Disallow: /), `noindex` u simulatoru, `_config.yml`. Commit autor koristi GitHub noreply adresu.
+- Provereno u pregledaču: svi linkovi sa početne vraćaju 200; simulator na javnoj adresi učitava 346 pitanja i 333 termina.
+- Korisnik javio: kolokvijum je za 7 dana (~20. 11.) → važi varijanta 7 dana iz `08_plan.md`.
+- Ažuriranje sajta: `python3 izvori/delovi/merge.py && python3 07_simulator/build.py && git add -A && git commit && git push` (Pages se sam ponovo gradi za ~1 min).
+- ZA KASNIJE (zaključavanje samo za Aleksu): repo vratiti na private (Pages se tada gasi na ovom planu) → ili GitHub Pro, ili dodati Aleksu kao saradnika.
