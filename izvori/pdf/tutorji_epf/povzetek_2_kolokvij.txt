@@ -1,0 +1,694 @@
+OBLIGACIJE 1
+OBLIGACIJSKO RAZMERJE
+    Obveznostno ali obligacijsko razmerje je pravno razmerje med upnikom
+     in dolžnikom, na podlagi katerega je upnik upravičen, da od dolžnika
+     terja določeno izpolnitev obveznosti, dolžnik pa je to izpolnitev dolžan
+     opraviti.
+    Vsebina razmerja so pravice in obveznosti strank.
+    Izpolnitev je lahko v tem, da dolžnik upniku nekaj DA, ali pa se zaveže
+     nekaj STORITI, OPUSTITI ali DOPUSTITI
+    Je relativno razmerje (učinkuje samo v razmerju med upnikom in
+     dolžnikom)
+    Pravno varovano razmerje
+    Nastane po svobodni volji strank, včasih tudi po samem zakonu.
+     (avtonomnost)
+
+
+
+
+VRSTE OBVEZNOSTI – PO NASTANKU
+POSLOVNE
+Nastanejo na podlagi obligacijsko pravnega posla, ki je dvostranski (pogodba)
+ali enostranski, odvisno od števila udeležencev. Torej pogodbe ali enostranski
+posli.
+NEPOSLOVNE
+Neposlovne obveznosti nastanejo zaradi kakšnega dohodka ali dejanja strank,
+ne da bi pri tem izrazile kakšno poslovno voljo.
+   - Neupravičena obogatitev
+   - N. odšk. O
+   - Posl.B.n.
+
+
+
+
+DRUGE VRSTE OBVEZNOSTI:
+    DENARNE – NEDENARNE
+    INDIVIDUALNE – VRSTNE (SPECIES – predmet izpolnitve natančno
+     določen, GENUS – določena količina blaga neke vrste )
+    TRENUTNE – TRAJNE
+    KAVZALNE – ABSTRAKTNE
+    CIVILNE – NATURALNE (obseg pravnega varstva)
+    ALTERNATIVNE – FAKULTATIVNE
+    SAMOSTOJNE - AKCESORNE
+    ENOOSEBNE - VEČOSEBNE
+
+
+
+
+VEČOSEBNA RAZMERJA :
+    Deljena: če npr. štirje dolžniki deljeno dolgujejo upniku plačilo 1000
+     evrov po enakih delih, lahko upnik od vsakega zahteva plačilo 250 evrov.
+    Skupna: Npr. zakonca lahko samo skupaj zahtevata plačilo od kupca
+     stanovanja, ki je del njunega skupnega premoženja.
+    Solidarna: če npr. štirje dolžniki solidarno dolgujejo upniku plačilo 1000
+     evrov lahko upnik od kateregakoli zahteva plačilo celotnega zneska. S
+     plačilom nastane REGRESNO RAZMERJE – notranja porazdelitev odvisna
+     od razmerja, iz katerega izvira solidarnost. Če ni določeno ničesar, enaki
+     deli.
+
+
+
+PRAVNI VIRI
+    OBLIGACIJSKI ZAKONIK – OZ (1.1. 2002)
+    POSEBNI ZAKONI (transport, finančni instrumenti, intelektualna lastnina,
+     …)
+    AVTONOMNO PRAVO (uzance, poslovni običaji, splošni pogoji,…)
+    MEDNARODNI VIRI (dunajska konvencija o mednarodni prodaji blaga,
+     varšavska konvencija – transport, klavzule incoterms, …)
+
+
+
+TEMELJNA NAČELA
+      NAČELO ENAKOPRAVNOSTI
+      NAČELO ENAKE VREDNOSTI DAJATEV
+      NAČELO DOLŽNOST IZPOLNITVE
+      NAČELO SKRBNEGA RAVNANJA
+      PREPOVED ŠKODOVANJA
+      NAČELO VESTNOSTI IN POŠTENJA
+      MIRNO REŠEVANJE SPOROV
+      PREPOVED ZLORABE PRAVIC
+
+
+
+DISPOZITIVNOST
+Večina zakonskih določb (OZ) je dispozitivne narave, kar pomeni, da se
+uporabljajo samo takrat, ko se pogodbenika ne dogovorita drugače.
+
+V manjšem delu so z. določbe kogentne, kar pomeni, da se jim stranke ne
+morejo izogniti in se uporabljajo, ne glede na pogodbeni dogovor. Posledica
+kršitve je največkrat neveljavnost drugačnega dogovora.
+AVTONOMNOST
+Vsak se lahko prosto odloči o tem:
+    ali bo vstopil v določeno pogodbeno razmerje
+    s kom bo vstopil v pogodbeno razmerje
+    kakšna bo vsebina pogodbenega razmerja
+
+
+              Dispozitivnost
+
+
+
+POGODBA
+   Je pravni posel, ki nastane na podlagi izražene poslovne volje dveh ali več
+    oseb.
+   Za pogodbo je značilno soglasje volj – volje strank se morajo vsebinsko
+    pokrivati.
+   S sklenitvijo pogodbe se želi doseči nastanek neke pravne posledice. To
+    je največkrat nastanek obveznosti, lahko pa tudi njena sprememba ali
+    prenehanje.
+
+
+
+
+   Dvostranske, enostranske
+    Za enostranske je značilno, da zavezujejo samo eno stranko (darilna
+    pogodba). Pri dvostranskih pogodbah sta obvezani in upravičeni obe
+    stranki – dolžnik in upnik (prodajna pogodba).
+    Odplačne, neodplačne
+     Pri odplačnih pogodbah mora ena stranka drugi plačati oziroma dati
+     protivrednost za to, kar je kot dajatev, storitev ali opustitev prejela od
+     druge stranke. Pri neodplačnih pogodbah za izpolnitev ene stranke ni
+     potrebna protivrednost druge stranke.
+
+    Intuitu personae
+     Če želimo, da obveznost izpolni točno določena oseba.
+
+
+
+KDAJ JE POGODBA PRAVNO VELJAVNO SKLENJENA?
+    Pravna + poslovna sposobnost strank
+    Svoboda in resna volja – soglasje volj
+    Predmet obveznosti mora biti dopusten, mogoč ter določen ali določljiv
+    Dopustna poslovna podlaga
+    Oblika, če je z zakonom predpisana
+
+Če niso izpolnjeni zgoraj navedeni pogoji je pogodba neveljavna. To pomeni, da
+obveznost ni nastala. Poznamo dve obliki neveljavnosti: ničnost in
+izpodbojnost.
+
+
+
+GOSPODARSKE POGODBE so pogodbe, ki jih med seboj sklepajo
+gospodarski subjekti. Med gospodarske subjekte uvrščamo gospodarske družbe
+in druge pravne osebe, ki v pretežni meri ali občasno opravljajo pridobitno
+dejavnost. Med gospodarske družbe uvrščamo tudi samostojnega podjetnika
+posameznika in nekatere osebe, ki nimajo statusa samostojnega podjetnika
+posameznika in opravljajo dejavnost kot poklic (npr. odvetniki, notarji).
+
+Gospodarski subjekti                   Gospodarske družbe S.p.
+
+
+
+SKLENITEV POGODBE
+    Pogodba je sklenjena, ko se pogodbeni stranki sporazumeta o njenih
+     bistvenih sestavinah.
+    Volja za sklenitev pogodbe se lahko izjavi z besedami, z običajnimi znaki
+     ali z drugačnim ravnanjem, iz katerega se da zanesljivo sklepati, da
+     obstoji.
+    Izjava volje mora biti svobodna in resna.
+POGAJANJA
+Pred sklenitvijo pogodbe lahko pride med pogodbenima strankama tudi do
+pogajanj, ki predstavljajo usklajevanje stališče glede bodoče vsebine pogodbe.
+Ta ne zavezujejo in jih lahko vsaka stranka prekliče, kadarkoli hoče. Faza
+pogajanj sodi v predsklenitveno fazo.
+
+ODGOVORNOST ZA ŠKODO
+Stranka, ki se je pogajala, ne da bi imela namen skleniti pogodbo, odgovarja
+drugi stranki za škodo, ki jo je ta utrpela zaradi pogajanj.
+
+Prav tako odgovarja drugi stranki za škodo tisti pogajalec, ki se je sicer začel
+pogajati z namenom skleniti pogodbo, pa je kasneje ta namen brez
+utemeljenega razloga opustil.
+
+ČAS SKLENITVE
+    Ko ponudnik prejme od druge stranke (naslovnika) izjavo, da ponudbo
+     sprejema.
+
+PONUDBA Je enostranska izjava volje, ki obvezuje
+samo ponudnika. Je določeni osebi dan predlog za sklenitev pogodbe,
+ki vsebuje vse bistvene sestavine pogodbe, tako da bi se z njegovim sprejemom
+pogodba lahko sklenila. Da bi bila sklenjena pogodba, mora nasprotna stranka
+ponudbo sprejeti.
+
+    Ponudnika veže ponudba, razen če je izključil svojo obveznost, da ostane
+     pri ponudbi.
+    Ponudba, v kateri je določen rok, do katerega mora biti sprejeta, veže
+     ponudnika do izteka tega roka.
+    Pisna oblika, če zakon to zahteva tudi za pogodbo.
+    Če odgovor na ponudbo izraža sprejem, hkrati pa predlaga, naj se v
+     nečem spremeni ali dopolni, se šteje, da je naslovnik ponudbo zavrnil in
+     sam dal drugo ponudbo svojemu prejšnjemu ponudniku.
+    MOLK naslovnika ne pomeni sprejema ponudbe.
+ČAS IN KRAJ SKLENITVE POGODBE
+Šteje se, da je pogodba sklenjena v kraju, v katerem je imel ponudnik svoj sedež
+oziroma prebivališče v trenutku, ko je dal ponudbo.
+
+
+
+PREDPOGODBA
+    POGODBA, s katero se prevzame obveznost, da bo pozneje sklenjena
+     druga, glavna pogodba.
+    Vsebovati mora vse bistvene sestavine glavne pogodbe.
+    Sklenitev glavne pogodbe se lahko zahteva v 6 mesecih od izteka roka
+     določenega za njeno sklenitev.
+    Predpogodba ne veže, če so se okoliščine od njene sklenitve toliko
+     spremenile, da niti ne bi bila sklenjena, če bi bile okoliščine takrat takšne.
+
+
+
+OBLIKA POGODBE
+    Za sklenitev pogodbe se ne zahteva nikakršna oblika, razen če zakon
+     določa drugače.
+    PRIMER: promet z nepremičninami
+    Pogodbeni stranki se lahko sporazumeta, da naj bo posebna oblika pogoj
+     za veljavnost njune pogodbe.
+OBLIGACIJE 2
+NEVELJAVNOST POGODB
+Če ob sklenitvi pogodbe niso bile izpolnjene vse predpostavke, to je sposobnost
+strank, prava volja, pravilna oblika, dopusten predmet, dopustna podlaga, je
+pogodba neveljavna. To pomeni, da obveznost ni nastala. Poznamo dve obliki
+neveljavnosti: NIČNOST in IZPODBOJNOST.
+
+
+
+
+NIČNOST če je pogodba v nasprotju z ustavo, moralnimi normami ali
+prisilnimi predpisi.
+
+    ničnost učinkuje sama po sebi in nanjo pazi sodišče po uradni dolžnosti –
+     ex offo
+    poleg pogodbenih strank jo lahko uveljavlja tudi tretja oseba, ki ima od
+     uveljavljanja ničnosti pravno korist
+    uveljavljanje ničnosti ni vezano na rok
+    kondikcijski Z + odškodninski Z (pošt. S)
+
+Medtem ko nične pogodbe ne povzročajo pravnih učinkov, lahko izpodbojne
+pogodbe povzročajo pravne učinke v primeru, da jih prizadeta stranka ne
+izpodbija.
+IZPODBOJNOST je določena v interesu pogodbenih strank, zato nanjo
+sodišče ne pazi po uradni dolžnosti, temveč samo na ugovor strank. Razlogi za
+izpodbojnost so:
+
+    če je pogodbo sklenila stranka, ki je omejeno poslovno sposobna,
+    če so bile pri njeni sklenitvi napake glede volje strank (zmota, prevara,
+     grožnja)
+    ali v drugih z zakonom določenih primerih
+    kondikcijski Z + odškodninski Z (pošt. S)
+    uveljavlja jo lahko samo pogodbena stranka, zaradi zaščita interesa
+     katere je določena
+    učinkuje samo, če je pravočasno uveljavi
+
+                            SUBJEKTIVNI ROK – 1 LETO
+
+                            OBJEKTIVNI ROK – 3 LETA
+
+
+
+ODERUŠKA POGODBA
+Pogodba, pri kateri je korist, ki si jo je izgovorila ena stranka, v očitnem
+nesorazmerju s tistim, kar je sama dala ali storila ali se zavezala dati ali storiti
+drugi stranki. Dodaten pogoj je, da je prva stranka izkoristila stisko, težko
+premoženjsko stanje, nezadostno izkušenost, lahkomiselnost ali odvisnost
+druge stranke.
+
+(Primer: prodajna pogodba, s katero prodajalec kupcu proda odlično ohranjen,
+brezhiben, leto dni star prestižen avtomobil za smešno nizko ceno, ker
+prodajalec nujno potrebuje denar za plačilo dolga - ima izvršitelja že na vratih.)
+
+Oderuška pogodba je nična, z vsemi pravnimi posledicami, ki so določene za
+ničnost.
+
+NAVIDEZNA POGODBA
+    stranki skleneta pogodbo, ne da bi imeli resen namen prevzeti
+     obveznosti in pridobiti pravice, ki so vsebina te pogodbe
+    pogodbo skleneta le z namenom navzven prikazati, da obstaja pogodba s
+     tako vsebino
+    navidezna pogodba je brez pravnega učinka
+    če prikriva kakšno drugo pogodbo, velja ta druga pogodba
+ZMOTA
+
+
+
+
+IZPODBOJNOST ZMOTE
+Zmota je lahko BISTVENA ali OPRAVIČLJIVA.
+
+BISTVENA
+Odločilna okoliščina – stranka sicer pogodbe s tako vsebino ne bi sklenila
+(predmet, oseba, cena…)
+
+OPRAVIČLJIVA
+Stranka je ni mogla ugotoviti, čeprav je ravnala z ustrezno skrbnostjo.
+
+PREVARA
+Če je stranka pri drugi stranki povzročila zmoto, da bi jo tako napeljala k
+sklenitvi pogodbe, ali če stranka ve, da je druga stranka v zmoti in je na to ne
+opozori, da bi jo tako napeljala k sklenitvi pogodbe.
+
+    Pogodba se lahko izpodbija, čeprav zmota ni bistvena.
+
+
+
+GROŽNJA
+    če stranka ali kdo tretji z nedop. grožnjo povzroči pri drugi stranki
+     utemeljen strah, tako da je ta zaradi tega sklenila pogodbo, lahko druga
+     stranka zahteva razveljavitev pogodbe.
+  strah je utemeljen, če je grozila resna nevarnost življenju, ali pa telesni ali
+   drugi pomembni dobrini stranke ali koga drugega.
+
+ČEZMERNO PRIKRAJŠANJE
+ŠKODA
+PREMOŽENJSKA
+   Navadna škoda
+   Izguba dobička
+
+NEPREMOŽENJSKA
+   Telesne bolečine
+   Duševne bolečine
+   Strah
+   Okrnitev ogleda pravne osebe
+
+ODGOVORNOST ZA DRUGEGA
+ZA DELAVCE:
+    če škodo povzroči delavec, odgovarja za škodo delodajalec;
+    oškodovanec neposredno od delavca, če je škoda povzročena
+     namenoma;
+    delodajalec lahko zahteva od delavca povrnitev plačanega zneska, če je
+     škoda povzročena namenoma ali iz hude malomarnosti;
+    ta pravica zastara v 6 mesecih od dneva plačila.
+
+
+DELJENA ODGOVORNOST
+Oškodovanec, ki je tudi sam prispeval k nastanku škode ali povzročil, da je bila
+škoda večja, kot bi bila sicer, ima pravico do sorazmerno zmanjšane
+odškodnine.
+
+SPREMEMBA UPNIKA ALI DOLŽNIKA
+I. UPNIKA
+     odstop terjatve s pogodbo (cesija).
+     nujno obvestilo dolžnika o odstopu.
+     odgovornost za sam obstoj terjatve.
+
+II. DOLŽNIKA
+     prevzem dolga - upnik mora privoliti.
+OBLIGACIJE 3
+KLASIČNI INSTRUMENTI ZA ZAVAROVANJE IN
+UTRDITEV OBVEZNOSTI
+Osebna zavarovanja
+Poroštvo, garancija
+
+Stvarna zavarovanja
+Zastavna pravica, realno breme, pridržek lastninske pravice, retencijska pravica,
+zemljiški dolg
+
+Plačilni mehanizmi
+Menica, ček, akceptni nalog, dokumentarni inkaso, dokumentarni akreditiv
+
+Drugo
+Pogodbena kazen, penali, obresti, ara, del. creder
+
+POROŠTVO
+    Poroštveno pogodbo skleneta porok in upnik.
+    Porok je oseba, ki se zaveže določeni osebi (tujemu upniku), da bo
+     izpolnila obveznost, če ji obveznosti ne bo izpolnil njen dolžnik.
+    Porokova obveznost ne more biti večja od obveznosti glavnega dolžnika,
+     lahko pa prevzame le del te obveznosti
+    Na poroka, ki je poravnal upnikovo terjatev, preide ta terjatev z vsemi
+     stranskimi pravicami in jamstvi
+    Porok, ki je plačal upnikovo terjatev, lahko zahteva od glavnega dolžnika,
+     naj mu povrne vse, kar je zanj plačal ter obresti od dneva plačila.
+    Akcesornost - odvisnost od temeljne obveznosti
+    Izjava poroka mora biti dana v pisni obliki
+ZAKONITA SUBROGACIJA
+    Namen poroštva ni razbremeniti glavnega dolžnika, ampak povečati
+     varstvo upnikov.
+    Zato pridobi porok, ki je poravnal terjatev, to terjatev do dolžnika –
+     regresna pravica.
+
+ARA
+    Znesek denarja ali drugih nadomestnih stvari, ki ga da ena stranka drugi v
+     znamenje, da je pogodba sklenjena.
+    Pogodba se šteje za sklenjeno, ko je ara dana, če ni dogovorjeno kaj
+     drugega.
+    Predstavlja tudi delno izpolnitev obveznosti.
+    Akcesornost – odvisnost od temeljnega posla.
+
+Utrjevalna narava are se kaže v tem, da gre ara v korist stranke, ki je pogodbi
+zvesta. Če je pogodba sklenjena, se ara vračuna v izpolnitev obveznosti ali se
+vrne.
+
+Če pa pogodba ni izpolnjena in je za neizpolnitev odgovorna stranka, ki je aro
+dala, sme druga stranka zahtevati izpolnitev pogodbe in povrnitev škode aro pa
+všteti v odškodnino ali vrniti. Lahko pa se zadovolji s prejeto aro.
+ Če pa pogodba ni izpolnjena in je za neizpolnitev odgovorna stranka, ki je
+prejela aro, sme druga stranka zahtevati ali izpolnitev pogodbe ali povrnitev
+škode in vrnitev are ali pa vrnitev dvojne are.
+
+
+
+ODSTOPNINA
+    Ne utrjuje pogodbenih obveznosti, ampak jih rahlja.
+    Na podlagi dogovora ima ena ali vsaka stranka pravico odstopiti od
+     pogodbe.
+    Izjava o odstopu učinkuje le, če je hkrati z izjavo dana tudi O, to je
+     določen znesek denarja ipd.
+    Ara kot odstopnina.
+
+RETENCIJSKA PRIDRŽNA PRAVICA
+    Je pravica upnika zapadle terjatve, da zadrži dolžnikovo stvar, ki jo ima v
+     svojih rokah, dokler mu terjatev ni plačana.
+    Nezapadla terjatev- plačila nesposobnost dolžnika.
+    Ni ret. pravice, če je dolžnik izgubil stvar proti svoji volji, ali če je bila
+     dana v hrambo ali na posodo.
+    Poplačilna p. – enako kot zastavni upnik.
+
+ZAMUDNE OBRESTI
+    Civilna sankcija za kršitev obveznosti izp. denarne obveznosti ob njeni
+     zapadlosti.
+
+2 funkciji:
+    nadomestilo za uporabo denarja v obdobju zamude
+    kaznovalno (preventivno) funkcijo, enako kot odškodninska odgovornost:
+     dolžnika spodbujajo k pravočasni izpolnitvi obveznosti.
+    VOM je obrestna mera, ki jo uporablja ECB za operacije glavnega
+     refinanciranja.
+    S pogodbo se lahko dogovori višja ali nižja obrestna mera.
+    Pravica upnika do popolne odškodnine !!!
+
+ODERUŠKE OBRESTI
+Če je dogovorjena obrestna mera zamudnih ali pogodbenih obresti za več kot
+50% višja od predpisane OBZO.
+
+Razen če upnik dokaže, da ni izkoristil:
+    dolžnikove stiske ali težkega gmotnega stanja nezadostne izkušenosti,
+     lahkomiselnosti ali pa odvisnosti
+    ali da korist ni v očitnem nesorazmerju s tistim kar je sam dal.
+    Domneva ne velja za gospodarske pogodbe.
+
+
+POGODBENA KAZEN
+    Civilna sankcija za kršitev nedenarne obveznosti - neizpolnitev ali
+     izpolnitev z zamudo.
+    S pogodbo mora biti posebej dogovorjena.
+    Če ni dogovorjeno kaj drugega, se šteje, da je dogovorjena za zamudo z
+     izpolnitv.
+    Določi se lahko v skupnem znesku, v %, za vsak dan zamude ali kako
+     drugače.
+VPLIV SPREMENJENIH OKOLIŠČIN NA RAZVEZO POGOBE
+   Pogodbene stranke morajo računati na običajna tveganja in tudi nositi
+      breme teh tveganj.
+    Zato načel. velja, da kljub spremenjenim razmeram na trgu sklenjena
+     pogodba zavezuje.
+    Ob nastopu določenih okoliščin pa je vendarle nesmiselno vztrajati pri
+     pogodbi.
+
+
+
+
+NEMOŽNOST IZPOLNITVE
+   Ne gre za pravno relevantno nemožnost, če dolžnik ne more izpolniti
+    obveznosti, lahko pa jo izpolni nekdo drug.
+   Tudi trenutna ali začasna nemožnost nista p. relevantni.
+   Za nemožnost ne gre pri generičnih stvareh in denarnih obveznostih.
+   Pri gosp. pogodbah je bolj verjetna pravna nemožnost – sprejem
+    predpisa, ki prepoveduje izpolnitveno ravnanje.
+   Nekrivdna nemožnost – pogodba avtomatično preneha.
+   Krivdna nemožnost - če je za nemožnost kriv dolžnik, lahko upnik
+    uveljavlja odstop in plačilo odškodnine. Če je kriv upnik, obveznost
+    dolžnika preneha, obdrži pa svojo terjatev.
+
+OTEŽENOST IZPOLNITVE
+OKOLIŠČINE:
+   Bistveno se poruši pogodbeno ravnotežje.
+   Ob sklenitvi pogodbe so bile nepričakovane in niso bile pod nadzorom
+     pogodbenih strank.
+POSLEDICE:
+   Razveza pogodbe + plačilo odškodnine.
+   ALI: pravična sprememba pogodbenih pogojev.
+POBOTANJE
+    Dolžnik lahko pobota terjatev, ki jo ima nasproti upniku, s tistim, kar ta
+     terja od njega
+    Če sta obe terjatvi denarni, zapadli in iztožljivi
+
+
+
+                    Pobotna izjava
+
+ODPOVED TRAJNEGA DOLŽNIŠKEGA RAZMERJA
+Če trajanje dolžniškega razmerja ni določeno
+
+ ODPOVED                   ODPOVEDNI ROK                   PRENEHANJE
+
+
+
+
+SMRT STRANKE
+Obveznost preneha samo, če je nastala glede na osebne lastnosti katere izmed
+pogodbenih strank ali glede na osebne sposobnosti dolžnika.
+OBLIGACIJE 4
+
+PRODAJNA POGODBA
+OBVEZNOST PRODAJALCA:
+Na kupca prenesti lastninsko pravico na stvari, ki je predmet prodaje.
+
+DOBAVA: Opraviti mora vse kar je potrebno, da lahko kupec blago prevzame
+(blago embalirati, obvestiti kupca, da je blago pripravljeno za prevzem, naložiti
+blago na prevozno sredstvo,…
+
+OBVEZNOST KUPCA STVARI:
+Plačati kupnino za stvar, ki se prodaja. Predmet prodaje je lahko tudi
+premoženjska pravica.
+
+KRAJ IZROČITVE
+   kraj, v katerem mora prodajalec omogočiti kupcu prevzem blaga
+   Če v pogodbi ni določeno drugače, je kraj izročitve kraj, v katerem ima
+      prodajalec ob sklenitvi pogodbe sedež.
+   Če pa je bilo pogodbenikom ob sklenitvi pogodbe znano, kje je blago ali
+      kje bo izdelano, je kraj izročitve tisti kraj.
+
+DISTANČNA PRODAJA – ODPREMNI KRAJ - PREVOZ – NAMEMBNI KRAJ
+    prodajalec izpolni svojo obveznost, ko v odpremnem kraju izroči blago
+     špediterju ali prevozniku, ZARADI PREVOZA.
+
+ČAS IZROČITVE
+   če je v pogodbi izrecno določen rok, mora prodajalec izpolniti svojo
+      obveznost v tem roku
+   če rok v pogodbi ni določen – V PRIMERNEM ROKU – glede na naravo
+      blaga in druge okoliščine
+   OPOMIN - zamuda
+KUPNINA
+   če (v pogodbi) ni določena ali določljiva, pogodba ni nastala
+   IZJEMA – GOSPODARSKA POGODBA:
+   kupec mora plačati kupnino, ki jo je prodajalec običajno zaračunaval ob
+     sklenitvi pogodbe, če te ni pa primerno kupnino (to je dnevna cena ali pa
+     jo ugotovi sodišče)
+   ROK: če ni določen – SOČASNOST
+   najprej dobava, nato plačilo cene
+
+    če ni dogovorjeno vnaprejšnje plačilo, mora kupec imeti možnost
+     pregledati blago in šele potem mora plačati ceno.
+    pri nas je poslovni običaj, da prodajalec izstavi fakturo, kupec pa plača
+     kupnino v osmih dneh po prejemu fakture (ta običaj potrjuje 177. uzanca
+     Splošnih uzanca za blagovni promet).
+
+PREVOZ BLAGA
+   stvar se načeloma izroči v prodajalčevem kraju
+                  (dispozitivno)
+   izročitev se šteje za opravljeno z izročitvijo blaga prevozniku
+   stroške z izročitvijo in pred njo krije prodajalec, stroške prevoza in druge
+     stroške po izročitvi pa kupec
+                  (dispozitivno)
+
+KLAVZULE INCOTERMS
+    International commercial terms - zgoščena gesla z določeno vsebino, ki je
+     podrobneje opredeljena v publikaciji Mednarodne trgovinske zbornice s
+     sedežem v Parizu.
+    Določajo:
+    kraj in način dobave blaga
+    trenutek prehoda nevarnosti
+    kdo nosi stroške dobave
+
+13 klavzul v 4 skupinah: E, F, C in D
+Primer: EXW (Ex Works) – franko tovarna
+
+EXW Maribor – prodajalec dobavi blago v ta kraj – stori vse potrebno, da lahko
+kupec prevzame blago. Prodajalec mora blago embalirati, nakladanje in prevoz
+pa bremeni kupca. Nevarnost preide pred prevzemom, če je kupec v zamudi.
+Poškodovanje ali uničenje blaga med nakladanjem blaga na vozilo bremeni
+kupca.
+STVARNE NAPAKE
+Za njih odgovarja prodajalec, razen če so bile kupcu ob sklenitvi pogodbe
+znane;
+
+DOLŽNOST KUPCA: skrben pregled blaga - takoj ko je to po normalnem teku
+stvari mogoče - in obvestitev prodajalca o OČITNIH napakah
+    v 8–ih dneh,
+    pri gospodarskih pogodbah pa nemudoma;
+    SKRITE NAPAKE: če se pokažejo najkasneje v 6-ih mesecih.
+    IZJEMA: če je bila prodajalcu napaka znana.
+
+PRAVICE KUPCA
+   zahtevati odpravo napake ali drugo stvar;
+   znižanje kupnine;
+   odstop od pogodbe;
+   plačilo odškodnine (škoda zaradi zaupanja in refleksna škoda)
+
+GARANCIJA
+T. I. TEHNIČNO BLAGO – JAMSTVO ZA BREZHIBNO DELOVANJE – GARANCIJSKI
+LIST – GARANCIJSKI ROK
+
+PRAVICE KUPCA:
+Zahtevati bodisi od prodajalca bodisi od proizvajalca:
+a) popravilo stvari, ali nato
+b) brezhibno stvar, sicer pa
+c) odstop od pogodbe
+d) ali znižanje kupnine
+e) plačilo odškodnine          v garancijskem roku
+
+
+KOLIČINSKE NAPAKE
+   dobava manjše količine
+   dobava večje količine
+
+Kupec mora v primernem roku izjaviti, da presežek odklanja, sicer se šteje, da je
+sprejel večjo količino in mora razliko v ceni plačati (gospodarska pogodba).
+PRAVNE NAPAKE
+   če ima na prodani stvari kdo tretji kakšno pravico, ki izključuje, zmanjšuje
+    ali omejuje kupčevo pravico.
+
+PRAVICE KUPCA:
+   če kupcu kdo stvar vzame, je pogodba razdrta;
+   če je kupčeva pravica zmanjšana ali omejena, lahko odstopi od pogodbe
+     ali zahteva zmanjšanje kupnine
+   plačilo odškodnine
+     ROK – 1 LETO
+
+DUNAJSKA KONVENCIJA
+Konvencija OZN o pogodbah o mednarodni prodaji blaga (1980, Dunaj,
+UNCITRAL)
+   - mednarodno razmerje,
+   - prodaja,
+   - gospodarska narava,
+   - ratifikacija
+ICC Model International Sale Contract (ICC Pub. No 556).
+
+PREDKUPNA PRAVICA
+Prodajalec se zaveže, da bo predkupnega upravičenca obvestil o nameravani
+prodaji določeni osebi ter o pogojih te prodaje ter mu ponudil, naj jo on kupi
+pod enakimi pogoji
+    ROK za uveljavljanje: 30 dni + plačilo kupnine
+    PRENEHAN.: pogodbeni rok, sicer 5 let
+    KRŠITEV: v 6 mesecih zahteva razveljavitev pogodbe in prodajo stvari pod
+      enakimi pogoji njemu
+    ROK: 5 let.
+
+KUP NA POSKUŠNJO
+   kupec vzame stvar pod pogojem, da jo preizkusi in ugotovi, ali ustreza
+     njegovim željam
+   v roku, ki je določen v pogodbi, mora prodajalca obvestiti, ali ostaja pri
+     pogodbi ali ne
+   sicer se šteje, da je od pogodbe odstopil.
+      če je bila stvar izročena kupcu na poskušnjo do določenega roka,
+      pa je ta ne vrne nemudoma po izteku roka
+      ali ne izjavi prodajalcu, da odstopa od pogodbe,
+      se šteje, da je ostal pri njej.
+
+PRODAJA S SPECIFIKACIJO
+   v pogodbi je kupcu pridržana pravica, da pozneje določi obliko, mero ali
+    kakšne druge podrobnosti
+   kupec pa tega ne stori do dogovorjenega dne
+   lahko prodajalec odstopi od pogodbe ali pa sam opravi specifikacijo,
+    glede na potrebe kupca
+   Če opravi specifikacijo sam prodajalec, mora obvestiti kupca o tem ter
+    mu dati primeren rok, da sam določi drugačno.
+   Če kupec ne izrabi te možnosti, je obvezna specifikacija, ki jo je naredil
+    prodajalec.
+      Documentary credit D/C, letter of credit L/C
+      Enotna pravila in običaji za dokumentarne akreditive MTZ
+      Akreditivna, avizirna, konfirmna banka
+      Plačilni, akceptni, negocirni akreditiv
+      Preklicni, nepreklicni akreditiv
+      Prenosljivi, neprenosljivi akreditiv
+
+AKREDITIVNI DOKUMENTI
+   dokumenti, ki opisujejo blago (faktura, certifikat o količinskem in
+     kakovostnem pregledu)
+   dokumenti o odpremi (prevozni list, potrdilo špediterja) in prispetju
+     (skladiščnica)
+   …
+
+LASTNINSKI PRIDRŽEK
+    pogodbeni dogovor, po katerem si:
+    prodajalec
+    premičnine
+    pridrži lastninsko pravico
+    tudi po tem, ko stvar izroči kupcu
+    dokler kupec ne plača vse kupnine.
+
+OBROČNA PRODAJA
+   prodajalec izroči premičnino še pred popolnim plačilom kupnine, ki jo
+    kupec odplača v obrokih.
+   obv. pisna oblika
+   bistvene sestavine: skupni znesek vseh obročnih odplačil; znesek
+    posameznih obrokov, njihovo število ter njihovi roki.
+
+ODSTOP OD POGODBE IN ZAHTEVA ZA POPOLNO PLAČILO KUPNINE:
+   če pride kupec v zamudo z začetnim obrokom;
+   po začetnem, če je kupec v zamudi z dvema zaporednima obrokoma, ki
+     pomenita najmanj osmino kupnine;
+   če niso predvideni več kot štirje obroki, če pride kupec v zamudo že z
+     enim rokom.
+   Razen v 1. primeru, lahko prodajalec, namesto da odstopi od pogodbe,
+     zahteva od kupca plačilo celotne kupnine. Pustiti mu mora dodaten 15
+     dnevni rok.
+

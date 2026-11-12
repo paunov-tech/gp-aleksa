@@ -1,0 +1,125 @@
+-PRAVO: sistem družbenih norm, ki na obvezen način urejajo temeljna razmerja v družbi in
+sankcionira jih država.
+-PRAVNI AKT: Dejanje ki ima pravne posledice. Spremeni pravni položaj posameznika oz. pravne
+osebe.
+-JAVNOPRAVNI AKTI & ZASEBNO PRAVO:
+         *JAVNOPRAVO: Izda državni organ, organ lokalne skupnost,.. Nosilec javnega pooblastila
+         *ZASEBNO PRAVO: sprejemajo stranke s soglasjem (primer: kupoprodajna pogodba).
+         *MEŠANO: Javni par pri kateri sodeluje zasebnik (Koncesije ..). Tukaj je priviligirana država,
+prilagoditev zasebnika.
+-SPLOŠNI PRAVNI AKT & POSAMIČNI PRAVNI AKT
+         *SPLOŠNI : naslovljencev ne imenuje imensko ampak opiše z lastnostjo (mladoledniki,…)
+         *POSAMIČNI: Naslovljence imenuje imensko: »Sodba v tej in tej zadevi proti temu in temu..«
+-ABSTRAKTNI IN KONKRETNI PRAVNI AKT:
+         *ABSTRAKTNI: sorta situacij z nekimi znaki (kdor povzroči drugemu škodo (več oblik škode))
+         *KONKRETNI: ureja 1 konkretno situacijo (Sodba v tej in tej zadevi … )
+-NORME oz. PRAVILA- pravila ki urejajo razmerja v družbi.
+-PRAVNA RAZMERJA: družbena razmerja urejena z pravno normo.
+-PRAVNA NORMA: najmanjši element prava.
+         SESTAVA:        *DISPOZICIJA: kaj je treba storiti (prepoved, dovoljenje,..)
+                         *HIPOTEZA: okoliščine v katerih je potrebno ravnati po dispoziciji
+                         *SANKCIJA: ukrepi v primeru kršenja pravne norme
+-KOGENTNE & DISPOZITIVNE PRAVNE NORME:
+         *DISPOZITIVNA PRAVNE NORME: pravila, ki jih lahko osebe sprejmejo ali pa bodo sami
+oblikovali drugačno pravno normo za svoja ravnanja
+         *KOGENTNE PRAVNE NORME ( prisilne): Nujno po pravilih, drugačno ravnanje lahko pomeni
+kršitev pravnega pravila.
+-NASTANEK POSLOVNIH OBIČAJEV IN KDAJ VELJAJO ZA NEKO POGODBO
+         *Nastanejo v poslovni praksi.
+         *V mednarodnem pravu velja pravilo: pogodbeni stranki zavezuje tisti običaj, o katerem sta
+se dogovorili in ga poznata ter izhaja iz njune prakse.
+-HIEARHIJA PREDPISOV (+ kdo jih sprejema)
+         *USTAVA(sprejme DZ RS z kvalificirano večino
+         *ZAKONI (sprejme DZ RS, DS – možnost veta)
+         *Uredbe, pravilniki, odloki,…
+-DELITEV OBLASTI (SLO):
+         *ZAKONODAJNA: DZ, IZVRŠILNA: Vlada+ministrstva,DS , SODNA: neodvisno sodstvo
+-AVTENTIČNA RAZLAGA PRAVNIH AKTOV: dajejo državni organi, oz. organi ki so sprejeli akt.
+Objavljena je v Uradnem listu RS in je OBVEZUJOČA!
+-HIEARHIJA PRAVNIH AKTOV: Najvišji P.A. je ustava. Vsi zakoni in podzakonski akti ter drugi splošni
+predpisi morajo biti v skladu z ustavo. + načelo hiearhije mednarodnega prava in pogodb! [kasneje]
+-ČASOVNA VELJAVNOST PRAVNIH AKTOV: Veljajo če so bili sprejeti. Načeloma začnejo veljati 15.dan
+po objavi v uradnem listu ( Vacatio legis). Zakoni in predpisi ne morejo veljati za nazaj – razen v
+izjemnih primerih (retroaktivnost) – s tem ne smejo biti kršene že pridobljene pravice.
+-SODNA PRAKSA & PRAVNA ZNANOST: nista formalni vir prava. Sodna praksa ima velik vpliv na
+oblikovanje norm v določeni pravni panogi – ni zavezujoč vir prava z izjemo za senate Vrhovnega
+sodišča. Pravna znanost so učbeniki in ostala literatura
+-NAMEN RAZLAGE PRAVNIH AKTOV: namen je da moramo njihovo vsebino, pomen in namen
+pravilno razumeti. Pravni predpisi ki so abstraktne narave so pogosto nejasni, zato je pomembno da
+so razloženi.
+-RAZLAGE PRAVA:
+        *JEZIKOVNA: z njo skušamo razumeti pomen besed, izrazov, pojmov ki so uporabljeni v aktu.
+        *LOGIČNA: naj bi privedla do pravilnega sklepanja prav.pravila. več vrst: iz manjšega na večje,
+večje na manjše, po podobnosti,..
+        *SISTEMATIČNA: iskanje povezave med posameznimi deli pravnega sistema
+        *NAMENSKA: kaže na družbeni pomen pravnega akta in razkriva pomen
+        *ZGODOVINSKA: ugotavljamo kako je neko pravno pravilo nastajalo.
+-NASTANEK IN PRENEHANJE PRAVNEGA RAZMERJA:
+        *potrebujemo določen dogodek ki ga pravna norma predvideva za nastanek pravnega
+razmerja (p.razmerje nastane šele takrat ko sta oba pogoja izpolnjena-ko se uresničijo okoliščina na
+katere se veže pravna norma za nastanek pravnega razmerja).
+        *za prenehanje pravnega razmerja ( popolnoma isto kot za nastanek pravnega razmerja).
+-PRAVNI SUBJEKTI:
+        *FIZIČNA OSEBA: človek od rojstva do smrti. Ima pravno sposobnost od rojstva do smrti.
+Poslovna sposobnost pa je pravica da lahko z lastnimi dejanji in izjavami prevzamemo pravice in
+obveznosti. Fizična oseba jo pridobi z polnoletnostjo (18 let). Mladoletna oseba ob določenih pogojih
+(če se poroči, ma otroka, vstopi v delovno razmerje od 15 naprej…). Lahko sodišče to odvzame
+(alkohol, droge,..) Deliktna sposobnost pomeni da je sposobna oseba odgovarjati za svoja kazniva
+dejanja. Do 14 let nisi. Naprej pa ja!
+        *PRAVNA OSEBA: gospodarske družbe, družbeno politične skupnosti, premoženjski skladi,
+društva,… Družbena tvorba ločena od članov: ima svoje premoženje ločeno od članov, ima svojo
+organizacijo itd,.. Ima pravno in poslovno sposobnost – drugačna kot za fizične osebe. Ne more sama
+nastopati neposredno v pravnem prometu in opravljati dejanj vendar njeno voljo izražajo organi.
+Organe določajo zakoni, statuti itd,..
+-POSLOVNA SPOSOBNOST: Pomeni da lahko oseba z lastnimi dejanji in lastno voljo prevzame pravice
+in obveznosti in s tem sama povzroča veljavne pravne posledice. Fizična oseba pridobi s
+polnoletnostjo. Na podlagi poslovne sposobnosti lahko fizična oseba samostojno in veljavno vstopa v
+pravna razmerja, daje izjave s pravnim učinkom ,prevzema dolžnosti in pravice ,...
+-PRAVNA SPOSOBNOST: pridobi z rojstvom preneha s smrtjo. Biti nosilec pravic in doložnosti. Tudi
+dojenčke ima lahko lastniško pravico. Prisilne pravne norme zahtevajo da mora biti fizična oseba za
+pravne posle tudi poslovno sposobna.
+-PREDMETI PRAVNEGA RAZMERJA: So pravice ene osebe in s to pravico povezane dolžnosti druge
+osebe. Če sta 2 osebi v pravnem razmerju glede na neko stvar je to stvarno razmerje.
+-PRAVICA: možnost da oseba ravna na določen način.
+        *ABSOLUTNE & RELATIVNE PRAVICE: Pri absolutnih ni določene nasprotne stranke ampak
+učinkujejo proti vsakomur, pri relativnih je nasprotna stranka določena, torej učinkujejo le med
+osebami, ki so v pravnem razmerju.
+          *OSEBNE & PREMOŽENJSKE PRAVICE: Osebne pravice ne dajejo premoženjskih koristi-ni moč
+izraziti v denarju. Pri premoženjskih se da izraziti korist v denarju. Osebne pravice so neprenosljive,
+premoženjske pa.
+-STVARNA PRAVICA: oblast ene osebe do vseh drugih oseb. Nosilec stvarne pravice je v posebnem
+razmerju do drugih oseb glede neke stvari.
+          *LASTNINSKA PRAVICA: na nepremičnini ali premičnini in daje lastniku pravico imeti svojo
+stvar v posesti. Absolutna pravica. Moža solastnina.
+          *ZASTAVNA PRAVICA: Pravica na tuji lastnini. Zastavni upnik lahko zahteva izpolnitev svoje
+terjatve-hipoteka.
+          *SLUŽNOSTNA PRAVICA: pravica na tuji stvari, ki opravičuje lastnika služ. Pravice da v
+določenem obsegu uporablja tujo nepremičnino (če si v najemniškem stanovanju).
+-KAKO LAHKO DOBIMO LASTNINSKO PRAVICO DO NEKE STVARI:
+          *Na podlagi zakona – z ustvaritvijo nove stvari, s spojitvijo, z ločitvijo plodov, z gradnjo…
+          *Na podlagi pravnega posla (prodajna, darilna, menjalna pogodba)
+          *Z dedovanjem
+          *Z odločbo državnega organa.
+-HIPOTEKA: stvarna pravica na tuji nepremičnini. Temelji na pravnem poslu. Hipoteka je zapisana v
+zemljiški knjigi in velja za celotno nepremičnino. Nepremičnina ostane sicer v lastni zastavitelja, ki pa
+nepremičnine ne sme poslabšati.
+-VRSTE SLUŽNOSTI: zemljiške(potne,vodne,pašne..), hišne(Stavbne), osebne(v prid osebi- užitek
+(uporaba in plodovi), raba(samo uporaba), stanovanje ( uporaba)).
+-RAZLIKE: LASTNINSKA IN ZASTAVNA PRAVICA: Lastninska pravica je pravica na lastni stvari,
+zastavna pravica pa na tuji stvari. Lastninska pravica se lahko deduje, Zastavna pravica se ne more.
+-ZASTARANJE: Če pravni subjekt svojih pravic daljše obdobje ne uveljavlja – pravne posledice. Pravni
+red odvzame varstvo pravic. Pomeni da po preteku določenega časa nosilec pravice nima več pravice
+zahtevati izpolnitev obveznosti, ki jo ima druga stranka. Z zastaranjem preneha zahtevek za
+uveljavljanje pravic – sama pravica ne preneha! Temeljna posledica zastaranje je, da upnik ne more
+več prisiliti svojega dolžnika, da mu le ta proti svoji volji izpolni svojo dolžnost.
+-RAZLIKA MED ZASTARANJEM IN PREKLUZIJO:
+          *ZASTARANJE: pomeni da upnikova pravica ni prenehala, preneha le zahtevek za uveljavitev
+pravice.
+          *PREKLUZIJA: pomeni da preneha sama pravica.
+-ZASTARALNI ROKI:
+          *10 let : terjatve ki so bile ugotovljene s pravnomočno sodno odločbo.
+          *5 let: terjatve proti zavarovalnici in pogodbam o življenjskem zavarovanju
+          *3 leta: rok za občasne terjatve oz. občasne terjatve ki prispejo letno (obresti, zahteve za
+preživnino itd..)
+          *1 Leto: gospodinjske zadeve
+

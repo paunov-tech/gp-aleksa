@@ -1,0 +1,1179 @@
+19. VREDNOSTNI PAPIRJI
+
+
+19.1 UVOD
+
+
+Vrednostni papirji VP so eden izmed temeljnih kamnov gospodarskega sistema. Njihova funkcija je izključno
+gospodarska:
+
+     - zagotavlja delovanje trga kapitala (delnice, obveznosti),
+V tržnih gospodarskih sistemih dosegajo vrednostno največji delež. Zanje je značilno, da se izdajajo v velikih
+serijah z razmeroma nizko vrednostjo posameznega VP v razmerju z vrednostjo celotne izdaje. Pomembno je, da
+so takšni VP likvidni, tako da jih lahko investitor glede na svoje potrebe hitro zamenja za denar. Menjava za
+denar poteka pri teh VP predvsem prek organiziranega trga VP oziroma borze.
+
+    -    ima funkcijo plačilo in kreditiranja (menica, ček),
+Menica ima določene prednosti v primerjavi s klasičnimi posojili. Menični upnik lahko spusti menico v kroženje
+in pride do likvidnih sredstev še pred njeno zapadlostjo, zraven tega je njegov položaj v morebitnem sodnem
+postopku zaradi neplačila ugodnejši.
+
+    -    ima funkcijo omogočanja lažjega pretoka blaga na trgu (skladiščnica, nakladnica).
+Spreminjanje lastništva blaga s prenosom VP je hitrejše in preprostejše kot s klasičnimi, na izročilu temelječimi,
+stvarno-pravnimi mehanizmi. Ti VP na primer omogočajo, da blago na poti od odpravnega kraja v namembni
+kraj brez težav večkrat menja svojega lastnika.
+
+
+Nastanek VP je odraz potrebe po hitri in hkrati varni cirkulaciji premoženjskih pravic. Osnovna ideja, na
+kateri temelji pravo VP je namreč v tem, da se ta pravica zapiše na listino in se začne prenašati podobno kot
+stvar.
+
+Zgodovinsko gledano se je med VP najprej razvila menica, ki je prvotno imela funkcijo plačilnega sredstva. Z
+nastankom papirnatega denarja je menica začela to funkcijo izgubljati, v ospredje je začela stopati njena funkcija
+kreditiranja. Drugi VP so se razvili kasneje. Do razcveta VP pa je prišlo, ko so odkrili možnost, da služijo kot
+sredstvo za koncentracijo kapitala. V zadnjem času je vse bolj opazen trend dematerializacije VP, s čimer smo
+pri nas prišli že zelo daleč. Gre za to, da se pravica namesto na listino vpiše na elektronski nosilec.
+
+
+
+
+19.3 SPLOŠNO O VP
+
+
+POJEM VP
+VP je vsaka listina, ki vsebuje vse sestavine, ki jih določa zakon, in na kateri je zapisana civilno-pravna pravica
+na način, da jo lahko uveljavlja samo zakoniti imetnik skupaj z listino oziroma drugim potrdilom, ki nedvomno
+kaže na to, da ima zakoniti imetnik listino vsaj v posredni posesti in da je katerikoli tretji osebi onemogočeno
+uveljavljanje iste pravice.
+
+VP kot listina
+VP je vselej listina, ni pa vsaka listina VP. Ne gre samo za listino kot papir, ampak na splošno za vsak nosilec
+(medij), na katerem je zapisana določena izjava volje. Ta nosilec ni nujno materialni, lahko je tudi nematerialni,
+če je to določeno s posebnim zakonom.
+
+Bistvene sestavine
+VP je le listina z vsemi sestavinami, ki jih določa zakon.
+Posebni zakoni, ki urejajo posamezne VP, določajo še druge bistvene sestavine, najbolj pomembni sta:
+
+    •    načelo inkorporacije
+Upravičenec lahko uveljavlja pravico iz VP samo skupaj s papirjem.
+
+Stopnja inkorporacije je lahko pri različnih VP različna in se lahko razteza tudi na nastanek pravice iz VP in na
+njen prenos. Glede na to delimo VP na:
+    - popolne (pravica nastane samo z zapisom na VP in se skupaj z njim prenaša in uveljavlja),
+    - nepopolne (ena od zgornjih funkcij odpade, nikoli pa ne sme odpasti funkcija, po kateri se lahko pravica
+         iz VP uveljavlja samo skupaj s papirjem)
+
+Za VP je torej bistveno, da je pravica (terjatev) prešla v papir, se z njim povezala, tako da se odtlej samostojno
+ne more več uveljavljati.
+
+    •    načelo prezentacije
+Z načelom inkorporacije, je to načelo tesno povezano. Izpolnitev terjatve iz VP lahko zahteva proti predložitvi le
+njegov zakoniti imetnik ali tisti, ki ga ta pooblasti.
+
+To pomeni, da mora zakoniti imetnik ob uveljavljanju pravice iz VP izdajatelju ali drugemu dolžniku predložiti
+VP. Sicer lahko zakoniti imetnik VP, če prezentacije ne izvrši pravočasno, pravico iz VP izgubi. To načelo je
+pomembno, ker je pri uveljavljanju pravic iz VP zmeraj razvidno, kdo je njihov dolžnik, ne pa tudi, kdo so
+upniki.
+
+
+
+
+VRSTE VP
+VP lahko delimo po različnim pravnih in ekonomskih kriterijih. Najpomembnejša je delitev po vsebini pravic in
+glede na način določitve upravičenca iz VP:
+
+    a) Stvarnopravni, korporacijski in obligacijski (po vsebini pravic iz VP)
+    - stvarnopravni VP so tisti, ki vsebujejo določeno stvarno pravico (zemljiško pismo, skladiščnica,
+         nakladnica)
+    -    korporacijski VP so tisti, ki vsebujejo članske pravice v družbi; imetnik je član družbe, ki je VP
+         izdala (delnice)
+    -    obligacijski VP so najštevilčnejši; na njih je zapisana obligacijska pravica, katere predmet je lahko
+         denar ali blago (menica, ček, obveznica)
+
+    b) Prinosniški, imenski in ordrski (glede na način določitve upravičenca iz VP)
+    - prinosniški (imetniški) VP so tisti, ki se glasijo na prinosnika; za njih je značilno, da so najlažje
+         prenosljivi, saj za prenos pravice iz VP zadošča že njegova izročitev (tradicija)
+    -    imenski (rekta) VP se glasijo na ime določene osebe, ki mora biti na njem točno označena; pravica
+         se prenaša s cesijo
+    -    ordrski (po nalogu) VP so vmesna različica med prinosniškimi in imenskimi; glasijo se po nalogu
+         določene osebe; posebnost odrskih VP je predvsem ta, da se pravice iz teh VP ne prenašajo s cesijo,
+         ampak z indosamentom (menica in ček)
+
+
+
+
+RAZPOLAGANJE Z VP
+Splošni razpolagalni posel za prenos premoženjskih pravic je cesija. Namen izdaje VP je največkrat prav v tem,
+da se za prenos zapisane pravice cesija nadomesti z drugim razpolagalnim poslom, ki omogoča večjo
+prometnost. Razpolaganje je odvisno od vrste VP in se največkrat ujema z delitvijo VP na prinosniške, ordrske
+in imenske.
+Prinosniški VP
+So od vseh vrst VP najlažje prenosljivi. Pravica iz papirja se prenaša neposredno z listino, na kateri je zapisana.
+To pomeni, da se prenaša z izročitvijo VP.
+
+Ordrski VP
+Za razpolaganje z ordrskim VP je zraven izročitve listine potreben še poseben razpolagalni posel: indosament.
+
+Indosament je specifična pisna izjava na hrbtu VP. Njegova vsebina je v tem, da upravičena oseba (indosant) po
+nalogu katere se VP glasi, določi drugega upravičenca (indosatarja), po nalogu katerega naj zavezanec izpolni
+obveznost iz VP. Ima 3 funkcije:
+    - prenosno (z njim se prenašajo vse pravice iz VP na indosatarja, ne oziraje se na pravice izdajatelja),
+    - garancijsko (indosant prevzame jamstvo, da bo redno poravnana celotna obveznost iz VP),
+    - legitimacijsko (indosament izkazuje indosatorja kot imetnika VP)
+
+Ločimo 3 glavne vrste indosamentov:
+
+    •    popolni indosament
+Vsebuje izjavo o prenosu, firmo ali ime osebe, na katero se pravica iz VP prenaša (indosatar) in podpis
+prenosnika (indosant), lahko pa vsebuje še nekatere druge podatke. Npr: Namesto nam plačajte po ukazu
+Indosatarja. Podpis Indosant.
+
+    •    blanko indosament
+Vsebuje le podpis indosanta. Indosatar ni naveden, pusti se prazen prostor za morebitno kasnejšo izpolnitev.
+
+    •    indosament na prinosnika
+Namesto imena indosatarja se zapiše beseda »prinosniku« ali druga oznaka, ki pomeni isto. Velja kot blanko
+indosament.
+
+
+
+
+PREPOVED PRENOSA
+Prenos VP po odredbi z indosamentom se lahko prepove, in sicer z izrazom »ne po odredbi« ali s podobno
+klavzulo, ki ima enak pomen (t.i. rekta klavzula). To lahko storita izdajatelj in indosant. Ob zapisu rekta klavzule
+se sme VP prenašati samo še s cesijo in torej ne več z indosamentom. Tudi pri imenskih VP se lahko prepove
+kakršnikoli prenos, in sicer s posebnim zakonom ali izjavo izdajatelja (vinkulacijska klavzula). To pomeni, da je
+vsakršen prenos takšnega VP nezakonit.
+
+
+
+
+AMORTIZACIJA VP
+VP se lahko poškoduje, delno ali popolnoma uniči ali izgubi. Če je poškodovan tako, da ni primeren za promet,
+iz listine pa je še zmeraj mogoče razbrati njeno prisotnost in vsebino, lahko imetnik papirja od izdajatelja
+zahteva, da mu na njegove stroške izda novo listino.
+
+Nasprotno pa hujša poškodba listine ali izguba VP zahtevata izvedbo amortizacijskega postopka. Amortizacija je
+sodna razveljavitev izgubljenega ali uničenega VP, ki se izvede po pravilih nepravdnega sodnega postopka. V
+sklepu o razveljavitvi sodišče navede dan, od katerega se šteje, da je listina razveljavljena, vendar pa
+razveljavitev velja šele od dneva objave v uradnem listu. S sklepom o amortizaciji se obstoječi VP razveljavi in
+nadomesti z novim.
+19.4 NEKATERE POSAMEZNE VRSTE VP
+
+
+MENICA
+Menica je VP, ki glasi na določen denarni znesek, njene sestavne dele, načine prenosa upnikovih pravic in način
+uveljavljanja teh pravic pa urejajo pravila meničnega prava.
+
+Poznamo predvsem tri glavne vrste menic:
+
+    •    trasirana menica
+Pri tej vrsti menice se denarne vsote ne zaveže plačati že sam izdajatelj menice, temveč pozove nekoga tretjega
+naj to stori. Bistvene sestavine:
+     - podpis izdajatelja (trasant),
+     - ime tistega, ki naj plača (trasat),
+     - ime tistega, kateremu in po naredbi katerega je treba plačati (remitent),
+     - označba, da je menica, napisana v besedilu listine menice v jeziku, v katerem je menica sestavljena,
+     - nepogojno nakazilo, naj se plača določena vsota denarja,
+     - navedba, kdaj je treba plačati,
+     - kraj plačila,
+     - kraj in dan izdaje.
+
+    •    bianko menica
+Za bianko menico je značilno, da ji ena ali več bistvenih sestavin manjka, vendar pa ob izdaji obstaja namen
+izdajatelja, da manjkajoče sestavine kasneje vnese remitent ali osebe, ki jo remitent za to pooblasti. Uporablja se
+za zavarovanje bodočih terjatev, katerih obseg in vsebina ob izdaji menice še nista določena.
+
+    •    lastna menica
+Pri lastni menici se menično vsoto zaveže plačati sam izdajatelj. Bistvene sestavine:
+     - označba, da je menica, napisana v besedilu listine menice v jeziku, v katerem je menica sestavljena,
+     - nepogojna obljuba, da se bo plačala določena vsota denarja,
+     - navedba, kdaj je treba plačati,
+     - kraj plačila,
+     - ime tistega, kateremu in po naredbi katerega je treba plačati,
+     - kraj in dan izdaje,
+     - podpis izdajatelja.
+
+
+
+
+MENIČNA DEJANJA
+
+Izdaja menice
+Izdaja menice je praviloma prvo menično dejanje. Trasant ga opravi tako, da na menico napiše vse bistvene
+sestavine, se na menico podpiše na tistem prostoru, ki je predviden za podpis izdajatelja in jo izroči upniku.
+
+Akcept
+Pri trasirani menici trasant trasata pozove, naj plača meničnemu upniku. To mora trasat sprejeti (priznati), kar na
+menici izrazi z akceptom. Šele z akceptom torej postane trasat glavni menični zavezanec. Akcept mora biti
+nepogojen, vendar ga sme trasat omejiti na del menične vsote. Tako ločimo:
+     - popolni akcept ( trasat se kot akceptant zavezuje, da bo plačal celotno vsoto),
+     - delni akcept (akceptant se zavezuje le za plačilo dela menične vsote).
+
+Menico lahko trasatu v akcept predložijo izdajatelj, remitent ali naslednik remitenta. Čas predložitve v akcept je
+do dospelosti menice.
+Prenos menice
+Menica je ordrski VP, zato se prenaša z indosamentom. Ta prenos je sestavljen iz 2 elementov:
+   - enostransko pisno izjavljen indosament,
+   - neoblična pogodba o izročitvi.
+
+S samim indosamentom se torej menica še ne prenese, potrebna je še njena izročitev kot listine. Oseba, ki
+pravice prenese na drugega je indosant, oseba, na katero se z indosamentom pravice prenesejo, pa indosatar.
+
+Menico je mogoče prenesti tudi s cesijo. Indosament je menično-pravni, cesija pa klasični civilno-pravni način
+prenosa, ki je povezan z izročitvijo menice, saj pravice iz menice ne morejo preiti brez izročitve VP.
+
+Razlike med cesijo in indosamentom:
+    - indosament omogoča dobroverno pridobitev menične terjatve, cesija ne. Če cedent ni bil imetnik
+        terjatve, to ne more postati niti cesionar,
+    - indosament je utemeljen na menični strogosti, cesija ne. Cesionar ni samostojni menični upnik, dolžnik
+        lahko proti njemu uveljavlja ugovore, kot bi jih imel proti cedentu,
+    - odplačna cesija ne omogoča odgovornosti v višini menične vsote, temveč le v višini nasprotne dajatve.
+        Neodplačna cesija ne omogoča nikakršne odgovornosti.
+
+Aval
+Določena oseba (avalist) lahko s svojim podpisom na menici prevzame menično jamstvo (aval). Avalist je
+menični porok in je zato odgovoren tako kot dolžnik, za katerega jamči. Avalist torej jamči, da bo dolžnik, za
+katerega je prevzel jamstvo, izpolnil svojo menično obveznost, se pravi, da bo upravičencu iz menice ob njeni
+dospelost izplačal v menici določeno vsoto denarja ali pa le njen del.
+
+Razmnoževanje menice
+Menica se praviloma izda v enem izvodu (solo menica), razen če se želi z več enakimi izvodi pospešiti kroženje
+menice. Menico lahko razmnožimo na 2 načina:
+   - z izdajo več izvodov,
+   - s prepisom menice.
+
+Predložitev in plačilo
+Svojo obveznost iz menice mora dolžnik izpolniti šele takrat, ko mu upravičeni imetnik menice (menični upnik)
+menico predloži, najprej v navedenih primerih v akcept in ob dospelosti v plačilo. Ko trasat menico plača, sme
+od imetnika zahtevati, naj mu menico izroči hkrati s potrdilom, da je plačana.
+
+Protest menice
+Protest menice je javna listina, ki jo izstavi notar in v kateri potrjuje, da menični zavezanec ni izpolnil ene ali več
+meničnih obveznosti oziroma, da ni bilo opravljeno določeno menično dejanje. Protest je pogoj za uveljavljanje
+regresnih pravic; menični rek se glasi: »Brez protesta ni regresa.«. Protest je posebno pomemben zato, ker so vsi
+dolžniki v menici – razen akceptanta in izdajatelja lastne menice (glavna dolžnika) – pogojni dolžniki in morajo
+plačati ali akceptirati menico kot regresni dolžniki šele potem, ko tega ni storil glavni dolžnik. To se dokazuje s
+protestom.
+
+Obvestilo o protestu
+Če je trasat zavrnil akcept menice oz. če je glavni menični dolžnik zavrnil njeno plačilo in je bil zato napravljen
+protest, mora imetnik menice o tem obvestiti svojega indosanta in trasanta. To menično-pravno dejanje se
+imenuje obvestilo ali notifikacija.
+
+Regres
+Je menično opravilo, s katerim imetnik menice zahteva plačilo od meničnih zavezancev: trasanta, indosanta,
+avalista, akceptanta itd. Regres je torej po meničnem pravu zahtevek, s katerim zahteva imetnik menice od
+resničnega meničnega dolžnika, da odkupi menico oz. da plača menično vsoto, če trasat odbije akcept ali plačilo
+menice. v bistvu menice je, da jo plača trasat – akceptant. Z njegovim plačilom se vsi menični zavezanci, to so
+trasat, indosant, avalist itd. rešijo svojih meničnih obveznosti.
+Dospelost menice
+Dospelost (zapadlost) menice ali čas plačila je:
+   - pri vpoglednici – dan njene predložitve,
+   - pri povpoglednici – določen čas po predložitvi,
+   - pri oddnevnici – določen čas po izdaji,
+   - pri dnevnici – točno določen dan.
+
+Menične klavzule
+Zraven bistvenih sestavin, ki so obvezne, ima lahko menica tudi nebistvene sestavine, ki torej niso obvezne:
+    - kritna klavzula,
+    - valutna klavzula,
+    - aviso klavzula,
+    - rekta klavzula
+    - klavzula »brez protesta«,
+    - klavzula »brez regresa«,
+    - klavzula »brez akcepta«.
+
+Amortizacija menice
+Pomen amortizacije je v tem, da se na podlagi amortizirane menice ne morejo uveljavljati nobene menične
+pravice več, temveč se lahko uveljavljajo na podlagi amortizacijske listine. Če bi se po amortizaciji pojavila
+prava menica v rokah zakonitega imetnika, je akceptant (trasant) ni dolžan plačati.
+
+Zahtevki in sodni postopki
+Ločimo:
+    - glavna menična terjatev,
+    - regresna menična terjatev,
+    - terjatev zaradi neupravičene obogatitve.
+
+
+
+
+NAKLADNICA
+Nakladnica ali konosament je VP, s katerim ladjar ali z njim izenačena oseba potrjuje, da je prejela v prevoz
+določeno vrsto in količino blaga določene kakovosti in se obvezuje, da bo to blago po koncu potovanja izročila
+upravičencu. Podlaga za izdajo nakladnice je pogodba o prevozu stvari. Uvrščamo jo med blagovne (tradicijske)
+VP. Izdaja nakladnice vkrcevalcu omogoča, da razpolaga z blagom v času prevoza. Pravna ureditev je odvisna
+od vrste prevoza, razlikujemo med:
+    - pomorsko nakladnico,
+    - nakladnico v notranji plovbi.
+
+Nakladnico izda na zahtevo vrkcevalca ladjar.
+
+Nakladnica se lahko glasi:
+    - na ime – prenos s cesijo,
+    - po odredbi – prenos z indosamentom,
+    - na prinosnika – prenos z izročitvijo.
+
+Hkrati pa razlikujemo tudi med:
+    - navadno nakladnico (izda se ob vkrcanju tovora na ladjo),
+    - nakladnico pred vkrcavanjem (izda se takrat, ko ladjar prejme blago za vkrcanje in s tem potrdi
+         prejem).
+
+Nakladnica je načeloma abstrakten VP, kar pomeni, da ima upravičenec pravico zahtevati izročitev blaga, čeprav
+ima ladjar morebitne ugovore iz prevozne pogodbe. Izjema so le tisti ugovori, ki so razvidni iz same nakladnice.
+SKLADIŠČNICA
+Skladiščnica je tradicijski VP, na katerem je zapisana obveznost skladiščnika, da upravičencu iz skladiščnice
+izroči blago, ki mu je bilo dano v skladiščenje. Izda se kot dvodelni VP, sestavljen iz:
+
+    -    pobotnice (omogoči nam izročitev blaga)
+    -    zastavnice omogoča, da skladiščeno blago zastavimo zastavnemu upniku)
+Upoštevati pa mora, da je blago, za katero je bila izdana skladiščnica, obremenjeno, zato lahko zahteva izročitev
+samo, če je zavarovana terjatev plačana oz. je interes zastavnega upnika zavarovan na drug primeren način.
+Skladiščnico lahko izda samo skladiščnik, ki opravlja dejavnost skladiščenja kot registrirano dejavnost.
+
+Kot rečeno, je skladiščnica sestavljena iz pobotnice in zastavnice, ki se morata sklicevati ena na drugo. Prenašata
+se lahko z indosamentom, skupaj ali vsaka zase. Ne glede na to, da se prenaša z indosamentom, je skladiščnica
+imenski VP.
+
+
+
+
+OBVEZNICA
+Je pisna listina, s katero se izdajatelj zavezuje, da bo osebi, navedeni na njej, ali po njeni odredbi oziroma
+prinosniku obveznice izplačal določenega dne v obveznici naveden znesek oz. znesek anuitetnega kupona. Glede
+na delnico je predvsem pomembno, da je na obveznici zapisana obligacijska pravica (terjatev). Spada enako kot
+delnica med efekte in se z njo pogosto trguje preko borze VP. Gospodarski pomen je predvsem kreditni.
+
+Izdajatelj obveznice je lahko samo pravna oseba (predvsem gospodarske družbe). Vendar je tudi pomemben
+instrument javnega zadolževanja, zato so zelo pogosti izdajatelji tudi država in lokalne skupnosti.
+
+Obveznica se lahko glasi:
+   - na ime – prenos z indosamentom,
+   - na prinosnika – prenos z izročitvijo.
+
+Razlikujemo med:
+    - garantirane obveznice,
+    - negarantirane obveznice,
+    - navadne obrestovane obveznice,
+    - anuitetne obveznice
+    - obveznice z odlogom ali moratorijem.
+
+Posebne oblike pa so:
+
+    -    hipotekarne obveznice
+So obveznice, ki so krite z dolgoročnim, v zemljiško knjigo vpisanim posojilom. Denarna sredstva, ki jih
+pridobijo hipotekarne banke s prodajo obveznic, uporabijo za financiranje nepremičnin, posojila pa
+posojilojemalci zemljiško-pravno zavarujejo s hipoteko ali zemljiškim dolgom.
+
+    -    komunalne obveznice
+Temeljijo na zelo podobni pravni konstrukciji kot hipotekarne obveznice. Pri njih gre za to, da je hipotekarni
+kredit dan državi, lokalni skupnosti ali drugi pravni osebi javnega prava.
+
+    -    zamenljive obveznice
+So obveznice, ki poleg pravice do obresti in poplačila glavnice, dajejo tudi pravico do njihove zamenjave za
+delnice izdajatelja.
+
+    -    dividendne obveznice
+So obveznice, ki dajejo imetniku pravico do obresti in glavnice, hkrati pa tudi do določenega dela dobička
+družbe.
+    -    obveznice z opcijo
+So obveznice, ki imetniku poleg njegovih siceršnjih pravic iz obveznice, dajejo tudi pravico do pridobitve
+določenih VP izdajatelja, predvsem delnic, po določeni ceni in v določenem roku.
+
+
+
+
+DEMATERIALIZACIJA VP
+Je nadomestitev sedanjega papirnatega nosilca pravic z elektronskim nosilcem teh pravic. Nematerializirane VP
+so dolžni izdati izdajatelji serijskih VP, katerih prva prodaja je bila opravljena po postopku javne ponudbe v
+skladu z zakonom, ki ureja trg VP. To so dolžne storiti tudi banke, zavarovalnice, borzno posredniške družbe in
+družbe za upravljanje, in sicer za delnice ter ne glede na to, ali je bila njihova prva prodaja opravljena po
+postopku javne ponudbe.
+
+Za nematerializirane VP je torej bistveno, da se pravica namesto na listino vpiše na elektronski medij v
+centralnem registru nematerializiranih VP.
+
+Nematerializiran VP se lahko glasi na ime ali na prinosnika.
+20. SPLOŠNE ZNAČILNOSTI PRAVA DRUŽB
+
+
+20.1 UVOD
+
+
+Osnovni namen gospodarskih družb je opravljati določeno dejavnost in tako pridobivati dobiček na trgu. Sama
+izbira neposredne gospodarske oblike je v popolnosti prepuščena nosilcem kapitala. Gospodarske družbe bi tako
+lahko opredelili kot pravne in organizacijske oblike ter hkrati kot asociacije za koncentracijo kapitala. Pravo
+družb je uvrščeno v panogo civilnega prava.
+
+Družbam je v večini korporacijskih zakonodaj priznana pravna osebnost. S tem je družba nosilec pravic in
+obveznosti v pravnem prometu. Pri tem vsaka pravna oseba odgovarja za svoje obveznosti z vsem svojim
+premoženjem po načelu popolne odgovornosti. Osebne družbe odgovarjajo za prevzete obveznosti z vsem
+svojim premoženjem. Poleg osebne družbe odgovarjajo tudi družbeniki, v kolikor premoženje družbe ne zadošča
+za poplačilo vseh upnikov.
+
+Pri kapitalskih družbah je določeno isto načelo popolne odgovornosti družbe. Družbeniki ali delničarji pa za
+obveznosti družbe ne odgovarjajo, razen z vloženim kapitalom.
+
+Glede ustanavljanja gospodarskih družb ločujemo normativni in koncesijski sistem nastanka gospodarskih
+subjektov. V večini primerjalnih pravnih sistemov se je zakoreninil normativni sistem.
+
+
+
+
+20.2 OPREDELITEV IN RAZVRSTITEV GOSPODARSKIH DRUŽB
+
+Gospodarska družba ima naslednje značilnosti:
+   - je pravna oseba,
+   - njena dejavnost je pridobitna,
+   - organizira se v eni od zakonsko določenih pravno organizacijskih oblik.
+
+Gospodarska družba je torej pravna oseba, kar pomeni, da ima sposobnosti, značilne za pravne subjekte.
+Vendar je obseg njenih sposobnosti drugačen od sposobnosti npr. fizičnih oseb. Družbe kot pravne osebe so
+lahko:
+    - lastniki premičnin in nepremičnin,
+    - pridobivajo pravice in obveznosti,
+    - lahko tožijo ali so tožene.
+
+Gospodarska družba pridobi lastnost pravne osebe z vpisom v sodni register, ki na trgu samostojno opravlja
+gospodarsko dejavnost kot svojo izključno dejavnost.
+
+Gospodarska družba se organizira v eni izmed naslednjih oblik:
+   - kot osebna družba (družba z neomejeno odgovornostjo, komanditna družba, tiha družba, dvojna
+       družba),
+   - kot kapitalska družba (družba z omejeno odgovornostjo, delniška družba, komanditna delniška
+       družba in evropska delniška družba).
+
+Vse gospodarske družbe so torej pravne osebe po samem zakonu. Med gospodarske družbe uvršča tudi tiho
+družbo, čeprav tiha družba ni niti pravna oseba niti ni družba. Tiha družba namreč nastane s pogodbo med
+nosilcem tihe družbe, ki je lahko v kakršnokoli pravno organizacijski obliki in med tihim družbenikom.
+
+Gospodarska družba je korporacija pridobitnega namena, vendar se gospodarske družbe štejejo tudi tedaj, če v
+skladu z zakonom v celoti ali deloma opravljajo dejavnost, ki ni pridobitna.
+Naštevanje izhaja iz zaprtega, končnega (numerus clausus) pravnih oblik, v katerih se lahko gospodarske družbe
+organizirajo. To pomeni, da se morajo osebe, ki nameravajo opravljati pridobitno dejavnost, organizirati v eno
+izmed statusnih oblik, ki jih določa zakon.
+
+Vendar pa zakon poleg gospodarskih družb pozna še dve obliki opravljanja gospodarske dejavnosti:
+   - gospodarsko interesno združenje (neposredno ne opravlja pridobitne dejavnosti, temveč je
+        njegov namen olajšanje in pospeševanje opravljanja pridobitne dejavnosti članov združenja),
+   - samostojni podjetnik – posameznik.
+
+V gospodarsko interesno združenje se lahko povezujejo osebne ali kapitalske družbe. Cilj je olajšati in
+pospeševati pridobitno dejavnost svojih članov, izboljševati pridobitno dejavnost svojih članov, izboljševati in
+povečevati rezultate te dejavnosti, ne pa ustvarjati lastnega dobička, je torej nepridobitna organizacija. Je tudi
+zgolj združenje več fizičnih ali pravnih oseb in ne gospodarska družba, je pa pravna oseba in se vpisuje v sodni
+register.
+
+Samostojni podjetnik je fizična oseba, ki na trgu samostojno pridobitno dejavnost s svojo izključno dejavnostjo.
+Treba ga je razlikovati odd obrti, ki je način opravljanja določene dejavnosti, urejen s posebnimi predpisi.
+Samostojni podjetnik je fizična oseba, je posameznik in ni družba.
+
+
+
+
+20.3 STATUSNE ZNAČILNOSTI GOSPODARSKIH DRUŽB
+
+
+PRAVNA OSEBNOST GOSPODARSKIH DRUŽB
+Kot bistvo pravne osebnosti se štejejo naslednje:
+    - družbe kot pravne osebe so lahko lastnice premičnin in nepremičnin (nosilke lastninske pravice),
+    - družbe lahko pridobivajo pravice in prevzemajo obveznosti, sklepajo pravne posle (torej vstopajo v
+         pravni promet),
+    - družbe imajo pasivno in aktivno legitimacijo v pravdnem postopku (lahko tožijo ali so tožene).
+
+Gospodarska družba pridobi lastnost pravne osebe z vpisov v sodni register. Tako osebne kot kapitalske družbe
+so pravne osebe. Edina izjema je tiha družba. Tudi gospodarsko združenje je po zakonu pravna oseba, čeprav
+izrecno ne šteje kot posebna pravno organizacijska oblika oz. posebna vrsta družbe. Podjetnik posameznik prav
+tako nima samostojne pravne osebnosti. Bistvo pravne osebnosti je, da lahko družba nastopa v pravnih
+razmerjih s tretjimi kot samostojni nosilec pravic in obveznosti.
+
+Pravna osebnost ima za posledico tudi samostojno odgovornost za obveznosti s premoženjem družbe. Pri tem ni
+nobenega odstopanja pri katerikoli od družb. Pač pa so razlike, kar zadeva odgovornost za obveznosti, pri
+odgovornosti njihovih družbenikov za obveznosti družbe.
+
+Lastnost pravne osebe pridobijo z vpisov v sodni register. S tem trenutkom družba kot pravni subjekt tudi
+nastane. Če je kdo pred vpisom družbe v register nastopal v imenu družbe, odgovarja osebno z vsem svojim
+premoženjem.
+
+Spregled pravne osebnosti je izjema od pravila, da družbeniki v določenih primerih ne odgovarjajo za obveznosti
+družbe. Knjiga!!
+
+
+
+
+DEJAVNOST GOSPODARSKE DRUŽBE
+Družbe smejo kot dejavnost opravljati vse posle, razen tistih, ki se po zakonu ne smejo opravljati kot
+gospodarski posli. Z zakonom se lahko določi, da določene gospodarske posle lahko opravljajo:
+    - le družbe, določene z zakonom ali
+    - le določene vrste družb ali
+    - le druge organizacije.
+Družbe smejo opravljati gospodarske posle:
+    - le v okviru dejavnosti, ki je vpisana v register,
+    - tudi druge posle, ki so potrebni za njen obstoj in za opravljanje dejavnosti, ne pomenijo pa
+        neposrednega opravljanja dejavnosti.
+
+Pravni posli, s katerimi družba prekorači vpisano dejavnost v registru ali sicer dovoljene posle, so veljavni, razen
+če je tretja oseba vedela ali bi morala vedeti za prekoračitev, pri čemer navedba dejavnosti v registru še ne
+pomeni, da je tretja oseba vedela ali bi morala vedeti za prekoračitev. Če torej tretja oseba ni v dobri veru (ve, da
+družba posluje izven registrirane dejavnosti), takšni posli niso veljavni.
+
+Zakon izrecno prepoveduje, da bi družba začela opravljati dejavnost preden ni vpisana v register in preden ne
+izpolni z zakonom določenih pogojev.
+
+Glede na izbiro dejavnosti je dovoljeno vse, kar ni prepovedano oz. da je ustanovitelj oz. lastnik družbe v tem
+avtonomen. Dejavnost – izbor poslov, s katerimi se bo ukvarjala družba – določi ustanovitelj v ustanovitvenem
+aktu.
+
+
+
+
+FIRMA
+Firma je ime, s katerim družba posluje. Vsebovati mora oznako, ki nakazuje dejavnost družbe. Poleg tega so
+določene še dodatne obvezne sestavine firme za posamezne vrste družb. Tako imenovane dodatne sestavine so
+za osebne družbe fakultativne, za kapitalske družbe pa obvezne. Ne smejo biti take, da spravljajo ali utegnejo
+spraviti v zmoto glede vrste ali obsega poslovanja ali da bi utegnilo priti do zamenjave s firmo ali znakom
+razlikovanja druge osebe.
+
+Firma se mora torej jasno razlikovati od firm drugih družb, ne sme zavajati drugih udeležencev na trgu in ne sme
+posegati v druge pravice industrijske lastnine ter v kakršnekoli pravice, ki jih imajo druge osebe. Firma tudi ne
+sme vsebovati imen ali znakov tujih držav ali mednarodnih organizacij.
+
+Načela:
+   - načelo uporabe – obveznost,
+   - načelo uporabe slovenskega jezika,
+   - načelo izključnosti,
+   - načelo varstva – resničnost.
+
+
+Tožba se lahko vloži zoper:
+   - nameravane družbe,
+   - firme dvojne družbe,
+   - nepravilne uporabe firme.
+
+
+
+
+SEDEŽ
+Sedež je kraj, kjer družba posluje. Kot sedež se šteje kraj, ki je kot sedež vpisan v register. Za razliko od prejšnje
+ureditve, ko se je sedež štel kot sestavni del firme, je sedaj sedež samostojna in obvezna statusna sestavina.
+Družba v ustanovitvenem aktu določi, ali bo kot sedež določila:
+    - kraj, kjer opravlja dejavnost, ali ,
+    - kraj, kjer se v glavnem vodijo njeni posli, ali
+    - kraj, kjer deluje poslovodstvo družbe.
+
+Enote, v katerih se vodi poslovanje družbe in so izven kraja sedeža družbe, imajo lahko status podružnice.
+Podružnica je posebne vrste dislocirana enota, saj se vpiše v register, čeprav ni pravna oseba. Opravljati sme vse
+posle, ki jih sicer lahko opravlja družba.
+Sedež je pomemben tudi pri določanju splošne krajevne pristojnosti sodišč. Za sojenje v sporih pravne osebe je
+pristojno splošno krajevno sodišče, na območju katerega je njihov sedež.
+
+
+
+
+ZASTOPANJE
+Družbo zastopajo osebe, ki so določene z zakonom ali aktom o ustanovitvi družbe na podlagi zakona (zakoniti
+zastopnik).
+
+Pooblaščenec po OZ ne sme:
+    -   odsvojiti ali obremeniti nepremičnin,
+    -   ne sme prevzeti meničnih ali poroštvenih obveznosti,
+    -   ne sme skleniti posojilne ali kreditne pogodbe, ne sme se spustiti v spor ali skleniti arbitražnega
+        sporazuma in se tudi brez povračila odpovedati kakšni pravici, če ni dobil za vsak takšen posel posebno
+        pooblastilo.
+
+Prokura se lahko da z izrecno izjavo in po postopku določenem v aktu o ustanovitvi. Prokura se da lahko eni
+ali več osebam posamezno ali pa dvema ali več osebam skupno, tako da lahko le vse osebe skupaj zastopajo
+družbo. Lahko se da samo za podružnico. Zakonsko določeni obseg prokure daje pooblastilo za zastopanje pri
+vseh pravnih dejanjih, ki spadajo v pravno sposobnost družbe, razen za odstvajanje in obremenjevanje
+nepremičnin (posebna pooblastitev). Omejitev prokure nima pravnega učinka proti tretjim osebam.
+
+
+
+
+ODGOVORNOST ZA OBVEZNOSTI
+Pravne osebe odgovarjajo za svoje obveznosti z vsem svojim premoženjem. Poleg družb z vsem svojim
+premoženjem odgovarjajo še:
+    - podjetnik posameznik,
+    - podjetnik posameznik ali družba za obveznosti, ki so nastale iz poslovanja tihe družbe.
+
+Poleg primarne odgovornosti družb poznamo še sekundarno odgovornost družbenikov, kar pomeni, da
+prvenstveno za obveznosti odgovarja družba sama. Šele, če upniki terjatve ne morejo izterjati od družbe, so na
+vrsti osebno odgovorni družbeniki v:
+     - družbi z neomejeno odgovornostjo,
+     - komplementarji (so odgovorni) v komanditni družbi.
+
+Družbeniki, ki ne odgovarjajo za obveznosti družbe, so:
+    - delničarji v d.d.,
+    - družbeniki v d.o.o.,
+    - komanditisti (dajo kapital) v k.d. oz. k.d.d..
+
+
+
+
+POSLOVNA SKRIVNOST
+Poslovna skrivnost pomeni podatek, ki je po zakonu ali po volji nosilca v skladu znan le določenemu krogu ljudi.
+Pri tem ni pomembno, na kakšnem nosilcu se podatek nahaja, pisnem ali tonskem. Lahko se nahaja kot ideja v
+glavi posameznika:
+     - materializirana oblika,
+     - nematerializirana oblika.
+
+Podatek ne sme biti javnega značaja, temveč mora imeti zaupno naravo. Pomembna je njegova normativna
+določenosti. Namreč ni vsak podatek, ki je zaupne narave, poslovna skrivnost. To je le podatek, ki je po zakonski
+normi določen kot takšen ali ga je kot poslovno skrivnost označil njegov imetnik. Po vsebini se podatek lahko
+nanaša na katerokoli pomembno dejstvo o podjetju in njegovi dejavnosti, ki za podjetje predstavlja prednost za
+konkurenco.
+Vrste poslovnih skrivnosti (včasih):
+    - poslovna skrivnost (podatki o finančnem stanju, poslovnih razmerjih…),
+    - tovarniška skrivnost (podatki o proizvodnih procesih in načinu opravljanja storitev).
+
+Iz zapisanih definicij izhaja, da za opredelitev poslovne skrivnosti obstajata 2 kriterija:
+     - subjektiven (imetnik sam s svojo voljo določi podatek kot poslovno skrivnost),
+     - objektiven (zakonsko določen).
+
+
+
+
+KONKURENČNA PREPOVED
+Konkurenčna prepoved je uvedena s podobnim namenom kot varstvo poslovnih skrivnosti, torej z razlogom
+ohranjanja in zagotavljanja konkurenčnih prednosti posameznega gospodarskega subjekta na trgu. Krog oseb, ki
+so na podlagi zakona dolžni spoštovati konkurenčno prepoved, je ožji kot v primeru varstva poslovnih skrivnosti.
+Nanaša se na:
+    - družbenike v d.n.o.,
+    - komplementarje v k.d.,
+    - družbenike in poslovodje ali poslovodkinje v d.o.o.,
+    - člane uprave, upravnega odbora in nadzornega sveta v d.d. ter
+    - prokuriste.
+
+Vse nadaljnje širitve kroga oseb, ki jih konkurenčna prepoved zavezuje kot tudi trajanja konkurenčne prepovedi,
+se lahko določijo v aktu o ustanovitvi družbe.
+
+
+
+
+SODNI REGISTER
+Je javna knjiga, ki je na vpogled vsem zainteresiranim in vsebuje podatke o glavnih statusnih značilnostih in
+pomembnih dejstvih vpisanih subjektov. Vpis pomeni, da so izpolnjeni vsi pogoji za ustanovitev gospodarskega
+subjekta, gospodarske družbe z vpisom pridobijo status pravne osebe. Samostojni podjetnik se več ne vpisuje v
+sodni register, pač pa v Poslovni register Slovenije, ki se vodi pri AJPES.
+
+Načela registrskega prava:
+   - načelo obveznega vpisa,
+   - načelo javnosti,
+   - publicitetno načelo,
+   - načelo zaupanja,
+   - načelo ažurnosti.
+
+Vsak posamezni subjekt vpisa ima 2 dela:
+    - aktivnega (registrski listi, ki vsebujejo zadnje podatke vpisa),
+    - pasivnega (prejšnji registrski listi aktivnega dela).
+
+Poznamo več vpisov v sodni register:
+    - konstitutivni (dokončni) vpis – na podlagi tega nastane določena pravna posledica,
+    - deklaratorni (obvestilni) vpis – nanaša se na že nastalo pravno posledico in se vpiše zgolj zaradi
+       obvestila javnosti,
+    - pogojni (začasni) vpis – se vpiše, vendar še ne učinkuje, dokler se ne izpolni določena okoliščina.
+21. OSEBNE DRUŽBE
+
+
+21.1 SAMOSTOJNI PODJETNIK
+
+
+    -   je fizična oseba, ki na trgu samostojno opravlja pridobitno dejavnost v okviru organiziranega podjetja
+    -   firma podjetnika vsebuje poleg označbe dejavnosti in morebitnih dodatnih sestavin tudi ime in priimer
+        podjetnika, ter skrajšano označbo s.p.
+    -   dejavnost lahko začne opravljati, ko je pri AJPES vpisan v Poslovni register Slovenije
+    -   lahko ima podružnice, ki so krajevno ločene od sedeža obrata, vpisane pa morajo biti v PRS
+    -   prenehanje opravljanja dejavnosti se mora prijaviti vsaj 15 dni pred prenehanjem
+    -   vsaj 3 mesece pred prijavo prenehanja poslovanja, mora na primeren način objaviti, da bo prenehal
+        opravljati dejavnost ter ob tem navesti tudi dan prenehanja
+    -   AJPES po uradni dolžnosti izbriše podjetnik iz PRS, če se podjetnik statusno preoblikuje v kapitalsko
+        družbo, če podjetnik v dveh zaporednih poslovnih letih ne predložilo letnega poročila in še v drugih
+        primerih
+
+Podjetnik odgovarja za obveznosti iz poslovanja podjetja z vsem svojim premoženjem. Ločimo pa:
+
+    -   namembno premoženje, ki je namenjeno opravljanju dejavnosti, in
+    -   privatno premoženje, ki je za zasebne namene.
+
+
+
+
+21.2 DRUŽBA Z NEOMEJENO ODGOVORNOSTJO
+
+
+    -   ima status pravne osebe
+    -   je družba dveh ali več oseb, ki odgovarjajo za obveznosti družbe z vsem svojim premoženjem
+        (primarno odgovarja družba, subsidiarno pa tudi njeni družbeniki)
+    -   ima majhno število družbenikov, ki so lahko fizične ali pravne osebe
+    -   firma mora biti skupna, vsebovati mora ime in priimek vsaj enega družbenika z navedbo, da je
+        družbenikov več ter označbo d.n.o.
+
+
+USTANOVITEV
+   - ustanovi se s pogodbo, sklenjeno med vsaj dvema fizičnima ali pravnima osebama
+   - oblika pogodbe ni predpisana, mora pa biti v pisni obliki
+   - pogodba o ustanovitvi učinkuje takoj, ko je sklenjena, v razmerju do tretjih pa šele, ko je vpisana v
+     sodni register
+   - pogodba nastane s soglasjem volj in je pogodba civilnega obligacijskega prava
+   - prijavo za vpis družbe v sodni register morajo podati vsi družbeniki
+
+
+PRAVICE
+
+Pravica do nadomestila za izdatke:
+    -   družbenik ima pravico do nadomestila za izdatke, ki jih je imel ali če je utrpel izgubo, neposredno
+        povezano s poslovodenjem ali izgubo, ki izhaja iz nevarnosti, ki so s poslovodenjem povezane
+
+Pravica do dobička:
+    -   vsak družbenik družbe ima pravico do deleža pri dobičku družbe
+    -   od letnega dobička pripada družbeniku najprej delež v višini 5% njegovega kapitalskega deleža,
+        dobiček, ki presega ta znesek pa se deli po glavah (per capita) – vsakemu družbeniku v enaki višini,
+        prav tako je enako z izgubo
+    -   dobiček, ki pripada družbeniku, se pripiše k njegovemu kapitalskemu deležu, po določbah zakona se
+        torej ne izplačuje
+
+Pravica do dviga denarja:
+    -   vsak družbenik ima omejeno pravico do dviga denarja iz blagajne družbe (dvig je omejen na znesek 5%
+        kapitalskega deleža, ugotovljenega za zadnje poslovno leto
+
+Pravica do vodenja družbe:
+    -   vsak družbenik je upravičen voditi posle družbe, razen če je po družbeni pogodbi iz vodenja družbe
+        izključen,
+    -   pooblastilo za vodenje se mu lahko odvzame na predlog drugih družbenikov s sodno odločbo, če za to
+        obstaja pomemben razlog
+    -   če imajo pravico do vodenja vsi družbeniki ali več družbenikov, je vsak od njih upravičen opravljati
+        posle sam
+
+Pravica do informacij in medsebojnega nadzora:
+    -   tudi če je družbenik izključen iz poslovodenja, si lahko ogleda poslovne knjige, listine in dokumentacijo
+        ter si dela lastno bilanco
+
+
+OBVEZNOSTI DRUŽBENIKOV
+  - obveznost plačila vložkov
+  - dolžnost skrbnega ravnanja
+  - konkurenčna prepoved
+  - prepoved prenosa deleža
+  - prevzem izgube
+
+
+OBVEZNOSTI DRUŽBENIKOV
+  - za obveznosti družbe odgovarjajo upnikom vsi družbeniki
+  - upnik mora najprej zahtevati izpolnitev od družbe, šele nato od družbenikov
+  - če družba upniku na njegovo pisno zahtevo ne izpolni obveznosti, odgovarjajo vsi družbeniki solidarno
+     (z vsem svojim premoženjem, torej neomejeno)
+
+
+PRENEHANJE ČLANSTVA V DRUŽBI
+   - prostovoljno (odpoved ali prenos deleža)
+   - prisilno (izključitev družbenika, smrt ali prenehanje družbenika)
+
+
+PRENEHANJE DRUŽBE
+   - s potekom časa, za katerega je bila ustanovljena
+   - s sklepom družbenikov,
+   - z začetkom stečaja nad premoženjem družbe
+   - z družbenikovo smrtjo ali prenehanjem
+   - z odpovedjo
+   - na podlagi sodne odločbe
+   - če se število družbenikov zmanjša pod dva družbenika
+
+
+LIKVIDACIJA DRUŽBE
+   - opravijo jo kot likvidatorji vsi družbeniki, če družbena pogodba ne določa drugače
+   - pooblaščene likvidatorje morajo prijaviti za vpis v register vsi družbeniki in likvidatorji morajo
+      dokončati začete posle, izterjati terjatve, vnovčiti premoženje družbe in poplačati upnike
+   - ko se poplačajo upniki, se preostalo premoženje razdeli v sorazmerju s kapitalskimi deleži
+ZASTOPANJE DRUŽBE
+Zastopanje družbe je potrebno ločiti od vodenja. Pri zastopanju gre za prevzemanje pravic in obveznosti v
+pravnem prometu. Za zastopanje je pooblaščen vsak družbenik, razen če z družbeno pogodbo ni izključen iz
+zastopanja. V družbeni pogodbi je lahko določeno tudi, da so družbeniki pooblaščeni le za skupno zastopanje
+družbe.
+
+
+
+
+21.3 KOMANDITNA DRUŽBA
+
+
+    -    posebna vrsta družbe z neomejeno odgovornostjo (iz nje se je razvila)
+    -    v njej sta udeleženi dve vrsti družbenikov
+    -    je pravna oseba, primerna pravna oblika za mala in srednja podjetja
+
+
+Komplementarji = za obveznosti odgovarjajo upnikom družbe osebno in neomejeno ter imajo pravico in
+dolžnost voditi in zastopati družbo.
+
+Komanditisti = za obveznosti družbe odgovarjajo upnikom le do višine določenega premoženjskega vložka.
+Upnikom ne odgovarja za obveznosti družbe, če je družbi plačal komanditni vložek, določen v pogodbi. Dokler
+ga v celoti ne vplača, odgovarja upnikom do višine neplačanega zneska.
+
+Komplementarji so gospodarji družbe, komanditisti pa so njim, kot neomejeno odgovornim družbenikom
+podrejeni.
+
+
+USTANOVITEV
+   - ustanovi se z družbeno pogodbo, ki jo podpišeta vsaj 2 družbenika (vsaj 1 komplementar in vsaj 1
+     komanditist)
+   - družbo je potrebno prijaviti v sodni register
+
+
+PRENEHANJE KOMANDITNE DRUŽBE
+   - komanditistova smrt ne povzroči prenehanja družbe – na njegovo mesto stopijo njegovi dediči
+   - za kikvidacijo k.d. veljajo določbe o likvidaciji d.n.o.
+   - komanditist ima v postopku likvidacije načelno enake pravice in obveznosti kot komplementar
+
+
+
+
+21.4 TIHA DRUŽBA
+
+
+    -    nastane s pogodbo, na podlagi katere tihi družbenik s premoženjskim vložkom v podjetje koga drugega
+         (nosilec tihe družbe) pridobi pravico do udeležbe pri njegovem dobičku
+    -    nima lastnega premoženja in gre z notranjo družbo v nasprotju z zunanjo družbo, ki posluje s skupnim
+         imenom v pravnem prometu
+    -    tiha družba kot celota ne opravlja trgovinskih poslov, tihi družbenik je le udeležen na poslovanju
+         nekoga drugega in ta sam opravlja dejavnost
+    -    tiha družba ne vstopa v pravni promet, zato je nujen pogoj, da glavni družbenik opravlja gospodarsko
+         dejavnost
+
+Smisel tihe družbe je v tem, da je nekdo z vložkom v dejavnosti drugega udeležen:
+   - ne da bi bila taka udeležba navzven spoznavna,
+    -   ne da bi tihi družbenik neposredno odgovarjal upnikom podjetja,
+    -   ne da bi se tihi družbenik vmešaval v poslovodenje in ne da bi bil tihi družbenik udeležen v vrednotenju
+        firme in tihih rezervah
+
+Tihi družbenik se izpostavlja določeni stopnji rizika, saj njegov vložek preide v premoženje glavnega družbenika
+ter ta z njim ravna povsem samostojno.
+
+Od komanditista se tihi družbenik razlikuje po tem, da vlaga komanditist svoj vložek v družbo, tihi družbenik pa
+v podjetje nosilca tihe družbe, pri tem pa tiha družba nima svojega podjetja, temveč je to podjetje nosilca
+dejavnosti.
+22. KAPITALSKE DRUŽBE
+
+
+22.1 DELNIŠKA DRUŽBA
+
+
+    -   je gospodarska in kapitalska družba
+    -   osnovni kapital je razdeljen na delnice
+    -   je pravna oseba
+    -   ustanovitveni akt je statut družbe
+    -   delničarji osebno ne odgovarjajo za obveznosti d.d.
+
+Delničarji vplačajo svoje vložke (delnice) v osnovni kapital ter dobijo v zameno za vplačilo določene
+premoženjske in članske pravice.
+
+
+PREMOŽENJSKE PRAVICE DELNIČARJEV
+   - pravica do dela dobička (dividenda),
+   - pravica do ustreznega dela preostalega premoženja pri likvidaciji ali stečaju družbe,
+   - prednostna pravica do nakupa delnic novih emisij.
+
+
+ČLANSKE PRAVICE DELNIČARJEV
+   - udeležba na skupščini,
+   - aktivna in pasivna volilna pravica v organih družbe,
+   - pravica do nadzorstva nad poslovanjem družbe,
+   - pravica do informacij in
+   - pravica do izpodbijanja sklepov oziroma ukrepov organov družbe.
+
+
+DELNICA
+   - je alikvotni del osnovnega kapitala,
+   - je vrednosti papir (delniška listina) in
+   - je vsebina članskih in upravljalskih pravic v družbi (skupek članskih pravic).
+
+
+Navadne delnice dajejo imetnikom:
+    -   pravico do udeležbe pri upravljanju družbe,
+    -   pravico do dela dobička (dividenda),
+    -   pravico do izplačila ob likvidaciji družbe.
+
+Prednostne delnice zagotavljajo imetnikom določene prednostne pravice, npr.:
+    -   prednost pri izplačilu ustreznih zneskov ali odstotkov od nominalne vrednosti s primerjavi z imetnikom
+        navadne delnice,
+    -   prednost pri izplačilu ob likvidaciji družbe,
+    -   druge pravice določene s statutom.
+
+Prednostne so lahko:
+    - zbirne - komutativne (imetniku dajejo prednostno pravico do izplačila vseh še ne izplačanih dividend,
+        preden se imetnikom navadnih delnic izplačajo kakršnekoli dividende)
+    - udeležbene - participativne (imetniku dajejo poleg prednostne dividende še pravico do izplačil takih
+        dividend, kot pripadajo imetnikom navadnih delnic)
+    - kombinirane
+Nominalne delnice se morajo glasiti na najmanj 1 evro ali njegov večkratnik. Družbe z nominalnim
+zneskom delnic so tako prisiljene odpraviti nezaokrožene zneske delnic in posledično tudi osnovnega kapitala.
+
+Kosovne delnice (nenominalne) nimajo nominalnega zneska, vsaka kosovna delnica ima enak delež in
+pripadajoči znesek v osnovnem kapitalu. Za vsako delnico se lahko izračuna t.i. računska vrednost, če osnovni
+kapital delimo s številno izdanih kosovnih delnic.
+
+Lastne delnice so delnice, ki jih delniška družba kupi sama (le v zakonskih primerih) in od njih nima nobenih
+pravic. Praviloma jih družba ne sme pridobivati, saj d.d. ne more postati sama svoj delničar. Pridobivati jih sme
+le v izjemnih in v zakonu naštetih primerih, skupni nominalni znesek pa ne sme presegati 10% osnovnega
+kapitala.
+
+
+POSTOPEK USTANOVITVE DELNIŠKE DRUŽBE
+
+Sočasna (simultana) ustanovitev:
+    -    vsaj 1 ustanovitelj,
+    -    prevzamejo vse delnice,
+    -    sprejmejo in podpišejo STATUT,
+    -    skupščina imenuje prve člane nadzornega sveta, le-ta pa prve člane uprave,
+    -    ustanovitveni revizor,
+    -    vplačilo osnovnega kapitala (minimalno 25.000 eurov),
+    -    pisno poročilo,
+    -    vpis v register (objava),
+    -    izdaja delnic.
+
+Postopna (sukcesivna) ustanovitev:
+    -    vsaj 1 ustanovitelj,
+    -    sprejmejo STATU,
+    -    ustanovitelji vpišejo le del delnice (razlika med postopno in sočasno ustanovitvijo!!),
+    -    ustanovitveno poročilo,
+    -    objava prospekta (povabijo javnost k podpisovanju ostalih delnic),
+    -    underwriter,
+    -    vpis vseh delnic,
+    -    objava in sklic skupščine,
+    -    vpis v register (objava),
+    -    izdaja delnic
+
+Družba s postopno ustanovitvijo se ne ustanovi, če niso prodane vse delnice! Ustanovitelji lahko potem sami
+kupijo neprodane delnice in s tem rešijo sukcesivno ustanovitev.
+
+število delnic * nominalni znesek delnice = osnovni kapital
+število kosovnih delnic = osnovni kapital
+
+
+DOBIČEK DRUŽBE
+  - predstavlja običajno premoženje, ki ga družba ustvari s svojim poslovanjem
+  - poslovno leto vedno ne prinese dobička, ampak je lahko tudi izguba
+
+Ločimo:
+    - čisti dobiček in
+    - bilančni dobiček (dobijo ga delničarji)
+
+Čisti dobiček je potrebno uporabiti točno po določenem vrstnem redu:
+    -    za kritje prenesene izgube,
+    -    za oblikovanje zakonskih rezerv,
+    -    za oblikovanje rezerv za lastne deleže,
+    -    za oblikovanje statutarnih rezerv.
+ORGANI DELNIŠKE DRUŽBE
+
+Enotirni sistem:
+    -   skupščina in
+    -   upravni odbor (združuje vodenje in nadzor).
+
+Dvotirni sistem:
+    -   skupščina,
+    -   nadzorni svet (nadzor) in
+    -   uprava (vodenje in zastopanje).
+
+
+SKUPŠČINA
+   - je organ družbe, v katerem se oblikuje in izraža volja delničarjev tako, da le-ta postane volja delniške
+      družbe
+   - hierarhično je najvišji organ delniške družbe, saj prav v njej delničarji izvršujejo svoje pravice v
+      zadevah družbe
+
+Kadrovske odločitve:
+   - imenuje in odpokliče člane nadzornega sveta in upravnega odbora,
+   - odloča o podelitvi razrešnici članom organov vodenja ali nadzora,
+   - imenuje revizorja.
+
+Poslovne odločitve:
+    - sprejem letnega poročila, če to ne opravi nadzorni svet ali upravni odbor,
+    - odloča glede uporabe bilančnega dobička.
+
+Temeljne odločitve v družbi:
+   - sprejem in spremembe statuta,
+   - odločanje o zvišanju ali zmanjšanju osnovnega kapitala,
+   - sklenitev podjetniških pogodb,
+   - statusne spremembe,
+   - odločitev o prenehanju družbe.
+
+
+NADZORNI SVET
+  - imeti mora vsaj 3 člane,
+  - imenuje in odpokliče ga skupščina,
+  - nadzoruje vodenje poslov družbe (poročila)
+  - lahko skliče skupščino,
+
+
+UPRAVNI ODBOR
+   - sestavljajo ga najmanj 3 člani, izmed katerih člani izvolijo predsednika
+   - pristojen za vodenje družbe in nadzor izvajanja njenih poslov
+   - nadzoruje vodenje poslov družbe, kar je zelo pomembno, če je upravni odbor vodenje tekočih poslov
+     prenesel na izvršne direktorje
+   - od izvršnih direktorjev lahko kadarkoli zahteva kakršnekoli informacije, potrebne za nadzor
+   - sestaviti, preveriti in potrditi mora letno poročilo
+   - preveriti mora predlog o uporabi bilančnega dobička, ki ga pripravijo in predložijo izvršni direktorji
+   - zastopa in predstavlja družbo, razen če izmed svojih članov imenuje izvršne direktorje, potem je ta
+     naloga njihova
+
+
+IZVRŠNI DIREKTORJI
+   - upravni odbor mora imenovanje in obseg upravičenja za zastopanje izvršnega direktorja ter spremembo
+      teh podatkov prijaviti za vpis v register
+   - zastopajo in predstavljajo družbo
+    -   pri pripravljanju prenesenih nalog so dolžni upoštevati navodila in omejitve, ki so jim postavljena s
+        strani statuta, upravnega odbora, skupščine družbe in poslovnika o delu izvršnih direktorjev
+    -   vezani so na navodila upravnega odbora
+    -   upravni odbor jih lahko s sklepom kadarkoli odpokliče, medtem ko je upravo s strani nadzornega sveta
+        mogoče odpoklicati samo iz utemeljenih razlogov
+    -   če je imenovanih več izvršnih direktorjev, vodijo posle skupno, če statut ali poslovnih upravnega
+        odbora ne določa drugače
+
+
+UPRAVA
+   - lahko je individualna ali kolektivna (eno ali več članska), kar določi statut družbe
+   - imenuje jo nadzorni svet
+   - vodi in zastopa družbo
+
+
+
+
+22.2 DRUŽBA Z OMEJENO ODGOVORNOSTJO
+
+
+    -   je družba, katere osnovni kapital (najmanj 7.500 evrov) sestavljajo osnovni vložki družbenikov
+        (najmanj 50 evrov),
+    -   je pravna oseba, ki odgovarja za obveznosti z vsem svojim premoženjem, družbeniki za njene
+        obveznosti praviloma ne odgovarjajo
+
+
+USTANOVITEV
+   - ustanovi se z družbeno pogodbo, ki je lahko sklenjena v obliki notarskega zapisa ali na posebnem
+     obrazcu (2 osebi ali več); podpisati jo morajo vsi družbeniki
+   - ustanovi se z aktom o ustanovitvi družbe (1 oseba)
+   - kasneje se lahko družbena pogodba spremeni, pri čemer pa ni potrebno soglasje vseh družbenikov,
+     ampak tričetrtinska večina glasov vseh družbenikov
+   - ustanovi se lahko samo simultano oziroma sočasno
+   - ustanovitelji so lahko pravne ali fizične osebe (največ 50 oseb)
+   - nato plačajo osnovni kapital, ki mora znašati najmanj 7.500 evrov, razen če je z družbeno pogodbo
+     določeno več
+
+
+OSNOVNI VLOŽKI
+   - je alikvotni del osnovnega kapitala, enako kot pri d.d. delnica
+   - znašati mora najmanj 50 evrov in je lahko zagotovljen v denarju, kot stvarni vložek ali kot stvarni
+     prevzem
+   - d.o.o. se lahko v celoti ustanovi s stvarnimi vložki
+
+
+ORGANI DRUŽBE
+  - ima fleksibilnejšo organizacijsko strukturo kot d.d.
+  - skupščina in en ali več poslovodij, ki vodijo posle in zastopajo družbo
+  - nadzorni svet ni obvezen (imeti pa mora vsaj 3 osebi, in sicer fizične)
+  - poleg obveznih organov ima lahko tudi fakultativne, kot so upravni odbor, različni sveti ali odbori
+     družbenik ali pa celo družinski sveti
+PRAVICE IN OBVEZNOSTI DRUŽBENIKOV
+PREMOŽENJSKE PRAVICE družbenikov so naslednje:
+   - pravica do udeležbe pri delitvi dobička,
+   - pravica do dedovanja poslovnega deleža,
+   - prednostna pravica pri povečanju osnovnega kapitala z vložki.
+
+Med UPRAVLJALSKE PRAVICE pa spadajo:
+    - pravica do udeležbe na skupščini družbenikov in pravica do glasovanja,
+    - pravica do informacij in vpogleda,
+    - pravica do izpodbijanja sklepov družbenikov,
+    - actio pro sacio,
+    - pravica do tožbe zaradi prenehanja družbe.
+    -
+V našem pravu pa sta zakonsko urejeni tudi pravica do izstopa iz družbe in pravica zahtevati izključitev drugega
+družbenika iz družbe.
+
+STRANSKE OBVEZNOSTI so lahko ustanovljene v breme posameznih ali vseh družbenikov. Lahko so
+odplačne ali neodplačne, lahko se pojavijo tudi kot obveznost opustitve. Zelo pogoste so finančne stranske
+obveznosti, na primer obveznost dati družbi posojilo, prevzeti kakšen dolg družbe ali pa ji celo pokriti nastalo
+izgubo. Stranske obveznosti morajo biti predvidene z družbeno pogodbo.
+
+POSEBNE PRAVICE dajejo družbeniku določeno prednostno upravičenje pred ostalimi družbeniki. S
+premoženjsko-pravnega vidika je to predvsem pravica do prednostne dividende ali do nakupa proizvodov ali
+oprave storitev družbe po ugodnejši ceni, pravica dati soglasje k odsvojitvi poslovnega deleža drugega
+družbenika, pravica do pridobitve poslovnega deleža drugega družbenika ali pa pravica do prednostne pridobitve
+novega poslovnega deleža v postopku povečanja osnovnega kapitala. Med soupravljalskimi posebnimi pravicami
+je treba omeniti zlasti pravico do močnejše glasovalne pravice, pravico do veta, pravico do soglasja na sklepe
+družbenikov. Sem spadata tudi pravica dajati poslovodji obvezujoča navodila in pravica do članstva v
+nadzornem svetu ali kakšnem drugem organu družbe. Pomembni pa sta tudi pravica do opravljanja funkcije
+poslovodje in pravica določenega družbenika, da imenuje poslovodjo.
+Posebne pravice se lahko ustanovijo samo z družbeno pogodbo.
+
+
+PRAVICA DO INFORMACIJ IN VPOGLEDA
+Poslovodja mora družbenika na njegovo zahtevo nemudoma obvestiti o zadevah družbe ter mu dovoliti vpogled
+v knjige in spise.
+Družbenik lahko zahteva informacije o zadevah družbe tudi izven skupščine in tudi ne glede na to, ali so mu
+potrebne za presojo predmeta dnevnega reda. Zraven tega lahko družbenik d.o.o. tudi kadarkoli vpogleda v
+poslovno dokumentacijo družbe, kar delničar praviloma ne more.
+
+Kljub temu sme poslovodja zavrniti družbenikovo zahtevo po informacijah ali vpogledu, če je verjetno, da bi jih
+družbenik uporabil za namen, ki je v nasprotju z interesi družbe in bi s tem družbi prizadel občutno škodo. O
+odklonitvi zahteve po informaciji ali vpogledu dokončno odločajo družbeniki.
+
+
+IZSTOP IN IZKLJUČITEV IZ DRUŽBE
+Družbena pogodba lahko določi, da sme družbenik iz družbe izstopiti ali da je lahko izključen iz družbe, ter
+določi pogoje, postopek in posledice izstopa ali izključitve. Ne glede na družbeno pogodbo sme družbenik s
+tožbo zahtevati svoj izstop ali izključitev drugega družbenika, če obstajajo za to utemeljeni razlogi. Če družbenik
+uveljavlja izstop na podlagi družbene pogodbe, se to označuje kot pogodbeni izstop.
+Enako kot izstop se tudi izključitev družbenika iz družbe deli na pogodbeno ali sodno. Vendar pa pri pogodbeni
+izključitvi ne bi bilo dopustno, če bi družbena pogodba možnost izključitev le omogočila, ne bi pa določila za to
+nobenih razlogov.
+23. PRENEHANJE DRUŽB, PRISILNA PORAVNAVA, STEČAJ IN LIKVIDACIJA
+
+
+RAZLOGI ZA PRENEHANJE
+   - pretek časa, za katerega je bila družba ustanovljena
+   - sklep skupščine
+   - če poslovodstvo ne deluje več kot 12 mesecev
+   - če sodišče ugotovi ničnost kapitalske družbe
+   - stečaj
+   - sodna odločba
+   - združitev v kakšno drugo družbo
+   - če se OK zmanjša pod najnižji dovoljeni znesek
+
+
+LIKVIDACIJSKI POSTOPEK
+
+Redna likvidacija = družba preneha takrat, ko sklep o prenehanju sprejmejo družbeniki v skladu z zakonom
+ali statutom
+
+Prisilna likvidacija = sklep o prenehanju sprejme sodišče, če so podani z zakonom določeni razlogi, in
+sicer, če sodišče ugotovi ničnost kapitalske družbe, če poslovodstvo deluje več kot 12 mesecev ali če se osnovni
+kapital zmanjša pod najnižji dovoljeni znesek
+
+Za sprejem sklepa je pristojna skupščina. Sklep o likvidaciji se vpiše v sodni register, postopek se opravi po
+vpisu.
+
+
+PRENEHANJE PO SKRAJŠANEM POSTOPKU
+   - gre za to, da se izbris družbe iz sodnega registra opravi brez izvedbe likvidacijskega postopka
+   - predpostavka za prenehanje po tem postopku je, da družba nima upnikov oziroma nerazrešenih pravnih
+     razmerij s poslovnih parterji in delavci
+
+
+STEČAJNI POSTOPEK
+   - kadar je premoženje družbe manjše od vsote njenih obveznosti
+   - opravi se nad dolžnikom, ki je dalj časa plačilno nesposoben ali prezadolžen
+   - stečajni postopek se ne opravi, če ima dolžnik samo enega upnika
+   - organi stečajnega postopka so stečajni senat, stečajni upravitelj in upniški odbor
+
+
+PRISILNA PORAVNAVA
+   - je poseben sodni postopek, katerega namen je odprava stečajnega razloga, torej dalj časa trajajoče
+      kratkoročne plačilne nesposobnosti in prezadolženosti
+   - dolžniku, pri katerem obstaja stečajni razlog, je na tak način omogočeno, da se temu izogne
+   - prisilna poravnava se lahko predlaga pred ali med stečajni postopkom
+
+
+IZBRIS PO URADNI DOLŽNOSTI
+   - če družba v dveh zaporednih poslovnih letih ni predložila letnega poročila
+   - če nima premoženja, pri čemer se šteje, da družba nima premoženja, če neprekinjeno v obdobju 12
+       mesecev ne opravlja izplačil preko računa pri organizaciji za plačilni promet
+   - če nastopi razlog, ki ga za izbris gospodarske družbe brez likvidacije določa drug zakon
+

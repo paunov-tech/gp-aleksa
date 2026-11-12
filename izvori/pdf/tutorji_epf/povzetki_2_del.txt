@@ -1,0 +1,804 @@
+GOSPODARSKO PRAVO II. del
+
+Kako delimo VP po vsebini pravic?
+VP razvrščamo po vsebini pravic na:
+- Stvarno pravni VP so tisti, v katerih je utelešena določena stvarna pravica in predstavljajo stvar ali
+  blago samo. Upravičenec nima samo pravico zahtevati izročitev stvari, marveč lahko z izročitvijo
+  listine novemu upravičencu nanj prenese tudi stvarno pravico na blagu oz. stvari (nakladnica,
+  skladiščnica, konosament).
+- Obveznostno pravni VP vsebujejo določeno obvezno pravico oz. upnikovo terjatev za denar ali za
+  kakšno drugo storitev (menica, ček, obveznica, certifikat, blagajniški zapisi).
+- Članski/korporacijski VP pa vsebujejo krog članskih pravic v določeni pojavni obliki kapitalskih
+  družb. Med članskimi VP je najpomembnejša delnica, ki delničarju daje pravico članstva v določeni
+  družbi, pravico do udeležbe na doseženem dobičku, pravico do dividende, pravico do upravljanja
+  d.d., katere delnice ima.
+
+Kako delimo VP glede na upravičence!
+- imenski VP – upnik se določi po imenu; ti se prenašajo s cesijo ali z odstopno terjatvijo –
+  upravičenec je tu izrecno naveden z njegovim imenom ali firmo:
+  - rekta VP – prenašajo se lahko le s cesijo ali odstopom;
+  - odredbeni/orderski VP – glasijo se po odredbi določene osebe, ti se prenašajo z indosamentom,
+    ta pa je lahko popoln, blanko ali na prinosnika, npr.: ček, menica, nakladnica, skladiščnica,…
+- prinosniški/imetniški VP – v njih upnikovo ime ni navedeno, pravico lahko uveljavi vsak imetnik
+  takega VP. Pravica iz VP na prinosnika se prenaša z njegovo izročitvijo, npr.: obveznica.
+
+Kako se določi zapadlost pri menici?
+Zapadlost oz. dospelost menice v plačilu mora biti natančno določena. Zapadlost pomeni, kdaj je
+potrebno menico plačati. Po zapadlosti ločimo:
+- menica dnevnica – dospelost je določena na točno določen dan. (npr. 2. 10. 2000)
+- menica oddnevnica – čas njene dospelosti je določen po preteku določenega časa od dneva izdaje
+  te menice. Določi se z besedami npr. »mesec po izdaji«.
+- menica vpoglednica – menica na vpogled – dospelost je določena z besedami »plačajte ob
+  vpogledu« ali »plačajte ob predložitvi«. Za to vrsto menice je značilno, da dospe v plačilo, ko jo njen
+  imetnik predloži akceptantu (dolžniku).
+- menica povpoglednica – je menica, ki dospe določen čas po vpogledu. Čas dospetja se pri tej menici
+  računa od dneva sprejema ali akcepta oz. po dnevu protesta. (npr. sedem mesecev po vpogledu).
+
+Kako se menica prenaša?
+Menica se prenaša na 3 načine:
+- S cesijo prenašamo predvsem menice, pri katerih je bilo indosiranje prepovedano že ob njihovi
+  izdaji (rekta menica). Indosiranje menice pa lahko z rekta indosamentom prepove tudi indosant.
+- Kadar pa imetnik pridobi menico z blanko indosamentom ali indosamentom na prinesitelja, se
+  zatem menica lahko prenaša z izročitvijo.
+- Menico največkrat prenašamo z indosamentom. Indosament je pisna izjava, s katero imetnik
+  menice prenese vse svoje pravice iz menice na drugo osebo. Oseba, ki pravice iz menice prenese na
+  drugega se im. indosant. Oseba, ki z indosamentom pridobi pravice iz menice pa je indosatar.
+  Indosament se praviloma napiše na hrbtno stran menice ali na njen podaljšek, indosant pa ga mora
+  tudi podpisati. Indosament je največkrat uveden z besedno zvezo: »namesto meni (nam) plačajte
+  po odredbi«. Indosament mora biti nepogojen.
+
+Kako se menica unovči?
+Menica je predložna listina, kar pomeni, da mora dolžnik izpolniti svojo obveznost iz menice šele
+takrat, ko mu upravičeni imetnik menice (upnik) menico predloži, najprej v akcept in potem ob
+dospelosti tudi v plačilo. Predložitev menice v plačilo pa se mora opraviti: na določen dan, določen
+čas po dnevu izdaje ali po dnevu vpogleda. Ko trasat menico plača, sme od imetnika zahtevati, naj mu
+menico izroči hkrati s potrdilom, da je plačana. Imetnik menice tudi ne sme zavrniti delnega plačila.
+Ob delnem plačilu trasat lahko zahteva, da se to plačilo zaznamuje na menici in da se mu o njem izda
+pobotnica. Če se menica ne plača je potrebno, da upnik protestira.
+
+Kakšen VP je delnica?
+Delnice so VP, pisne listine na katerih sta zapisani obveznost izdajatelja in pravica upravičenca in so
+lahko predmet pravnega prometa. Pravice iz VP nastanejo, se prenašajo, se uveljavljajo in prenehajo
+s papirjem. Na tej okoliščini temelji t.i. prezentacijska in cirkulacijska funkcija delnice kot VP. Delnica
+zagotavlja pravico do upravljanja oz. nadzorstva v d.d. Hkrati delnica vsebuje pravice do udeležbe pri
+dobičku d.d. ter do udeležbe pri t.i. likvidacijski masi ob prenehanju d.d., vendar po poplačilu
+upnikov.
+Prezentacijska funkcija delnic se izraža predvsem v obveznosti, da se delničar izkaže pred
+zasedanjem skupščine oz. da se prijavi oz. deponira delnice na predpisanem mestu in da je to pogoj
+za vpis na seznam udeležencev, ki imajo glasovalno pravico.
+S cirkulativnostjo delnic se prenašajo pravice, ki iz nje izhajajo, torej tako članske oz. korporacijske
+kot tudi materialne. Vsakokratni upravičenec iz delnice pridobi z delnico kot papirjem tako pravico do
+upravljanja kot tudi z njo povezane materialne pravice.
+Z vidika ureditve upravljanja d.d. je pomembna razvrstitev na navadne in prednostne delnice.
+Navadne (redne), ki dajejo imetnikom:
+- pravico do udeležbe pri upravljanju družbe,
+- pravico do dela dobička (dividenda),
+- pravico do izplačila ob likvidaciji družbe.
+Prednostne, ki zagotavljajo imetnikom določene prednostne pravice:
+- prednost pri izplačilu ustreznih zneskov ali odstotkov od nominalne vrednosti v primerjavi z
+  imetnikom navadne delnice,
+- prednost pri izplačilu ob likvidaciji družbe,
+- druge pravice, določene s statutom.
+Prednostne pa delimo še na:
+- zbirne (kumulativne) prednostne delnice dajejo imetniku prednostno pravico do izplačila vseh še
+  ne izplačanih dividend, preden se imetnikom navadnih delnic izplačajo kakršne koli dividende.
+- udeležbene (participativne) prednostne delnice dajejo imetniku poleg prednostne dividende še
+  pravico do izplačila takih dividend, kot pripadajo imetnikom navadnih delnic.
+Sestavine delnice:
+- označbo, da je delnica in označbo vrste ter razreda delnice,
+- firmo in sedež izdajatelja delnice,
+- firmo oz. osebno ime kupca delnice (pri imenskih delnicah) oz. označbo, da se delnica glasi na
+  prinosnika (prinosniške delnice),
+- skupno vrednost celotne izdaje delnice,
+- nominalno vrednost delnice,
+- roke za izplačilo dividende,
+- kraj, datum izdaje in serijsko številko delnice ter faksimile podpisov pooblaščenih oseb izdajatelja
+  delnice.
+Delnica je sestavljena iz 3 delov:
+- plašča, v katerem so označene vse sestavine delnice,
+- kuponske pole za izplačilo dividend; posamezni kupon mora vsebovati te sestavine:
+  - zaporedno številko kupona za izplačilo dividende,
+  - številko delnice, na podlagi katere se izplačujejo dividende,
+  - ime izdajatelja delnice,
+  - leto, v katerem se dividenda izplačuje,
+  - faksimile podpisov pooblaščenih oseb izdajatelja delnice,
+- talona, s katerim imetnik delnice uveljavlja pravico do nove kuponske pole.
+
+Kakšen VP je obveznica?
+Obveznica je pisna listina, s katero se izdajatelj zavezuje, da bo osebi, navedeni na njej, ali po njeni
+odredbi oz. prinosniku obveznice izplačal določenega dne v obveznici navedeni znesek. Po vsebini
+pravic ločimo navadne in participativne obveznice. Participativna obveznica daje imetniku poleg
+obresti tudi pravico do udeležbe pri dobičku izdajatelja obveznice. Z vidika garancije za izplačilo
+obveznosti iz izdane obveznice pa ločimo garantirane in negarantirane obveznice. Obvezne sestavine
+obveznice so:
+- oznaka, da je obveznica,
+- firma oz. ime in sedež izdajatelja obveznice,
+- firma oz. ime kupca obveznice ali oznaka, da se obveznica glasi na prinosnika,
+- denarni znesek, na katerega se glasi obveznica,
+- višina obrestne mere, če je predvideno plačilo obresti,
+- odstotek udeležbe pri dobičku, če je predvidena,
+- roki za odplačilo glavnice in obresti,
+- kraj in datum izdaje ter serijska in kontrolna številka obveznice,
+- faksimile podpisa pooblaščenih oseb izdajatelja obveznice
+- pravice iz obveznice.
+Konvertibilne obveznice so tiste, ki jih je mogoče zamenjati za delnice. Participativne obveznice so
+tiste, ki dajejo imetniku poleg obresti tudi pravico do udeležbe pri dobičku izdajatelja obveznice.
+
+Katera načela meničnega prava poznaš?
+- načelo obličnosti (formalnosti) zahteva, da je menica izdana v pisni obliki.
+- načelo inkorporacije zahteva, da so menične izjave in menica celota.
+- načelo fiksne menične obveznosti pomeni, da je menična obv. samo to, kar je v menici nedvoumno
+         zapisano.
+- načelo menične strogosti ima materialnopravni (se kaže v tem, da je menica neodvisna od
+  pravnega posla na podlagi katerega je nastala) in formalnopravni vidik (se kaže predvsem v vsebini
+  številnih dejanj, ki jih je treba opraviti v določenih rokih)
+- načelo menične solidarnosti pomeni, da so vsi menični zavezanci solidarno odgovorni imetniku
+  menice.
+
+Katere oblike indosamentov poznaš?
+- Popolni indosament je tisti, ki vsebuje ime indosatarja in jasno oblikovano določilo o prenosu in
+  indosamentov podpis,
+- Nepopolni (neizpolnjen, blanko) indosament v katerem ni napisano indosatarjevo ime in obsega le
+  indosantov podpis na hrbtni strani menice ali na alonži (podaljšku).
+- Indosament na prinosilca ima enak pravni učinek kot nepopolni indosament. Spoznamo ga po tem,
+  ker nima označenega indosatarjevega imena temveč ima namesto tega določilo »plačajte
+  prinosilcu«.
+- Z rekta indosamentom se prepoveduje nadaljnji prenos menice z indosamentom. Klavzula »ne po
+  odredbi« (rekta klavzula), ki jo zapišemo v besedilo indosamenta, učinkuje tako, da menice ne
+  moremo več prenašati z indosamentom, ampak le s cesijo.
+
+Kdaj postane remitent regresni dolžnik?
+Remitent postane regresni dolžnik takrat, ko prenese menico naprej z indosamentom in postane
+indosant.
+
+Pojasni pomen popoln VP?
+Pravica je utelešena v VP. Pravica nastane hkrati z VP, se prenaša s papirjem in preneha hkrati s
+papirjem. VP sam predstavlja pravico. Brez papirja ne moremo uveljavljati pravice, ki jo je vseboval
+VP. Popolni VP so: ček, menica, delnica, obveznica. Popoln VP je tisti, s katerim je pravica tako
+povezana, da brez te listine ne obstaja, ne nastane in ne preneha. Če ga izgubimo, je pri imenskih VP
+predvidena amortizacija.
+
+Pojasni pomen preklica čeka!
+Preklic čeka je posebnost čekovnega prava, npr. pri menici ni preklica. Izdajatelj čeka ima možnost že
+izdani ček preklicati. Trasant ima pravico preklicati ček šele po preteku predložitvenega roka, torej
+tedaj ko preteče rok za predložitev čeka v plačilo. Pred potekom roka pa se ček lahko prekliče le ob
+izpolnitvi dveh pogojev:
+- da gre za ček, ki se glasi na ime ali po odredbi in ki ga trasant pošlje neposredno trasatu z
+  naročilom, naj ga poravna osebi, navedeni v čeku,
+- če preklic prispe k trasatu še pred izplačilom v čeku določene vsote denarja.
+Če ček ni preklican, je trasat dolžan plačati ček tudi potem, ko je sicer že pretekel rok za predložitev
+čeka.
+
+Pojem in pogoji za regres pri menici!
+Namen regresa je, da bo tedaj, če bi glavni menični dolžnik upniku ne plačal menične vsote, storil to
+eden izmed regresnih dolžnikov. Imetniku menice solidarno odgovarjajo vsi tisti, ki so menico
+trasirali, akceptirali, indosirali ali avalirali. Regresni zavezanci (dolžniki) so predvsem trasant,
+indosant, avalist,… akceptanta ne štejemo med regresne dolžnike, saj je glavni menični dolžnik.
+Imetnik menice ima pravico do regresnega zahtevka zoper trasanta, indosanta in druge ob dospelosti
+menice - ima pravico do regresa, če menica ni bila plačana deloma ali v celoti in tudi pred dospelostjo
+menice ima imetnik pravico regresa v 3 primerih:
+- če je bil akcept menice zavrnjen popolnoma ali deloma,
+- če je bi pred ali po akceptu uveden stečaj oz. redna likvidacija nad premoženjem trasata, ali če je
+  trasat ustavil plačila, čeprav ustavitev plačila ni bila ugotovljena s sodno odločbo, ali pa če je bila
+  izvršba nad njegovim premoženjem brezuspešna,
+- če je bil uveden stečaj oz. postopek redne likvidacije nad premoženjem trasanta tiste menice,
+  katere se zaradi akceptiranja ne sme predložiti.
+
+Pomen akcepta pri menici!
+Akcept je menično dejanje oz. sprejem ali priznanje menične obveznosti, ki ga praviloma opravi
+trasat. Akcept se napiše na menico, izrazi pa se lahko na različne načine:
+- z besedo »priznam«, »sprejeto«, ali kakšna druga podobna beseda,
+- že sam trasatov podpis na licu menice lahko velja za akcept.
+Z akceptom postane trasat glavni menični dolžnik in zanj nastane menična obveznost. Z akceptom se
+trasat namreč zavezuje, da bo menico plačal ob dospelosti. Akcept mora biti nepogojen, vendar ga
+lahko trasat omeji na del menične vsote. Po obsegu oz. vsebini obveznosti, ki jo trasat kot akceptant
+prevzame z njim, razlikujemo:
+- popolni akcept: trasat se kot akceptant zavezuje, da bo plačal celotno vsoto
+- delni akcept: akceptant se zavezuje le za plačilo dela menične vsote.
+
+Pomen amortizacije pri menici!
+Amortizacija menice je, da lahko tisti, ki je menico izgubil, ali pa mu je bila uničena oz. ukradena, za
+ohranitev pravic iz menice sproži uvedbo posebnega sodnega postopka v katerem se menica
+razveljavi. Imetnik take menice sodišču predlaga naj uvede amortizacijski postopek. Sodišče zatem
+izda razglas, v katerem z navedbo glavne vsebine izgubljene menice pozove tistega, ki jo je našel oz.
+tistega, ki jo ima naj jo predloži sodišču v 60 dneh, ker jo sicer sodišče razglasi za nično. Razglas objavi
+v Uradnem listu RS. Na podlagi amortizirane menice ni mogoče več uveljaviti nobene menične
+pravice. Predlagatelj amortizacije mora napraviti protest, da ohrani regres zoper trasanta
+neakceptirane menice ter pri tem predloži glavno vsebino izgubljene ali uničene menice.
+
+
+
+Pomen avala pri menici!
+Aval je menično poroštvo. Avalist (menični porok) je oseba, ki se podpiše na licu ali na hrbtni strani
+menice in tako postane porok za izpolnitev obveznosti. Aval je solidarno poroštvo. Aval se lahko da za
+kateregakoli meničnega dolžnika. Avalist ne more biti glavni menični dolžnik, lahko je tretja oseba, ki
+menice še ni podpisala.
+
+Pomen notifikacije in kaj je!
+Če je trasat zavrnil akcept menice oz. če je glavni menični dolžnik zavrnil njeno plačilo in je bil zato
+napravljen protest, mora imetnik menice o tem obvestiti svojega indosanta in trasanta v najmanj 4
+dneh po dnevu protesta. To im. obvestilo ali notifikacija. Temeljni namen tega meničnega dejanja za
+varstvo pravic iz menice je, da so predniki pripravljeni na regres in da lahko storijo vse potrebno za
+plačilo menice in tako preprečijo morebitne nadaljnje stroške.
+Pomen protesta pri menici!
+Protest je javna listina, ki jo izstavi notar. S to listino se potrdi, da menica ni plačana. Protest je nujen,
+če želi upnik ohranit regresno pravico. Z menico se potrdi, da menični zavezanec:
+- ni sprejel ali ni v celoti sprejel menice,
+- ni plačal menice v celoti ali pa je sploh ni plačal,
+- da ni bil akcept datiran,
+- da se ni ugodilo trasatovi zahtevi.
+Protest mora obsegati:
+- prepis protestirane menice, kakor tudi vseh izjav oz. pripomb na njih,
+- ime ali firmo osebe, na katere zahtevo in zoper katere se napravi protest,
+- potrdilo, da iskana oseba ni opravila storitve, ki se na podlagi menice zahteva od nje, ali da je
+  protestni organ ni mogel najti v njeni poslovalnici ali stanovanju,
+- kraj, dan, mesec, leto in uro, ko je bil in prostor, kjer je bil opravljen protestni postopek,
+- datum protesta, številko, pod katero je vpisan v protestni register, uradni podpis in pečat
+  protestnega organa.
+
+Pomen in funkcije indosamenta!
+Indosament je pisna izjava, s katero imetnik menice prenese vse svoje pravice iz menice na drugo
+osebo. Oseba, ki pravice iz menice prenese na drugega je indosant. Oseba, ki z indosantom pridobi
+pravice iz menice pa je indosatar. Funkcije indosamenta so 3:
+- prenosna funkcija je najpomembnejša funkcija indosamenta, saj omogoča, da se menica prenaša
+  od enega upnika na drugega (cirkulacija);
+- legitimacijska funkcija; indosatar velja za zakonitega imetnika menice in je tako pravno upravičen
+  do uveljavljanja meničnih zahtevkov le tisti imetnik menice, ki lahko dokaže svojo pravico z
+  nepretrgano vrsto indosamentov;
+- garancijska funkcija; kaže se v tem, da je indosant odgovoren za akcept in plačilo menice razen če v
+  indosamentu ni drugače določeno. Indosant sme prepovedati, da se menica indosira naprej.
+
+Razlika med akceptantom in avalistom!
+Akceptant postane največkrat trasat s tem, ko sprejme poziv na plačilo menice in to pismeno potrdi,
+npr. »sprejmem«. Avalist (menični porok) je tisti, ki se podpiše na licu ali na hrbtni strani menice in
+tako postane porok za izpolnitev obveznosti iz menice.
+
+Razlika med čekom in menico!
+Bistvena razlika med menico in čekom je v kritju, ki ga mora imeti izdajatelj čeka pri izdaji čeka, pri
+menici pa mora biti kritje dano pri plačilu, ne pa pri izdaji menice. Kritje je lahko v denarju, kreditu ali
+pa v denarnih terjatvah, ki jih ima trasant na računu pri banki oz. trasatu. Ček je veljaven, četudi nima
+kritja, ker je enostranski pravni posel.
+Temeljna razlika med menico in čekom pa je tudi v tem, da menica rabi predvsem kot kreditni papir,
+kot kreditno sredstvo. Funkcija čeka pa je v tem, da se ta VP uporablja predvsem kot plačilno
+sredstvo. Ena izmed temeljnih posebnosti čeka je, da je pri čeku, plačljivem v državi, trasat lahko
+samo banka, kot tudi to, da lahko banka plača ček samo iz trasantovega dobroimetja, ki ga ima ta pri
+njej. Zato pri čeku ni akcepta in banka – trasat ne sme biti avalist. Na ček ne smemo zapisati obrestne
+klavzule. Pri menici je trasant obenem lahko tudi trasant ali remitent. Pri imetniškem čeku pa je to
+prepovedano, saj bi tak ček sicer imel funkcijo bankovca.
+
+Razlika med delnico in obveznico!
+Delnica in obveznica sta VP. Razlika med njima pa je naslednja:
+- pri obveznici se izdajatelj obveže, da bo po določenem času izplačal glavnico in v naprej
+  dogovorjene obresti, torej je imetnik obveznice upnik izdajatelja obveznice;
+- delničar ni upnik – d.d. mu ne vrne tega kar je vplačal in tudi ne obresti. Pravico ima le do dividend.
+
+Razlika med indosantom in indosatarjem!
+Indosant je oseba, ki je prenesla menico z indosamentom na neko drugo osebo. Indosatar (upnik) je
+oseba, v korist katere je indosant prenesel menico.
+Razlika med lastno in trasirano menico!
+Razlika je le v tem, da med bistvenimi sestavinami lastne menice zaradi njene narave in razlike v
+vsebinski zasnovi ni imena tistega, ki je pozvan k plačilu, torej trasata.
+
+Razlika med legitimacijskim papirjem in znakom!
+Izkazni papirji se uporabljajo za identifikacijo upnika in za določitev obveznosti izdajatelja tega papirja
+(vozovnice, karte, vstopnice, letalske karte). Izkazni znaki pa ne vsebujejo določene obveznosti
+izdajatelja. Izkazni znak ne dokazuje lastništva stvari, to so garderobni znaki, obeski,…
+Izkazni papirji morajo imeti 3 značilnosti:
+- da vsebujejo določeno obveznost za njihovega izdajatelja,
+- na da njih ni označen upnik in
+- da iz okoliščin, v katerih so bili izdani, izhaja, da se smejo odstopiti drugi osebi.
+Izdajatelj je prost odgovornosti, če je pri izpolnitvi svoje obveznosti ravnal s potrebno skrbnostjo, ko
+je shranjeni predmet izročil prinosniku izkaznega znaka.
+
+Razlika med trasatom in trasantom!
+Trasant (izdajatelj) je oseba, ki menico izda. Trasant ima neko obveznost do drugega. Trasat (pozvani
+dolžnik) je oseba, ki naj plača določeno vsoto denarja.
+
+Trasirana in lastna menica!
+Trasirana menica je pisna izjava, s katero izdajatelj poziva neko drugo osebo, naj sprejme obveznost
+plačila zneska, določenega v menici in vsoto denarja izplača po odredbi meničnega upravičenca. Ima
+8 bistvenih sestavin:
+1. označbo, da je menica, napisana v samem besedilu listine v jeziku, v katerem je menica
+    sestavljena,
+2. nepogojno nakazilo (poziv) naj se plača določena vsota denarja,
+3. ime tistega, ki naj plača (trasat),
+4. navedbo dospelosti,
+5. kraj, kjer je treba plačati,
+6. ime tistega, ki mu je treba plačati, oz. tistega, po čigar odredbi moramo plačati (remitent),
+7. navedbo dneva in kraja izdaje menice,
+8. podpis tistega, ki je izdal menico (trasant).
+Lastna menica je enostranska pisna izjava, s katero se njen izdajatelj zavezuje, da bo ob dospelosti
+menice upravičencu sam plačal menično vsoto. Ima 7 bistvenih sestavin:
+1. označbo, da je menica napisana v samem besedilu listine v tistem jeziku, v katerem je menica
+    sestavljena,
+2. nepogojno obljubo, da bo plačana določena vsota denarja,
+3. navedbo dospelosti menice,
+4. kraj, kjer je treba plačati določeno vsoto denarja,
+5. ime tistega, komur in po čigar odredbi je treba plačati,
+6. navedbo dneva in kraja, kjer je lastna menica izdana,
+7. podpis tistega, ki menico izdaja (izdajatelj).
+Kaj je to spregled pravne osebnosti?
+Spregled pravne osebnosti je izjema od pravila, da družbeniki v določenih primerih ne odgovarjajo za
+obveznosti družbe. Če tudi gre za družbenika, ki po splošnem pravilu ne bi odgovarjal za obveznosti
+družbe, to pravilo odpove in taki družbeniki odgovarjajo v naslednjih primerih:
+- če so pravno osebo zlorabili za oškodovanje svojih upnikov,
+- če so v nasprotju z zakonom ravnali s premoženjem pravne osebe kot s svojim lastnim
+  premoženjem,
+- če so v svojo korist ali v korist kake druge osebe zmanjšali premoženje družbe in so vedeli ali bi
+  morali vedeti, da ta ne bo sposobna poravnati svojih obveznosti tretjim osebam.
+
+Kaj je to stvarni vložek delničarjev!
+Stvarni vložki delničarjev so lahko nepremičnine ali premičnine, pravice, podjetje ali del podjetja,
+plačilo za premoženjske predmete, ki jih družba prišteva k vložku. Stvarni vložek je potrebno vložiti
+takoj pred registracijo, takoj ob ustanovitvi. Stvarni vložki ne smejo biti obremenjeni s pravicami
+družbenika. Morajo biti v celoti izročeni družbi pred prijavo v sodni register. Poslovodja lahko z njimi
+prostovoljno razpolaga. Doplačana mora biti višja vrednost osnovnega vložka, če je stvarni vložek
+nižji. Družbeniki morajo narediti popis vseh stvarnih vložkov.
+
+Kaj je stečaj?
+Stečaj je razlog za prenehanje gosp. subjektov, med njimi zlasti gosp. družbe. Namen stečaja je
+unovčiti dolžnikovo premoženje in poplačati upnike, ko je dolžnik dalj časa plačilno nesposoben ali
+prezadolžen. Stečajni postopek se ne opravi, če ima dolžnik samo enega upnika. Z dnem začetka
+stečajnega postopka se oblikuje stečajna masa. V stečajno maso gre vse dolžnikovo premoženje, če z
+zakonom ni drugače določeno. V primeru, če se opravi stečaj nad osebno družbo, gre v stečajno maso
+tudi premoženje osebno odgovornega družbenika, razen stvari in prejemkov, ki so po zakonu izvzete.
+Stečajni postopek se ne izvede, če dolžnikovo premoženje, ki bi prišlo v stečajno maso, ne zadošča
+niti za stroške stečajnega postopka ali če je neznatne vrednosti.
+
+Kaj je likvidacija?
+Likvidacija je postopek, ki se opravi, če družba preneha iz kakršnega koli razloga, razen zaradi stečaja,
+pripojitve in spojitve; velja za d.d. in d.o.o. Pri likvidaciji se predpostavlja, da lahko družba izplača vse
+upnike. Če to ni bilo mogoče, je potrebno uvesti stečaj družbe. V likvidacijskem postopku se unovči
+premoženje družbe, poplačajo upniki, preostanek pa se razdeli med družbenike.
+Likvidacijo opravi en ali več likvidatorjev; likvidatorji so člani uprave, če statut, skupščina ali sklep o
+prenehanju ne določajo drugače. Likvidacijski postopek lahko opravlja tudi pravna oseba
+(likvidacijsko podjetje), ki mora imenovati likvidatorje. Likvidator je upravičen zastopati in
+predstavljati družbo, sestaviti začetno likvidacijsko bilanco, končati začetne posle, izplačati vse
+obveznosti upnikom, izterjati terjatve družbe, predlagati izbris družbe iz registra.
+
+Kako se lahko poveča OK v d.d.?
+S povečanjem OK se poveča jamstveni sklad družbe, hkrati pa se poveča tudi dejansko premoženje
+družbe, praviloma pa tudi število delnic. OK se lahko poveča (pa tudi zmanjša) samo s spremembo
+statuta. Po ZGD so predvideni naslednji načini povečanja OK:
+- redno povečanje s plačilom vložkov,
+- pogojno povečanje OK,
+- povečanje z odobrenim kapitalom,
+- povečanje iz sredstev družbe.
+D.d. ima na voljo tudi druge možnosti za zagotovitev kapitala brez zvišanja OK (z izdajo obveznic – OK
+se ne spremeni, poveča pa se premoženje družbe).
+
+Kako se lahko zmanjša OK v d.d.?
+Z zmanjšanjem OK se zmanjša jamstveni sklad družbe, zmanjšajo se tudi osnovni deleži in s tem
+delnice. Za zmanjšanje je potrebno spremeniti statut, ki učinkuje šele z vpisom v register. Namen
+zmanjšanja OK je lahko, da se vrne del OK, ker ga je preveč, ali da se odpravi, oz. pokrije izguba v
+bilanci. V zakonu so predvideni 3 načini zmanjšanja OK:
+- redno zmanjšanje OK,
+- poenostavljeno zmanjšanje,
+- zmanjšanje z umikom delnic.
+Določbe ZGD o rednem zmanjšanju OK se smiselno uporabljajo tudi za poenostavljeno zmanjšanje
+OK, če se nanaša:
+- na pogoje zmanjšanja OK,
+- na prijavo sklepa o zmanjšanju za vpis v sodni register,
+- na začetek veljavnosti zmanjšanja kapitala,
+- na razveljavitev delnic kot tudi na
+- zmanjšanje na najnižji nominalni znesek.
+Poenostavljeno se lahko izvede zmanjšanje OK, ki je namenjeno:
+- izravnavi zaradi nižje vrednosti premoženja,
+- pokrivanju izgub,
+- prenosu sredstev v rezerve,
+Zmanjšanje OK z umikom delnic se lahko izvede kot:
+- prisilni umik, ki je dopusten, le če je bil določen ali dovoljen v prvotnem statutu ali s spremembo
+  statuta, ki je bila opravljena pred prevzemom ali vpisom delnic,
+- z delnicami, ki jih je pridobila družba.
+
+Kako se ustanovi d.o.o.!
+D.o.o. lahko ustanovi 1 ali več fizičnih ali pravnih oseb. Praviloma ima lahko družba največ 50
+družbenikov. Družba se ustanovi z družbeno pogodbo, ki mora biti sestavljena v notarski obliki.
+Pogodbo morajo podpisati vsi ustanovitelji družbe v pristojnosti notarja. Če ustanavlja družbo samo
+ena oseba, sprejme ta oseba akt o ustanovitvi v obliki notarskega zapisa.
+Družbena pogodba mora vsebovati:
+- navedbo imena in prebivališče oz. firme in sedeža vsakega družbenika,
+- firmo, sedež in dejavnost družbe,
+- navedbo zneska OK in vsakega osnovnega vložka posebej ter navedbo družbenika za vsak osnovni
+  vložek,
+- čas delovanja družbe, če je ustanovljena za določen čas,
+- morebitne obveznosti, ki jih imajo družbeniki do družbe poleg vplačila osnovnega vložka in
+  morebitne obveznosti družbe proti družbenikom.
+
+Kdo po zakonu zastopa posamezne GD?
+Družbo zastopajo osebe, ki so navedene v zakonu, osebe, ki so navedene v aktu o ustanovitvi družbe,
+ter osebe, ki jih zastopnik v okviru svojih pooblastil pisno pooblasti (zakonski in statutarni zastopnik
+ter pooblaščenec).
+Čeprav je zastopanje posebej urejeno pri vsaki družbi posebej, ZGD vsebuje tudi nekatere skupne
+določbe glede zastopanja družb. V skupnih določbah o zastopanju, veljavnih za vse družbe, ZGD
+pozna zakonskega in statutarnega zastopnika in ureja prokuro. Zastopniki GD:
+- d.d. - zastopa uprava,
+- d.o.o. - zastopa poslovodja,
+- k.d. - zastopa komplementar,
+- d.n.o. - zastopajo vsi družbeniki.
+Lahko pa družba sama določi zastopnika v splošnih stikih družbe – statutarni zastopniki.
+Pooblaščenci – pooblastilo je lahko: posebno, splošno/generalno in poslovno.
+Opredeli delničarjevo pravico do informiranja!
+Zakon obvezuje upravo, da na skupščini zagotovi delničarjem zanesljive informacije o zadevah
+družbe, če so potrebne za presojo predmeta dnevnega reda. Pod določenimi pogoji more biti
+delničarju dana informacija tudi zunaj zasedanja skupščine. Posebej to velja, če je bila podobna
+informacija ali informacija takšne vrste dana nekemu drugemu delničarju pred tem.
+
+Opredeli organe d.d. in njihove pristojnosti!
+Uprava je zakonski izkaz za organ, ki vodi posle d.d. Glavna funkcija in pristojnost uprave je vodenje
+poslov. Poleg vodenja poslov družbe so funkcije in pristojnosti uprave še zastopanje in predstavljanje
+družbe. Posebej so v ZGD urejene pristojnosti in odgovornosti uprave do skupščine, dolžnosti
+poročanja NS ter dolžnosti ob izgubi, prezadolženosti ali plačilni nesposobnosti. Uprava je dolžna
+pripraviti predlog o delitvi dobička, dolžna je odločiti o sklicu skupščine, skupščini mora podati
+predloge za sprejemanje sklepov, itd.
+Skupščina: Zakon določa, da delničarji uresničujejo svoje pravice na skupščini, katere pristojnosti so
+kogentno in taksotivno naštete. Skupščina po zakonu odloča o: delitvi dobička, letnem poročilu,
+imenovanju in odpoklicu NS, spremembi statuta, ukrepih za povečanje in zmanjšanje kapitala,
+prenehanju družbe in statusnih spremembah, imenovanju revizorja, drugih zadevah določenih s
+statutom in zakonom.
+Nadzorni svet: V načelu je oblikovanje NS prepuščeno statutu. Vendar pa je NS po zakonu obvezen:
+če gre za družbo, katere osnovni kapital dosega 410 mio SIT; če je njeno povprečno letno število
+zaposlenih večje kot 500; če je število imenskih delničarjev družbe večje od 100; če je bila družba
+ustanovljena postopno ali če so njene delnice uvrščene na borzi. Če družba nima NS, izvaja
+pristojnosti NS, ki jih ima le ta po zakonu skupščina d.d. Pristojnosti NS so:
+- nadzorovanje vodenja poslov družbe,
+- lahko pregleduje tudi knjige, dokumentacijo, blagajno, itd.,
+- lahko sklicuje skupščino, ne more pa se vodenje poslov prenesti na NS,
+- zastopa družbo nasproti članom uprave,
+- druge obveznosti, ki so določene s statutom ali zakonom.
+
+Organi d.o.o. in njihove pristojnosti!
+Poslovodja: po zakonu mora družba imeti poslovodjo (direktorja). Poslovodij je lahko tudi več.
+Imenovanje poslovodje pa je tako kot d.d. v pristojnosti skupščine družbenikov. Iz določbe izhaja, da
+je poslovodja d.o.o. lahko le fizična neomejeno poslovno sposobna oseba in ne more biti pravna
+oseba.. Funkcionalno so dolžnosti in pristojnosti poslovodje d.o.o. enake upravi, torej vodenje poslov
+in zastopanje družbe. Če je poslovodij več, kar je določeno z družbeno pogodbo mora biti prav tam
+urejeno tudi, ali delujejo skupno, ali kot posamični poslovodje. Kar zadeva sprejemanje odločitev
+mora družbena pogodba določiti, kakšen je način odločanja, ali je večinski ali konsenzualni in če je
+večinski, kakšna je večina pri določenih odločitvah vodenja poslov. Pri posamičnem poslovodstvu
+mora družbena pogodba jasno razmejiti dolžnosti v okviru vodenja posameznih vrst poslov. Delitev
+dela oz. dolžnosti vodenja poslov bo imelo za posledico tudi delitev glede pooblastil za zastopanje po
+posameznih vrstah.
+Skupščina družbenikov: ZGD v subsidiarnih določbah o upravljanju, ki veljajo, če družbena pogodba
+ne vsebuje določb o upravljanju družbe, določa, da družbeniki sprejmejo sklepe na skupščini. ZGD
+vsebuje tudi pravila o sklicu skupščine družbenikom, v obliki sklica skupščine, ter o sklepčnosti in o
+odločanju skupščine družbenikov. ZGD določa vprašanja, glade katerih morajo odločitve sprejemati
+družbeniki. Ta vprašanja so:
+- sprejetje letne bilance stanja, izkazov uspeha, o razdelitvi dobička
+- zahteva za vplačilo osnovnih vložkov,
+- vračanje dodatnih plačil,
+- delitev in prenehanje poslovnih deležev,
+- postavitev in odpoklic poslovodij,
+- ukrepi za pregled dela poslovodij,
+- postavitev prokurista in poslovnega pooblaščenca,
+- uveljavljanje zahtevkov družbe proti poslovodjem ali družbenikom v zvezi s povračilom škode,
+  nastale pri ustanavljanja in poslovodenju,
+- zastopanje družbe v sodnih postopkih proti poslovodji,
+- druge zahteve, za katere tako določa zakon ali družbena pogodba.
+
+Opiši postopek sukcesivne ureditve d.d.!
+Sukcesivna/postopna ustanovitev – ustanovitelji sprejmejo statut in prevzamejo DEL delnic, ki jih
+vplačajo. Preostale delnice se ponudijo javnosti v odkup z javnim pozivom – PROSPEKT. Prospekt
+mora biti natančen, omogočiti mora popolne informacije. Vpis in plačilo delnic se opravi v bankah. Ta
+postopek lahko traja max 3 mesece. Ko se vpišejo delnice pri banki se izpolni VPISNICA – potrdilo o
+vplačilu. Če so vse delnice prodane se skliče ustanovna skupščina. Če niso prodane d.d ni
+ustanovljena. Če je uspela, se delnice razdelijo med vpisnike. Razdelitvi delnic sledi SKLIC ustanovne
+skupščine – sklepčna je samo, če je prisotnih polovica delničarjev. Če ni prisotnih polovica delničarjev
+se skupščina ponovno skliče. Ustanovna skupščina najprej preveri vpis, vložke, potem imenuje prvi
+NS, ta pa prvo upravo. Ko vse sprejme je končni korak vpis v register in s tem se postopek ustanovitve
+konča.
+
+Organi v stečajnem postopku in njihove pristojnosti!
+Organi stečajnega postopka so: stečajni senat (sestavljajo ga 3 sodniki, od katerih je eden
+predsednik), stečajni upravitelj in upniški odbor.
+Stečajni senat:
+- odloča o začetku stečajnega postopka,
+- odloča o ugovorih stečajnega upravitelja in upnikov zoper odredbe predsednika stečajnega senata,
+- določa nujne posle, ki se dokončajo med stečajnim postopkom,
+- potrjuje predračun stroškov stečajnega postopka in določa nagrado za delo stečajnega upravitelja,
+- postavlja in odstavlja stečajnega upravitelja,
+- potrjuje osnutek glavne razdelitve in izda sklep o glavni razdelitvi stečajne mase,
+- izda sklep o dokončanju stečajnega postopka,
+- opravlja tudi drugo delo, ki ga določa ta zakon.
+Stečajni upravitelj se postavi s sklepom o začetku stečajnega postopka. Stečajni upravitelj uresničuje
+pravice organov upravljanja in lastnika v skladu s potrebami stečajnega postopka, če ni s tem
+zakonom drugače določeno. Prav tako vodi posle dolžnika in ga zastopa. Naloge upravitelja:
+- sproti dopolnjevati knjigovodsko evidenco do dneva začetka stečajnega postopka,
+- sestaviti v 30 dneh v soglasju s predsednikom stečajnega senata načrt poteka stečajnega postopka
+  s predračunom stroškov in terminskim planom,
+- sestaviti komisijo za inventuro,
+- sestaviti začetno stečajno bilanco, voditi poslovne knjige in sestavljati rač. izkaze,
+- skrbeti kot dober gospodar za vodenje poslov stečajnega dolžnika,
+- skrbeti za izterjavo terjatev dolžnika,
+- unovčiti stvari dolžnika, ki spadajo v stečajno maso,
+- v soglasju s predsednikom stečajnega senata sestaviti osnutek glavne razdelitve in osnutek
+  zaključne stečajne bilance,
+- sestaviti osnutek poznejše razdelitve,
+- skrbeti, da stečajni postopek poteka hitro in brez neutemeljenega zavlačevanja.
+Da se zavaruje korist upnikov v stečajnem postopku, stečajni senat ustanovi upniški odbor, razen če
+je stečajna masa neznatna ali če bi to pripeljalo do znatnega povečanja stroškov stečajnega postopka.
+Upniški odbor:
+- zahteva in obravnava poročila stečajnega upravitelja o poteku stečajnega postopka in o stanju
+  stečajne mase,
+- ima pravico pregledati posl. knjige in celotno dokumentacijo, ki jo je prevzel stečajni upravitelj,
+- ima pravico ugovarjati pri predsedniku stečajnega senata zoper delo stečajnega upravitelja in pri
+  stečajnem senatu zoper delu predsednika stečajnega senata.
+- predlaga odstranitev stečajnega upravitelja in imenovanje novega stečajnega upravitelja,
+- daje stečajnemu senatu mnenje o vnovčevanju dolžnikovega premoženja,
+- daje stečajnemu senatu mnenje o nadaljevanju začetnih poslov in sklepanju novih poslov.
+
+Pojasni pomen pravne osebnosti!
+Bistvo pravne osebnosti je v sposobnosti pravne osebe biti nosilec pravic in obveznosti v pravnih
+razmerjih. ZGD šteje kot bistvo pravne osebnosti:
+- družbe kot pravne osebe so lahko lastnice premičnin in nepremičnin, torej nosilke lastninske
+  pravice,
+- družbe lahko pridobivajo pravice in prevzemajo obveznosti, sklepajo pravne posle, torej vstopajo v
+  pravni promet,
+- družbe imajo pasivno in aktivno legitimacijo v pravdnem postopku, torej so lahko tožene ali tožijo.
+GD pridobi lastnost pravne osebe z vpisom v sodni register. S tem trenutkom družba kot pravni
+subjekt tudi nastane. Vendar so lastniki pred vpisom družbe v register preko družbe upravljali različne
+pravne posle oz. nastopali v njenem imenu. Za razmerja med družbeniki pred vpisom veljajo pravila o
+civilno – pravni družbeni pogodbi. Tako osebne kot kapitalske družbe so pravne osebe (razen tiha
+družba). Bistvo pravne osebnosti je, da družba lahko nastopa v pravnih razmerjih s tretjim kot
+samostojni nosilec pravic in obveznosti. Pravna osebnost ima za posledico tudi samostojno
+odgovornost za obveznosti s premoženjem družbe.
+
+Pojasni povečanje OK iz sredstev družbe v d.d.!
+S tem načinom povečanja družba ne pridobi novega kapitala, temveč se v OK spremeni že obstoječe
+premoženje družbe. Pravno in ekonomsko se razlikuje od normalnega povečanja kapitala, s
+prevzemom novih vložkov, tudi postopek povečanja je drugačen. Povečanje kapitala se začne s
+sklepom skupščine. Sklep o povečanju kapitala se lahko sprejme potem, ko je sprejeto letno poročilo
+za preteklo poslovno leto. V OK, ki se poveča se lahko spremenijo rezerve, ki morajo biti v letnem
+poročilu izkazane. Rezerve pa se ne morejo spremeniti v OK, če bilanca izkazuje izgubo.
+Sklep o povečanju kapitala pomeni hkrati spremembo statuta. Z vpisom sklepa o povečanju OK v
+register je OK povečan. S povečanjem OK se izdajo nove delnice za katere velja, da so že v celoti
+vplačane s povečanjem.
+
+Pojasni pravno varstvo firme!
+Načelo izključnosti, ki zahteva distriktivnost firme od drugih, je povezano z načelom varstva firme.
+Distriktivnost je varovana na eni strani z uradno dolžnostjo sodišča, da zavrne vpis, na drugi strani pa
+z dopustnostjo tožbenega zahtevka v pravdi. Ločimo civilno in javno pravno varstvo firme.
+Civilno pravno varstvo pomeni, da lahko katera koli družba toži neko firmo, ki jo uporablja neka
+družba in se ta družba ne razlikuje jasno od njene firme. Pri tem je pomembno, da je firma tožnika
+registrirana pred firmo toženca. Če ta družba dokaže sodišču, da je bila ona prva s tem imenom,
+izbriše sodišče iz registra toženčevo firmo in če je imel tožnik kakršno koli škodo, določi še
+odškodnino.
+Javno pravno varstvo je varstvo s strani sodišča (registrskega). Sodišče ne sme vpisat v register firme,
+ki je enaka ali podobna že vpisani firmi. Tožbeni zahtevek je možno vložiti tudi zoper družbo, ki
+nepravilno uporablja svojo firmo. Četudi se firmi tožnika in toženca med seboj jasno razlikujeta, tako
+kot sta vpisani v register, je možno podati tožbeni zahtevek zoper družbo, ki zlorabi svojo firmo na
+način, da povzroči stanje nejasnega razlikovanja do drugih firm in s tem morebitno škodo.
+
+Pojasni pravico družbenikov do informiranosti v d.o.o.!
+ZGD na eni strani obvezuje poslovodjo, da družbenika na njegovo zahtevo obvešča o zadevah družbe,
+na drugi strani pa ureja sodno varstvo pravice do informacij in vpogleda, ki je na razpolago
+družbeniku. Družbenik ima pravico od poslovodje zahtevati vse informacije o zadevah družbe, hkrati
+pa mu mora dovoliti, če to terja vpogled v knjige, spise, dokumentacijo, itd. Družbenik ima pravico
+biti obveščen o vsem, kar je pomembno v zvezi z poslovanjem družbe in le v izjemnih primerih ima
+poslovodja pravico zavrniti zahtevo po informaciji ali pa po vpogledu v dokumentacijo. Takšno
+pravico ima poslovodja, če oceni, da je verjetno, da bi družbenik uporabil informacije za namen, ki je
+v nasprotju z interesi družbe. S tem bi družbi ali z njo povezani družbi prizadel občutno škodo.
+
+Pojem gospodarske pogodbe!
+Pogodba je dvostranski pravni posel, ki ga stranki skleneta z namenom, da se pridobi, spremeni ali
+preneha določena premoženjska pravica ali določeno razmerje. Pogodba je izraz svobodne volje
+strank in zavezuje stranki tako, kot sta se dogovorili in stranki morata spoštovati prisilne norme.
+Pogodba je sklenjena, ko se stranki zedinita o bistvenih sestavinah pogodbe.
+
+Pojem in pomen pravnih sestavin firme!
+Po definiciji ZGD je firma ime, s katerim družba posluje. Zakon natančno določa obvezne sestavine:
+- natančna oznaka firme: Krka
+- oznaka dejavnosti: tovarna zdravil
+- oznaka odgovornosti: d.d. Novo mesto
+Obvezne sestavine za posamezne vrste družb:
+- firma komanditne družbe mora vsebovati priimek vsaj enega komplementarja ter označbo k.d.,
+- tiha družba posluje s firmo nosilca tihe družbe. Pri firmi nosilca tihe družbe se lahko uporablja
+  dodatek, ki razkriva, da družba posluje s tihim družbenikom s t.d.
+- družba z omejeno odgovornostjo oz. delniška družba mora imeti v firmi dodatno sestavino in
+  označbo, da gre za družbo z omejeno odgovornostjo (d.o.o.) in delniško družbo (d.d.),
+- firma komanditne delniške družbe mora imeti v firmi sestavino, po kateri se razlikuje od firm
+  drugih družb, ter označbo, da gre za k.d.d.
+Firma se mora jasno razlikovati od firm drugih družb, ne sme zavajati drugih udeležencev na trgu in
+ne sme posegati v druge pravice industrijske lastnine ter v kakršne koli druge pravice, ki jih imajo
+druge osebe. Firma tudi ne sme vsebovati imen in znakov tujih držav ali mednarodnih organizacij.
+Nekatere sestavine firme so izrecno prepovedane. Tako firma ne sme vsebovati besed oz. znakov, ki:
+- nasprotujejo zakonu ali morali,
+- vsebujejo znake blagovne ali storitvene znake drugega upravičenca,
+- vsebujejo ali posnemajo uradne znake.
+
+Pojem in obseg prokure!
+Prokura je z zakonom določeno pooblastilo za zastopanje, ki ga ni mogoče omejiti na statutaren
+način. Prokura je torej oblika zastopanja, katere obseg pooblastil določa zakon. Po ZGD je prokura
+upravičenje za vsa pravna dejanja, ki spadajo v pravno sposobnost družbe, razen za odsvajanje in
+obremenjevanje nepremičnin. ZGD pozna tudi skupno prokuro – dve ali več oseb pomenijo skupnega
+prokurista, kar pomeni, da te osebe skupaj zastopajo družbo.
+Prokura se lahko da z izrecno izjavo in po postopku, določenem v aktu o ustanovitvi. Prokura se lahko
+da eni ali več osebam posamezno ali pa dvema ali več osebam skupno, tako da lahko le vse osebe
+skupaj zastopajo družbo. Opredelitev prokure nima pravnega učinka proti tretjim osebam.
+Prokure ne more prokurist prenesti na drugo osebo. Prokura se lahko vsak čas prekliče, ne preneha s
+smrtjo ali izgubo poslovne sposobnosti podjetnik posameznika, podelitev in prenehanje prokure
+morajo biti vpisani v register, prokuristov podpis pa se mora shraniti pri sodišču.
+
+Pojem in vsebina prisilne poravnave!
+Prisilna poravnava je poseben sporazum med dolžnikom, ki je dalj časa plačilno nesposoben in
+njegovimi upniki o oddolžitvi in zmanjšanju dolžnikovih obveznosti z namenom, da dolžnik ne
+preneha obstajati oz. da lahko deluje z dejavnostjo. Postopek PP opravi sodišče v posebnem
+postopku, v katerem sodelujejo senat treh sodnikov, upravitelj PP in upniški odbor. Postopek se
+uvede s predlogom, ki ga vloži dolžnik. Upravitelj mora preizkusiti stanje premoženja in poslovanja
+dolžnika, sezam upnikov in seznam dolžnikov, verodostojnost prijavljenih terjatev. Upniški odbor je
+sestavljen iz upnikov, ima pa pravico pregledati poslovno in finančno stanje dolžnika, sodelovati pri
+oblikovanju načrta fin. reorganizacije, predlagati postavitev in odstavitev upravitelja.
+
+Pravice in obveznosti družbenika v d.o.o.!
+S prevzemom osnovnega vložka pridobi družbenik svoj poslovni delež v družbi in s tem članstvo v
+družbi. Na poslovni delež so vezane pravice in tudi dolžnosti. Pravice družbenikov so upravljavske
+(pravica do glasovanja, pravica do sklica skupščine družbenikov, pravica zahtevati prenehanje družbe
+zaradi obstoja pomembnih razlogov, pravica zahtevati postavitev likvidatorjev družbe) in
+premoženjske (pravica do deleža pri dobičku, ob prenehanju družbe pravica do likvidacijskega
+deleža). Razen teh osnovnih pravic imajo lahko družbeniki tudi posebne pravice, ki so določene v
+družbeni pogodbi, npr.: pravica do več glasov, pravica do sodelovanja pri vodenju družbe, pravica
+sodelovati pri delu NS, pravica do večjega zneska dobička.
+Družbeniki imajo ob pravicah tudi obveznosti. Njihova obveznost je predvsem:
+- plačilo prevzetega osnovnega vložka,
+- plačilo dodatnih zneskov, če to predvideva pogodba,
+- odgovorni pa sto tudi za neplačilo teh zneskov in za nepravilno oz. neupravičeno vrnitev osnovnih
+  vložkov.
+
+Pravni pomen finančne reorganizacije pri prisilni poravnavi!
+Dolžnik lahko predloži načrt fin. reorganizacije, ki obsega: razvrstitev terjatev v razrede glede na
+pravni in poslovni temelj; predlog izplačila terjatve v zmanjšanem znesku; podaljšanje roka. S fin.
+reorganizacijo naj bi se zagotovilo, da bi dolžnik postal plačilno sposoben, tako da se odproda del
+premoženja; vloži premoženje v drugo pravno osebo, z združitvijo dolžnik z pravnimi osebami;
+zmanjšanje št. delavcev; z izdajo delnic; z priznanjem oz. prodajo deležev. O fin. reorganizaciji se
+obvesti predsednika upniškega odbora in upravitelja PP, o njej pa se odloča z glasovanjem po načelu
+kapitalske večine, PP je sprejeta, če glasuje zanjo več kot 50% vseh terjatev upnikov, PP potrdi
+poravnalni senat.
+
+Pravne posledice uvedbe stečaja!
+Pravne posledice začetka stečajnega postopka nastanejo z dnem, ko je oklic o začetku nabit na sodno
+oglasno desko. S tem dnem nastopijo:
+- omejitve družbenikove pravne in poslovne sposobnosti,
+- pravice in pooblastila poslovodnih organov, organov upravljanja in zastopnikov ter pravice
+  upravljanja osebno odgovornega družbenika preidejo na stečajnega upravitelja,
+- prenehajo delovna razmerja pri dolžniku zaposlenih delavcev ter
+- nastopijo civilnopravne posledice začetka stečajnega postopka.
+
+Pravne posledice postopka PP!
+Nastanejo z dnem, ko je oklic o začetku postopka PP nabit na oglasno desko sodišča. Dolžnik sme v
+času PP opravljati tekoče posle v zvezi z opravljanjem dejavnosti in poravnavanjem obveznosti, ne
+sme pa obremeniti svojega premoženja niti dati avala, dolžnik je dolžan upnikom omogočiti vpogled v
+celotno fin. dokumentacijo. Pravne posledice so: od začetka PP ni mogoče določiti izvršbe, nedospele
+denarne in nedenarne terjatve upnikov proti dolžniku postanejo dospele, spremenijo se po cenah na
+dan začetka PP, terjatve upnikov v tujini se spremenijo v domačo valuto,…Sklep o potrditvi PP ima za
+vse upnike moč izvršilnega naslova, vendar se lahko upnik nanj pritoži in zahteva razveljavitev.
+
+Pravni pomen opredelitve dejavnosti posamezne GD!
+Družbe smejo kot dejavnost opravljati vse posle, razen tistih, ki se po zakonu ne smejo opravljati kot
+gosp. posli. Z zakonom se lahko določi, da določene gosp. posle lahko opravljajo le: družbe, določene
+za zakonom, določene vrste družb, druge organizacije.
+Družbe smejo opravljati gosp. posle:
+- le v okviru dejavnosti, ki je vpisana v sodni register,
+- tudi vse druge posle: ki so potrebni za njen obstoj in za opravljanje dejavnosti, ne pomenijo pa
+  neposrednega opravljanja dejavnosti.
+V pojem dejavnosti sodijo vse tiste posl. dejavnosti, ki jih GD opravlja, da uresniči namen, zaradi
+katerega je ustanovljena. Kot pridobitna dejavnost se šteje vsaka dejavnost, ki se izvaja na trgu zaradi
+pridobivanja dobička. Praviloma bo dejavnost GD pridobitna. Lahko pa se oblika GD uporabi tudi za
+opravljanje nepridobitne dejavnosti. Zakon lahko predpiše, da lahko določene gosp. posle opravljajo
+le določene vrste družb. Zakon izrecno prepoveduje, da bi družba začela opravljati dejavnost, preden
+ni vpisana v sodni register in preden ne izpolni z zakonom določenih pogojev.
+
+Prenos poslovnega deleža v d.o.o.!
+Na podlagi osnovnega deleža pridobi družbenik poslovni delež v družbi. Poslovni delež družbenika je
+prenosljiv s prodajo ali z dedovanjem. Družbenik lahko prenese svoj delež na drugo osebo. Prenos
+deleža mora imeti notarsko obliko. Družbenik, ki namerava prodati svoj poslovni delež, mora druge
+družbenike pisno obvestiti o nameravani prodaji in pogojih prodaje ter jih pozvati, da mu morebitni
+kupec sporoči svojo pripravljenost za nakup v enem mesecu od prejema obvestila. Poslovni delež se
+lahko podeduje. V družbeni pogodbi ne more biti izključena možnost zakonitega dedovanja deležev.
+Družbena pogodba pa lahko predvidi, kaj se bo zgodilo, če eden od družbenikov umre. Če družbena
+pogodba ničesar ne določa, se poslovni delež z dedovanjem prenese na dediča. Delitev poslovnega
+deleža, razen ob prodaji oz. dedovanju ni dovoljena.
+Prenehanje d.d.!
+- s potekom časa, določenega v statutu, če je bila ustanovljena za določen čas,
+- s sklepom skupščine, ki mora biti sprejet z najmanj ¾ večino OK,
+- če se zmanjša OK družbe pod minimum,
+- s pravnomočnim sklepom sodišča o zavrnitvi predloga za uvedbo stečajnega postopka
+- če je nad družbo uveden stečaj v skladu s posebnim zakonom.
+Sklep o prenehanju sprejme skupščina, v drugih primerih pa odloči sodišče. Sklep o prenehanju se
+prijavi v register ter objavi v Ur. listu RS. Po vpisu sklepa o prenehanju se opravi postopek likvidacije,
+razen če se uvede stečaj.
+
+Prenehanje d.o.o.!
+- če poteče čas, za katerega je družba ustanovljena,
+- če tako sklenejo družbeniki z vsaj ¾ večino glasov vseh družbenikov,
+- če sodišče ugotovi ničnost vpisa,
+- s stečajem v skladu s posebnim zakonom,
+- s sodno odločbo,
+- s spojitvijo, pripojitvijo, razdelitvijo v kakšno drugo podjetniško obliko.
+
+Pristojnosti NS!
+Pristojnost nadzornega sveta je nadzorovanje vodenja poslov družbe. NS lahko pregleduje tudi knjige,
+dokumentacijo, blagajno, itd. NS sklicuje skupščino, ne mora pa se vodenje poslov prenesti na NS. Pri
+članih NS bi pristojnosti, iz katerih izhajajo dolžnosti, ki povzročijo odgovornost, lahko razvrstili
+takole:
+a) nadzor nad vodenjem poslov družbe in v okviru tega:
+   - spremljanje poročil o načrtovani poslovni politiki in drugih načelnih vprašanjih poslovanja,
+     donosnost družbe, o poteku poslov, še posebej o prometu in finančnem stanju družbe, o poslih,
+     ki lahko pomembno vplivajo na donosnost ali plačilno sposobnost družbe, ter o drugih vprašanjih,
+     pomembnih za poslovanje družbe;
+   - pregledovanje in preverjanje knjig in dokumentacije družbe, njene blagajne, shranjene VP, zaloge
+     blaga in druge stvari;
+b)        dajanje soglasij k statutarno ali s sklepom NS določenim poslom, ki jih sme uprava opravljati
+   le s soglasjem NS,
+c) imenovanje in odpoklic uprave, določitev prejemkov članov uprave, odobritev posojil članom
+   uprave in prokuristom, itd.,
+d)        druge pristojnosti, kot so npr. sklic skupščine, kadar je to v dobro družbe in tega ne stori
+   uprava, oblikovanje mnenja o poslovnem poročilu in pregledu za delitev dobička, odobritev
+   vmesnih dividend,…
+Članom NS se za njihovo delo lahko zagotovi plačilo ali udeležba na dobičku, kar se določi s statutom
+ali na skupščini.
+
+Premoženjske pravice delničarja!
+Pravica do dividend – ni absolutna pravica, saj delničar nima vedno garantirane pravice do dobička –
+pogoji za izplačilo: d.d. posluje z dobičkom, sklep skupščine o tem, da se dobiček deli, delničar mora
+zahtevat izplačilo dividend. Ločimo navadne in prednostne delnice (imajo višjo dividendo, kot
+navadne). Kumulativne: neizplačane dividende; participativne: delničar udeležen tudi pri delitvi
+navadne delnice.
+Pravica do deleža likvidacijske mase – vezana je na prenehanje d.d. Družba lahko preneha v stečaju
+ali v likvidaciji. Pri stečaju ni dovolj premoženja za poplačilo vseh upnikov, medtem ko pri likvidaciji je
+dovolj.
+Pravica do prednostnega nakupa novih delnic – Pomeni, da če se d.d. odloči da zviša OK, bodo te
+novo izdane delnice pripadle starim delničarjem, oz. bodo imeli pravico da jih oni kupijo pred
+ostalimi. Drugi vidik je finančni – ko se d.d odloča, da izda nove delnice, se postavlja vprašanje po
+kakšni ceni se bodo te delnic izdale. Ta pravica je finančno ovrednotena takrat, kadar se nove delnice
+prodajajo ceneje, kot je njihova realna ovrednotena tržna vrednost.
+Razlika med osebnimi in kapitalskimi družbami!
+Osnovna značilnost za kapitalske družbe je, da so premoženjsko ločene od svojih članov, zato
+družbeniki ne jamčijo za obveznosti kapitalskih družb z vsem svojim premoženjem. Kapitalske družbe
+imajo z zakonom predpisan minimalni osnovni kapital. Kapitalska družba jamči svojim upnikom.
+Kapitalske družbe imajo z zakonom določene organe, zakon določi pristojnost teh organov, družbe ne
+vodijo družbeniki (v d.d. vodi uprava, v d.o.o. pa poslovodja). Za kapitalsko družbo je najbolj
+pomemben osamosvojen kapital, riziko je omejen.
+Pri osebnih družbah družbeniki jamčijo za obveznost družbe z vsem svojim premoženjem. Družbeniki
+sami vodijo družbo in jo zastopajo (ne govorimo o organih). Osebne družbe nimajo z zakonom
+predpisan min. OK. (k.d. in d.n.o.).
+
+Razlika med d.d. in d.o.o.!
+D.o.o se ustanovi podobno kot d.d., če gre za simultano ustanovitev. Razlika je v tem, da se pri d.o.o.
+sklene družbena pogodba, pri d.d. pa statut. Pri d.o.o so družbeniki v medsebojnem pravnem
+razmerju, v d.d. pa niso (nimajo obv. eden do drugega). Pri d.o.o. ni sukcesivne ustanovitve.
+Minimalni OK pri d.o.o. je v Sloveniji po ZGD 2.1 mio SIT, pri d.d. pa znaša najnižji nominalni znesek
+OK 4.1 mio SIT. Pri d.d. imamo delnice, pri d.o.o. pa poslovni delež. Članstvo v d.d. se zamenja s tem,
+da se delnica prenese; so prosto prenosljive. Poslovni delež se prenese s posebnim pravnim poslom v
+obliki notarskega zapisa in ob soglasju drugih družbenikov.
+D.o.o ima z zakonom določena 2 organa: skupščino (vsi družbeniki, ki lahko odločajo o vodenju) in
+poslovodja (vodi družbo in jo zastopa).
+D.d. ima 3 organe: upravo, NS, in skupščino.
+
+Upravljavske pravice delničarjev!
+Glasovalna pravica – se uresničuje na skupščini d.d. in predstavlja pravico, da se pri sprejemanju
+sklepov delničar izjavi za ali proti neki odločitvi. Velja pravilo 1 delnica – 1 glas. Glasovanje je javno z
+listki. Oseba lahko glasuje sama, lahko pa pooblasti neko osebo. Pooblastilo velja 15 mesecev.
+Pravica do udeležbe na skupščini – Je pomembna in obsežna pravica, saj delničarju omogoča aktivno
+sodelovanje na skupščini. Delničarja je treba pravočasno in pravilno obvestiti o sklicu skupščine.
+Skupščina je javna. V javni objavi mora biti točno določen dnevni red. Sklepi izven dnevnega reda so
+neveljavni. Predloge sklepa oblikuje uprava in NS. Objavi se 30 dni pred zasedanjem. V dnevni red
+lahko posegajo tudi delničarji. Vsak delničar ima pravico, da poda nasprotne predloge sklepov, že na
+sprejeti dnevni red. Delničar ima na skupščini pravico do vprašanja, prav tako tudi do odgovora.
+Zapisnik skupščine se ne pošilja vsem delničarjem, pošlje se v sodni register, kjer je na vpogled
+vsakemu delničarju.
+Pravica do informiranosti – je precej šibka pravica. Pomeni, da lahko delničar postavi vprašanje na
+skupščini, odgovor pa mu je dolžna posredovati uprava. Uprava mora biti do vseh delničarjev enaka –
+načelo enakosti.
+Pravica uveljavljati ničnost oz. izpodbojnost skupščinskih sklepov – je individualna pravica vsakega
+delničarja, kar pomeni, da kdor ima 1 delnico lahko izpodbija sklep, to je pravica, ki daje največjo moč
+že posameznemu 1 delničarju, enako kot pravica do informiranosti. Posledica je, da nima pravnih
+učinkov.
+
+Zamuda pri izpolnitvi fiksne in nefiksne pogodbe!
+Fiksne pogodbe – pogodba je razdrta po samem zakonu. Upnikova terjatev se spremeni v
+odškodninsko terjatev. Upnik lahko ohrani pogodbo, če obvesti, takoj po preteku roka za izpolnitev
+dolžnika o zahtevi izpolnitve. Čas izpolnitve je bistvena sestavina pogodbe.
+Nefiksne pogodbe – dolžnik ima možnost izpolniti terjatev tudi po preteku roka, odgovarja pa za
+škodo. Če upnik želi razdreti pogodbo, mora dati dolžniku dodaten rok za izpolnitev. Če pa dolžnik še
+v tem roku ne izpolni obveznosti, veljajo pravila kot pri fiksni pogodbi.
+

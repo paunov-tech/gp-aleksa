@@ -1,0 +1,3330 @@
+[
+  {
+    "id": "T5-001",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Podlage odškodninske odgovornosti",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po OZ glede podlag odškodninske odgovornosti?",
+    "prevod_sr": "Šta važi po OZ u pogledu osnova odgovornosti za štetu?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Za škodo ne glede na krivdo se odgovarja samo, če je tako dogovorjeno s pogodbo.",
+        "prevod_sr": "Za štetu bez obzira na krivicu odgovara se samo ako je tako ugovoreno.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: bez obzira na krivicu odgovara se za opasnu stvar/delatnost i u drugim zakonom određenim slučajevima (OZ, 131. člen, 2. i 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Za škodo od stvari ali dejavnosti, iz katerih izvira večja škodna nevarnost za okolico, se odgovarja ne glede na krivdo.",
+        "prevod_sr": "Za štetu od stvari ili delatnosti iz kojih potiče povećana opasnost štete za okolinu odgovara se bez obzira na krivicu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: objektivna odgovornost za opasnu stvar ili opasnu delatnost (OZ, 131. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Odškodninska odgovornost nastane le, če je škoda povzročena namenoma.",
+        "prevod_sr": "Odgovornost za štetu nastaje samo ako je šteta prouzrokovana namerno.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: krivica postoji i kod nepažnje, ne samo kod namere (OZ, 135. člen)."
+      },
+      {
+        "besedilo_sl": "Oškodovanec mora vedno dokazati krivdo povzročitelja škode.",
+        "prevod_sr": "Oštećeni uvek mora da dokaže krivicu štetnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: krivica se pretpostavlja, štetnik mora da dokaže da nije kriv (OZ, 131. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Kdor povzroči drugemu škodo, jo je dolžan povrniti, če ne dokaže, da je škoda nastala brez njegove krivde.",
+        "prevod_sr": "Ko drugome prouzrokuje štetu, dužan je da je naknadi ako ne dokaže da je šteta nastala bez njegove krivice.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: to je doslovno pravilo krivične odgovornosti sa obrnutim teretom dokazivanja (OZ, 131. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "škoda",
+      "krivda",
+      "obrnjeno dokazno breme",
+      "odgovornost ne glede na krivdo"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 131. člen; 135. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-002",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Pojem in vrste škode",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj se po OZ šteje za škodo?",
+    "prevod_sr": "Šta se po OZ smatra štetom?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zmanjšanje premoženja (navadna škoda).",
+        "prevod_sr": "Umanjenje imovine (obična šteta).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: obična šteta je umanjenje imovine (OZ, 132. člen)."
+      },
+      {
+        "besedilo_sl": "Vsaka kršitev pogodbe, tudi če upniku zaradi nje ni nastala nobena posledica.",
+        "prevod_sr": "Svaka povreda ugovora, čak i ako poveriocu zbog nje nije nastala nikakva posledica.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: šteta je umanjenje imovine, izmakla korist ili nematerijalna šteta; sama povreda ugovora bez posledice nije šteta (OZ, 132. člen)."
+      },
+      {
+        "besedilo_sl": "Preprečitev povečanja premoženja (izgubljeni dobiček).",
+        "prevod_sr": "Sprečavanje uvećanja imovine (izmakla korist).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: izmakla korist je sprečavanje uvećanja imovine (OZ, 132. člen)."
+      },
+      {
+        "besedilo_sl": "Okrnitev ugleda pravne osebe.",
+        "prevod_sr": "Povreda ugleda pravnog lica.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: povreda ugleda pravnog lica je oblik nematerijalne štete (OZ, 132. člen)."
+      },
+      {
+        "besedilo_sl": "Samo zmanjšanje premoženja; izgubljeni dobiček se po OZ ne šteje za škodo.",
+        "prevod_sr": "Samo umanjenje imovine; izmakla korist se po OZ ne smatra štetom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: OZ izričito navodi i izmaklu korist i nematerijalnu štetu (OZ, 132. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "navadna škoda",
+      "izgubljeni dobiček",
+      "nepremoženjska škoda"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2.txt, vpr. 16 in 21 (samo tema; ključ po OZ)",
+      "zakon_clen": "OZ, 132. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-003",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Pojem in vrste škode",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Voznik družbe A je po svoji krivdi uničil dostavno vozilo družbe B; družba B zato en mesec ni mogla opravljati dostav. Kaj velja po OZ?",
+    "prevod_sr": "Vozač društva A je svojom krivicom uništio dostavno vozilo društva B; društvo B zato mesec dana nije moglo da vrši dostave. Šta važi po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pri oceni izgubljenega dobička se upošteva dobiček, ki bi ga bilo mogoče utemeljeno pričakovati glede na normalen tek stvari ali posebne okoliščine.",
+        "prevod_sr": "Pri oceni izmakle koristi uzima se u obzir dobit koja se mogla osnovano očekivati prema redovnom toku stvari ili posebnim okolnostima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: tako se ocenjuje izmakla korist (OZ, 168. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba B ima pravico le do povrnitve navadne škode, ne pa tudi izgubljenega dobička.",
+        "prevod_sr": "Društvo B ima pravo samo na naknadu obične štete, a ne i izmakle koristi.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: oštećeni ima pravo i na običnu štetu i na izmaklu korist (OZ, 168. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Zaslužek, ki ga družba B ni dosegla, je nepremoženjska škoda.",
+        "prevod_sr": "Zarada koju društvo B nije ostvarilo je nematerijalna šteta.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nematerijalna šteta su telesni i duševni bolovi, strah i povreda ugleda pravnog lica; izgubljena zarada je imovinska šteta (OZ, 132. člen)."
+      },
+      {
+        "besedilo_sl": "Zaslužek, ki ga družba B zaradi izpada dostav ni dosegla, je izgubljeni dobiček.",
+        "prevod_sr": "Zarada koju društvo B zbog izostanka dostava nije ostvarilo je izmakla korist.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: sprečavanje uvećanja imovine je izmakla korist (OZ, 132. člen)."
+      },
+      {
+        "besedilo_sl": "Vrednost uničenega vozila je navadna škoda.",
+        "prevod_sr": "Vrednost uništenog vozila je obična šteta.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: umanjenje imovine je obična šteta (OZ, 132. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "navadna škoda",
+      "izgubljeni dobiček",
+      "povrnitev škode"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 132. člen; 168. člen, 1. in 3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-004",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Krivda",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj je po OZ podana krivda?",
+    "prevod_sr": "Kada po OZ postoji krivica?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Samo kadar oškodovalec povzroči škodo namenoma.",
+        "prevod_sr": "Samo kada štetnik prouzrokuje štetu namerno.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: krivica postoji i kod nepažnje (OZ, 135. člen)."
+      },
+      {
+        "besedilo_sl": "Vedno, kadar nastane škoda, ne glede na ravnanje oškodovalca.",
+        "prevod_sr": "Uvek kada nastane šteta, bez obzira na ponašanje štetnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: krivica znači nameru ili nepažnju štetnika; štetnik može dokazati da nije kriv (OZ, 135. člen; 131. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Samo kadar oškodovalec povzroči škodo iz hude malomarnosti.",
+        "prevod_sr": "Samo kada štetnik prouzrokuje štetu iz grube nepažnje.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon govori o nameri ili nepažnji uopšte, ne samo o gruboj nepažnji (OZ, 135. člen)."
+      },
+      {
+        "besedilo_sl": "Kadar oškodovalec povzroči škodo namenoma ali iz malomarnosti.",
+        "prevod_sr": "Kada štetnik prouzrokuje štetu namerno ili iz nepažnje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: doslovna definicija krivice (OZ, 135. člen)."
+      },
+      {
+        "besedilo_sl": "Samo kadar je škoda povzročena s kaznivim dejanjem.",
+        "prevod_sr": "Samo kada je šteta prouzrokovana krivičnim delom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: za krivicu je dovoljna namera ili nepažnja; krivično delo nije uslov (OZ, 135. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "krivda",
+      "namenoma",
+      "malomarnost"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3.txt, vpr. 19 in 31",
+      "zakon_clen": "OZ, 135. člen; 131. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-005",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Objektivna odgovornost – nevarna stvar in dejavnost",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za odgovornost za škodo od nevarne stvari ali nevarne dejavnosti?",
+    "prevod_sr": "Šta važi za odgovornost za štetu od opasne stvari ili opasne delatnosti?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Za škodo od nevarne dejavnosti odgovarja tisti, ki se z njo ukvarja.",
+        "prevod_sr": "Za štetu od opasne delatnosti odgovara onaj ko se njome bavi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 150. člen."
+      },
+      {
+        "besedilo_sl": "Vzročna zveza se ne domneva; oškodovanec mora dokazati, da je bila nevarna stvar vzrok škode.",
+        "prevod_sr": "Uzročna veza se ne pretpostavlja; oštećeni mora da dokaže da je opasna stvar bila uzrok štete.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: za štetu nastalu u vezi sa opasnom stvari smatra se da potiče od nje, osim ako se dokaže suprotno – pretpostavka uzročnosti (OZ, 149. člen)."
+      },
+      {
+        "besedilo_sl": "Za škodo od nevarne stvari odgovarja njen imetnik.",
+        "prevod_sr": "Za štetu od opasne stvari odgovara njen imalac.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 150. člen."
+      },
+      {
+        "besedilo_sl": "Zanjo se odgovarja ne glede na krivdo.",
+        "prevod_sr": "Za nju se odgovara bez obzira na krivicu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: objektivna odgovornost (OZ, 131. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Imetnik odgovarja le, če mu oškodovanec dokaže malomarnost.",
+        "prevod_sr": "Imalac odgovara samo ako mu oštećeni dokaže nepažnju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odgovara se bez obzira na krivicu (OZ, 131. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "nevarna stvar",
+      "nevarna dejavnost",
+      "imetnik",
+      "domneva vzročnosti"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 131. člen, 2. odst.; 149. člen; 150. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-006",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Objektivna odgovornost – nevarna stvar in dejavnost",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "V katerih primerih je imetnik nevarne stvari po OZ v celoti prost odgovornosti?",
+    "prevod_sr": "U kojim slučajevima je imalac opasne stvari po OZ u celini oslobođen odgovornosti?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če je k nastanku škode prispeval kdo tretji.",
+        "prevod_sr": "Ako je nastanku štete doprinelo treće lice.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: treći tada odgovara oštećenom solidarno sa imaocem stvari (OZ, 153. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Če je oškodovanec prispeval k nastanku škode.",
+        "prevod_sr": "Ako je oštećeni doprineo nastanku štete.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: tada je imalac samo delimično oslobođen odgovornosti (OZ, 153. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Če dokaže, da je s stvarjo ravnal s skrbnostjo dobrega gospodarja.",
+        "prevod_sr": "Ako dokaže da je sa stvari postupao sa pažnjom dobrog domaćina.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odgovornost je objektivna; dokaz o pažnji ne oslobađa (OZ, 131. člen, 2. odst.; 153. člen)."
+      },
+      {
+        "besedilo_sl": "Če dokaže, da izvira škoda iz vzroka, ki je bil izven stvari in njegovega učinka ni bilo mogoče pričakovati, se mu izogniti ali ga odvrniti.",
+        "prevod_sr": "Ako dokaže da šteta potiče iz uzroka koji je bio izvan stvari i čije se dejstvo nije moglo predvideti, izbeći ili otkloniti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: viša sila kao razlog oslobođenja (OZ, 153. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če dokaže, da je škoda nastala izključno zaradi dejanja oškodovanca ali koga tretjega, ki ga ni mogel pričakovati in se njegovim posledicam ne izogniti ali jih odstraniti.",
+        "prevod_sr": "Ako dokaže da je šteta nastala isključivo zbog radnje oštećenog ili trećeg lica, koju nije mogao predvideti niti njene posledice izbeći ili otkloniti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 153. člen, 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "oprostitev odgovornosti",
+      "imetnik",
+      "nevarna stvar"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 153. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-007",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Odgovornost za drugega – delodajalec",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o odgovornosti delodajalca za škodo, ki jo delavec pri delu ali v zvezi z delom povzroči tretji osebi, NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o odgovornosti poslodavca za štetu koju radnik na radu ili u vezi sa radom prouzrokuje trećem licu NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Regresna pravica proti delavcu zastara v treh letih od dneva, ko je bila odškodnina plačana.",
+        "prevod_sr": "Pravo regresa prema radniku zastareva za tri godine od dana isplate naknade.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): to pravo zastareva za šest meseci od dana isplate naknade (OZ, 147. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Oškodovanec lahko zahteva povrnitev škode neposredno od delavca tudi, če jo je ta povzročil iz lahke malomarnosti.",
+        "prevod_sr": "Oštećeni može zahtevati naknadu neposredno od radnika i ako ju je ovaj prouzrokovao iz obične nepažnje.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): neposredno od radnika može se zahtevati samo ako je štetu prouzrokovao namerno (OZ, 147. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Kdor je oškodovancu povrnil škodo, lahko od delavca zahteva povrnitev plačanega zneska, če je ta škodo povzročil namenoma ali iz hude malomarnosti.",
+        "prevod_sr": "Ko je oštećenom naknadio štetu može od radnika zahtevati naknadu plaćenog iznosa ako je ovaj štetu prouzrokovao namerno ili iz grube nepažnje.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna – regres (OZ, 147. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Odgovarja pravna ali fizična oseba, pri kateri je delavec delal takrat, ko je bila škoda povzročena.",
+        "prevod_sr": "Odgovara pravno ili fizičko lice kod koga je radnik radio u trenutku prouzrokovanja štete.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 147. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Delodajalec je prost odgovornosti, če dokaže, da je delavec v danih okoliščinah ravnal tako, kot je bilo treba.",
+        "prevod_sr": "Poslodavac je oslobođen odgovornosti ako dokaže da je radnik u datim okolnostima postupao onako kako je trebalo.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 147. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "delodajalec",
+      "delavec",
+      "regres",
+      "huda malomarnost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 147. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-008",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Odgovornost za drugega – delodajalec",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Delavec družbe A, d. o. o., med montažo pri stranki iz hude malomarnosti poškoduje strankin stroj. Kaj velja po OZ?",
+    "prevod_sr": "Radnik društva A, d. o. o., tokom montaže kod stranke iz grube nepažnje ošteti strankinu mašinu. Šta važi po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Družba A lahko regresni zahtevek proti delavcu uveljavlja pet let od plačila odškodnine.",
+        "prevod_sr": "Društvo A može regresni zahtev prema radniku ostvarivati pet godina od isplate naknade.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravo regresa zastareva za šest meseci od dana isplate (OZ, 147. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Stranka lahko odškodnino zahteva tudi neposredno od delavca.",
+        "prevod_sr": "Stranka može naknadu zahtevati i neposredno od radnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: neposredno od radnika samo ako je štetu prouzrokovao namerno; ovde je gruba nepažnja (OZ, 147. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba A lahko po plačilu odškodnine zahteva od delavca povrnitev plačanega zneska.",
+        "prevod_sr": "Društvo A može posle isplate naknade zahtevati od radnika naknadu plaćenog iznosa.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: regres postoji kod namere ili grube nepažnje (OZ, 147. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Stranka lahko zahteva odškodnino od družbe A.",
+        "prevod_sr": "Stranka može zahtevati naknadu štete od društva A.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: za štetu koju radnik na radu prouzrokuje trećem odgovara lice kod koga je radio (OZ, 147. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba A ne odgovarja, ker pravna oseba ne odgovarja za ravnanje delavca.",
+        "prevod_sr": "Društvo A ne odgovara jer pravno lice ne odgovara za postupke radnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odgovara pravno ili fizičko lice kod koga je radnik radio (OZ, 147. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "delodajalec",
+      "delavec",
+      "regres"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 147. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-009",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Povrnitev škode",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere trditve o povrnitvi premoženjske škode so pravilne?",
+    "prevod_sr": "Koje su tvrdnje o naknadi imovinske štete tačne?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Oškodovanec ima pravico tako do povrnitve navadne škode kot tudi do povrnitve izgubljenega dobička.",
+        "prevod_sr": "Oštećeni ima pravo i na naknadu obične štete i na naknadu izmakle koristi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 168. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Odgovorna oseba je dolžna vzpostaviti stanje, ki je bilo, preden je škoda nastala.",
+        "prevod_sr": "Odgovorno lice dužno je da uspostavi stanje koje je bilo pre nastanka štete.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: naturalna restitucija je osnovno pravilo (OZ, 164. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Povračilo škode se odmerja po cenah ob nastanku škode, razen če zakon določa kaj drugega.",
+        "prevod_sr": "Naknada štete odmerava se prema cenama u vreme nastanka štete, osim ako zakon određuje drugačije.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odmerava se prema cenama u vreme donošenja sudske odluke (OZ, 168. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Kadar vzpostavitev prejšnjega stanja ni mogoča, sodišče odloči, da mora odgovorna oseba izplačati ustrezno denarno odškodnino.",
+        "prevod_sr": "Kada uspostavljanje ranijeg stanja nije moguće, sud odlučuje da odgovorno lice isplati odgovarajuću novčanu naknadu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 164. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Odškodninska obveznost se šteje za zapadlo od trenutka nastanka škode.",
+        "prevod_sr": "Obaveza naknade štete smatra se dospelom od trenutka nastanka štete.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 165. člen."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "vzpostavitev prejšnjega stanja",
+      "denarna odškodnina",
+      "zapadlost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 164. člen; 165. člen; 168. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-010",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Deljena odgovornost",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Kupec v trgovini spodrsne na mokrih in neoznačenih tleh, pri tem pa je tekel in gledal v telefon. Sodišče ugotovi, da je k nastanku škode prispeval tudi sam. Kaj velja po OZ?",
+    "prevod_sr": "Kupac se u prodavnici oklizne na mokrom i neobeleženom podu, a pri tome je trčao i gledao u telefon. Sud utvrdi da je nastanku štete doprineo i sam. Šta važi po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Oškodovanec izgubi pravico do odškodnine v celoti.",
+        "prevod_sr": "Oštećeni u celini gubi pravo na naknadu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: naknada se samo srazmerno smanjuje (OZ, 171. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Oškodovanec ima pravico samo do sorazmerno zmanjšane odškodnine.",
+        "prevod_sr": "Oštećeni ima pravo samo na srazmerno smanjenu naknadu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: podeljena odgovornost (OZ, 171. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Oškodovanec ima kljub svojemu prispevku pravico do popolne odškodnine.",
+        "prevod_sr": "Oštećeni uprkos svom doprinosu ima pravo na potpunu naknadu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ko je sam doprineo nastanku štete ima pravo samo na srazmerno smanjenu naknadu (OZ, 171. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Prispevek oškodovanca se upošteva samo pri nepremoženjski škodi.",
+        "prevod_sr": "Doprinos oštećenog uzima se u obzir samo kod nematerijalne štete.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravilo je propisano za imovinsku štetu, a shodno se primenjuje i na nematerijalnu (OZ, 171. člen; 185. člen)."
+      },
+      {
+        "besedilo_sl": "Škoda se v takem primeru vedno razdeli na polovico.",
+        "prevod_sr": "Šteta se u tom slučaju uvek deli na pola.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: smanjenje je srazmerno; ako se deo ne može utvrditi, sud odlučuje prema okolnostima slučaja (OZ, 171. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "deljena odgovornost",
+      "oškodovanec",
+      "zmanjšanje odškodnine"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 171. člen; 185. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-011",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Odgovornost več oseb za isto škodo",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o odgovornosti več oseb za isto škodo NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o odgovornosti više lica za istu štetu NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Naročitelj in izvajalec del na nepremičnini odgovarjata tretjemu solidarno za škodo, ki sta mu jo povzročila v zvezi z izvajanjem teh del.",
+        "prevod_sr": "Naručilac i izvođač radova na nepokretnosti odgovaraju trećem solidarno za štetu koju su mu prouzrokovali u vezi sa izvođenjem tih radova.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 187. člen)."
+      },
+      {
+        "besedilo_sl": "Za škodo, ki jo je povzročilo več oseb skupaj, odgovarjajo vsi udeleženci solidarno.",
+        "prevod_sr": "Za štetu koju je više lica prouzrokovalo zajedno svi učesnici odgovaraju solidarno.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 186. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Solidarni dolžnik, ki plača več, kot znaša njegov delež v škodi, od drugih dolžnikov ne more zahtevati povračila.",
+        "prevod_sr": "Solidarni dužnik koji plati više od svog udela u šteti ne može od ostalih dužnika zahtevati naknadu.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): može od svakog drugog dužnika zahtevati ono što je platio za njega – regres (OZ, 188. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če deležev dolžnikov ni mogoče ugotoviti, pade na vsakega enak delež, razen če pravičnost zahteva drugačno odločitev.",
+        "prevod_sr": "Ako se udeli dužnika ne mogu utvrditi, na svakog pada jednak deo, osim ako pravičnost zahteva drugačiju odluku.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 188. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Napeljevalec in pomagač odgovarjata solidarno z osebami, odgovornimi za škodo.",
+        "prevod_sr": "Podstrekač i pomagač odgovaraju solidarno sa licima odgovornim za štetu.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 186. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "solidarna odgovornost",
+      "regres",
+      "napeljevalec"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 186. člen; 187. člen; 188. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-012",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Neupravičena pridobitev",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po OZ za neupravičeno pridobitev?",
+    "prevod_sr": "Šta po OZ važi za neosnovano obogaćenje?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Kdor kaj plača, čeprav ve, da ni dolžan, lahko plačano vedno zahteva nazaj.",
+        "prevod_sr": "Ko nešto plati iako zna da nije dužan, uvek može tražiti nazad ono što je platio.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nema pravo na vraćanje, osim ako je zadržao to pravo ili je platio da bi izbegao prinudu (OZ, 191. člen)."
+      },
+      {
+        "besedilo_sl": "Obveznost vrnitve nastane tudi, če kdo nekaj prejme glede na podlago, ki se ni uresničila ali je pozneje odpadla.",
+        "prevod_sr": "Obaveza vraćanja nastaje i kada neko nešto primi s obzirom na osnov koji se nije ostvario ili je kasnije otpao.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 190. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Nepošteni pridobitelj mora plačati zamudne obresti od dneva pridobitve.",
+        "prevod_sr": "Nesavesni sticalac mora platiti zateznu kamatu od dana sticanja.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: nesavestan od dana sticanja, savestan od dana podnošenja zahteva (OZ, 193. člen)."
+      },
+      {
+        "besedilo_sl": "Kdor je bil brez pravnega temelja obogaten na škodo drugega, je prejeto dolžan vrniti, če je to mogoče, sicer pa nadomestiti vrednost dosežene koristi.",
+        "prevod_sr": "Ko se bez pravnog osnova obogatio na štetu drugog, dužan je da primljeno vrati ako je to moguće, a inače da naknadi vrednost postignute koristi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: opšte pravilo (OZ, 190. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Kar je bilo dano za izpolnitev naravne obveznosti ali moralne dolžnosti, je mogoče zahtevati nazaj.",
+        "prevod_sr": "Ono što je dato radi ispunjenja prirodne obaveze ili moralne dužnosti može se tražiti nazad.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to se ne može tražiti nazad (OZ, 192. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "neupravičena pridobitev",
+      "pravni temelj",
+      "nepošteni pridobitelj"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 190. člen; 191. člen; 192. člen; 193. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-013",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Poslovodstvo brez naročila",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj od navedenega po OZ NE velja za poslovodstvo brez naročila?",
+    "prevod_sr": "Šta od navedenog po OZ NE važi za poslovodstvo bez naloga?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Poslovodja brez naročila, ki je v vsem ravnal, kot je treba, nima pravice do povračila potrebnih in koristnih izdatkov, če pričakovani uspeh ni bil dosežen.",
+        "prevod_sr": "Poslovođa bez naloga koji je u svemu postupao kako treba nema pravo na naknadu nužnih i korisnih izdataka ako očekivani uspeh nije postignut.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (ne važi): ima pravo na naknadu nužnih i korisnih izdataka čak i ako očekivani uspeh nije postignut (OZ, 202. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Poslovodja brez naročila mora takoj, ko je mogoče, obvestiti o svojem ravnanju tistega, čigar posel opravlja.",
+        "prevod_sr": "Poslovođa bez naloga mora čim je moguće obavestiti o svom postupanju onoga čiji posao obavlja.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja važi (OZ, 200. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Poslovodji brez naročila po končanem poslu ni treba dati računa.",
+        "prevod_sr": "Poslovođa bez naloga po završenom poslu ne mora da položi račun.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (ne važi): po završenom poslu mora položiti račun i predati sve što je poslom pribavio (OZ, 200. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Tujega posla se sme kdo nepoklicano lotiti samo, če ga ni mogoče odložiti, ker bi sicer nastala škoda ali bi bila zamujena očitna korist.",
+        "prevod_sr": "Tuđeg posla se neko nepozvan sme latiti samo ako se on ne može odložiti jer bi inače nastala šteta ili bila propuštena očigledna korist.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja važi (OZ, 199. člen)."
+      },
+      {
+        "besedilo_sl": "Kdor se loti tujega posla kljub prepovedi, za katero je vedel, ima enake pravice kot poslovodja brez naročila.",
+        "prevod_sr": "Ko se lati tuđeg posla uprkos zabrani za koju je znao ima ista prava kao poslovođa bez naloga.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (ne važi): takvo lice nema prava poslovođe bez naloga (OZ, 204. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "poslovodstvo brez naročila",
+      "poslovodja brez naročila",
+      "izdatki"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 199. člen; 200. člen; 202. člen; 204. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-014",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Pogodbena kazen",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za pogodbeno kazen po OZ?",
+    "prevod_sr": "Šta važi za ugovornu kaznu po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Upnik in dolžnik jo dogovorita za primer, da dolžnik ne izpolni svoje obveznosti ali zamudi z njeno izpolnitvijo.",
+        "prevod_sr": "Poverilac i dužnik je ugovaraju za slučaj da dužnik ne ispuni svoju obavezu ili zadocni sa ispunjenjem.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: pojam ugovorne kazne (OZ, 247. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Dogovori se lahko tudi za zamudo s plačilom denarne obveznosti.",
+        "prevod_sr": "Može se ugovoriti i za docnju sa plaćanjem novčane obaveze.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ugovorna kazna ne može biti ugovorena za novčane obaveze (OZ, 247. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Sporazum o pogodbeni kazni deli pravno usodo obveznosti, na katere zavarovanje se nanaša.",
+        "prevod_sr": "Sporazum o ugovornoj kazni deli pravnu sudbinu obaveze na čije se obezbeđenje odnosi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: akcesornost (OZ, 249. člen)."
+      },
+      {
+        "besedilo_sl": "Določena mora biti izključno v denarnem znesku.",
+        "prevod_sr": "Mora biti određena isključivo u novčanom iznosu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: može biti novčani iznos ili neka druga imovinska korist (OZ, 247. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če iz pogodbe ne izhaja kaj drugega, se šteje, da je dogovorjena za primer zamude.",
+        "prevod_sr": "Ako iz ugovora ne proizlazi drugo, smatra se da je ugovorena za slučaj docnje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 247. člen, 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pogodbena kazen",
+      "zamuda",
+      "denarna obveznost",
+      "akcesornost"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3.txt, vpr. 8; vprasanja_2.txt, vpr. 17",
+      "zakon_clen": "OZ, 247. člen; 249. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-015",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Pogodbena kazen",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Izvajalec in naročnik sta dogovorila pogodbeno kazen za primer zamude z dokončanjem del. Izvajalec dela dokonča z 20-dnevno zamudo; naročnik dela sprejme in izvajalcu o pogodbeni kazni ne sporoči ničesar. Kaj velja po OZ?",
+    "prevod_sr": "Izvođač i naručilac ugovorili su ugovornu kaznu za slučaj docnje sa završetkom radova. Izvođač radove završi sa 20 dana zakašnjenja; naručilac primi radove i izvođaču o ugovornoj kazni ništa ne saopšti. Šta važi po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Naročnik bi moral izbrati med izpolnitvijo obveznosti in pogodbeno kaznijo, ker obojega ni mogoče zahtevati.",
+        "prevod_sr": "Naručilac bi morao da bira između ispunjenja obaveze i ugovorne kazne, jer se oboje ne može zahtevati.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: izbor (ili–ili) važi kod kazne za neispunjenje; kod kazne za docnju može se zahtevati oboje (OZ, 251. člen, 1. in 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Pri kazni, dogovorjeni za zamudo, ima upnik pravico zahtevati tako izpolnitev obveznosti kot pogodbeno kazen.",
+        "prevod_sr": "Kod kazne ugovorene za docnju poverilac ima pravo da zahteva i ispunjenje obaveze i ugovornu kaznu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 251. člen, 4. odst."
+      },
+      {
+        "besedilo_sl": "Naročnik pogodbene kazni zaradi zamude ne more zahtevati, ker je sprejel izpolnitev in izvajalcu ni nemudoma sporočil, da si pridržuje pravico do kazni.",
+        "prevod_sr": "Naručilac ne može zahtevati ugovornu kaznu zbog docnje, jer je primio ispunjenje a izvođaču nije bez odlaganja saopštio da zadržava pravo na kaznu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 251. člen, 5. odst."
+      },
+      {
+        "besedilo_sl": "Naročnik lahko pogodbeno kazen zahteva pozneje, čeprav si pravice do nje ob sprejemu izpolnitve ni pridržal.",
+        "prevod_sr": "Naručilac može ugovornu kaznu zahtevati kasnije, iako pravo na nju nije zadržao prilikom prijema ispunjenja.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: bez neodložnog saopštenja o zadržavanju prava kazna zbog docnje se ne može zahtevati (OZ, 251. člen, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodbena kazen pripada upniku le, če dokaže, da mu je zaradi zamude nastala škoda.",
+        "prevod_sr": "Ugovorna kazna pripada poveriocu samo ako dokaže da mu je zbog docnje nastala šteta.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: poverilac ima pravo na kaznu čak i ako mu nije nastala nikakva šteta (OZ, 253. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pogodbena kazen",
+      "zamuda",
+      "pridržek pravice"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 251. člen; 253. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-016",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Pogodbena kazen",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o pogodbeni kazni NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o ugovornoj kazni NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Sodišče na dolžnikovo zahtevo zmanjša pogodbeno kazen, če je glede na vrednost in pomen predmeta obveznosti nesorazmerno visoka.",
+        "prevod_sr": "Sud na zahtev dužnika smanjuje ugovornu kaznu ako je s obzirom na vrednost i značaj predmeta obaveze nesrazmerno visoka.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 252. člen)."
+      },
+      {
+        "besedilo_sl": "Upnik lahko zahteva pogodbeno kazen, celo če mu ni nastala nobena škoda.",
+        "prevod_sr": "Poverilac može zahtevati ugovornu kaznu čak i ako mu nije nastala nikakva šteta.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 253. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če je škoda večja od pogodbene kazni, upnik razlike do popolne odškodnine ne more zahtevati.",
+        "prevod_sr": "Ako je šteta veća od ugovorne kazne, poverilac ne može zahtevati razliku do potpune naknade.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): poverilac ima pravo na razliku do potpune naknade (OZ, 253. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Upnik lahko zahteva pogodbeno kazen tudi, če je do zamude prišlo iz vzroka, za katerega dolžnik ne odgovarja.",
+        "prevod_sr": "Poverilac može zahtevati ugovornu kaznu i ako je do docnje došlo iz uzroka za koji dužnik ne odgovara.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): u tom slučaju kaznu ne može zahtevati (OZ, 250. člen)."
+      },
+      {
+        "besedilo_sl": "Upnik lahko zahteva pogodbeno kazen, tudi če presega škodo, ki mu je nastala.",
+        "prevod_sr": "Poverilac može zahtevati ugovornu kaznu i ako ona premašuje štetu koja mu je nastala.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 253. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pogodbena kazen",
+      "popolna odškodnina",
+      "zmanjšanje pogodbene kazni"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 250. člen; 252. člen; 253. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-017",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zamudne in pogodbene obresti",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za zamudne obresti po OZ?",
+    "prevod_sr": "Šta važi za zateznu kamatu po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če je škoda zaradi zamude večja od zneska zamudnih obresti, lahko upnik zahteva razliko do popolne odškodnine.",
+        "prevod_sr": "Ako je šteta zbog docnje veća od iznosa zatezne kamate, poverilac može zahtevati razliku do potpune naknade.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 380. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Dolguje jih dolžnik, ki je v zamudi z izpolnitvijo denarne obveznosti.",
+        "prevod_sr": "Duguje ih dužnik koji je u docnji sa ispunjenjem novčane obaveze.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 378. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Obrestna mera zamudnih obresti po OZ znaša 8 % letno, če poseben zakon ne določa drugače.",
+        "prevod_sr": "Stopa zatezne kamate po OZ iznosi 8 % godišnje, ako poseban zakon ne određuje drugačije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno po tekstu OZ: stopa zatezne kamate iznosi 8 % godišnje, ako poseban zakon ne određuje drugačije (OZ, 378. člen, 2. odst.). Napomena: sama odredba upućuje na poseban zakon, pa stopa koja se stvarno primenjuje može biti drugačija; pitanje se odnosi isključivo na tekst OZ."
+      },
+      {
+        "besedilo_sl": "Upnik in dolžnik se ne moreta dogovoriti za nižjo ali višjo obrestno mero zamudnih obresti od zakonske.",
+        "prevod_sr": "Poverilac i dužnik ne mogu ugovoriti nižu ili višu stopu zatezne kamate od zakonske.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: mogu ugovoriti nižu ili višu stopu (OZ, 379. člen)."
+      },
+      {
+        "besedilo_sl": "Upnik ima pravico do zamudnih obresti le, če dokaže, da mu je zaradi zamude nastala škoda.",
+        "prevod_sr": "Poverilac ima pravo na zateznu kamatu samo ako dokaže da mu je zbog docnje nastala šteta.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravo na zateznu kamatu postoji bez obzira na to da li je nastala šteta (OZ, 380. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zamudne obresti",
+      "obrestna mera",
+      "denarna obveznost"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3.txt, vpr. 9 in 34 (tema; ključ po OZ)",
+      "zakon_clen": "OZ, 378. člen; 379. člen; 380. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-018",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zamudne in pogodbene obresti",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o obrestih po OZ NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o kamatama po OZ NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če so dogovorjene pogodbene obresti, nista pa določeni obrestna mera in zapadlost, je obrestna mera 6 % letno.",
+        "prevod_sr": "Ako je ugovorena ugovorna kamata, a nisu određeni stopa i dospelost, stopa je 6 % godišnje.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 382. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Od zapadlih, pa ne plačanih obresti ne tečejo zamudne obresti, če zakon ne določa drugače.",
+        "prevod_sr": "Na dospelu a neplaćenu kamatu ne teče zatezna kamata, ako zakon ne određuje drugačije.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna – zabrana kamate na kamatu (OZ, 375. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Od neplačanih obresti je mogoče zahtevati zamudne obresti samo od dneva, ko je pri sodišču vložen zahtevek za njihovo plačilo.",
+        "prevod_sr": "Na neplaćenu kamatu može se zahtevati zatezna kamata samo od dana kada je sudu podnet zahtev za njenu isplatu.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna – procesna kamata (OZ, 381. člen)."
+      },
+      {
+        "besedilo_sl": "Pogodbene obresti tečejo naprej tudi potem, ko vsota zapadlih, pa ne plačanih obresti doseže glavnico.",
+        "prevod_sr": "Ugovorna kamata teče i dalje i nakon što zbir dospele a neplaćene kamate dostigne glavnicu.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): ugovorna kamata tada prestaje da teče (OZ, 382.a člen)."
+      },
+      {
+        "besedilo_sl": "Pogodbeno določilo, da od zapadlih neplačanih obresti tečejo obresti, je veljavno.",
+        "prevod_sr": "Ugovorna odredba da na dospelu neplaćenu kamatu teče kamata je punovažna.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): takva odredba je ništava (OZ, 375. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "obrestne obresti",
+      "pogodbene obresti",
+      "procesne obresti",
+      "glavnica"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 375. člen; 381. člen; 382. člen; 382.a člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-019",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Ara in odstopnina",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Kupec je ob sklenitvi pogodbe dal prodajalcu aro. Za neizpolnitev pogodbe je odgovoren kupec. Kaj sme po OZ storiti prodajalec?",
+    "prevod_sr": "Kupac je pri zaključenju ugovora dao prodavcu kaparu. Za neispunjenje ugovora odgovoran je kupac. Šta po OZ sme da učini prodavac?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zadovolji se s prejeto aro.",
+        "prevod_sr": "Zadovolji se primljenom kaparom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: druga mogućnost po izboru (OZ, 65. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Aro mora v vsakem primeru vrniti kupcu.",
+        "prevod_sr": "Kaparu u svakom slučaju mora da vrati kupcu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: može se zadovoljiti primljenom kaparom (OZ, 65. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Obdrži aro in poleg tega zahteva izpolnitev pogodbe ter celotno odškodnino, ne da bi aro vštel.",
+        "prevod_sr": "Zadrži kaparu i pored toga zahteva ispunjenje ugovora i celu naknadu štete, bez uračunavanja kapare.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ako zahteva ispunjenje i naknadu štete, kaparu mora uračunati u naknadu ili vratiti (OZ, 65. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Zahteva izpolnitev pogodbe, če je to še mogoče, in povrnitev škode, aro pa všteje v odškodnino ali vrne.",
+        "prevod_sr": "Zahteva ispunjenje ugovora, ako je to još moguće, i naknadu štete, a kaparu uračuna u naknadu ili vrati.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: jedna od mogućnosti strane koja je primila kaparu (OZ, 65. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Zahteva od kupca plačilo dvojne are.",
+        "prevod_sr": "Zahteva od kupca plaćanje dvostruke kapare.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: vraćanje dvostruke kapare može se zahtevati kada je odgovorna strana koja je kaparu primila (OZ, 65. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "ara",
+      "dvojna ara",
+      "neizpolnitev pogodbe"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2.txt, vpr. 6; vprasanja_3.txt, vpr. 25",
+      "zakon_clen": "OZ, 64. člen; 65. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-020",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Ara in odstopnina",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj je odstopnina (skesnina) po OZ?",
+    "prevod_sr": "Šta je odustanica po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Dajatev, s katero lahko po dogovoru ena ali vsaka pogodbena stranka odstopi od pogodbe.",
+        "prevod_sr": "Davanje kojim po sporazumu jedna ili svaka ugovorna strana može odustati od ugovora.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: strane mogu ugovoriti pravo na odustanak ako se da odustanica (OZ, 67. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Denarni znesek, ki ga dolžnik po dogovoru plača upniku, če zamudi z izpolnitvijo nedenarne obveznosti.",
+        "prevod_sr": "Novčani iznos koji dužnik po sporazumu plaća poveriocu ako zadocni sa ispunjenjem nenovčane obaveze.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je ugovorna kazna (OZ, 247. člen)."
+      },
+      {
+        "besedilo_sl": "Obresti, ki jih dolguje dolžnik, ki je v zamudi z izpolnitvijo denarne obveznosti.",
+        "prevod_sr": "Kamata koju duguje dužnik koji je u docnji sa ispunjenjem novčane obaveze.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je zatezna kamata (OZ, 378. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Znesek denarja, ki se da ob sklenitvi pogodbe v znamenje, da je pogodba sklenjena.",
+        "prevod_sr": "Iznos novca koji se daje pri zaključenju ugovora kao znak da je ugovor zaključen.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je kapara (ara) (OZ, 64. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Dajatev, ki jo mora dati stranka, da lahko zahteva izpolnitev pogodbe od druge stranke.",
+        "prevod_sr": "Davanje koje strana mora dati da bi mogla zahtevati ispunjenje ugovora od druge strane.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odustanica služi odustanku; strana koja izjavi da će dati odustanicu više ne može zahtevati ispunjenje (OZ, 67. člen, 1. in 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "odstopnina",
+      "skesnina",
+      "ara",
+      "odstop od pogodbe"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 67. člen; 64. člen; 247. člen; 378. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-021",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Poroštvo",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za poroštveno pogodbo po OZ?",
+    "prevod_sr": "Šta važi za ugovor o jemstvu po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Poroštvo je mogoče prevzeti tudi za pogojno obveznost ter za določeno bodočo obveznost.",
+        "prevod_sr": "Jemstvo se može preuzeti i za uslovnu obavezu i za određenu buduću obavezu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 1016. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Z njo se porok zaveže glavnemu dolžniku, ne pa upniku.",
+        "prevod_sr": "Njome se jemac obavezuje glavnom dužniku, a ne poveriocu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: jemac se obavezuje prema poveriocu (OZ, 1012. člen)."
+      },
+      {
+        "besedilo_sl": "Porokova obveznost je lahko večja od obveznosti glavnega dolžnika, če je tako dogovorjeno.",
+        "prevod_sr": "Obaveza jemca može biti veća od obaveze glavnog dužnika ako je tako ugovoreno.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ne može biti veća; ako je ugovoreno da je veća, smanjuje se na meru dužnikove obaveze (OZ, 1017. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Poroka zavezuje le, če da poroštveno izjavo pisno.",
+        "prevod_sr": "Jemca obavezuje samo ako izjavu o jemstvu da pismeno.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: pismena forma (OZ, 1013. člen)."
+      },
+      {
+        "besedilo_sl": "Porok se nasproti upniku zavezuje, da bo izpolnil veljavno in zapadlo obveznost dolžnika, če ta tega ne bi storil.",
+        "prevod_sr": "Jemac se prema poveriocu obavezuje da će ispuniti punovažnu i dospelu obavezu dužnika ako to ovaj ne učini.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: pojam jemstva (OZ, 1012. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "poroštvo",
+      "porok",
+      "poroštvena izjava",
+      "glavni dolžnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 1012. člen; 1013. člen; 1016. člen; 1017. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-022",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Poroštvo",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za subsidiarno in solidarno poroštvo?",
+    "prevod_sr": "Šta važi za supsidijarno i solidarno jemstvo?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pri subsidiarnem poroštvu upnik v nobenem primeru ne more zahtevati izpolnitve od poroka, ne da bi jo prej zahteval od glavnega dolžnika.",
+        "prevod_sr": "Kod supsidijarnog jemstva poverilac ni u kom slučaju ne može zahtevati ispunjenje od jemca a da ga prethodno nije zahtevao od glavnog dužnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: može, ako je očigledno da se iz sredstava glavnog dužnika ne može ostvariti ispunjenje ili ako je glavni dužnik pao u stečaj (OZ, 1019. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Če ni dogovorjeno kaj drugega, porok pri vsaki pogodbi odgovarja kot porok in plačnik.",
+        "prevod_sr": "Ako nije drugačije ugovoreno, jemac kod svakog ugovora odgovara kao jemac platac.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ta pretpostavka važi samo za obavezu nastalu iz privrednog ugovora (OZ, 1019. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Kdor se zaveže kot porok in plačnik, odgovarja upniku kot glavni dolžnik za celo obveznost.",
+        "prevod_sr": "Ko se obaveže kao jemac platac odgovara poveriocu kao glavni dužnik za celu obavezu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: solidarno jemstvo (OZ, 1019. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Pri subsidiarnem poroštvu se sme od poroka zahtevati izpolnitev šele potem, ko je glavni dolžnik ne izpolni v roku, ki je določen v pisni zahtevi.",
+        "prevod_sr": "Kod supsidijarnog jemstva od jemca se može zahtevati ispunjenje tek pošto glavni dužnik ne ispuni obavezu u roku određenom u pismenom zahtevu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 1019. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pri solidarnem poroštvu mora upnik izpolnitev najprej pisno zahtevati od glavnega dolžnika.",
+        "prevod_sr": "Kod solidarnog jemstva poverilac mora ispunjenje najpre pismeno zahtevati od glavnog dužnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: može zahtevati od glavnog dužnika, od jemca ili od obojice istovremeno (OZ, 1019. člen, 3. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "subsidiarno poroštvo",
+      "solidarno poroštvo",
+      "porok in plačnik"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2.txt, vpr. 11; vprasanja_3.txt, vpr. 12 in 36",
+      "zakon_clen": "OZ, 1019. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-023",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Poroštvo",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Družba B, d. o. o., je s pisno izjavo prevzela poroštvo za obveznost družbe C, d. o. o., iz pogodbe o dobavi blaga, ki jo je ta sklenila z družbo D, d. d. O obliki poroštva ni bilo dogovorjeno nič posebnega. Od koga lahko družba D po zapadlosti zahteva izpolnitev?",
+    "prevod_sr": "Društvo B, d. o. o., je pismenom izjavom preuzelo jemstvo za obavezu društva C, d. o. o., iz ugovora o isporuci robe koji je ono zaključilo sa društvom D, d. d. O obliku jemstva nije ništa posebno ugovoreno. Od koga društvo D po dospelosti može zahtevati ispunjenje?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Od družbe B šele potem, ko družba C ne izpolni v roku iz pisne zahteve.",
+        "prevod_sr": "Od društva B tek pošto društvo C ne ispuni u roku iz pismenog zahteva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je pravilo supsidijarnog jemstva; kod privrednog ugovora jemac odgovara kao jemac platac (OZ, 1019. člen, 1. in 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Samo od družbe C, ker poroštvo med gospodarskimi subjekti ni dopustno.",
+        "prevod_sr": "Samo od društva C, jer jemstvo između privrednih subjekata nije dopušteno.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: jemstvo se može dati za svaku punovažnu obavezu; za privredne ugovore OZ čak predviđa solidarno jemstvo (OZ, 1016. člen, 1. odst.; 1019. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Samo od družbe B, ker je glavni dolžnik s poroštvom prost obveznosti.",
+        "prevod_sr": "Samo od društva B, jer je glavni dužnik jemstvom oslobođen obaveze.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: jemac odgovara pored dužnika; poverilac može zahtevati i od glavnog dužnika (OZ, 1012. člen; 1019. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Od družbe B šele, ko je družba C v stečaju.",
+        "prevod_sr": "Od društva B tek kada je društvo C u stečaju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: stečaj glavnog dužnika je izuzetak kod supsidijarnog jemstva; ovde je jemstvo solidarno (OZ, 1019. člen, 2. in 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Od družbe C, od družbe B ali od obeh hkrati.",
+        "prevod_sr": "Od društva C, od društva B ili od oba istovremeno.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: za obavezu iz privrednog ugovora jemac odgovara kao jemac platac (solidarno), ako nije drugačije ugovoreno (OZ, 1019. člen, 3. in 4. odst.; 13. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "poroštvo",
+      "gospodarska pogodba",
+      "porok in plačnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 1019. člen; 13. člen; 1012. člen; 1016. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-024",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zastavna pravica – pojem",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za zastavno pravico po SPZ?",
+    "prevod_sr": "Šta važi za založno pravo po SPZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zastavitelj lahko ustanovi zastavno pravico samo za zavarovanje svojega dolga.",
+        "prevod_sr": "Zalogodavac može zasnovati založno pravo samo radi obezbeđenja svog duga.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: može za obezbeđenje svog ili tuđeg duga (SPZ, 128. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Predmet zastavne pravice so lahko samo nepremičnine.",
+        "prevod_sr": "Predmet založnog prava mogu biti samo nepokretnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: predmet mogu biti stvari, prava i hartije od vrednosti (SPZ, 128. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Zastavni upnik se lahko zaradi neplačila zavarovane terjatve ob njeni zapadlosti poplača iz vrednosti zastavljenega predmeta pred vsemi drugimi upniki zastavitelja.",
+        "prevod_sr": "Založni poverilac može se zbog neplaćanja obezbeđenog potraživanja po dospelosti namiriti iz vrednosti založenog predmeta pre svih ostalih poverilaca zalogodavca.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: pojam založnog prava (SPZ, 128. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Zastavna pravica praviloma obstaja naprej, čeprav zavarovana terjatev preneha.",
+        "prevod_sr": "Založno pravo po pravilu postoji i dalje iako obezbeđeno potraživanje prestane.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ako prestane obezbeđeno potraživanje, založno pravo prestaje, osim ako zakon određuje drugačije (SPZ, 137. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Nastane lahko na podlagi pravnega posla, zakona ali odločbe sodišča.",
+        "prevod_sr": "Može nastati na osnovu pravnog posla, zakona ili odluke suda.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 130. člen."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zastavna pravica",
+      "zastavni upnik",
+      "zastavitelj",
+      "zavarovana terjatev"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 128. člen; 130. člen; 137. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-025",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Izpolnitev obveznosti",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kdo lahko po OZ izpolni obveznost?",
+    "prevod_sr": "Ko po OZ može ispuniti obavezu?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Upnik sme sprejeti izpolnitev od tretjega tudi, če mu je dolžnik ponudil, da bo svojo obveznost izpolnil sam.",
+        "prevod_sr": "Poverilac sme primiti ispunjenje od trećeg i ako mu je dužnik ponudio da će sam ispuniti svoju obavezu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u tom slučaju poverilac ne sme primiti ispunjenje od trećeg (OZ, 271. člen, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Obveznost lahko v vsakem primeru izpolni izključno dolžnik osebno.",
+        "prevod_sr": "Obavezu u svakom slučaju može ispuniti isključivo dužnik lično.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: može je ispuniti i treće lice; lično ispunjenje se traži samo ako to proizlazi iz ugovora ili prirode obaveze (OZ, 271. člen, 1. in 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Poslovno nesposoben dolžnik obveznosti nikoli ne more veljavno izpolniti.",
+        "prevod_sr": "Poslovno nesposoban dužnik nikada ne može punovažno ispuniti obavezu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: može, ako je postojanje obaveze nesumnjivo i ako je rok dospeo (OZ, 272. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Upnik je dolžan sprejeti izpolnitev od vsakogar, ki ima pravni interes, da bi bila obveznost izpolnjena, celo če dolžnik tej izpolnitvi nasprotuje.",
+        "prevod_sr": "Poverilac je dužan da primi ispunjenje od svakoga ko ima pravni interes da obaveza bude ispunjena, čak i ako se dužnik tome protivi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 271. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Obveznost lahko izpolni ne le dolžnik, temveč tudi kdo tretji.",
+        "prevod_sr": "Obavezu može ispuniti ne samo dužnik nego i treće lice.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 271. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "izpolnitev",
+      "dolžnik",
+      "upnik",
+      "pravni interes"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 271. člen; 272. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-026",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Izpolnitev obveznosti",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere trditve o izpolnitvi obveznosti so po OZ pravilne?",
+    "prevod_sr": "Koje su tvrdnje o ispunjenju obaveze po OZ tačne?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Stroške izpolnitve trpi upnik.",
+        "prevod_sr": "Troškove ispunjenja snosi poverilac.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: troškove ispunjenja snosi dužnik, ako ih nije prouzrokovao poverilac (OZ, 273. člen)."
+      },
+      {
+        "besedilo_sl": "Dolžnik lahko brez sporazuma z upnikom izpolni obveznost s čim drugim, če je to enake vrednosti.",
+        "prevod_sr": "Dužnik može bez sporazuma sa poveriocem ispuniti obavezu nečim drugim ako je iste vrednosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dužnik ne može ispuniti nečim drugim; zamena ispunjenja traži sporazum sa poveriocem (OZ, 282. člen, 1. odst.; 283. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Upnik ni dolžan sprejeti delne izpolnitve, razen če narava obveznosti nalaga kaj drugega.",
+        "prevod_sr": "Poverilac nije dužan da primi delimično ispunjenje, osim ako priroda obaveze nalaže drugačije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 285. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Izpolnitev tretjemu je veljavna, če jo je upnik pozneje odobril ali če jo je izkoristil.",
+        "prevod_sr": "Ispunjenje trećem je punovažno ako ga je poverilac naknadno odobrio ili se njime koristio.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 280. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Upnik je dolžan sprejeti delno izpolnitev denarne obveznosti, razen če ima poseben interes, da jo odkloni.",
+        "prevod_sr": "Poverilac je dužan da primi delimično ispunjenje novčane obaveze, osim ako ima poseban interes da ga odbije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 285. člen, 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "delna izpolnitev",
+      "nadomestna izpolnitev",
+      "stroški izpolnitve"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 273. člen; 280. člen; 282. člen; 283. člen; 285. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-027",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Izpolnitev obveznosti",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Dolžnik dolguje upniku 10.000 EUR glavnice, 800 EUR obresti in 200 EUR stroškov. Plača 1.000 EUR. Kako se po OZ to plačilo vračuna?",
+    "prevod_sr": "Dužnik duguje poveriocu 10.000 EUR glavnice, 800 EUR kamate i 200 EUR troškova. Plati 1.000 EUR. Kako se po OZ ta uplata uračunava?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Najprej se odplača glavnica, nato stroški in na koncu obresti.",
+        "prevod_sr": "Najpre se otplaćuje glavnica, zatim troškovi i na kraju kamata.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: glavnica je poslednja po redosledu (OZ, 288. člen)."
+      },
+      {
+        "besedilo_sl": "Najprej se odplačajo obresti (800 EUR), nato glavnica (200 EUR), stroški pa na koncu.",
+        "prevod_sr": "Najpre se otplaćuje kamata (800 EUR), zatim glavnica (200 EUR), a troškovi na kraju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prvo troškovi, zatim kamata, pa glavnica (OZ, 288. člen)."
+      },
+      {
+        "besedilo_sl": "Najprej se odplačajo stroški (200 EUR), nato obresti (800 EUR); glavnica ostane 10.000 EUR.",
+        "prevod_sr": "Najpre se otplaćuju troškovi (200 EUR), zatim kamata (800 EUR); glavnica ostaje 10.000 EUR.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: redosled je troškovi, zatim kamata i na kraju glavnica (OZ, 288. člen)."
+      },
+      {
+        "besedilo_sl": "Plačilo se porazdeli sorazmerno na glavnico, obresti in stroške.",
+        "prevod_sr": "Uplata se raspoređuje srazmerno na glavnicu, kamatu i troškove.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon određuje redosled, ne srazmernu raspodelu (OZ, 288. člen)."
+      },
+      {
+        "besedilo_sl": "Celotno plačilo se vračuna v glavnico, ki se zmanjša na 9.000 EUR.",
+        "prevod_sr": "Cela uplata se uračunava u glavnicu, koja se smanjuje na 9.000 EUR.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: glavnica se otplaćuje poslednja (OZ, 288. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "vračunavanje izpolnitve",
+      "glavnica",
+      "obresti",
+      "stroški"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 288. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-028",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Čas in kraj izpolnitve",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po OZ glede časa in kraja izpolnitve?",
+    "prevod_sr": "Šta po OZ važi u pogledu vremena i mesta ispunjenja?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če rok ni določen, pride dolžnik v zamudo samodejno po 30 dneh od nastanka obveznosti.",
+        "prevod_sr": "Ako rok nije određen, dužnik pada u docnju automatski po isteku 30 dana od nastanka obaveze.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: tada pada u docnju kada poverilac zahteva ispunjenje – usmeno, pismeno, vansudskom opomenom ili pokretanjem postupka (OZ, 299. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Denarne obveznosti se izpolnjujejo v kraju, v katerem ima dolžnik sedež oziroma prebivališče.",
+        "prevod_sr": "Novčane obaveze se ispunjavaju u mestu u kome dužnik ima sedište odnosno prebivalište.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ispunjavaju se u mestu sedišta odnosno prebivališta poverioca (OZ, 295. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če rok ni določen in ga ne zahtevajo niti namen posla, narava obveznosti ali druge okoliščine, lahko upnik zahteva takojšnjo izpolnitev.",
+        "prevod_sr": "Ako rok nije određen i ne zahtevaju ga ni svrha posla, priroda obaveze ni druge okolnosti, poverilac može zahtevati ispunjenje odmah.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 289. člen."
+      },
+      {
+        "besedilo_sl": "Če kraj izpolnitve ni določen in ga ni mogoče določiti niti po namenu posla, naravi obveznosti ali drugih okoliščinah, se obveznost izpolni v kraju, kjer je imel dolžnik ob nastanku obveznosti sedež oziroma prebivališče.",
+        "prevod_sr": "Ako mesto ispunjenja nije određeno niti se može odrediti po svrsi posla, prirodi obaveze ili drugim okolnostima, obaveza se ispunjava u mestu u kome je dužnik u vreme nastanka obaveze imao sedište odnosno prebivalište.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 294. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Dolžnik nedenarne obveznosti sme obveznost izpolniti pred rokom tudi, če rok ni bil dogovorjen izključno v njegovem interesu, upnik pa predčasne izpolnitve ne more odkloniti.",
+        "prevod_sr": "Dužnik nenovčane obaveze sme ispuniti obavezu pre roka i ako rok nije bio ugovoren isključivo u njegovom interesu, a poverilac prevremeno ispunjenje ne može odbiti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pre roka sme ispuniti ako je rok ugovoren isključivo u njegovom interesu; u ostalim slučajevima poverilac može prevremeno ispunjenje odbiti (OZ, 290. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "čas izpolnitve",
+      "kraj izpolnitve",
+      "sedež",
+      "prebivališče"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 289. člen; 290. člen; 294. člen; 295. člen; 299. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-029",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zamuda dolžnika in upnika",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj pride dolžnik po OZ v zamudo?",
+    "prevod_sr": "Kada dužnik po OZ pada u docnju?",
+    "odgovori": [
+      {
+        "besedilo_sl": "V vsakem primeru šele z vložitvijo tožbe.",
+        "prevod_sr": "U svakom slučaju tek podnošenjem tužbe.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dovoljan je istek roka, a ako roka nema i usmeni ili pismeni zahtev poverioca (OZ, 299. člen)."
+      },
+      {
+        "besedilo_sl": "Tudi kadar je rok določen, šele ko ga upnik pisno opomni.",
+        "prevod_sr": "I kada je rok određen, tek kada ga poverilac pismeno opomene.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: kada je rok određen, docnja nastaje samim istekom roka (OZ, 299. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če ne izpolni obveznosti v roku, ki je določen za izpolnitev.",
+        "prevod_sr": "Ako ne ispuni obavezu u roku određenom za ispunjenje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 299. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Če rok ni določen: ko upnik ustno ali pisno, z izvensodnim opominom ali z začetkom postopka za dosego izpolnitve zahteva, naj izpolni obveznost.",
+        "prevod_sr": "Ako rok nije određen: kada poverilac usmeno ili pismeno, vansudskom opomenom ili pokretanjem postupka radi ostvarenja ispunjenja zahteva da ispuni obavezu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 299. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Če rok ni določen, takoj ob nastanku obveznosti, brez upnikove zahteve.",
+        "prevod_sr": "Ako rok nije određen, odmah po nastanku obaveze, bez zahteva poverioca.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: bez određenog roka dužnik pada u docnju tek kada poverilac zahteva ispunjenje (OZ, 299. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zamuda dolžnika",
+      "opomin",
+      "rok za izpolnitev"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 299. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-030",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zamuda dolžnika in upnika",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj od navedenega po OZ NE velja za zamudo upnika?",
+    "prevod_sr": "Šta od navedenog po OZ NE važi za docnju poverioca?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Nevarnost naključnega uničenja ali poškodovanja stvari ostane na dolžniku.",
+        "prevod_sr": "Rizik slučajne propasti ili oštećenja stvari ostaje na dužniku.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (ne važi): taj rizik prelazi na poverioca (OZ, 301. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Od dneva upnikove zamude obresti tečejo naprej.",
+        "prevod_sr": "Od dana docnje poverioca kamata teče i dalje.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (ne važi): od dana docnje poverioca kamata prestaje da teče (OZ, 301. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Upnik pride v zamudo, če brez utemeljenega razloga noče sprejeti izpolnitve ali jo s svojim ravnanjem prepreči.",
+        "prevod_sr": "Poverilac pada u docnju ako bez osnovanog razloga neće da primi ispunjenje ili ga svojim ponašanjem spreči.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja važi (OZ, 300. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Upnik v zamudi je dolžan dolžniku povrniti stroške v zvezi z nadaljnjo hrambo stvari.",
+        "prevod_sr": "Poverilac u docnji dužan je da dužniku naknadi troškove u vezi sa daljim čuvanjem stvari.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja važi (OZ, 301. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Če pride upnik v zamudo, preneha dolžnikova zamuda.",
+        "prevod_sr": "Kada poverilac padne u docnju, prestaje docnja dužnika.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja važi (OZ, 301. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zamuda upnika",
+      "nevarnost naključnega uničenja",
+      "obresti"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 300. člen; 301. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-031",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Pobot (kompenzacija)",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kateri pogoji morajo biti po OZ izpolnjeni, da lahko dolžnik pobota svojo terjatev z upnikovo?",
+    "prevod_sr": "Koji uslovi po OZ moraju biti ispunjeni da bi dužnik mogao prebiti svoje potraživanje sa poveriočevim?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Terjatvi morata biti enako visoki.",
+        "prevod_sr": "Potraživanja moraju biti jednake visine.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon traži uzajamnost, istovrsnost i dospelost, ne i jednaku visinu (OZ, 311. člen)."
+      },
+      {
+        "besedilo_sl": "Obe terjatvi se glasita na denar ali na druge nadomestne stvari iste vrste in iste kakovosti.",
+        "prevod_sr": "Oba potraživanja glase na novac ili na druge zamenljive stvari iste vrste i istog kvaliteta.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: istovrsnost (OZ, 311. člen)."
+      },
+      {
+        "besedilo_sl": "Terjatvi sta vzajemni – dolžnik ima terjatev nasproti svojemu upniku.",
+        "prevod_sr": "Potraživanja su uzajamna – dužnik ima potraživanje prema svom poveriocu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: dužnik prebija potraživanje koje ima prema poveriocu sa onim što ovaj potražuje od njega (OZ, 311. člen)."
+      },
+      {
+        "besedilo_sl": "Pobot mora s svojo odločbo dovoliti sodišče.",
+        "prevod_sr": "Prebijanje mora svojom odlukom dozvoliti sud.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prebijanje nastaje izjavom jedne strane drugoj (OZ, 312. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Obe terjatvi sta zapadli.",
+        "prevod_sr": "Oba potraživanja su dospela.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: dospelost (OZ, 311. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pobot",
+      "kompenzacija",
+      "vzajemnost",
+      "zapadlost",
+      "nadomestne stvari"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2.txt, vpr. 3; vprasanja_3.txt, vpr. 22",
+      "zakon_clen": "OZ, 311. člen; 312. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-032",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Pobot (kompenzacija)",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere terjatve po OZ NE morejo prenehati s pobotom?",
+    "prevod_sr": "Koja potraživanja po OZ NE mogu prestati prebijanjem?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Terjatev, ki je ni mogoče zarubiti.",
+        "prevod_sr": "Potraživanje koje se ne može zapleniti.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: prebijanje je isključeno (OZ, 316. člen, 1. tč.)."
+      },
+      {
+        "besedilo_sl": "Terjatev, nastala z namerno povzročitvijo škode.",
+        "prevod_sr": "Potraživanje nastalo namernim prouzrokovanjem štete.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: prebijanje je isključeno (OZ, 316. člen, 3. tč.)."
+      },
+      {
+        "besedilo_sl": "Denarna terjatev iz gospodarske pogodbe.",
+        "prevod_sr": "Novčano potraživanje iz privrednog ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: nije među isključenim potraživanjima; uz opšte uslove može se prebiti (OZ, 311. člen; 316. člen)."
+      },
+      {
+        "besedilo_sl": "Terjatev, ki izvira iz zakonite obveznosti preživljanja.",
+        "prevod_sr": "Potraživanje koje potiče iz zakonske obaveze izdržavanja.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: prebijanje je isključeno (OZ, 316. člen, 5. tč.)."
+      },
+      {
+        "besedilo_sl": "Terjatev, ki je zastarala šele po tem, ko so se stekli pogoji za pobot.",
+        "prevod_sr": "Potraživanje koje je zastarelo tek pošto su se stekli uslovi za prebijanje.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: dug se može prebiti sa zastarelim potraživanjem ako ono nije bilo zastarelo kada su se stekli uslovi za prebijanje (OZ, 314. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pobot",
+      "rubež",
+      "preživljanje",
+      "zastarana terjatev"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 316. člen; 314. člen; 311. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-033",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Odpust dolga",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Upnik izjavi poroku, da od njega ne bo zahteval izpolnitve, in porok se s tem strinja. Kaj velja po OZ?",
+    "prevod_sr": "Poverilac izjavi jemcu da od njega neće zahtevati ispunjenje i jemac se s tim saglasi. Šta važi po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Glavni dolžnik s tem ni prost obveznosti.",
+        "prevod_sr": "Glavni dužnik time nije oslobođen obaveze.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: otpust duga jemcu ne oslobađa glavnog dužnika (OZ, 321. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če bi upnik dolg odpustil glavnemu dolžniku, bi bil prost tudi porok.",
+        "prevod_sr": "Da je poverilac otpustio dug glavnom dužniku, bio bi oslobođen i jemac.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: otpustom duga glavnom dužniku jemac je slobodan (OZ, 321. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "S tem je prost tudi glavni dolžnik.",
+        "prevod_sr": "Time je oslobođen i glavni dužnik.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: otpust duga jemcu ne oslobađa glavnog dužnika (OZ, 321. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Za odpust dolga zadostuje enostranska izjava upnika; strinjanje dolžnika ni potrebno.",
+        "prevod_sr": "Za otpust duga dovoljna je jednostrana izjava poverioca; saglasnost dužnika nije potrebna.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obaveza prestaje ako poverilac izjavi da neće zahtevati ispunjenje i dužnik se s tim saglasi (OZ, 319. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Sporazum o odpustu dolga je veljaven le, če je sklenjen v obliki, v kakršni je bil sklenjen posel, iz katerega je obveznost nastala.",
+        "prevod_sr": "Sporazum o otpustu duga punovažan je samo ako je zaključen u formi u kojoj je zaključen posao iz koga je obaveza nastala.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ta forma nije potrebna (OZ, 319. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "odpust dolga",
+      "porok",
+      "glavni dolžnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 319. člen; 321. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-034",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Prenovitev (novacija)",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za prenovitev (novacijo) po OZ?",
+    "prevod_sr": "Šta važi za prenov (novaciju) po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Sporazum, s katerim se spremeni samo rok ali kraj izpolnitve, se šteje za prenovitev.",
+        "prevod_sr": "Sporazum kojim se menja samo rok ili mesto ispunjenja smatra se prenovom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: takav sporazum se ne smatra prenovom (OZ, 323. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "S prejšnjo obveznostjo prenehata tudi zastava in poroštvo, razen če ni bilo s porokom ali z zastaviteljem drugače dogovorjeno.",
+        "prevod_sr": "Sa ranijom obavezom prestaju i zaloga i jemstvo, osim ako sa jemcem ili zalogodavcem nije drugačije ugovoreno.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 325. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Prenovitev se ne domneva.",
+        "prevod_sr": "Prenov se ne pretpostavlja.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ako strane nisu izrazile nameru da stara obaveza ugasne, ona postoji i dalje pored nove (OZ, 324. člen)."
+      },
+      {
+        "besedilo_sl": "Prenovitev ima učinek, tudi če je bila prejšnja obveznost nična.",
+        "prevod_sr": "Prenov ima dejstvo i ako je ranija obaveza bila ništava.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prenov je bez dejstva ako je ranija obaveza bila ništava ili je već ugasla (OZ, 326. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Obveznost preneha, če se upnik in dolžnik sporazumeta, da bosta obstoječo obveznost nadomestila z novo, ki ima drugačen predmet ali drugačno pravno podlago.",
+        "prevod_sr": "Obaveza prestaje ako se poverilac i dužnik sporazumeju da postojeću obavezu zamene novom koja ima drugačiji predmet ili drugačiji pravni osnov.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 323. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prenovitev",
+      "novacija",
+      "pravna podlaga",
+      "stranske pravice"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 323. člen; 324. člen; 325. člen; 326. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-035",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Drugi načini prenehanja obveznosti",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere trditve o prenehanju obveznosti so po OZ pravilne?",
+    "prevod_sr": "Koje su tvrdnje o prestanku obaveza po OZ tačne?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če so predmet obveznosti stvari, določene po vrsti, obveznost preneha, ko so uničene vse takšne stvari, kar jih ima dolžnik.",
+        "prevod_sr": "Ako su predmet obaveze stvari određene po rodu, obaveza prestaje kada su uništene sve takve stvari koje dužnik ima.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obaveza tada ne prestaje, čak ni kada su sve takve dužnikove stvari uništene bez njegove odgovornosti (OZ, 330. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Trajno dolžniško razmerje, katerega trajanje ni določeno, lahko vsaka stranka prekine z odpovedjo.",
+        "prevod_sr": "Trajni dužnički odnos čije trajanje nije određeno svaka strana može prekinuti otkazom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 333. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "S smrtjo dolžnika ali upnika preneha vsaka obveznost.",
+        "prevod_sr": "Smrću dužnika ili poverioca prestaje svaka obaveza.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prestaje samo obaveza nastala s obzirom na lična svojstva ugovornih strana ili lične sposobnosti dužnika (OZ, 334. člen)."
+      },
+      {
+        "besedilo_sl": "Obveznost preneha z združitvijo (konfuzijo), če v njej ista oseba postane upnik in dolžnik.",
+        "prevod_sr": "Obaveza prestaje sjedinjenjem (konfuzijom) ako u njoj isto lice postane poverilac i dužnik.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 328. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Obveznost preneha, če postane njena izpolnitev nemogoča zaradi okoliščin, za katere dolžnik ne odgovarja.",
+        "prevod_sr": "Obaveza prestaje ako njeno ispunjenje postane nemoguće zbog okolnosti za koje dužnik ne odgovara.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 329. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "združitev",
+      "konfuzija",
+      "nemožnost izpolnitve",
+      "odpoved",
+      "trajno dolžniško razmerje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 328. člen; 329. člen; 330. člen; 333. člen; 334. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-036",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zastaranje – pojem in učinki",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za zastaranje po OZ?",
+    "prevod_sr": "Šta važi za zastarelost po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Sodišče se ne sme ozirati na zastaranje, če se dolžnik nanj ne sklicuje.",
+        "prevod_sr": "Sud se ne sme obazirati na zastarelost ako se dužnik na nju ne pozove.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 335. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Dolžnik se lahko zastaranju veljavno odpove že ob sklenitvi pogodbe.",
+        "prevod_sr": "Dužnik se može punovažno odreći zastarelosti već pri zaključenju ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dužnik se ne može odreći zastarelosti pre nego što protekne vreme određeno za nju (OZ, 340. člen)."
+      },
+      {
+        "besedilo_sl": "S pravnim poslom ni mogoče določiti daljšega ali krajšega zastaranja, kot je čas, ki ga določa zakon.",
+        "prevod_sr": "Pravnim poslom se ne može odrediti duže ili kraće vreme zastarelosti od onog koje određuje zakon.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 339. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Dolžnik, ki je izpolnil zastarano obveznost, nima pravice terjati nazaj tistega, kar je dal, niti če ni vedel, da je obveznost zastarana.",
+        "prevod_sr": "Dužnik koji je ispunio zastarelu obavezu nema pravo da traži nazad ono što je dao, čak ni ako nije znao da je obaveza zastarela.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 342. člen."
+      },
+      {
+        "besedilo_sl": "Z zastaranjem preneha pravica zahtevati izpolnitev obveznosti.",
+        "prevod_sr": "Zastarelošću prestaje pravo zahtevati ispunjenje obaveze.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 335. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zastaranje",
+      "ugovor zastaranja",
+      "odpoved zastaranju",
+      "zastarana obveznost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 335. člen; 339. člen; 340. člen; 342. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-037",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zastaralni roki",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o zastaralnih rokih po OZ NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o rokovima zastarelosti po OZ NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Terjatve, ugotovljene s pravnomočno sodno odločbo, zastarajo v petih letih.",
+        "prevod_sr": "Potraživanja utvrđena pravnosnažnom sudskom odlukom zastarevaju za pet godina.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): zastarevaju za deset godina (OZ, 356. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Terjatev zakupnine zastara v enem letu.",
+        "prevod_sr": "Potraživanje zakupnine zastareva za jednu godinu.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): potraživanje zakupnine zastareva za tri godine (OZ, 351. člen)."
+      },
+      {
+        "besedilo_sl": "Terjatve zastarajo v petih letih, če ni z zakonom določen drugačen zastaralni rok.",
+        "prevod_sr": "Potraživanja zastarevaju za pet godina, ako zakonom nije određen drugačiji rok.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna – opšti rok (OZ, 346. člen)."
+      },
+      {
+        "besedilo_sl": "Terjatve iz gospodarskih pogodb zastarajo v treh letih.",
+        "prevod_sr": "Potraživanja iz privrednih ugovora zastarevaju za tri godine.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 349. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Občasne terjatve zastarajo v treh letih od zapadlosti vsake posamezne dajatve.",
+        "prevod_sr": "Povremena potraživanja zastarevaju za tri godine od dospelosti svakog pojedinog davanja.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 347. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "splošni zastaralni rok",
+      "gospodarska pogodba",
+      "občasne terjatve",
+      "zakupnina"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3.txt, vpr. 3 (tema: 3 leta pri gospodarskih pogodbah; ključ po OZ)",
+      "zakon_clen": "OZ, 346. člen; 347. člen; 349. člen; 351. člen; 356. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-038",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zastaralni roki",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere od navedenih terjatev po OZ zastarajo v enem letu?",
+    "prevod_sr": "Koja od navedenih potraživanja po OZ zastarevaju za jednu godinu?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Odškodninske terjatve za povzročeno škodo.",
+        "prevod_sr": "Potraživanja naknade prouzrokovane štete.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zastarevaju za tri godine od saznanja za štetu i štetnika, a u svakom slučaju za pet godina od nastanka štete (OZ, 352. člen)."
+      },
+      {
+        "besedilo_sl": "Terjatev na izstavitev listine za vpis v zemljiško knjigo.",
+        "prevod_sr": "Potraživanje izdavanja isprave za upis u zemljišnu knjigu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zastareva za deset godina (OZ, 350. člen)."
+      },
+      {
+        "besedilo_sl": "Terjatve radijske in televizijske postaje za sprejem programov.",
+        "prevod_sr": "Potraživanja radio i televizijske stanice za prijem programa.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 355. člen, 1. odst., 2. tč."
+      },
+      {
+        "besedilo_sl": "Terjatve za dobavljeno električno energijo, če je bila dobava izvršena za potrebe gospodinjstva.",
+        "prevod_sr": "Potraživanja za isporučenu električnu energiju, ako je isporuka izvršena za potrebe domaćinstva.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 355. člen, 1. odst., 1. tč."
+      },
+      {
+        "besedilo_sl": "Terjatve iz gospodarskih pogodb.",
+        "prevod_sr": "Potraživanja iz privrednih ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zastarevaju za tri godine (OZ, 349. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "enoletni zastaralni rok",
+      "gospodinjstvo",
+      "zemljiška knjiga"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 355. člen; 352. člen; 349. člen; 350. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-039",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zastaralni roki",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Škoda je nastala marca 2020. Oškodovanec je za škodo in za tistega, ki jo je povzročil, zvedel junija 2021. Gre za nepogodbeno škodo, ki ni bila povzročena s kaznivim dejanjem. Kdaj zastara odškodninska terjatev?",
+    "prevod_sr": "Šteta je nastala marta 2020. Oštećeni je za štetu i za lice koje ju je prouzrokovalo saznao juna 2021. Radi se o vanugovornoj šteti koja nije prouzrokovana krivičnim delom. Kada zastareva potraživanje naknade štete?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Marca 2030 – v desetih letih od nastanka škode.",
+        "prevod_sr": "Marta 2030 – za deset godina od nastanka štete.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: desetogodišnji rok važi npr. za potraživanja utvrđena pravnosnažnom sudskom odlukom, ne za odštetna potraživanja (OZ, 352. člen; 356. člen)."
+      },
+      {
+        "besedilo_sl": "Junija 2024 – v treh letih, odkar je oškodovanec zvedel za škodo in povzročitelja, ker ta rok izteče pred petletnim rokom od nastanka škode.",
+        "prevod_sr": "Juna 2024 – za tri godine od kada je oštećeni saznao za štetu i štetnika, jer taj rok ističe pre petogodišnjeg roka od nastanka štete.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: subjektivni rok 3 godine od saznanja, a u svakom slučaju 5 godina od nastanka štete (ovde mart 2025) (OZ, 352. člen, 1. in 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Marca 2025 – v petih letih od nastanka škode, ker se vedno uporabi daljši rok.",
+        "prevod_sr": "Marta 2025 – za pet godina od nastanka štete, jer se uvek primenjuje duži rok.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pet godina je krajnja granica („u svakom slučaju“); potraživanje zastareva već istekom tri godine od saznanja (OZ, 352. člen)."
+      },
+      {
+        "besedilo_sl": "Marca 2023 – v treh letih od nastanka škode.",
+        "prevod_sr": "Marta 2023 – za tri godine od nastanka štete.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: trogodišnji rok teče od saznanja za štetu i štetnika, ne od nastanka štete (OZ, 352. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Junija 2026 – v petih letih, odkar je oškodovanec zvedel za škodo in povzročitelja.",
+        "prevod_sr": "Juna 2026 – za pet godina od kada je oštećeni saznao za štetu i štetnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: od saznanja teče rok od tri godine; pet godina se računa od nastanka štete (OZ, 352. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "odškodninska terjatev",
+      "subjektivni rok",
+      "objektivni rok",
+      "zastaranje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 352. člen; 356. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-040",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zadržanje in pretrganje zastaranja",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za zadržanje in pretrganje zastaranja po OZ?",
+    "prevod_sr": "Šta važi za zastoj i prekid zastarelosti po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Ko vzrok zadržanja preneha, se zastaranje nadaljuje, čas, ki je pretekel pred zadržanjem, pa se všteje v zastaralni rok.",
+        "prevod_sr": "Kada uzrok zastoja prestane, zastarelost se nastavlja, a vreme proteklo pre zastoja uračunava se u rok zastarelosti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 361. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Zastaranje ne teče med zakoncema.",
+        "prevod_sr": "Zastarelost ne teče između supružnika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: razlog zastoja (OZ, 358. člen, 1. tč.)."
+      },
+      {
+        "besedilo_sl": "Zastaranje ne teče proti mladoletnikom in drugim poslovno nesposobnim osebam.",
+        "prevod_sr": "Zastarelost ne teče protiv maloletnika i drugih poslovno nesposobnih lica.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zastarelost teče i protiv njih, bez obzira na to da li imaju zakonskog zastupnika (OZ, 362. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Po pretrganju začne zastaranje teči znova, čas, ki je pretekel pred pretrganjem, pa se ne šteje v zastaralni rok.",
+        "prevod_sr": "Posle prekida zastarelost počinje teći iznova, a vreme proteklo pre prekida ne računa se u rok zastarelosti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 369. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Po pretrganju se zastaranje nadaljuje tam, kjer se je ustavilo; že pretekli čas se všteje.",
+        "prevod_sr": "Posle prekida zastarelost se nastavlja tamo gde je stala; već proteklo vreme se uračunava.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je dejstvo zastoja; posle prekida rok teče iznova (OZ, 361. člen, 2. odst.; 369. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zadržanje zastaranja",
+      "pretrganje zastaranja",
+      "zastaralni rok"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 358. člen; 361. člen; 362. člen; 369. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-041",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Zadržanje in pretrganje zastaranja",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Upnik ima do dolžnika zapadlo denarno terjatev. Katera od navedenih dejanj po OZ pretrgajo zastaranje?",
+    "prevod_sr": "Poverilac ima prema dužniku dospelo novčano potraživanje. Koje od navedenih radnji po OZ prekidaju zastarelost?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Upnik vloži tožbo zoper dolžnika.",
+        "prevod_sr": "Poverilac podnese tužbu protiv dužnika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 365. člen."
+      },
+      {
+        "besedilo_sl": "Upnik vloži tožbo, ki jo nato umakne.",
+        "prevod_sr": "Poverilac podnese tužbu koju zatim povuče.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ako poverilac povuče tužbu, smatra se da zastarelost nije prekinuta (OZ, 366. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Upnik dolžnika ustno pozove k plačilu.",
+        "prevod_sr": "Poverilac usmeno pozove dužnika da plati.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: usmeni zahtev poverioca ne prekida zastarelost (OZ, 368. člen)."
+      },
+      {
+        "besedilo_sl": "Dolžnik plača del dolga na račun.",
+        "prevod_sr": "Dužnik plati deo duga na račun.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: to je posredno priznanje duga, koje prekida zastarelost (OZ, 364. člen)."
+      },
+      {
+        "besedilo_sl": "Upnik pošlje dolžniku pisni opomin, naj plača.",
+        "prevod_sr": "Poverilac pošalje dužniku pismenu opomenu da plati.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: za prekid nije dovoljno da poverilac pismeno ili usmeno zahteva ispunjenje (OZ, 368. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pretrganje zastaranja",
+      "pripoznava dolga",
+      "tožba",
+      "opomin"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 364. člen; 365. člen; 366. člen; 368. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-042",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Odstop terjatve (cesija)",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za odstop terjatve s pogodbo (cesijo)?",
+    "prevod_sr": "Šta važi za ustupanje potraživanja ugovorom (cesiju)?",
+    "odgovori": [
+      {
+        "besedilo_sl": "S pogodbo je mogoče prenesti tudi terjatve, ki so povezane z osebnostjo upnika.",
+        "prevod_sr": "Ugovorom se mogu preneti i potraživanja vezana za ličnost poverioca.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: takva potraživanja su izuzeta od prenosa (OZ, 417. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodbo o odstopu terjatve skleneta dolžnik in prevzemnik.",
+        "prevod_sr": "Ugovor o ustupanju potraživanja zaključuju dužnik i prijemnik.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zaključuju ga poverilac (ustupilac) i treće lice (prijemnik) (OZ, 417. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Odstopnik mora dolžnika obvestiti o odstopu.",
+        "prevod_sr": "Ustupilac mora obavestiti dužnika o ustupanju.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 419. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Upnik lahko s pogodbo, ki jo sklene s kom tretjim, prenese nanj svojo terjatev.",
+        "prevod_sr": "Poverilac može ugovorom zaključenim sa trećim licem preneti na njega svoje potraživanje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 417. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Za prenos terjatve je potrebna dolžnikova privolitev.",
+        "prevod_sr": "Za prenos potraživanja potreban je pristanak dužnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pristanak dužnika nije potreban (OZ, 419. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "odstop terjatve",
+      "cesija",
+      "odstopnik",
+      "prevzemnik",
+      "privolitev"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2.txt, vpr. 10; vprasanja_3.txt, vpr. 20 in 32",
+      "zakon_clen": "OZ, 417. člen; 419. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-043",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Odstop terjatve (cesija)",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Družbi X in Y sta se v gospodarski pogodbi dogovorili, da X svoje denarne terjatve do Y ne sme prenesti na drugega. X terjatev kljub temu odstopi banki. Kaj velja po OZ?",
+    "prevod_sr": "Društva X i Y su u privrednom ugovoru ugovorila da X svoje novčano potraživanje prema Y ne sme preneti na drugoga. X potraživanje ipak ustupi banci. Šta važi po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Prenos učinkuje le, če družba Y vanj naknadno privoli.",
+        "prevod_sr": "Prenos proizvodi dejstvo samo ako društvo Y naknadno pristane.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prenos proizvodi dejstvo po samom zakonu, bez pristanka dužnika (OZ, 417. člen, 4. odst.; 419. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Prenos kljub prepovedi učinkuje; družba Y pa je prosta obveznosti tudi, če jo izpolni odstopniku X.",
+        "prevod_sr": "Prenos uprkos zabrani proizvodi dejstvo; društvo Y je oslobođeno obaveze i ako je ispuni ustupiocu X.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: posebno pravilo za novčana potraživanja iz privrednog ugovora (OZ, 417. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Prenos nima pravnega učinka.",
+        "prevod_sr": "Prenos nema pravnog dejstva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je opšte pravilo (417. člen, 2. odst.), ali kod novčanog potraživanja iz privrednog ugovora prenos ipak proizvodi dejstvo (OZ, 417. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Prenos učinkuje, družba Y pa se lahko obveznosti oprosti samo s plačilom banki.",
+        "prevod_sr": "Prenos proizvodi dejstvo, a društvo Y se može osloboditi obaveze samo plaćanjem banci.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dužnik je slobodan i ako ispuni ustupiocu (OZ, 417. člen, 4. odst., 2. stavek)."
+      },
+      {
+        "besedilo_sl": "Prenos učinkuje le, če banka za prepoved ni vedela in ni bila dolžna vedeti.",
+        "prevod_sr": "Prenos proizvodi dejstvo samo ako banka za zabranu nije znala niti je bila dužna znati.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: taj uslov važi za slučaj predložene isprave iz 3. odst.; kod novčanog potraživanja iz privrednog ugovora prenos proizvodi dejstvo bez tog uslova (OZ, 417. člen, 3. in 4. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "odstop terjatve",
+      "prepoved prenosa",
+      "gospodarska pogodba",
+      "denarna terjatev"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 417. člen, 2.–4. odst.; 419. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-044",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Odstop terjatve (cesija)",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o učinkih odstopa terjatve NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o dejstvima ustupanja potraživanja NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Prevzemnik ima nasproti dolžniku enake pravice, kot jih je imel do odstopa nasproti njemu odstopnik.",
+        "prevod_sr": "Prijemnik ima prema dužniku ista prava koja je do ustupanja prema njemu imao ustupilac.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 421. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Kadar je terjatev odstopljena z odplačno pogodbo, odstopnik odgovarja za obstoj terjatve takrat, ko jo je odstopil.",
+        "prevod_sr": "Kada je potraživanje ustupljeno teretnim ugovorom, ustupilac odgovara za postojanje potraživanja u času ustupanja.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 423. člen)."
+      },
+      {
+        "besedilo_sl": "Dolžnik proti prevzemniku ne more uveljavljati ugovorov, ki bi jih lahko uveljavljal proti odstopniku do takrat, ko je zvedel za odstop.",
+        "prevod_sr": "Dužnik ne može prema prijemniku isticati prigovore koje je mogao isticati prema ustupiocu do časa kada je saznao za ustupanje.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): dužnik može isticati i te prigovore (OZ, 421. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "S terjatvijo preidejo na prevzemnika stranske pravice, kot so hipoteka, zastava, pravica iz pogodbe s porokom in pravica do obresti.",
+        "prevod_sr": "Sa potraživanjem prelaze na prijemnika sporedna prava, kao što su hipoteka, zaloga, pravo iz ugovora sa jemcem i pravo na kamatu.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 418. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Za izterljivost odstopljene terjatve odstopnik odgovarja, če je bilo to dogovorjeno.",
+        "prevod_sr": "Za naplativost ustupljenog potraživanja ustupilac odgovara ako je to bilo ugovoreno.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (OZ, 424. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "stranske pravice",
+      "ugovori",
+      "obstoj terjatve",
+      "izterljivost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 418. člen; 421. člen; 423. člen; 424. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-045",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Odstop terjatve (cesija)",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Upnik A je terjatev do dolžnika D odstopil prevzemniku P, dolžnika pa o tem ni obvestil. D, ki za odstop ni vedel, plača upniku A. Kaj velja po OZ?",
+    "prevod_sr": "Poverilac A je potraživanje prema dužniku D ustupio prijemniku P, a dužnika o tome nije obavestio. D, koji za ustupanje nije znao, plati poveriocu A. Šta važi po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "D je prost obveznosti samo, če plačilo pozneje odobri prevzemnik P.",
+        "prevod_sr": "D je oslobođen obaveze samo ako plaćanje naknadno odobri prijemnik P.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dužnik je slobodan samim punovažnim ispunjenjem ustupiocu, ako nije znao za ustupanje (OZ, 419. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Odstop terjatve ni nastal, ker dolžnik vanj ni privolil.",
+        "prevod_sr": "Ustupanje potraživanja nije nastalo jer dužnik na njega nije pristao.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pristanak dužnika za prenos nije potreban (OZ, 419. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "D mora isti dolg še enkrat plačati prevzemniku P.",
+        "prevod_sr": "D mora isti dug još jednom platiti prijemniku P.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dužnik koji nije znao za ustupanje oslobođen je obaveze (OZ, 419. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Izpolnitev je veljavna in D je z njo prost obveznosti.",
+        "prevod_sr": "Ispunjenje je punovažno i D je njime oslobođen obaveze.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ispunjenje ustupiocu pre obaveštenja je punovažno ako dužnik nije znao za ustupanje (OZ, 419. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Če bi D za odstop vedel, bi obveznost ostala in bi jo moral izpolniti prevzemniku P.",
+        "prevod_sr": "Da je D znao za ustupanje, obaveza bi ostala i morao bi je ispuniti prijemniku P.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 419. člen, 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "obvestitev dolžnika",
+      "odstopnik",
+      "prevzemnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 419. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-046",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Prevzem dolga, pristop k dolgu, prevzem izpolnitve",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za prevzem dolga po OZ?",
+    "prevod_sr": "Šta važi za preuzimanje duga po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če se upnik v roku, ki mu je bil določen, ne izreče, se šteje, da je v prevzem dolga privolil.",
+        "prevod_sr": "Ako se poverilac u roku koji mu je određen ne izjasni, smatra se da je pristao na preuzimanje duga.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: smatra se da je pristanak odbio (OZ, 427. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Opravi se s pogodbo med dolžnikom in prevzemnikom, v katero je privolil upnik.",
+        "prevod_sr": "Vrši se ugovorom između dužnika i preuzimaoca na koji je pristao poverilac.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 427. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Poroštva in zastave, ki so jih dale tretje osebe, prenehajo, če poroki in zastavitelji ne privolijo v to, da bodo odgovarjali tudi za novega dolžnika.",
+        "prevod_sr": "Jemstva i zaloge koje su dala treća lica prestaju ako jemci i zalogodavci ne pristanu da odgovaraju i za novog dužnika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 430. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "S prevzemom dolga stopi prevzemnik na mesto prejšnjega dolžnika, ta pa je s tem prost obveznosti.",
+        "prevod_sr": "Preuzimanjem duga preuzimalac stupa na mesto ranijeg dužnika, a ovaj je time oslobođen obaveze.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 429. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Upnikova privolitev za prevzem dolga ni potrebna.",
+        "prevod_sr": "Pristanak poverioca za preuzimanje duga nije potreban.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: potreban je pristanak poverioca (OZ, 427. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prevzem dolga",
+      "prevzemnik",
+      "privolitev upnika"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 427. člen; 429. člen; 430. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-047",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Prevzem dolga, pristop k dolgu, prevzem izpolnitve",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Tretja oseba se s pogodbo z upnikom zaveže, da bo izpolnila njegovo terjatev do dolžnika, in tako stopi v zavezo poleg dolžnika. Za kateri institut gre?",
+    "prevod_sr": "Treće lice se ugovorom sa poveriocem obaveže da će ispuniti njegovo potraživanje prema dužniku i tako stupa u obavezu pored dužnika. O kom institutu je reč?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Nakazilo (asignacija).",
+        "prevod_sr": "Uput (asignacija).",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: asignacijom uputilac ovlašćuje upućenika da za njegov račun ispuni nešto primaocu uputa (OZ, 1035. člen)."
+      },
+      {
+        "besedilo_sl": "Prevzem izpolnitve.",
+        "prevod_sr": "Preuzimanje ispunjenja.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je ugovor između dužnika i trećeg; poverilac prema trećem nema nikakvo pravo (OZ, 434. člen)."
+      },
+      {
+        "besedilo_sl": "Prevzem dolga.",
+        "prevod_sr": "Preuzimanje duga.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: preuzimanje duga je ugovor između dužnika i preuzimaoca uz pristanak poverioca; raniji dužnik se oslobađa (OZ, 427. člen, 1. odst.; 429. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Odstop terjatve (cesija).",
+        "prevod_sr": "Ustupanje potraživanja (cesija).",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: kod cesije se menja poverilac, a ne pristupa novi dužnik (OZ, 417. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Pristop k dolgu.",
+        "prevod_sr": "Pristupanje dugu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ugovor između poverioca i trećeg, kojim treći stupa u obavezu pored dužnika (OZ, 432. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pristop k dolgu",
+      "prevzem dolga",
+      "prevzem izpolnitve"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 432. člen; 427. člen; 429. člen; 434. člen; 417. člen; 1035. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-048",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Prevzem dolga, pristop k dolgu, prevzem izpolnitve",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za prevzem izpolnitve po OZ?",
+    "prevod_sr": "Šta važi za preuzimanje ispunjenja po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Prevzemnik odgovarja dolžniku, če obveznosti upniku ne izpolni pravočasno in upnik zahteva izpolnitev od dolžnika.",
+        "prevod_sr": "Preuzimalac odgovara dužniku ako obavezu poveriocu ne ispuni blagovremeno i poverilac zahteva ispunjenje od dužnika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 434. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Pogodba o prevzemu dolga ima učinek pogodbe o prevzemu izpolnitve, dokler upnik vanjo ne privoli, kakor tudi, če privolitev odkloni.",
+        "prevod_sr": "Ugovor o preuzimanju duga ima dejstvo ugovora o preuzimanju ispunjenja dok poverilac na njega ne pristane, kao i ako pristanak odbije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 427. člen, 5. odst."
+      },
+      {
+        "besedilo_sl": "Prevzemnik s tem stopi na mesto dolžnika, ki je prost obveznosti.",
+        "prevod_sr": "Preuzimalac time stupa na mesto dužnika, koji je oslobođen obaveze.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je dejstvo preuzimanja duga; kod preuzimanja ispunjenja dug se ne preuzima (OZ, 434. člen, 3. odst.; 429. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Upnik nima nasproti prevzemniku izpolnitve nobene pravice.",
+        "prevod_sr": "Poverilac prema preuzimaocu ispunjenja nema nikakvo pravo.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: preuzimalac ne preuzima dug niti pristupa dugu (OZ, 434. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Prevzame se s pogodbo med dolžnikom in tretjim, s katero se ta dolžniku zaveže, da bo izpolnil njegovo obveznost nasproti njegovemu upniku.",
+        "prevod_sr": "Preuzima se ugovorom između dužnika i trećeg, kojim se ovaj obavezuje dužniku da će ispuniti njegovu obavezu prema njegovom poveriocu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 434. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prevzem izpolnitve",
+      "prevzem dolga",
+      "upnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 434. člen; 427. člen, 5. odst.; 429. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-049",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Solidarne in deljive obveznosti",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj od navedenega po OZ NE velja za obveznosti z več dolžniki?",
+    "prevod_sr": "Šta od navedenog po OZ NE važi za obaveze sa više dužnika?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zamuda enega solidarnega dolžnika učinkuje tudi nasproti drugim dolžnikom.",
+        "prevod_sr": "Docnja jednog solidarnog dužnika ima dejstvo i prema ostalim dužnicima.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (ne važi): docnja jednog solidarnog dužnika nema dejstva prema ostalim (OZ, 402. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Vsak dolžnik solidarne obveznosti odgovarja upniku za celo obveznost in upnik lahko zahteva izpolnitev od kogar hoče, dokler ni popolnoma izpolnjena.",
+        "prevod_sr": "Svaki dužnik solidarne obaveze odgovara poveriocu za celu obavezu i poverilac može zahtevati ispunjenje od koga hoće, dok ne bude potpuno ispunjena.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja važi (OZ, 395. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Solidarni dolžnik, ki je izpolnil obveznost, od sodolžnikov ne more zahtevati povračila.",
+        "prevod_sr": "Solidarni dužnik koji je ispunio obavezu ne može od sadužnika zahtevati naknadu.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (ne važi): ima pravo da od svakog sadužnika zahteva deo obaveze koji pada na njega (OZ, 404. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ko en solidarni dolžnik izpolni obveznost, obveznost preneha in so prosti vsi dolžniki.",
+        "prevod_sr": "Kada jedan solidarni dužnik ispuni obavezu, obaveza prestaje i svi dužnici su slobodni.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja važi (OZ, 395. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če je več dolžnikov pri deljivi obveznosti, nastali z gospodarsko pogodbo, odgovarjajo upniku solidarno, razen če so pogodbeniki solidarno odgovornost izrecno odklonili.",
+        "prevod_sr": "Ako ima više dužnika u deljivoj obavezi nastaloj privrednim ugovorom, oni odgovaraju poveriocu solidarno, osim ako su ugovarači izričito otklonili solidarnu odgovornost.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja važi – pretpostavka solidarnosti (OZ, 394. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "solidarna obveznost",
+      "sodolžnik",
+      "domneva solidarnosti",
+      "deljiva obveznost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 394. člen; 395. člen; 402. člen; 404. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-050",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Nakazilo (asignacija)",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj je nakazilo (asignacija) po OZ?",
+    "prevod_sr": "Šta je uput (asignacija) po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Nakazovalec (asignant) pooblašča nakazanca (asignata), da na njegov račun izpolni nekaj prejemniku nakazila (asignatarju), tega pa pooblašča, da v svojem imenu sprejme to izpolnitev.",
+        "prevod_sr": "Uputilac (asignant) ovlašćuje upućenika (asignata) da za njegov račun ispuni nešto primaocu uputa (asignataru), a ovoga ovlašćuje da u svoje ime primi to ispunjenje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: pojam asignacije (OZ, 1035. člen)."
+      },
+      {
+        "besedilo_sl": "Pogodba, s katero se porok zaveže upniku, da bo izpolnil obveznost dolžnika, če je ta ne bi izpolnil.",
+        "prevod_sr": "Ugovor kojim se jemac obavezuje poveriocu da će ispuniti obavezu dužnika ako je ovaj ne ispuni.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je jemstvo (OZ, 1012. člen)."
+      },
+      {
+        "besedilo_sl": "Pogodba, s katero upnik prenese svojo terjatev na tretjega.",
+        "prevod_sr": "Ugovor kojim poverilac prenosi svoje potraživanje na trećeg.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je ustupanje potraživanja – cesija (OZ, 417. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Sporazum upnika in dolžnika, da bosta obstoječo obveznost nadomestila z novo.",
+        "prevod_sr": "Sporazum poverioca i dužnika da postojeću obavezu zamene novom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je prenov – novacija (OZ, 323. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodba med dolžnikom in prevzemnikom, s katero ta ob privolitvi upnika stopi na mesto dolžnika.",
+        "prevod_sr": "Ugovor između dužnika i preuzimaoca kojim ovaj uz pristanak poverioca stupa na mesto dužnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je preuzimanje duga (OZ, 427. člen, 1. odst.; 429. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "nakazilo",
+      "asignacija",
+      "nakazovalec",
+      "nakazanec",
+      "prejemnik nakazila"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 1035. člen; 417. člen; 427. člen; 1012. člen; 323. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-051",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Stvarne pravice in temeljna načela",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj od navedenega po veljavnem besedilu SPZ (2. člen) NI stvarna pravica?",
+    "prevod_sr": "Šta od navedenog po važećem tekstu SPZ (2. člen) NIJE stvarno pravo?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Terjatev kupca na izročitev stvari iz prodajne pogodbe.",
+        "prevod_sr": "Potraživanje kupca na predaju stvari iz ugovora o prodaji.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: potraživanje je obligaciono pravo; stvarna prava su samo svojina, založno pravo, službenosti, pravo stvarnog tereta i pravo građenja (SPZ, 2. člen)."
+      },
+      {
+        "besedilo_sl": "Pravica stvarnega bremena.",
+        "prevod_sr": "Pravo stvarnog tereta.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: pravo stvarnog tereta je stvarno pravo (SPZ, 2. člen)."
+      },
+      {
+        "besedilo_sl": "Zemljiški dolg.",
+        "prevod_sr": "Zemljišni dug.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: zemljišni dug nije naveden među stvarnim pravima u 2. členu SPZ, a odredbe o njemu (VII. del, 192.–200. člen) su brisane novelom SPZ-A (Ur. l. RS, št. 91/13). Napomena: stariji materijali (pre novele iz 2013) navode zemljišni dug kao šesto stvarno pravo – to više ne odgovara važećem tekstu. Za zemljišne dugove zasnovane pre novele i dalje se primenjuju stare odredbe (SPZ-A, 5. člen prelazne odredbe), ali novi se više ne mogu zasnovati."
+      },
+      {
+        "besedilo_sl": "Posest.",
+        "prevod_sr": "Državina.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: državina je faktička vlast na stvari i nije navedena među stvarnim pravima (SPZ, 2. člen; 24. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Stavbna pravica.",
+        "prevod_sr": "Pravo građenja.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: pravo građenja je stvarno pravo (SPZ, 2. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "stvarne pravice",
+      "lastninska pravica",
+      "zastavna pravica",
+      "služnost",
+      "stavbna pravica"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 2. člen; 24. člen; 192.–200. člen (črtani); SPZ-A, 5. člen (prehodna določba)",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-052",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Stvar, nepremičnina, premičnina",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katere trditve o temeljnih pojmih stvarnega prava so po SPZ pravilne?",
+    "prevod_sr": "Koje su tvrdnje o osnovnim pojmovima stvarnog prava po SPZ tačne?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Nepremičnina je prostorsko odmerjen del zemeljske površine, skupaj z vsemi sestavinami.",
+        "prevod_sr": "Nepokretnost je prostorno odmeren deo zemljine površine, zajedno sa svim sastavnim delovima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 18. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pritiklina v dvomu deli usodo glavne stvari.",
+        "prevod_sr": "Pripadak u sumnji deli sudbinu glavne stvari.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 17. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Vse stvari, ki niso nepremičnine, so premičnine.",
+        "prevod_sr": "Sve stvari koje nisu nepokretnosti jesu pokretne stvari.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 18. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Sestavina je lahko samostojen predmet stvarnih pravic, tudi dokler ni ločena od glavne stvari.",
+        "prevod_sr": "Sastavni deo može biti samostalan predmet stvarnih prava i dok nije odvojen od glavne stvari.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sastavni deo ne može biti samostalan predmet stvarnih prava dok se ne odvoji od glavne stvari (SPZ, 16. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Stvar je samostojen telesni predmet, ki ga človek lahko obvladuje.",
+        "prevod_sr": "Stvar je samostalan telesni predmet kojim čovek može da vlada.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 15. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "stvar",
+      "nepremičnina",
+      "premičnina",
+      "sestavina",
+      "pritiklina"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 15. člen; 16. člen; 17. člen; 18. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-053",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Stvarne pravice in temeljna načela",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katero načelo SPZ določa, da ima med več stvarnimi pravicami iste vrste na isti stvari prej pridobljena pravica prednost pred pozneje pridobljeno?",
+    "prevod_sr": "Koje načelo SPZ određuje da među više stvarnih prava iste vrste na istoj stvari ranije stečeno pravo ima prednost pred kasnije stečenim?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Načelo specialnosti.",
+        "prevod_sr": "Načelo specijalnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ono kaže da predmet stvarnih prava može biti samo individualno određena samostalna stvar (SPZ, 7. člen)."
+      },
+      {
+        "besedilo_sl": "Prepoved zlorabe.",
+        "prevod_sr": "Zabrana zloupotrebe.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ona se odnosi na vršenje stvarnih prava u skladu sa njihovom svrhom i prirodom stvari (SPZ, 12. člen)."
+      },
+      {
+        "besedilo_sl": "Domneva dobre vere.",
+        "prevod_sr": "Pretpostavka savesnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ona kaže da se savesnost pretpostavlja dok se ne dokaže suprotno (SPZ, 9. člen)."
+      },
+      {
+        "besedilo_sl": "Načelo zaupanja v zemljiško knjigo.",
+        "prevod_sr": "Načelo poverenja u zemljišnu knjigu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ono štiti onoga ko se pošteno pouzda u podatke upisane u zemljišnu knjigu (SPZ, 10. člen)."
+      },
+      {
+        "besedilo_sl": "Prednostno načelo.",
+        "prevod_sr": "Načelo prvenstva.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 6. člen."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prednostno načelo",
+      "načelo specialnosti",
+      "zaupanje v zemljiško knjigo",
+      "dobra vera"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 6. člen; 7. člen; 9. člen; 10. člen; 12. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-054",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Posest",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za posest po SPZ?",
+    "prevod_sr": "Šta važi za državinu po SPZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Posest ima tudi tisti, ki izvršuje dejansko oblast nad stvarjo prek koga drugega, ki ima neposredno posest iz kakršnegakoli pravnega naslova.",
+        "prevod_sr": "Državinu ima i onaj ko faktičku vlast na stvari vrši preko drugog lica koje ima neposrednu državinu po bilo kom pravnom osnovu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: posredna državina (SPZ, 24. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Posest je ena od stvarnih pravic, naštetih v SPZ.",
+        "prevod_sr": "Državina je jedno od stvarnih prava nabrojanih u SPZ.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: državina je faktička vlast; stvarna prava su nabrojana u 2. členu i državine među njima nema (SPZ, 2. člen; 24. člen)."
+      },
+      {
+        "besedilo_sl": "Kdor ima stvar v posesti, kot da je njegova, je lastniški posestnik.",
+        "prevod_sr": "Ko stvar drži kao da je njegova jeste svojinski držalac.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 27. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Kdor izvršuje dejansko oblast nad stvarjo za drugega in se je dolžan ravnati po njegovih navodilih, je neposredni posestnik.",
+        "prevod_sr": "Ko vrši faktičku vlast na stvari za drugoga i dužan je da postupa po njegovim uputstvima jeste neposredni držalac.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: takvo lice nema državinu – to je „imetnik“ (pritežalac) (SPZ, 26. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Posest je neposredna dejanska oblast nad stvarjo.",
+        "prevod_sr": "Državina je neposredna faktička vlast na stvari.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: neposredna državina (SPZ, 24. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "posest",
+      "neposredna posest",
+      "posredna posest",
+      "lastniški posestnik",
+      "imetnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 24. člen; 26. člen; 27. člen; 2. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-055",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Posest",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "V katerem roku je po SPZ mogoče zahtevati sodno varstvo pred motenjem oziroma odvzemom posesti?",
+    "prevod_sr": "U kom roku se po SPZ može zahtevati sudska zaštita od smetanja odnosno oduzimanja državine?",
+    "odgovori": [
+      {
+        "besedilo_sl": "V enem letu od dneva, ko je posestnik zvedel za motenje in storilca, najpozneje pa v treh letih od dneva, ko je motenje nastalo.",
+        "prevod_sr": "U roku od jedne godine od saznanja za smetanje i učinioca, a najkasnije u roku od tri godine od nastanka smetanja.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rokovi su 30 dana i jedna godina (SPZ, 32. člen)."
+      },
+      {
+        "besedilo_sl": "V osmih dneh od dneva, ko je posestnik zvedel za motenje in storilca, najpozneje pa v tridesetih dneh od dneva, ko je motenje nastalo.",
+        "prevod_sr": "U roku od osam dana od saznanja za smetanje i učinioca, a najkasnije u roku od trideset dana od nastanka smetanja.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rokovi su 30 dana i jedna godina (SPZ, 32. člen)."
+      },
+      {
+        "besedilo_sl": "V treh letih od dneva, ko je posestnik zvedel za motenje in storilca, najpozneje pa v petih letih od dneva, ko je motenje nastalo.",
+        "prevod_sr": "U roku od tri godine od saznanja za smetanje i učinioca, a najkasnije u roku od pet godina od nastanka smetanja.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to su rokovi zastarelosti odštetnih potraživanja (OZ, 352. člen); za državinsku zaštitu važe 30 dana i jedna godina (SPZ, 32. člen)."
+      },
+      {
+        "besedilo_sl": "V tridesetih dneh od dneva, ko je motenje nastalo, ne glede na to, kdaj je posestnik zanj zvedel.",
+        "prevod_sr": "U roku od trideset dana od nastanka smetanja, bez obzira na to kada je držalac za njega saznao.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: 30 dana teče od saznanja za smetanje i učinioca; od nastanka smetanja teče rok od jedne godine (SPZ, 32. člen)."
+      },
+      {
+        "besedilo_sl": "V tridesetih dneh od dneva, ko je posestnik zvedel za motenje in storilca, najpozneje pa v enem letu od dneva, ko je motenje nastalo.",
+        "prevod_sr": "U roku od trideset dana od dana kada je držalac saznao za smetanje i učinioca, a najkasnije u roku od jedne godine od dana nastanka smetanja.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 32. člen."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "motenje posesti",
+      "sodno varstvo posesti",
+      "posestnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 32. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-056",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Lastninska pravica – pojem in pridobitev",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za lastninsko pravico po SPZ?",
+    "prevod_sr": "Šta važi za pravo svojine po SPZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Je pravica imeti stvar v posesti, jo uporabljati in uživati na najobsežnejši način ter z njo razpolagati.",
+        "prevod_sr": "To je pravo držati stvar, upotrebljavati je i uživati na najobuhvatniji način i njome raspolagati.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 37. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pridobi se na podlagi pravnega posla, dedovanja, zakona ali odločbe državnega organa.",
+        "prevod_sr": "Stiče se na osnovu pravnog posla, nasleđivanja, zakona ili odluke državnog organa.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 39. člen."
+      },
+      {
+        "besedilo_sl": "Omejitve uporabe, uživanja in razpolaganja lahko določi samo zakon.",
+        "prevod_sr": "Ograničenja upotrebe, uživanja i raspolaganja može odrediti samo zakon.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 37. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Z dedovanjem se pridobi v trenutku zapustnikove smrti.",
+        "prevod_sr": "Nasleđivanjem se stiče u trenutku smrti ostavioca.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 41. člen."
+      },
+      {
+        "besedilo_sl": "Praviloma je lahko vezana na rok ali pogoj.",
+        "prevod_sr": "Po pravilu može biti vezana za rok ili uslov.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravo svojine ne može biti vezano za rok ili uslov, osim ako zakon određuje drugačije (SPZ, 37. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "lastninska pravica",
+      "razpolaganje",
+      "dedovanje",
+      "pravni posel"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 37. člen; 39. člen; 41. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-057",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Lastninska pravica – pojem in pridobitev",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Kupec in prodajalec skleneta veljavno prodajno pogodbo za zemljišče. Kupec plača kupnino in zemljišče prevzame v posest, v zemljiško knjigo pa se ne vpiše. Ali je kupec po SPZ že pridobil lastninsko pravico na podlagi pravnega posla?",
+    "prevod_sr": "Kupac i prodavac zaključe punovažan ugovor o prodaji zemljišta. Kupac plati cenu i preuzme zemljište u državinu, ali se ne upiše u zemljišnu knjigu. Da li je kupac po SPZ već stekao pravo svojine na osnovu pravnog posla?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Da, ker se za lastnika nepremičnine domneva tisti, ki jo ima v posesti.",
+        "prevod_sr": "Da, jer se za vlasnika nepokretnosti pretpostavlja onaj ko je drži.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pretpostavlja se da je vlasnik nepokretnosti onaj ko je upisan u zemljišnu knjigu (SPZ, 11. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ne, ker se za pridobitev lastninske pravice na nepremičnini s pravnim poslom zahteva vpis v zemljiško knjigo.",
+        "prevod_sr": "Ne, jer se za sticanje prava svojine na nepokretnosti pravnim poslom zahteva upis u zemljišnu knjigu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 49. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Da, lastninsko pravico je pridobil s plačilom kupnine.",
+        "prevod_sr": "Da, pravo svojine je stekao plaćanjem cene.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: kod nepokretnosti je odlučujući upis u zemljišnu knjigu (SPZ, 49. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Da, lastninsko pravico je pridobil že s sklenitvijo veljavne prodajne pogodbe.",
+        "prevod_sr": "Da, pravo svojine je stekao već zaključenjem punovažnog ugovora o prodaji.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pored punovažnog pravnog posla traži se i upis u zemljišnu knjigu (SPZ, 40. člen; 49. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Da, lastninsko pravico je pridobil z izročitvijo zemljišča v posest.",
+        "prevod_sr": "Da, pravo svojine je stekao predajom zemljišta u državinu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: predajom u državinu stiče se svojina na pokretnim stvarima (60. člen), a na nepokretnostima upisom u zemljišnu knjigu (SPZ, 49. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "vpis v zemljiško knjigo",
+      "nepremičnina",
+      "pravni posel",
+      "izročitev"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 40. člen; 49. člen; 60. člen; 11. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-058",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Lastninska pravica – pojem in pridobitev",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po SPZ za pridobitev lastninske pravice s pravnim poslom?",
+    "prevod_sr": "Šta po SPZ važi za sticanje prava svojine pravnim poslom?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zahteva se veljaven pravni posel, iz katerega izhaja obveznost prenesti lastninsko pravico, ter izpolnitev drugih pogojev, ki jih določa zakon.",
+        "prevod_sr": "Zahteva se punovažan pravni posao iz koga proizlazi obaveza prenosa prava svojine i ispunjenje drugih uslova koje određuje zakon.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 40. člen."
+      },
+      {
+        "besedilo_sl": "Za pridobitev lastninske pravice na premičnini se zahteva vpis v zemljiško knjigo.",
+        "prevod_sr": "Za sticanje prava svojine na pokretnoj stvari zahteva se upis u zemljišnu knjigu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: upis u zemljišnu knjigu traži se za nepokretnosti; pokretne stvari se stiču predajom (SPZ, 49. člen, 1. odst.; 60. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Vpis v zemljiško knjigo se opravi na podlagi listine, ki vsebuje zemljiškoknjižno dovolilo.",
+        "prevod_sr": "Upis u zemljišnu knjigu vrši se na osnovu isprave koja sadrži zemljišnoknjižnu dozvolu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 49. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Lastninska pravica na premičnini se pridobi z njeno izročitvijo v posest pridobitelja.",
+        "prevod_sr": "Pravo svojine na pokretnoj stvari stiče se njenom predajom u državinu sticaoca.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 60. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Podpisa na zemljiškoknjižnem dovolilu ni treba overiti.",
+        "prevod_sr": "Potpis na zemljišnoknjižnoj dozvoli ne mora biti overen.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: potpis na zemljišnoknjižnoj dozvoli mora biti overen (SPZ, 23. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "izročitev",
+      "premičnina",
+      "zemljiškoknjižno dovolilo",
+      "vpis v zemljiško knjigo"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 23. člen; 40. člen; 49. člen; 60. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-059",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Priposestvovanje",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Po preteku koliko časa po SPZ pridobi dobroverni lastniški posestnik nepremičnine lastninsko pravico na njej s priposestvovanjem?",
+    "prevod_sr": "Po isteku kog vremena po SPZ savesni svojinski držalac nepokretnosti stiče pravo svojine na njoj održajem?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Po preteku petih let.",
+        "prevod_sr": "Po isteku pet godina.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pet godina je opšti rok zastarelosti potraživanja (OZ, 346. člen); za održaj nepokretnosti rok je deset godina (SPZ, 43. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Po preteku enega leta.",
+        "prevod_sr": "Po isteku jedne godine.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: jedna godina je rok kod nalaza pokretne stvari (52. člen); za održaj nepokretnosti rok je deset godina (SPZ, 43. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Po preteku tridesetih let.",
+        "prevod_sr": "Po isteku trideset godina.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: trideset godina je najduže trajanje lične službenosti u korist pravnog lica (227. člen); za održaj nepokretnosti rok je deset godina (SPZ, 43. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Po preteku treh let.",
+        "prevod_sr": "Po isteku tri godine.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: tri godine važe za pokretne stvari (SPZ, 43. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Po preteku desetih let.",
+        "prevod_sr": "Po isteku deset godina.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 43. člen, 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "priposestvovanje",
+      "dobroverni lastniški posestnik",
+      "nepremičnina"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 43. člen; 52. člen; 227. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-060",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Solastnina in skupna lastnina",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o solastnini in skupni lastnini po SPZ NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o susvojini i zajedničkoj svojini po SPZ NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če solastniški deleži niso določeni, se domneva, da so enaki.",
+        "prevod_sr": "Ako suvlasnički udeli nisu određeni, pretpostavlja se da su jednaki.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (SPZ, 65. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Pri skupni lastnini so deleži skupnih lastnikov vnaprej določeni.",
+        "prevod_sr": "Kod zajedničke svojine udeli zajedničara su unapred određeni.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): zajednička svojina postoji kada udeli nisu unapred određeni (SPZ, 72. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Solastnik lahko s svojo pravico razpolaga le s soglasjem vseh drugih solastnikov.",
+        "prevod_sr": "Suvlasnik može svojim pravom raspolagati samo uz saglasnost svih ostalih suvlasnika.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se (tvrdnja je netačna): suvlasnik raspolaže svojim pravom bez saglasnosti ostalih; kod prodaje nepokretnosti ostali imaju pravo preče kupovine (SPZ, 66. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Za posle rednega upravljanja stvari v solastnini je potrebno soglasje solastnikov, ki imajo skupaj več kot polovico idealnih deležev.",
+        "prevod_sr": "Za poslove redovnog upravljanja stvari u susvojini potrebna je saglasnost suvlasnika koji zajedno imaju više od polovine idealnih delova.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (SPZ, 67. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Pri solastnini je delež vsakega solastnika določen v sorazmerju s celoto (idealni delež).",
+        "prevod_sr": "Kod susvojine je udeo svakog suvlasnika određen srazmerno celini (idealni deo).",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: tvrdnja je tačna (SPZ, 65. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "solastnina",
+      "skupna lastnina",
+      "idealni delež",
+      "redno upravljanje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 65. člen; 66. člen; 67. člen; 72. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-061",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Hipoteka in zastava premičnin",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po SPZ za posamezne vrste zastavne pravice?",
+    "prevod_sr": "Šta po SPZ važi za pojedine vrste založnog prava?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Neposestna zastavna pravica na premičnini nastane z ustnim dogovorom med zastaviteljem in zastavnim upnikom.",
+        "prevod_sr": "Bezdržavinsko založno pravo na pokretnoj stvari nastaje usmenim dogovorom zalogodavca i založnog poverioca.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nastaje sporazumom u obliku notarskog zapisa, a za stvari za koje se vodi registar upisom u taj registar (SPZ, 171. člen, 1. in 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Pred zapadlostjo terjatve sklenjeno določilo, da zastavljena stvar preide v last zastavnega upnika, če terjatev ob zapadlosti ne bo plačana, je po splošnem pravilu veljavno.",
+        "prevod_sr": "Odredba zaključena pre dospelosti potraživanja da založena stvar prelazi u svojinu založnog poverioca ako potraživanje o dospelosti ne bude plaćeno po opštem pravilu je punovažna.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: takva odredba je ništava, osim ako zakon određuje drugačije; punovažna je ako je zaključena posle dospelosti (SPZ, 132. člen)."
+      },
+      {
+        "besedilo_sl": "Za pridobitev hipoteke na podlagi pravnega posla se zahteva vpis v zemljiško knjigo.",
+        "prevod_sr": "Za sticanje hipoteke na osnovu pravnog posla zahteva se upis u zemljišnu knjigu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 141. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Hipoteka je zastavna pravica na nepremičninah.",
+        "prevod_sr": "Hipoteka je založno pravo na nepokretnostima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 138. člen."
+      },
+      {
+        "besedilo_sl": "Ročna zastava nastane na podlagi veljavne zastavne pogodbe, ko zastavitelj izroči zastavljeno premičnino zastavnemu upniku v neposredno posest.",
+        "prevod_sr": "Ručna zaloga nastaje na osnovu punovažnog ugovora o zalozi kada zalogodavac preda založenu pokretnu stvar založnom poveriocu u neposrednu državinu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 155. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "hipoteka",
+      "ročna zastava",
+      "neposestna zastavna pravica",
+      "notarski zapis"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 132. člen; 138. člen; 141. člen; 155. člen; 171. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T5-062",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "Služnosti",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za služnosti po SPZ?",
+    "prevod_sr": "Šta važi za službenosti po SPZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Služnost je pravica uporabljati tujo stvar ali izkoriščati pravico oziroma zahtevati od lastnika stvari, da opušča določena dejanja, ki bi jih sicer imel pravico izvrševati na svoji stvari.",
+        "prevod_sr": "Službenost je pravo upotrebljavati tuđu stvar ili iskorišćavati pravo, odnosno zahtevati od vlasnika stvari da se uzdržava od određenih radnji koje bi inače imao pravo da vrši na svojoj stvari.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 210. člen."
+      },
+      {
+        "besedilo_sl": "Osebna služnost, ustanovljena v korist pravne osebe, lahko traja največ deset let.",
+        "prevod_sr": "Lična službenost zasnovana u korist pravnog lica može trajati najviše deset godina.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ne sme trajati duže od trideset godina (SPZ, 227. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Osebne služnosti so užitek, raba in služnost stanovanja.",
+        "prevod_sr": "Lične službenosti su plodouživanje, upotreba i službenost stanovanja.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: SPZ, 228. člen."
+      },
+      {
+        "besedilo_sl": "Stvarna služnost lahko lastnika služeče nepremičnine obvezuje k nekemu dejanju.",
+        "prevod_sr": "Stvarna službenost može obavezivati vlasnika poslužne nepokretnosti na neko činjenje.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: stvarna službenost ne može obavezivati vlasnika poslužne nepokretnosti na činjenje (SPZ, 213. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Osebna služnost traja tudi po imetnikovi smrti in preide na njegove dediče.",
+        "prevod_sr": "Lična službenost traje i posle smrti imaoca i prelazi na njegove naslednike.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: lična službenost traje najduže do smrti imaoca (SPZ, 227. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "služnost",
+      "stvarna služnost",
+      "osebna služnost",
+      "užitek",
+      "služeča stvar"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "SPZ, 210. člen; 213. člen; 227. člen; 228. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO3242"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  }
+]

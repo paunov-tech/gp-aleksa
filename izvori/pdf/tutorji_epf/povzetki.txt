@@ -1,0 +1,674 @@
+GOSPODARSKO PRAVO
+TEMELJNI PRAVNI POJMI
+1. Pravni red
+- je ves splet dejansko obstojnih pravnih norm, pravnih aktov in pravnih razmerij, ki se nenehno
+dinamično obnavlja in razvija, kakor pač teče samo življenje družbe
+- v ožjem pomenu je ves skupek pravnih predpisov, ki veljajo na določenem ozemlju in v
+določenem času
+- sestavljen iz posameznih prvin, ki so povezane tako, da ustvarjajo obvezen družbeni red
+- pravne norme ali pravna pravila – pravila o vedenju in ravnanju v družbi
+- sestavljen iz:
+· normativna sestavina
+_ vse pravne norme
+_ pravni akti ali pravna dejanja – pravni akt je izjava volje (dejanje) pravnih
+subjektov (osebe, ki lahko oblikujejo pravna razmerja), z njim želimo povzročiti
+pravno posledico → da se na pravnem področju nekaj spremeni (tudi pogodbe so
+pravni akti)
+· dejanska sestavina – je družbeno vedenje in ravnanje pravnih subjektov, ki pa je lahko v
+skladu s pravnimi pravili ali pa jim nasprotuje; lahko je protipravno (dejanja, ki napadajo
+pravni red, vendar so zanj pomembna, ker more le-ta z njimi računati in zanje zapisati
+pravne sankcije) in pravno
+- pravica – pravni predpis, posameznemu pravnemu subjektu nasproti drugemu pravnemu
+subjektu
+- sistemizacija prava – je razporejanje pravnih predpisov, osnova za sistematizacijo je pravni
+predpis
+- pravno ustanova ali pravni institut – oblikuje jo skupek pravnih predpisov in pravnih
+določb, ki urejajo neko vrsto družbenih razmerij → več po družbeni vsebini sorodnih pravnih
+institutov zajemamo v pravno panogo
+Glavne pravne panoge:
+- Ustanovno pravo
+_ vsi pravni instituti, s katerimi so urejena temeljna vprašanja družbeno-ekonomske in
+politične ureditve (lastnina, človekove pravice, državne ureditve, itd.)
+_ poglavitni vir je Ustava RS
+- Civilno pravo – pravna pravila in načela, ki urejajo osebna in premoženjska razmerja med
+enakopravnimi in avtonomnimi udeleženci; panoge:
+_ Stvarno pravo – ureja pravice neke osebe do drugih oseb glede določene stvari kot
+predmeta stvarnopravnih razmerij
+_ Obligacijsko pravo – norme, ki urejajo obveznostno pravna razmerja med udeleženci
+teh razmerij
+_ Družinsko pravo - ureja zakonsko zvezo, izven zakonsko skupnost, razmerja med
+starši in otroki, posvojitev, rejništvo in skrbništvo
+_ Dedno pravo – ureja dednopravna razmerja, zlasti pravice dedičev do dedovanja stvari
+ali pravice zapustnika, na podlagi določenega dednega naslova
+_ Avtorsko pravo – ureja osebna in premoženjska razmerja glede duhovnih stvaritev s
+področja znanosti, umetnosti in književnosti
+- Gospodarsko pravo
+
+                                                                                                   1
+_ Upravna panoga v okvirju civilnega prava
+_ Ureja pravni status gospodarskih subjektov (podjetja)
+_ Ureja njihovo notranjo organizacijo
+Statusno gospodarsko pravo
+_ Pravna razmerja med gospodarskimi subjekti pri prometu blaga in storitev →
+pogodbeno gospodarsko pravo
+- Delovno pravo – pravne norme, ki urejajo pravni položaj delavcev in delodajalcev pri
+delovnih razmerjih (vprašanja sklenitve delovnega razmerja, delovnega časa, odmorov, ...)
+- Upravno pravo – pravne norme, ki urejajo postopek, v katerem pristojni upravni organ odloča
+o neki določeni, konkretni upravni stvari
+- Finančno pravo – je del upravnega prava in ureja finančno dejavnost države in
+finančno pravnega razmerja med pravnimi subjekti;
+- Kazensko pravo – sestavljajo pravne norme, s katerimi se zagotavlja varstvo človeka in drugih
+temeljnih družbenih vrednot
+- Postopkovno (procesno) pravo – zbirni pojem, ki zajema sodne in druge postopke, v katerih
+se odloča o pravicah in dolžnostih strank, ki so predpisane v materialnih predpisih
+- Mednarodno pravo – sistem pravnih načel in pravil, ki ureja mednarodna razmerja med
+subjekti priznanimi v mednarodni skupnosti, panoga se deli:
+· Mednarodno javno pravo
+· Mednarodno zasebno pravo
+2. Pravno pravilo (norma)
+- Je temeljna normativna sestavina prava
+- So zavezujoča pravila družbenega vedenja in ravnanja
+- Morajo biti pravno regulirana
+- Od družbenih norm se ločijo po nastanku → pravna norma nastane, ko jo nekdo predpiše;
+razlika je tudi v tem, da pravne norme ne urejajo vsa razmerja v družbi, ampak samo temeljna,
+najpomembnejša; najpomembnejša razlika pa je sankcija
+- Ima 3 sestavine:
+1) Hipoteza – opisuje okoliščine oz. določa dejansko stanje, v katerih se moramo ravnati po
+dispoziciji
+2) Dispozicija – je osrednje del pravnega pravila, z njo je določen način ravnanja,
+razlikujemo 3 vrste dispozicije: zapovedi, prepovedi, in dovoljenja
+3) Sankcija – je del pravnega pravila, ki določa kakšne bodo pravne posledice, če
+naslovljenec pravne norme ne ravna v skladu z napotilom, ki je določeno v dispoziciji;
+mora biti vnaprej določena in predpisana
+- Razvrstitev pravnih pravil glede na učinek:
+o Dispozitivna pravna pravila – stranke se lahko izognejo pravni normi, če se drugače
+dogovorijo
+Primer: PRODAJNA POGODBA – kupec naj bi plačal ob izročitvi, stranki se lahko
+drugače dogovorita (na obroke, ..) in potem tisti dogovor velja
+o Kogentna (prisilna) pravna pravila – prisilna pravna norma, naslovniki ne morejo
+dispozicije spremeniti z drugačnim pravilom ravnanja
+- Razvrstitev glede na obseg:
+o Splošno pravno pravilo – velja za vse
+o Posebna pravna pravila – velja za določene skupine oseb (npr. mladoletniki, ipd.)
+o Posamično pravno pravilo – velja za točno določeno osebo (npr. davčni zavezanec,
+voznik avtomobila, ipd.)
+- Razvrstitev glede na kakovost:
+
+                                                                                                  2
+o Abstraktna pravna pravila
+_ Abstraktno splošno pravno pravilo – velja za nedoločeno št. prihodnjih
+primerkov
+_ Abstraktno individualno pravno pravilo – enkraten posamičen zamišljen
+primer
+o Konkretna pravna pravila – so nasprotja abstraktnih norm na konkretnem primeru
+pod abstraktno pravno normo (npr. gradbeno dovoljenje)
+Časovna in prostorska veljavnost pravnih norm
+- Pravne norme učinkujejo samo v določenem času in na določenem ozemlju, s pogojem, da so,
+preden začnejo veljati, objavljene v Uradnem listu RS → rok učinkovanja pravnega pravila se
+neposredno ne veže na datum sprejema, ampak na datum objave v uradnem glasilu
+- Zakoni in drugi predpisi ter splošni akti začnejo praviloma veljati 15. dan po objavi, le
+izjemoma in na podlagi utemeljenih razlogov je določeno, da začne določen predpis, akt
+veljati prej, v določenih primerih pa je lahko začetek veljavnosti tudi daljši od petnajstih dni,
+npr. za pomembne zakone
+- Vacatio legis – čas, ki preteča od objave predpisa, do začetka njegove veljave
+- Zakoni in drugi predpisi praviloma prenehajo veljati z uveljavitvijo novega zakona ali drugega
+predpisa, ki neposredno določi prenehanje prejšnjega
+Kdaj lahko pravna norma velja za nazaj? (Retroaktivnost)
+Splošno pravilo je sicer, da pravna norma ne sme veljati za nazaj, izjema:
+1) Za nazaj lahko velja samo zakonska norma
+2) Norma lahko velja, če gre za splošen javni interes
+3) Ne sme posegat v splošne javne pravice
+Personalna in teritorialna veljavnost
+Za koga velja pravna norma? Splošna norma velja za vse; splošna pravna norma Slovenije velja za
+vse državljane RS in za vse tiste, ki se nahajajo na slovenskem ozemlju
+Teritorij – ozemlje omejeno z državno mejo
+Teritorialno morje – morje 10 morskih milj od obale
+Za vstop v zračni prostor je potrebno imeti posebna dovoljenja.
+Pod zemljo – rudna, zemeljska bogastva pripadajo državi na kateri so, pod zemljo je od države do kod
+je lahko izkoriščajo
+3. PRAVNI VIRI GOSPODARSKEGA PRAVA
+- Materialni (primarni) pravni viri – vsi državni (družbeni) dejavniki, ki pogojujejo katera
+družbena razmerja naj bodo urejena s pravnimi normami in kakšna naj bo njihova vsebina (v
+SLO so to državni organi)
+- Formalni (sekundarni) pravni viri – oblika v kateri se pojavljajo pravne norme; ustava,
+zakoni, podzakonski predpisi, drugi splošni akti
+- Spoznavni viri prava – dokumenti in gradiva iz katerih lahko razberemo pravne norme (npr.
+učbeniki, znanstvena dela, komentarji, ...)
+Ustava RS kot vir gospodarskega prava
+- Je najpomembnejši vir prava, ker določa pravice in svoboščine posameznika ter ureja temelje
+državne ureditve
+- Je pravni akt z največjo veljavo v pravnem redu države
+- Načeloma ločuje zakonodajno, izvršno in sodno oblast v posamezni državi
+- Sprejeta je bila leta 1991, sestavljena je iz:
+· Preambule – uvod v ustavo, ki načeloma določa cilj ustave, njena
+načela, ki naj usmerjajo njeno uporabo in razloge, ki so zahtevali
+njeno izdajo
+
+                                                                                                   3
+· Normativnega dela – je osrednji del ustave, v katerem je ustavna
+materija razporejena po posameznih poglavjih
+Avtonomni viri gospodarskega prava
+- tiste pravne norme, ki jih oblikujejo gospodarski subjekti sami
+- dobri poslovni OBIČAJI – uveljavljene in sprejete poslovne navade v prometu blaga in
+storitev, ki so se ustalili v določenem družbenem okolju
+- UZANCE – zbrani, urejeni in objavljeni (dobri) trgovinski običaji, zbirajo in objavljajo jih
+gospodarske zbornice ali poklicna združenja posameznih gospodarstvenikov, ločimo
+o Splošne uzance
+o Posebne uzance – uzance, ki se uporabljajo za posamezno ožje strokovno področje
+(npr. uzance v gostinstvu, gradbene uzance, ipd.)
+- FORMULARNE POGODBE in SPLOŠNI POGOJI POSLOVANJA
+o Formularne (tipizirane) pogodbe – pogodbe, ki se sklepajo na podlagi vnaprej
+oblikovanih in natisnjenih določb
+o Pristopne (adhezijske) pogodbe – vnaprej pripravljene pogodbe, praviloma s strani
+gospodarsko močnejše stranke
+o Splošni pogoji poslovanja – pripravijo in objavijo jih gospodarski subjekti ali
+njihova združenja, da z njimi uredijo pravna razmerja s svojimi komitenti oz.
+uporabniki; namenjeni vnaprej nedoločenemu št. razmerij oz. komitentov; v primeru
+nejasnosti splošnih pogojev poslovanja je potrebno nejasna določila vedno razlagati v
+korist šibkejše stranke; so sestavine formularne pogodbe
+- TRGOVINSKE KLAVZULE ali TRGOVINSKI TERMINI – zgoščena gesla, s katerimi
+pogodbeni stranki določita vsebino medsebojnih pravic in obveznosti
+- SODNA PRAKSA in PRVNA ZNANOST
+o Sodna praksa – v našem pravnem redu ni formalni pravni vir
+o Pravna znanost – nastopa le kot spoznavni pravni vir
+PRAVNI AKT
+- Poglavitna sestavina pravnega reda kot procesa pravnega urejanja družbenega življenja
+- pravni akt je izjava volje (dejanje) pravnih subjektov (osebe, ki lahko oblikujejo pravna
+razmerja), z njim želimo povzročiti pravno posledico → da se na pravnem področju nekaj
+spremeni (tudi pogodbe so pravni akti)
+- razvrščamo na:
+o splošne pravne akte (npr. zakoni)
+o posamične pravne akte (npr. sodbe sodišč, odločbe upravnih organov, ..)
+Hierarhija pravnih aktov:
+→ Pravne norme so razporejen hierarhično (najnižje pravne norme so spodaj v piramidi)
+→ Država in pravo sta nujno povezana med seboj – država postavlja pravne norme in jih sankcionira
+RAZLAGA PRAVNIH AKTOV
+Ob razlagi pravnega akta se postavljajo vprašanja:
+Kateri akti so predmet razlage?
+- Vsi pravni akti in temeljna načela pravnega reda
+Kdo jih razlaga?
+- Subjekti pravnih razlag so lahko vsi, ki so intelektualno sposobni dojeti oz. razvozlati sporočilo
+pravnega akta
+Katere vrste razlage poznamo?
+- Avtentična (obvezna) razlaga – lahko jo poda samo organ, ki je pravni akt tudi sprejel, objavi
+se v Uradnem listu RS in zavezuje kot sam splošen akt
+- Ne zavezujoča razlaga – ni vedno nujno pravilna, pogosto je odvisna od namena, zakaj se bo
+
+                                                                                                       4
+uporabila
+Za razlago pravnih pravil so se oblikovale 4 temeljne metode razlaga prava:
+Ustava
+Zakoni – izdaja jih Državni zbor
+(zakonodajna oblast
+(zakonodajna oblast
+Podzakonski predpisi – izvršilna oblast
+- Jezikovna razlaga
+- Logična razlaga
+- Namenska (teološka razlaga)
+PRAVNO RAZMERJE
+- Konkretno razmerje urejeno s pravnimi normami, zanj pa je potrebno, da vsebuje naslednje
+sestavine:
+o Pravne subjekte – so nosilci pravic in obveznosti
+o Pravice in obveznosti subjektov
+o Predmet
+- Za njegov nastanek je potreben obstoj abstraktne pravne norme (ki ureja določeno razmerje) in
+ko se v življenju uresničijo okoliščine (pravna dejstva), na katere veže pravna norma nastanek
+pravnega razmerja
+- Pravna dejstva – so tiste okoliščine, ki povzročijo v pravnih normah predvidene posledice,
+delimo jih v 2 skupini
+1.) Ravnanja subjektov prava – pravni akti (predvsem individualni, ki so najpomembnejši),
+protipravna ravnanja in materialna pravna ravnanja
+2.) Dogodki – pojavi, ki nastopijo neodvisno od volje in zavesti pravnih subjektov ter so
+takšne narave, da povzročijo posledico (npr. rojstvo, smrt, ...)
+- Pravna domneva (praesumptio) – dejstvo, ki ga pravna norma šteje v naprej za dokazanega,
+vendar pa lahko subjekti v tem pravnem razmerju dokazujejo nasprotno, če jim to uspe, je
+pravna domneva ovržena in je relevantno dokazano dejstvo tisto, ki potem povzroča pravne
+posledice v pravnem razmerju
+- Pravna fikcija – je dejstvo, ki ga pravo zavestno in umetno opredeli kot pravno dejstvo, ki
+povzroča določene želene pravne posledice, ki sicer ne bi mogle nastopiti
+- Razlika med dejstvom in fikcijo je ta, da pravno dejstvo nima stvarne podlage ali da te stvarne
+podlage ni mogoče dokazati
+- Pravni posli – so pravna dejstva, ki najpogosteje povzročajo pravna razmerja urejena v
+civilnem in gospodarskem pravu, veljavni so , če izpolnjujejo v zakonodaji predpisane pogoje
+za veljavnost, lahko je:
+o Enostranski – nastane z izjavo volje enega subjekta (npr. oporoka, ponudba, itd.)
+o Dvostranski – nastane s soglasno izjavo volje dveh subjektov (pogodbe)
+PRAVNI SUBJEKTI
+- So nosilci pravic in obveznosti v pravnih razmerjih, ki jih določajo pravne norme
+- Pravna sposobnost
+_ Sposobnost nekoga, da je pravni subjekt (da lahko pridobiva pravice in obveznosti)
+_ Traja dokler pravni subjekt obstaja
+_ Pri pravni osebi se začne z vpisom v register, konča pa z njegovim izbrisom
+- Poslovna (opravilna) sposobnost
+_ Sposobnost, da lahko nekdo sam, z lastno izjavo volje, sklepa pogodbe
+_ Fizična oseba jo dobi z 18mi leti, delno jo dobi s 15imi, pred tem pa "preko" staršev
+- Deliktna sposobnost
+
+                                                                                                    5
+_ Sposobnost osebe, da odgovarja za kazniva in druga škodna dejanja (kazenska
+sposobnost)
+_ Za mladoletne do 14 let odgovarjajo starši, zoper njih se izrečejo vzgojni ukrepi
+- Odškodninska odgovornost
+_ Odgovornost, da moremo povrniti škodo
+_ Če škodo povzroči otrok, ki je star do 7. leta, škodo poravnajo starši
+_ Od 7 do 14 leta lahko sami odgovarjajo, če se zavedajo lastnega dejanja, drugače
+stroške krijejo starši; od 14.leta pa sami
+_ Za duševne bolnike odgovarjajo njihovi skrbniki
+_ Za omamljene oz. pod vplivom substanc, odgovarjajo, če se sami spravijo v tako stanje
+- Pravni subjekti so:
+o Fizične osebe – človek od rojstva do smrti, pravno sposobnost dobi z rojstvom, izgubi
+jo s smrtjo
+o Pravne osebe – družbena tvorba, ki je po pravnem redu kor premoženjska enota
+nosilec pravic in obveznosti; so umetno ustvarjeni pravni subjekti; poznani so 3
+sistemi nastanka pravnih oseb: normativni, koncesijski, svobodni
+OBJEKTI (PREDMETI) PRAVNIH RAZMERIJ
+- So pravice enega subjekta in s to pravico povezane dolžnosti drugega subjekta; predmet
+pravnega razmerja je lahko tudi stvar
+- Je lahko samo omejen del narave – stvari, ki so človeku dosegljive, vendar so omejen in, da
+ima človek nad njimi oblast
+- Razdelitev pravic:
+o Premoženjske – dajejo neko premoženjsko korist, ki se da oceniti v denarju
+o Nepremoženjske – osebne pravice (volilna pravice, pravica do življenja)
+o Absolutne pravice – učinkujejo proti vsakomur, z njimi je omejena svoboda drugih
+subjektov (to so npr. osebnostne pravice, stvarne pravice, itd.)
+o Relativne – učinkujejo samo med osebami, ki so v pravnem razmerju
+o Deljive – tiste, ki se lahko razdelijo brez škode za substanco pravice (premoženjska
+pravica)
+o Nedeljive – tiste, ki se ne morejo razdeliti (pravica do življenja)
+o Prenosljive – lahko jih prenašamo v pravnem prometu (premoženjska pravice s cesijo)
+o Neprenosljive – se ne dajo prenesti na drug pravni subjekt (pravica do življenja)
+o Samostojne – tiste, ki nastanejo, se spremenijo ali prenehajo neodvisno od drugih
+pravic
+o Odvisne (akcesorne) – pravice ki so v nastanku, spremembi in prenehanju vezane na
+samostojne pravice (poroštvo)
+Razvrstitev stvari:
+- Javna dobra in naravna bogastva – zemljišča, gozdovi, vode, rude, itd.
+- Premičnine – stvari, ki jih lahko prestavljamo z enega kraja na drugega; prost pravni promet
+- Nepremičnine – zemljišče in vse kar je z zemljiščem tako povezano, da se ne da premakniti;
+vse nepremičnine so vpisane v zemljiško knjigo
+- Potrošne – stvari oz. predmeti, ki se z namensko uporabo porabijo ali uničijo
+- Nadomestne – tiste stvari, ki jih lahko nadomestimo z drugimi stvarmi enake vrste in
+kakovosti
+- Nenadomestne – stvari, ki jih ne moremo medsebojno zamenjevati in nadomeščati
+- Deljive – stvari, ki jih lahko tako razdelimo, da vsi posamični deli kljub delitvi niso izgubili
+svoje vrednosti
+- Nedeljiva – fizična stvar, ki jo ne moremo razdeliti na dele, ne da bi pri tem poškodovali
+
+                                                                                                     6
+celoto; razdelimo jo s civilno delitvijo
+- Individualno določene – tiste, ki jih lahko razlikujemo od drugih stvari iste vrste
+- Generične stvari – tiste, ki jih lahko določimo po rodu in vrsti
+- Skupnost stvari – so deli sestavljene stvari, ki pa so tako povezani v celoto, da v pravnem
+prometu pomenijo eno stvar
+- Plod – prirast, proizvod žive ali nežive stvari
+- Pritiklina – je stvar, ki je z določeno drugo stvarjo v taki medsebojni zvezi, da dopolnjuje ali
+koristi gospodarskemu namenu glavne stvari
+- Telesne – tiste, ki imajo neko obliko, do materializirane
+- Netelesne - pravice
+- V pravnem prometu niso tiste stvari, glede katerih se ne morejo sklepati pravni posli
+
+PRAVO EVROPSKE UNIJE
+OSNOVE PRAVA EVROPSKE UNIJE
+- Pravila EU so nadrejena nacionalnim pravilom držav članic – to ji omogoča njena
+zakonodajna pristojnost
+- Slovenija postane 1. maja 2004 polnopravna članica EU → pravni red EU je odtlej nadrejen
+slovenskemu pravnemu redu
+- Glavnina določb prava EU je posvečena urejanju ekonomskih vprašanj
+Zgodovinski razvoj EU
+- Skozi zgodovino je bila vedno prisotna ideja o združitvi Evrope (vse od razpada Rimskega
+imperija)
+- Evropska skupnost za premog in jeklo (Pariz, 1951) – ESPJ; podpisale so jo Nemčija,
+Francija, Belgija, Italija, Luksemburg in Nizozemska
+- Evropska gospodarska skupnost (Rim, 1957) – EGS; podpisale avtorice ESPJ; po podpisu
+Maastrichtske pogodbe se spremeni v Pogodbo o Evropski skupnosti (PES)
+- Euratom (Rim, 1957)- podpisale avtorice ESPJ; njegov namen je bil oblikovati in razviti
+jedrsko energijo in oskrbo z materialom
+- Skupnosti so bile medsebojno povezane s skupnimi organi (evropski parlament, komisijo, itd.)
+Evropska unija
+- Osnovni cilj skupnosti je bil gospodarsko združevanje in vzpostavitev skupnega trga, ki naj bi
+se vzpostavil postopoma
+- Bela knjiga o dokončanju notranjega trga (komisija jo sprejme 1985) – odpravijo se ovire,
+po notranjem trgu so blago storitve in kapital krožile brez ovir in kontrol
+- Enotni evropski akt (1957)- razširil formalne pristojnosti Skupnosti in prilagodil njeno
+institucionalno strukturo, vključil je Evropski svet
+- POGODBA O EVROPSKI UNIJI (Maastrichtska pogodba) – podpisana v Maastrichtu
+(Nizozemska) leta 1992, na podlagi te pogodbe je nastala Evropska unija (zveza držav;
+sodelovanje zaradi gospodarskega sodelovanja); pogodba je določala 3 stebre EU:
+1.) Ekonomski steber – sem stopile Evropske skupnosti (ESPJ, PES,
+Euratom) in monetarna unija
+2.) Skupna zunanja in varnostna politika
+3.) Sodelovanje na področju pravosodja in notranjih zadev
+- Amsterdamska pogodba (podpisana 1997, veljati začne 1999)- preseli področje pravosodja in
+notranjih zadev prvi steber, v tretjem stebru ostajata področji policijskega in sodnega
+sodelovanja v kazenskih zadevah
+- Lizbonska pogodba (podpisana 2007, veljati začne 2009)
+Pravni viri EU
+
+                                                                                                     7
+- Pravni red EU opredeljujemo kot poseben, svojstven pravni sistem (sui generis)
+- Pravila, ki veljajo na območju držav članic EU, ki so se oblikovale v mednarodnih pogodbah
+in tudi tista pravila, ki jih avtonomno sprejemajo organi in institucije EU
+- Uredbe – zavezujoč predpis, ki se neposredno uporablja v vseh državah članicah, za njeno
+uveljavitev ni potrebna nikakršna aktivnost nacionalnih organov, vacatio legis je 20 dni;
+unifikacijski učinek – uredbe nadomestijo zakonodajo države članice
+- Direktiva – so akti, ki določajo nek cilj, smet raven, ki se naj z direktivo doseže v vseh
+državah članicah; zavezujejo samo države članice; cilj se uresniči tako, da morajo parlamenti
+pretopiti vsebino cilja iz direktive v nacionalno zakonodajo (implementirajo; rok
+implementacije je 2 leti); imajo harmonizacijski učinek – nacionalna zakonodaja se prilagaja
+pravnem redu EU
+- Sklep – (individualen akt) je v celoti zavezujoč, če določa tiste, na katete je naslovljen, je
+zavezujoč samo za njih
+- Priporočila in mnenja – niso pravno zavezujoča
+Lizbonska pogodba
+- Je reformna pogodba
+- Spreminja in dopolnjuje obstoječe temeljne pogodbe, na katerih je osnovana EU → spreminja
+Maastrichtsko pogodbo (PEU) in PES, ki jo je preimenovala v Pogodbo o delovanju Evropske
+unije
+- 16 držav članic je ob podpisu pogodbe podpisalo Izjavo o simbolih EU k Lizbonski pogodbi
+- Prinaša določene institucionalne spremembe
+_ Števili komisarjev se bo z letom 2014 zmanjšalo – to bo omogočilo učinkovitejše delo
+Evropske komisije
+_ V novem mandatu bo 751 poslancev
+_ Določa stalno mesto predsednika Evropskega sveta – zagotovljeno neprekinjeno in
+stalno delo Evropskega sveta
+_ S pogodbo EU dobila Visokega predstavnika Unije za zunanje zadeve in varnostno
+politiko, izbira ga Evropski svet
+_ EU pridobila pravno subjektiviteto, pomeni, da je pridobila pravo za sklepanje pogodb
+ter do članstva v mednarodnih organizacijah → s tem po EU povečala svojo vlogo in
+pomen v mednarodni skupnosti
+_ Povečala vlogo Evropskega parlamenta
+_ Kompromis Ioannina – na podlagi tega predpisa lahko države članice, ki ne zastopajo
+manjšine (ta lahko prepreči sprejetje odločitve), pred sprejetjem zahtevajo ponovno
+preučitev zakonodajnega predloga
+Razmerje med pravom EU in nacionalnimi pravi držav članic
+- Pravo EU je samostojen pravni red – pravila, ki določajo pravice in obveznosti držav članic,
+organov ter posameznikov in gospodarskih subjektov
+- Sodišče EU je ustvarilo 3 temeljna načela, ki ponazarjajo njegove pravne učinke:
+o Načelo avtonomnosti
+PRIMARNI VIRI - ustanovitvene
+pogodbe (ESPJ, PES, Euratom) in
+spremembe, dopolnitve ustanovitvenih
+pogodb (Maastrichtska, Amsterdamska,
+itd.); primarne akte sprejemajo države
+članice
+SEKUNDARNI VIRI - so izpeljani iz primarnih
+virov; uredbe, direktive, sklepi, priporočila, mnenja;
+
+                                                                                                   8
+praviloma se objavljajo v Uradnem listu EU (izjema
+so le direktive in sklepi)
+_ pravni red EU se razvija neodvisno od pravnega reda držav članic
+_ njegova avtonomnost je razvidna v izvirni zakonodajni pristojnosti njenih
+institucij, ki za svojo uveljavitev nacionalnih pravnih redih držav članic ne
+potrebujejo nikakršne naknadne odobritve državnih organov
+o Načelo primarnosti
+_ Pravna pravila EU prevladajo nad nacionalnimi pravili držav članic (nimajo
+vsa pravila unifikacijskega učinka)
+_ Kadar pride do kolizije med pravilom EU in nacionalnim pravilom, se vselej
+uporabi pravilo EU
+_ Prvič je bilo to načelo izpostavljeno v zadevi Costa v ENEL
+_ Uporabi se v primeru kolizije s katerim koli pravnim aktom države članice
+o Načelo neposredne uporabnosti
+_ Je posledica avtonomnosti prava EU
+_ pravni akti EU za svojo uveljavitev ne potrebujejo nobenega vmesnega akta,
+ki bi jih pretvoril v notranje pravo, temveč že sama ustvarjajo pravice in
+obveznosti, ki jih pripadniki držav članic lahko uveljavljajo pred sodišči in
+drugimi organi svoje države
+
+STVARNO PRAVO
+- je del civilnega prava in vsebuje pravna pravila o razmerjih med pravnimi subjekti glede stvari
+- stvarna pravica – pravna oblast ene osebe do vseh drugih oseb; njene značilnosti
+- 6 stvarnih pravic:
+o Lastninska pravica
+o Zastavna pravica
+o Zemljiški dolg
+o Služnostna pravica
+o Stavbna pravica
+o Pravica stvarnega bremena
+Lastninska pravica
+- Je najpomembnejša stvarna pravica, ki imetniku omogoča, da ima svoj ostvar v posesti, da jo
+uporablja in uživa ter z njo razpolaga (ekonomski lastnik in pravni lastnik nista vedno ena in
+ista oseba
+- Tri različice lastninske pravice
+o Solastnina – več oseb ima solastninsko pravico in je del vsakega izmed njih določen v
+sorazmerju s celoto (če solastniški deleži niso določeni, se smatra, da so enaki)
+o Skupna lastnina – več oseb ima na nerazdeljeni stvari skupno lastnino, kadar njihovi
+deležni niso vnaprej določeni
+o Etažna lastnina – pomeni hkrati lastnino posameznega dela zgradbe in solastnino
+skupnih delov, posamezni del mora predstavljati samostojno funkcionalno celoto,
+primerno za samostojno uporabo (stanovanje, poslovni prostor, ipd.)
+o Individualna – samo eden ima lastnino na eni stvari
+Nastanek lastninske pravice
+Možno jo je pridobiti na podlagi:
+- Zakona – uresničijo se dejstva, ki jih je predvidel že sam zakon in se pridobitelju ni treba za to
+posebej truditi; primeri pridobitve lastninske pravice na podlagi zakona:
+_ Priposestvovanje – posest preraste v pravno stanje
+
+                                                                                                       9
+_ Okupacija (prilastitev)
+_ Pridobitev lastninske pravice na plodovih
+- Pravnim poslom – izpolnjeni morejo biti 3 pogoji:
+1. Razpolagalna sposobnost prenosnika – pomeni, da je lastnik stvari, vendar mu ta sposobnost
+ne sme biti omejena
+2. Sklenitev veljavnega zavezovalnega pravnega posla
+3. Izvršite razpolagalnega pravnega posla z izročitvijo premičnine oz. vknjižbo nepremičnine
+v zemljiško knjigo
+- Odločbe državnega organa
+- Dedovanja
+Varstvo lastninske pravice
+- Lastnik lahko od vsakogar zahteva vrnitev individualno določene stvari s lastninsko tožbo –
+lastnik mora dokazati, da ima nad zahtevano stvarjo lastninsko pravico
+Prenehanje
+- Preneha, če kdo drug pridobi lastninsko pravico na njej
+- Z opustitvijo stvari (na premičnini)
+- Če je stvar uničena
+Zastavna pravica
+- Je upravičenje zastavnega upnika, da se poplača iz zastavljene stvari
+- Predmet zastavne pravice so lahko stvari in pravice, če je mogoče z njimi razpolagati in imajo
+premoženjsko vrednost
+- Če je predmet zastave premičnina, imenujemo to zastavno pravico ročna zastava ali pignus,
+zastavno pravico na nepremičninah pa hipoteka
+- Nastane na podlagi:
+o Zakona
+o Pravnega posla – za pridobitev se zahteva veljaven pravni posel ,izvršitev
+razpolagalnega posla (pri hipoteki je to vpis v zemljiško knjigo, pri ročni zastavi pa
+izročitev) in razpolagalna sposobnost zastavitelja
+o Sodne odločbe
+Izvršitev zastavne pravice
+Lahko izvrši na 2 načina:
+- S sodno prodajo zastavljene stvari
+- Z izvensodno prodajo zastavljene stvari
+Hipoteka
+- Zastavna pravica na nepremičninah
+- Nastane z zakonom, sodno odločbo, pravnim poslom
+- Nadhipoteka – zastavna pravica na terjatvi, zavarovani s hipoteko
+- Hipoteka preneha z izbrisom iz zemljiške knjige, v katero je vpisana; ugasne s potekom
+desetih let od dneva dospelosti prispele terjatve
+Ne posestna zastavna pravica
+- Ustanovi se ne premičnini, ki ni izročena v neposredno posest zastavnemu upniku - ostane v
+neposredni posesti zastavitelja ali tretje osebe
+- Nastane s sporazumom v obliki neposredno izvršljivega notarskega zapisa
+- Njena prednost je da zastavitelju omogoča uporabo zastavljene premičnine v skladu z njenim
+ekonomskim namenom oz. dogovorom z zastavnim upnikom
+Zemljiški dolg
+- Je pravica zahtevati poplačilo določenega denarnega zneska iz vrednosti nepremičnine pred
+drugimi upniki s slabšim vrstnim redom
+
+                                                                                                   10
+- Nastane na podlagi enostranskega pravnega posla, vpisa v zemljiško knjigo in z izstavitvijo
+zemljiškega pisma
+- Ustanovi ga lastnik nepremičnine ali hipotekarni upnik
+- Prenaša se skupaj z zemljiškim pismom
+- Temeljna razlika med hipoteko in zemljiškim dolgom je v akcesornosti – zemljiški dolg je
+povsem neodvisen od terjatve, nastaja in obstaja ne glede na terjatev
+- Preneha z izbrisom iz zemljiške knjige, ki se lahko opravi samo ob predložitvi zemljiškega
+pisma
+Služnostna pravica
+- Pravica uporabljati tujo stvar ali izkoriščati pravico oz. zahtevati od lastnika stvari, da opušča
+določena dejanja, ki bi jih sicer imel pravico izvrševati na svoji stvari
+- Nastane z zakonom, na podlagi pravnega posla, odločbo državnega organa, priposestvovanjem
+- Stvarna služnost – je pravica lastnika nepremičnine izvrševati za njene potrebe določena
+dejanja na tuji nepremičnini ali zahtevati od lastnika služeče stvari, da opušča določena
+dejanja, ki bi jih sicer imel pravico izvrševati na svoji nepremičnini; preneha na podlagi
+pravnega posla, odločbe, zakona
+- Osebne služnosti – pravica imetnika, da uporablja tujo stvar ali izkorišča pravico in traja
+najdlje do imetnikove smrti; če je ustanovljena v korist pravne osebe, čas njenega trajanja ne
+sme preseči 30 let; tri služnosti
+o Užitek – pravica, da uporabljaš in uživaš tujo stvar ali pravico tako, da se ohranja
+njena substanca; nastane na podlagi zakona, sodne odločbe; po prenehanju mora
+posestnik stvar vrniti njenemu lastniku; užitkar ne odgovarja zaradi poslabšanja, ki so
+posledica redne uporabe ali višje sile
+o Raba – pravica do uporabe tuje stvari v skladu z njenim gospodarskim namenom za
+potrebe imetnika služnosti tako, da se ohranja njena substanca; predmet rabe so lahko
+samo ne potrošne stvari
+o Služnost stanovanja – pravica do uporabe tujega stanovanja ali njegovega dela za
+potrebe imetnika služnosti in njegove družine tako, da se ohranja njegova substanca
+Stvarno breme
+- Pravica, na podlagi katere je lastnik obremenjene nepremičnine zavezan k bodočim dajatvam
+ali storitvam
+- Nastane na podlagi pravnega posla (posel more biti veljaven, zahteva se še zemljiškoknjižno
+dovolilo in vpis v zemljiško knjigo) ali zakona (izpolnjeni morejo biti pogoji, ki jih določa
+zakon)
+Stavbna pravica
+- Pravica imeti v lasti zgrajeno zgradbo nad ali pod tujo nepremičnino, ki ne sme trajati več kot
+devetindevetdeset let
+- Po svoji vsebini in namenu pomeni odstop od načela superficies solo cedit (povezanost
+zemljišča in objekta), saj omogoča da pride do različnega lastninskega položaja na zemljišču
+in na zgrajen objektu
+- Je prenosljiva, mogoče jo je tudi podedovati
+- Preneha z izbrisom iz zemljiške knjige, lahko preneha predčasno na podlagi pravnega posla
+Posest
+- ni pravica, ampak je dejanska oblast nad stvarjo; je pravno varovana s tožbo zaradi motenja
+posesti – zahtevati ga je mogoče v 30 dneh od dneva, ko je posestnik izvedel za motenje in
+storilca, najpozneje pa v enem letu od dneva, ko je motenje nastalo
+Zastaranje in prekluzija
+- zastaranje – pravni red odvzame pravno varstvo pravic, ki ni bila pravočasno uveljavljena
+
+                                                                                                       11
+_ upnik nima več pravice zahtevati izpolnitev obveznosti, ki jo ima druga stranka
+(njegova pravica je neiztožljiva – naturalna)
+_ nekatere pravice ne zastarajo, npr. pravica do preživljanja
+_ zastaralni rok – čas, ki mora preteči, da nastopi zastaranje, splošni zastaralni rok je 5
+let
+_ posebni zastaralni roki: desetletni, petletni, triletni, enoletni rok
+_ zastaranje se začne po poteku leta, v katerem je terjatev dospela v plačilo
+_ na potek zastaralnega roka vplivata:
+o pretrganje zastaranja – določen dogodek pretrga zastaralni rok → zastaranje začne
+teči znova od dne, ko je bilo pretrgano; nastopi zaradi: prepoznave dolga, če vloži
+upnik proti dolžniku tožbo ali opravi pravno dejanje, ki ima enak učinek kot tožba
+o zadržanje zastaranja – določena doba se ne šteje v zastaralni rok
+- prekluzija
+_ določeno pravico je treba uveljaviti v predpisanem roku, ker sicer pravica ugasne (pri
+zastaranju pravica ostaja, ugasne le njeno sodno varstvo)
+- razlike med prekluzijo in zastaranjem:
+1) pri prekluzijo s pravico ugasne tudi zahtevek, pri zastaranju ugasne zahtevek, naravna
+pravica pa ostane
+2) potek prekulzivnega roka mora sodišče uradno paziti, zastaranje se upošteva le takrat,
+kadar se stranke nanj sklicujejo
+3) pri prekluzivnih rokih ni pretrganja in zadržanja
+Varstvo pravic
+- z ustavo so določena temeljna načela za varstvo pravic in določa temeljna načela za delovanje
+pravosodne oblasti
+- je v pristojnosti sodišč in organov državne oblasti
+- sodišča spremljajo in proučujejo probleme sodne prakse, ki so pomembni za pravilno uporabo
+zakonov
+- vrhovno sodišče RS skrbi, da sodišča enotno uporabljajo zakon in dajejo sodiščem navodila o
+načinu vodenja evidence sodne prakse in pojavov, ki jih ugotavljajo pri svojem delu
+- delo sodišč je javno
+- v RS je stvarna pristojnost sodišč razdeljena med okrajna, okrožna in višja sodišča ter
+Vrhovno sodišče RS
+Okrajna sodišča so pristojna:
+- v kazenskih zadevah
+- v civilnih zadevah za sojenje oziroma odločanje na prvi stopnji
+- za sojenje oziroma odločanje v drugih zadevah, kadar tako določa zakon
+- za opravljanje zadev pravne moči, za katere ni po zakonu pristojno drugo sodišče in za
+opravljanje mednarodne pravne pomoči v zadevah o prekrških
+Okrožna sodišča so pristojna:
+- v kazenskih zadevah
+- v civilnih zadevah za sojenje oziroma odločanje na prvi stopnji
+- za vodenje sodnega registra
+- za sojenje oz. odločanje v drugih zadevah, če tako določa zakon
+- za opravljanje mednarodne pravne pomoči, če zakon posamezne vrste zadev ne določa drugače
+- njegovo sodno območje obsega tudi teritorialno morje RS
+Višja sodišča so pristojna:
+- za sojenje oz. odločanje na drugi stopnji o pritožbah zoper odločbe okrajnih in okrožnih sodišč
+s svojega območja
+
+                                                                                                    12
+- za odločanje v sporih o pristojnosti med okrajnimi oz. okrožnimi sodišči s svojega območja in
+za odločanje o prenosu pristojnosti na drugo okrajno oz. okrožno sodišče s svojega območja
+Vrhovno sodišče je pristojno:
+- za opravljanje drugih zadev, ki jih določa zakon
+- za določanje o prenosu pristojnosti v primerih, ki jih določa zakon
+- za sojenje na tretji stopnji o rednih pravnih sredstvih zoper odločbe sodišč druge stopnje
+- vsi sodniki Vrhovnega sodišča sestavljajo občno sejo
+Drugi organi pravosodnega sistema:
+- državno tožilstvo – glavna funkcija državnih tožilcev je pregon storilcev kaznivih dejanj in
+drugih kaznivih ravnanj, za katere je tako določeno z zakonom
+- odvetništvo in notariat – odvetništvo je kot del pravosodja samostojna in neodvisna služba, ki
+jo ureja zakon (njegova naloga je, da pravno svetuje, zastopa, zagovarja stranke pred sodnimi
+in drugimi organi); notariat je javna služba, ki jo ureja zakon, notarje imenuje minister za
+pravosodje
+- ustavno sodišče – najvišji organ sodne oblasti za varstvo ustavnosti in zakonitosti ter
+človekovih pravic in temeljnih svoboščin, sestavljeno iz devetih sodnikov (izvoljeni so za dobo
+devetih let) in imajo enako imuniteto kot poslanci državnega zbora
+Sistem sodne pristojnosti
+- o njej govorimo, ko so sodišča pristojna razsojati o določenem sporu
+- razlikujemo:
+o stvarno pristojnost
+_ okrajna sodišča so pristojna za sojenje v sporih o premoženjskopravnih zahtevkih, če
+vrednost spornega predmeta ne presega 20.000 EUR; pristojna so da sodijo o sporih
+zaradi motenja posesti, o sporih o služnostih in realnih bremenih, v sporih iz najemnih
+in zakupnih razmerij
+_ okrožna sodišča so pristojna za sojenje v sporih o premoženjskopravnih zahtevkih, če
+vrednost spornega predmeta presega 20.000 EUR; pristojna so da sodijo v zakonskih
+sporih, v sporih iz avtorske pravice, v gospodarskih sporih, v sporih, ki nastanejo v
+zvezi s tečajnim postopkom
+o funkcionalno pristojnost
+o krajevno pristojnost
+_ njena pravila nam povedo, katero izmed stvarno pristojnega sodišča je tudi
+krajevno pristojno za razsojanje v določeni zadevi
+_ lahko se ravna po pravilih o:
+· splošni krajevni pristojnosti – ravna se po prebivališču ali sedežu
+tožene stranke
+· posebni krajevni pristojnosti – pristojnost pri kraju, kjer je bila
+povzročena škoda, pristojnost po plačilnem kraju
+→ V sporih o plovnih objektih je pristojno le sodišče, na čigar območju vodijo register v katerega je
+vpisan plovni objekt
+→ Spori v zvezi z nepremičnino se vodijo izključno na območju, kjer je nepremičnina vpisana v
+zemljiško knjigo
+→ O sporazumni krajevni pristojnosti govorimo, če se stranke sporazumejo, da jim sodi stvarno
+pristojno sodišče, ki sicer krajevno ne bi bilo pristojno
+Arbitražno reševanje sporov
+- arbitraža – zasebna institucija za reševanje sporov
+- odločba arbitraže, s katero se spor konča je po pravnih učinkih izenačena s sodno odločbo
+- ni je mogoče spodbijati s pritožbo
+
+                                                                                                        13
+- trije pogoji, da lahko arbitraža odloča o nekem sporu:
+1) spor se nanaša na premoženjskopravne zahtevke
+2) glede sporne zadeve ne sme biti določena izključna pristojnost sodišča
+3) stranki se moreta strinjat z arbitražnim načinom reševanja spora, kar potrdita s sklenitvijo
+arbitražne pogodbe, ki mora biti v pisni obliki
+- vrste arbitraž:
+o stalne – ustanovijo se z zakonom ali aktom neke organizacije, institucije
+o priložnostne – potrdila o pravnomočnosti in izvršljivosti odločb izdaja sodišče
+o glede na vrsto sporov ločimo civilne in trgovinske
+o glede na predmet spora poznamo splošne (za vse vrste gospodarskih sporov) in
+specializirane (po posameznih gospodarskih panogah)
+Alternativno reševanje sporov
+- mediacija – postopek, ki se odvija od posredovanju tretje osebe, ki skuša strankam pomagati
+pri razjasnitvi spornih dejanskih in pravnih vprašanj in doseči poravnavo; temelji na načelih
+zaupnosti, nepristranskosti, prostovoljnosti in zakonitosti; uspešna je če se zaključi s
+sporazumom strank
+- konciliacija – pomiritveni postopek, konciliator stranke usmerja pri pogajanjih, ima manj
+aktivno vlogo kot mediator
+- zgodnja nevtralna ocena
+- ombudsman – za posamezna področja v zasebno-pravni sferi
+- poravnalni narok ali poravnalni teden
+
+
+
+
+                                                                                                  14
+

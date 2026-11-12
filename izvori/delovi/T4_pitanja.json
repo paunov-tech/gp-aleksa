@@ -1,0 +1,3011 @@
+[
+ {
+  "id": "T4-001",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Temeljna načela – dispozitivna narava",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kaj pomeni dispozitivna narava določb Obligacijskega zakonika (OZ)?",
+  "prevod_sr": "Šta znači dispozitivna priroda odredaba Obligacionog zakonika (OZ)?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Udeleženci lahko odstopijo od določb OZ samo z dovoljenjem sodišča.",
+    "prevod_sr": "Učesnici mogu odstupiti od odredaba OZ samo uz dozvolu suda.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 2. člen OZ ne traži nikakvu dozvolu suda; dovoljan je dogovor učesnika."
+   },
+   {
+    "besedilo_sl": "Udeleženci lahko svoje obligacijsko razmerje uredijo drugače, kot je določeno v OZ, če iz posamezne določbe ali iz njenega smisla ne izhaja kaj drugega.",
+    "prevod_sr": "Učesnici mogu svoj obligacioni odnos urediti drugačije nego što je određeno u OZ, ako iz pojedine odredbe ili njenog smisla ne proizlazi nešto drugo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: to je doslovno pravilo 2. člena OZ (dispozitivna narava zakonskih določb)."
+   },
+   {
+    "besedilo_sl": "Udeleženci lahko z dogovorom odstopijo od vsake določbe OZ brez izjeme, tudi od prisilne.",
+    "prevod_sr": "Učesnici mogu dogovorom odstupiti od svake odredbe OZ bez izuzetka, pa i od prinudne.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 2. člen OZ ima ogradu »če iz posamezne določbe ali iz njenega smisla ne izhaja kaj drugega«, a 3. člen zabranjuje uređivanje protivno prinudnim propisima."
+   },
+   {
+    "besedilo_sl": "Vse določbe OZ so prisilne, zato jih udeleženci z dogovorom ne morejo spremeniti.",
+    "prevod_sr": "Sve odredbe OZ su prinudne, pa ih učesnici dogovorom ne mogu menjati.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: po 2. členu OZ učesnici po pravilu mogu urediti odnos drugačije; prinudnost je izuzetak."
+   },
+   {
+    "besedilo_sl": "Drugače, kot določa OZ, lahko svoje razmerje uredijo samo stranke gospodarskih pogodb.",
+    "prevod_sr": "Drugačije nego što određuje OZ mogu svoj odnos urediti samo strane privrednih ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 2. člen OZ govori o svim učesnicima obligacionih odnosa, ne samo o privrednim subjektima (13. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "dispozitivna narava",
+   "udeleženci",
+   "obligacijsko razmerje",
+   "prisilni predpisi"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 2. člen; 3. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-002",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Temeljna načela – skrbnost",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o skrbnosti po 6. členu OZ so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o pažnji (skrbnosti) po 6. članu OZ tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Skrbnost dobrega strokovnjaka je nižje merilo kot skrbnost dobrega gospodarja.",
+    "prevod_sr": "Pažnja dobrog stručnjaka je niže merilo od pažnje dobrog domaćina.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 6. člen, 2. odstavek OZ za profesionalnu delatnost traži »večjo skrbnost«, dakle strože merilo."
+   },
+   {
+    "besedilo_sl": "Pri izpolnjevanju obveznosti iz svoje poklicne dejavnosti mora udeleženec ravnati z večjo skrbnostjo, po pravilih stroke in po običajih (skrbnost dobrega strokovnjaka).",
+    "prevod_sr": "Pri ispunjavanju obaveza iz svoje profesionalne delatnosti učesnik mora postupati sa većom pažnjom, po pravilima struke i po običajima (pažnja dobrog stručnjaka).",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 6. člen, 2. odstavek OZ."
+   },
+   {
+    "besedilo_sl": "Skrbnost dobrega gospodarstvenika se zahteva samo pri neodplačnih pogodbah.",
+    "prevod_sr": "Pažnja dobrog privrednika zahteva se samo kod besplatnih ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 6. člen OZ merilo vezuje za vrstu obligacionog odnosa u pravnom prometu, a ne za besplatnost ugovora."
+   },
+   {
+    "besedilo_sl": "OZ določa eno samo merilo skrbnosti, ki je enako za vse udeležence in vse vrste razmerij.",
+    "prevod_sr": "OZ određuje jedno jedino merilo pažnje, isto za sve učesnike i sve vrste odnosa.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 6. člen OZ razlikuje pažnju dobrog privrednika, dobrog domaćina i (strožu) pažnju dobrog stručnjaka."
+   },
+   {
+    "besedilo_sl": "Pri izpolnjevanju obveznosti je treba ravnati s skrbnostjo, ki se v pravnem prometu zahteva pri ustrezni vrsti obligacijskih razmerij (skrbnost dobrega gospodarstvenika oziroma dobrega gospodarja).",
+    "prevod_sr": "Pri ispunjavanju obaveza treba postupati sa pažnjom koja se u pravnom prometu zahteva kod odgovarajuće vrste obligacionih odnosa (pažnja dobrog privrednika odnosno dobrog domaćina).",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 6. člen, 1. odstavek OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "skrbnost",
+   "dober gospodarstvenik",
+   "dober gospodar",
+   "dober strokovnjak",
+   "poklicna dejavnost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 6. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-003",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Gospodarske pogodbe",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kaj so gospodarske pogodbe po OZ?",
+  "prevod_sr": "Šta su privredni ugovori po OZ?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogodbe, pri katerih je vsaj ena stranka gospodarski subjekt.",
+    "prevod_sr": "Ugovori kod kojih je bar jedna strana privredni subjekt.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: po 13. členu, 2. odst. OZ obe strane moraju biti privredni subjekti (»med seboj«)."
+   },
+   {
+    "besedilo_sl": "Pogodbe, ki jih sklepajo med seboj gospodarski subjekti.",
+    "prevod_sr": "Ugovori koje međusobno zaključuju privredni subjekti.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 13. člen, 2. odstavek OZ."
+   },
+   {
+    "besedilo_sl": "Pogodbe, ki so vpisane v sodni register.",
+    "prevod_sr": "Ugovori koji su upisani u sudski registar.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 13. člen OZ ne poznaje upis ugovora u registar kao merilo privrednog ugovora."
+   },
+   {
+    "besedilo_sl": "Pogodbe, ki so sklenjene v pisni obliki med izvajalcem in naročnikom.",
+    "prevod_sr": "Ugovori zaključeni u pisanoj formi između izvođača i naručioca.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 13. člen OZ pojam vezuje za subjekte, ne za formu; ugovori su po 51. členu po pravilu neformalni."
+   },
+   {
+    "besedilo_sl": "Vse odplačne pogodbe, ne glede na to, kdo jih sklene.",
+    "prevod_sr": "Svi teretni ugovori, bez obzira na to ko ih zaključuje.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: merilo iz 13. člena, 2. odst. OZ su strane ugovora (privredni subjekti), a ne teretnost."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "gospodarska pogodba",
+   "gospodarski subjekt",
+   "sklepati pogodbe"
+  ],
+  "vir": {
+   "literatura_str": "zapiski Tutorji EPF: vprasanja_1.txt (»Kaj je gosp. pogodba?«); vprasanja_2.txt, vpr. 32",
+   "zakon_clen": "OZ, 13. člen, 2. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "po_zapiskih",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-004",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Gospodarske pogodbe",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Katere od naštetih pogodb so gospodarske pogodbe v smislu 13. člena OZ?",
+  "prevod_sr": "Koji su od navedenih ugovora privredni ugovori u smislu 13. člana OZ?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Društvo, ki ne opravlja nobene pridobitne dejavnosti, in fizična oseba skleneta najemno pogodbo.",
+    "prevod_sr": "Udruženje koje ne obavlja nikakvu profitnu delatnost i fizičko lice zaključe ugovor o zakupu.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pravno lice bez profitne delatnosti nije privredni subjekt (13. člen, 3. i 4. odst.), a nije ni fizičko lice."
+   },
+   {
+    "besedilo_sl": "Delniška družba proda avtomobil fizični osebi, ki ni podjetnik.",
+    "prevod_sr": "Akcionarsko društvo proda automobil fizičkom licu koje nije preduzetnik.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: fizičko lice koje nije s.p. nije privredni subjekt (13. člen, 3. odst.), pa ugovor nije zaključen »med« privrednim subjektima."
+   },
+   {
+    "besedilo_sl": "Družba z omejeno odgovornostjo in samostojni podjetnik posameznik skleneta pogodbo o dobavi blaga.",
+    "prevod_sr": "Društvo sa ograničenom odgovornošću i samostalni preduzetnik zaključe ugovor o isporuci robe.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: obe strane su privredni subjekti (privredno društvo i s.p.) – 13. člen, 2. i 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Dva samostojna podjetnika posameznika skleneta med seboj podjemno pogodbo.",
+    "prevod_sr": "Dva samostalna preduzetnika zaključe međusobno ugovor o delu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: samostalni preduzetnici su privredni subjekti (13. člen, 3. odst.), a ugovor između njih je privredni (2. odst.)."
+   },
+   {
+    "besedilo_sl": "Dve fizični osebi, ki nista podjetnika, skleneta posojilno pogodbo.",
+    "prevod_sr": "Dva fizička lica koja nisu preduzetnici zaključe ugovor o zajmu.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: nijedna strana nije privredni subjekt po 13. členu, 3. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "gospodarska pogodba",
+   "gospodarska družba",
+   "samostojni podjetnik posameznik",
+   "pridobitna dejavnost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 13. člen, 2.–4. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-005",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Temeljna načela",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kaj od navedenega NE spada med temeljna načela OZ?",
+  "prevod_sr": "Šta od navedenog NE spada među osnovna načela OZ?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Načelo obvezne pisne oblike vseh pogodb.",
+    "prevod_sr": "Načelo obavezne pisane forme svih ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: takvog načela nema; po 51. členu, 1. odst. OZ za zaključenje ugovora se po pravilu ne traži nikakva forma."
+   },
+   {
+    "besedilo_sl": "Načelo hierarhičnosti, po katerem je ena stranka obligacijskega razmerja nadrejena drugi.",
+    "prevod_sr": "Načelo hijerarhije, po kome je jedna strana obligacionog odnosa nadređena drugoj.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: OZ ne poznaje takvo načelo; naprotiv, po 4. členu su učesnici ravnopravni."
+   },
+   {
+    "besedilo_sl": "Prepoved zlorabe pravic.",
+    "prevod_sr": "Zabrana zloupotrebe prava.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je osnovno načelo iz 7. člena OZ."
+   },
+   {
+    "besedilo_sl": "Načelo vestnosti in poštenja.",
+    "prevod_sr": "Načelo savesnosti i poštenja.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to jeste osnovno načelo (5. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Načelo enake vrednosti dajatev.",
+    "prevod_sr": "Načelo jednake vrednosti davanja.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je osnovno načelo iz 8. člena OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "temeljna načela",
+   "enakopravnost udeležencev",
+   "vestnost in poštenje",
+   "prepoved zlorabe pravic",
+   "enaka vrednost dajatev"
+  ],
+  "vir": {
+   "literatura_str": "zapiski Tutorji EPF: vprasanja_1.txt (»katero načelo ne spada v načelo OP? Hierarhičnosti«)",
+   "zakon_clen": "OZ, 4., 5., 7., 8. člen; 51. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "po_zapiskih",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-006",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Temeljna načela",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o temeljnih načelih OZ so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o osnovnim načelima OZ tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Vsaka kršitev načela enake vrednosti dajatev ima za posledico ničnost pogodbe.",
+    "prevod_sr": "Svaka povreda načela jednake vrednosti davanja ima za posledicu ništavost ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: po 8. členu, 2. odst. OZ zakon određuje u kojim slučajevima povreda tog načela ima pravne posledice (npr. 118. i 119. člen)."
+   },
+   {
+    "besedilo_sl": "Udeleženci v obligacijskem razmerju so enakopravni.",
+    "prevod_sr": "Učesnici u obligacionom odnosu su ravnopravni.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 4. člen OZ."
+   },
+   {
+    "besedilo_sl": "Obveznost ugasne samo s soglasno voljo udeležencev ali na podlagi zakona.",
+    "prevod_sr": "Obaveza se gasi samo saglasnom voljom učesnika ili na osnovu zakona.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 9. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Udeleženci si morajo prizadevati, da spore rešujejo z usklajevanjem, posredovanjem ali na drug miren način.",
+    "prevod_sr": "Učesnici moraju nastojati da sporove rešavaju usklađivanjem, posredovanjem ili na drugi miran način.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 11. člen OZ (mirno reševanje sporov)."
+   },
+   {
+    "besedilo_sl": "Za navidezno izvrševanje pravice gre, kadar nosilec svoje pravice dalj časa ne izvršuje.",
+    "prevod_sr": "O prividnom vršenju prava radi se kada nosilac svoje pravo duže vreme ne vrši.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: po 7. členu, 3. odst. OZ prividno vršenje postoji kad nosilac postupa sa isključivom ili očiglednom namerom da drugome škodi."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "enakopravnost",
+   "dolžnost izpolnitve obveznosti",
+   "mirno reševanje sporov",
+   "navidezno izvrševanje pravice"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 4. člen; 7. člen, 3. odst.; 8. člen; 9. člen, 2. odst.; 11. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-007",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Sklenitev pogodbe – soglasje volj",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kdaj je po OZ pogodba sklenjena?",
+  "prevod_sr": "Kada je po OZ ugovor zaključen?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Takrat, ko ponudnik prejme od naslovnika izjavo, da ponudbo sprejema.",
+    "prevod_sr": "Onda kada ponudilac primi od ponuđenog izjavu da ponudu prihvata.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 21. člen, 1. odst. OZ (teorija prijema)."
+   },
+   {
+    "besedilo_sl": "Šele takrat, ko je zapisana in jo overi notar.",
+    "prevod_sr": "Tek kada je zapisan i kada ga overi notar.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: po 51. členu, 1. odst. OZ za zaključenje ugovora se ne traži nikakva forma, osim ako zakon odredi drugačije."
+   },
+   {
+    "besedilo_sl": "Takrat, ko naslovnik izjavo o sprejemu odpošlje, ne glede na to, kdaj jo ponudnik prejme.",
+    "prevod_sr": "Onda kada ponuđeni izjavu o prihvatu pošalje, bez obzira na to kada je ponudilac primi.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: odlučan je trenutak kada ponudilac izjavu PRIMI (21. člen, 1. odst.; 28. člen, 1. odst.), ne trenutak slanja."
+   },
+   {
+    "besedilo_sl": "Šele takrat, ko se stranki sporazumeta tudi o vseh stranskih točkah.",
+    "prevod_sr": "Tek kada se strane sporazumeju i o svim sporednim tačkama.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: dovoljni su bitni sastojci (15. člen); sporedne tačke mogu ostati za kasnije, a po potrebi ih uređuje sud (22. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Ko se pogodbeni stranki sporazumeta o njenih bistvenih sestavinah.",
+    "prevod_sr": "Kada se ugovorne strane sporazumeju o njegovim bitnim sastojcima.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 15. člen OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "sklenitev pogodbe",
+   "bistvene sestavine",
+   "ponudnik",
+   "naslovnik",
+   "sprejem ponudbe"
+  ],
+  "vir": {
+   "literatura_str": "zapiski Tutorji EPF: vprasanja_2.txt, vpr. 2 (»Kdaj je pogodba sklenjena?«)",
+   "zakon_clen": "OZ, 15. člen; 21. člen, 1. odst.; 22. člen, 2. odst.; 28. člen, 1. odst.; 51. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "po_zapiskih",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-008",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Pogajanja",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o pogajanjih pred sklenitvijo pogodbe NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o pregovorima pre zaključenja ugovora NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogajanja ne zavezujejo in jih lahko vsaka stranka prekine, kadarkoli hoče.",
+    "prevod_sr": "Pregovori ne obavezuju i svaka strana ih može prekinuti kad god hoće.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (20. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Stranka, ki prekine pogajanja, mora drugi stranki v vsakem primeru povrniti vse stroške priprav za sklenitev pogodbe.",
+    "prevod_sr": "Strana koja prekine pregovore mora drugoj strani u svakom slučaju naknaditi sve troškove priprema za zaključenje ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): po 20. členu, 4. odst. OZ svaka strana snosi svoje troškove priprema, a zajedničke snose na jednake delove; prekid je slobodan (1. odst.)."
+   },
+   {
+    "besedilo_sl": "Stranka, ki se je pogajala, ne da bi imela namen skleniti pogodbo, odgovarja za škodo, ki jo je povzročila drugi stranki.",
+    "prevod_sr": "Strana koja je pregovarala bez namere da zaključi ugovor odgovara za štetu koju je prouzrokovala drugoj strani.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (20. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Stranka, ki se je pogajala z namenom skleniti pogodbo, ne odgovarja za škodo niti takrat, ko ta namen opusti brez utemeljenega razloga.",
+    "prevod_sr": "Strana koja je pregovarala sa namerom da zaključi ugovor ne odgovara za štetu ni onda kada tu nameru napusti bez opravdanog razloga.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): po 20. členu, 3. odst. OZ odgovara za štetu i strana koja je nameru napustila bez opravdanog razloga."
+   },
+   {
+    "besedilo_sl": "Če se stranki ne sporazumeta drugače, trpi vsaka stranka svoje stroške s pripravami za sklenitev pogodbe, skupne stroške pa trpita v enakih delih.",
+    "prevod_sr": "Ako se strane ne sporazumeju drugačije, svaka strana snosi svoje troškove priprema za zaključenje ugovora, a zajedničke troškove snose na jednake delove.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (20. člen, 4. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "pogajanja",
+   "prekiniti pogajanja",
+   "odgovornost za škodo",
+   "stroški priprav"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 20. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-009",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Ponudba in vabilo k ponudbi",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Kaj od navedenega se po OZ šteje za ponudbo (če iz okoliščin primera ali iz običajev ne izhaja kaj drugega)?",
+  "prevod_sr": "Šta se od navedenog po OZ smatra ponudom (ako iz okolnosti slučaja ili iz običaja ne proizlazi nešto drugo)?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Razstavljanje blaga z označitvijo cene.",
+    "prevod_sr": "Izlaganje robe sa označenom cenom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 23. člen OZ."
+   },
+   {
+    "besedilo_sl": "Določeni osebi dan predlog za sklenitev pogodbe, ki vsebuje vse bistvene sestavine pogodbe.",
+    "prevod_sr": "Određenom licu upućen predlog za zaključenje ugovora koji sadrži sve bitne sastojke ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: to je definicija ponude iz 22. člena, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Oglas po televiziji.",
+    "prevod_sr": "Oglas na televiziji.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: oglasi u štampi, lecima, na radiju, televiziji ili drugačije su samo pozivi na ponudu (24. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Predlog, naslovljen nedoločenemu številu oseb, ki vsebuje vse bistvene sestavine pogodbe.",
+    "prevod_sr": "Predlog upućen neodređenom broju lica koji sadrži sve bitne sastojke ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: takav predlog se po 22. členu, 3. odst. OZ smatra pozivom na davanje ponuda, ako iz okolnosti ne proizlazi drugačije."
+   },
+   {
+    "besedilo_sl": "Poslani katalogi in ceniki.",
+    "prevod_sr": "Poslati katalozi i cenovnici.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: po 24. členu, 1. odst. OZ to nisu ponude, nego samo pozivi na ponudu pod objavljenim uslovima."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "ponudba",
+   "vabilo k ponudbi",
+   "razstavljanje blaga",
+   "katalog",
+   "cenik",
+   "oglas"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 22. člen, 1. in 3. odst.; 23. člen; 24. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-010",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Vezanost na ponudbo",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o tem, kako dolgo ponudba veže ponudnika, so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o tome koliko dugo ponuda obavezuje ponudioca tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Ponudba, dana odsotni osebi brez določenega roka, veže ponudnika natanko trideset dni.",
+    "prevod_sr": "Ponuda data odsutnom licu bez određenog roka obavezuje ponudioca tačno trideset dana.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 26. člen, 3. odst. OZ ne određuje broj dana, nego »običajno potreben« čas."
+   },
+   {
+    "besedilo_sl": "Ponudba, dana odsotni osebi brez določenega roka, veže ponudnika toliko časa, kolikor je običajno potrebno, da ponudba prispe do naslovnika, da jo ta prouči in o njej odloči ter da odgovor prispe do ponudnika.",
+    "prevod_sr": "Ponuda data odsutnom licu bez određenog roka obavezuje ponudioca onoliko vremena koliko je uobičajeno potrebno da ponuda stigne do ponuđenog, da je on prouči i o njoj odluči i da odgovor stigne do ponudioca.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 26. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Ponudnik lahko ponudbo, ki jo je naslovnik že prejel, prosto umakne vse do trenutka, ko naslovnik izjavi sprejem.",
+    "prevod_sr": "Ponudilac može ponudu koju je ponuđeni već primio slobodno povući sve do trenutka kada ponuđeni izjavi prihvat.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: po 25. členu, 2. odst. OZ ponuda se može povući samo ako ponuđeni primi povlačenje pre ponude ili istovremeno s njom."
+   },
+   {
+    "besedilo_sl": "Ponudba, v kateri je določen rok za sprejem, veže ponudnika do izteka tega roka.",
+    "prevod_sr": "Ponuda u kojoj je određen rok za prihvat obavezuje ponudioca do isteka tog roka.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 26. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Ustna ponudba brez določenega roka za sprejem se šteje za zavrnjeno, če ni sprejeta takoj, razen če iz okoliščin izhaja, da ima naslovnik nekaj časa za premislek.",
+    "prevod_sr": "Usmena ponuda bez određenog roka za prihvat smatra se odbijenom ako nije prihvaćena odmah, osim ako iz okolnosti proizlazi da ponuđeni ima nešto vremena za razmišljanje.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 26. člen, 4. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "ponudba",
+   "rok za sprejem",
+   "odsotna oseba",
+   "ustna ponudba",
+   "umik ponudbe"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 25. člen, 2. odst.; 26. člen, 1., 3. in 4. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-011",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Sprejem ponudbe",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o sprejemu ponudbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o prihvatu ponude tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Sprejema ponudbe ni mogoče umakniti, ko je izjava o sprejemu enkrat odposlana.",
+    "prevod_sr": "Prihvat ponude se ne može povući kada je izjava o prihvatu jednom poslata.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: povlačenje je moguće ako stigne ponudiocu pre ili istovremeno sa izjavom o prihvatu (28. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Sprejem ponudbe se lahko umakne, če ponudnik prejme izjavo o umiku pred izjavo o sprejemu ali sočasno z njo.",
+    "prevod_sr": "Prihvat ponude se može povući ako ponudilac primi izjavu o povlačenju pre izjave o prihvatu ili istovremeno s njom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 28. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Sprejem ponudbe za pogodbo, za katero zakon zahteva posebno obliko, veže samo, če je dan v taki obliki.",
+    "prevod_sr": "Prihvat ponude za ugovor za koji zakon zahteva posebnu formu obavezuje samo ako je dat u toj formi.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 27. člen, 1. i 2. odst. OZ – pravilo o formi ponude važi i za prihvat."
+   },
+   {
+    "besedilo_sl": "Ponudba je sprejeta, ko ponudnik prejme izjavo naslovnika, da sprejema ponudbo.",
+    "prevod_sr": "Ponuda je prihvaćena kada ponudilac primi izjavu ponuđenog da prihvata ponudu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 28. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Ponudba je sprejeta tudi, če naslovnik pošlje stvar ali plača ceno.",
+    "prevod_sr": "Ponuda je prihvaćena i ako ponuđeni pošalje stvar ili plati cenu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 28. člen, 2. odst. OZ (prihvat konkludentnom radnjom)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "sprejem ponudbe",
+   "izjava o sprejemu",
+   "umik sprejema",
+   "oblika ponudbe"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 27. člen; 28. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-012",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Sprejem ponudbe s predlogom spremembe",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Družba A pošlje družbi B ponudbo za prodajo 100 stolov po 50 EUR za kos. Družba B odgovori: »Ponudbo sprejemamo, vendar po ceni 45 EUR za kos.« Kako se po OZ presoja odgovor družbe B?",
+  "prevod_sr": "Društvo A pošalje društvu B ponudu za prodaju 100 stolica po 50 EUR za komad. Društvo B odgovori: »Ponudu prihvatamo, ali po ceni od 45 EUR za komad.« Kako se po OZ ocenjuje odgovor društva B?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogodba je sklenjena po srednji ceni 47,50 EUR za kos.",
+    "prevod_sr": "Ugovor je zaključen po srednjoj ceni od 47,50 EUR za komad.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: OZ ne poznaje takvo pravilo; po 29. členu, 1. odst. reč je o odbijanju i novoj ponudi."
+   },
+   {
+    "besedilo_sl": "Pogodba je sklenjena po ceni 50 EUR za kos.",
+    "prevod_sr": "Ugovor je zaključen po ceni od 50 EUR za komad.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: B nije prihvatio ponudu kakva jeste; odgovor sa izmenom cene je odbijanje i nova ponuda (29. člen, 1. i 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodba je sklenjena po ceni 45 EUR za kos, če družba A ne ugovarja takoj.",
+    "prevod_sr": "Ugovor je zaključen po ceni od 45 EUR za komad ako društvo A odmah ne prigovori.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pravilo o ćutanju ponudioca (29. člen, 2. odst.) važi samo za izmene koje bitno ne menjaju ponudu; izmena cene je po 3. odst. bitna."
+   },
+   {
+    "besedilo_sl": "Šteje se, da je družba B ponudbo zavrnila in sama dala novo ponudbo družbi A.",
+    "prevod_sr": "Smatra se da je društvo B ponudu odbilo i samo dalo novu ponudu društvu A.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 29. člen, 1. odst. OZ; promena cene po 3. odst. bitno menja ponudu, pa se ne primenjuje blaže pravilo 2. odst."
+   },
+   {
+    "besedilo_sl": "Odgovor družbe B nima nobenega učinka, zato prvotna ponudba družbe A še naprej veže družbo A.",
+    "prevod_sr": "Odgovor društva B nema nikakvo dejstvo, pa prvobitna ponuda društva A i dalje obavezuje društvo A.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: odgovor se smatra odbijanjem i novom ponudom (29. člen, 1. odst.), a ponuda prestaje da važi kad odbijanje stigne ponudiocu (26. člen, 5. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "sprejem ponudbe",
+   "nova ponudba",
+   "zavrnitev ponudbe",
+   "cena",
+   "bistvena sprememba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 29. člen; 26. člen, 5. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-013",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Sprejem ponudbe s predlogom spremembe",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Za katere dopolnitve ali spremembe v odgovoru na ponudbo OZ določa, da se šteje, da bistveno spreminjajo ponudbo?",
+  "prevod_sr": "Za koje dopune ili izmene u odgovoru na ponudu OZ određuje da se smatra da bitno menjaju ponudu?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Dopolnitve ali spremembe, ki se nanašajo na ceno ali plačilo.",
+    "prevod_sr": "Dopune ili izmene koje se odnose na cenu ili plaćanje.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 29. člen, 3. odst. OZ izričito navodi cenu i plaćanje."
+   },
+   {
+    "besedilo_sl": "Samo spremembe, ki se nanašajo na ceno; spremembe glede kraja in časa dobave se nikoli ne štejejo za bistvene.",
+    "prevod_sr": "Samo izmene koje se odnose na cenu; izmene u pogledu mesta i vremena isporuke nikada se ne smatraju bitnim.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 29. člen, 3. odst. OZ pored cene izričito navodi i plaćanje, kvalitet ili količinu robe, mesto i vreme isporuke, obim odgovornosti i rešavanje sporova."
+   },
+   {
+    "besedilo_sl": "Dopolnitve ali spremembe, ki se nanašajo na kakovost ali količino blaga.",
+    "prevod_sr": "Dopune ili izmene koje se odnose na kvalitet ili količinu robe.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 29. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Dopolnitve ali spremembe, ki se nanašajo na reševanje sporov.",
+    "prevod_sr": "Dopune ili izmene koje se odnose na rešavanje sporova.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 29. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Dopolnitve ali spremembe, ki se nanašajo na kraj in čas dobave.",
+    "prevod_sr": "Dopune ili izmene koje se odnose na mesto i vreme isporuke.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 29. člen, 3. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "dopolnitve ali spremembe",
+   "cena",
+   "plačilo",
+   "kakovost",
+   "količina",
+   "dobava",
+   "reševanje sporov"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 29. člen, 3. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-014",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Molk naslovnika",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o molku naslovnika ponudbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o ćutanju ponuđenog tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če naslovnik molči, to ne pomeni, da sprejema ponudbo.",
+    "prevod_sr": "Ako ponuđeni ćuti, to ne znači da prihvata ponudu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 30. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Molk naslovnika vedno pomeni sprejem ponudbe.",
+    "prevod_sr": "Ćutanje ponuđenog uvek znači prihvat ponude.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pravilo je obrnuto (30. člen, 1. odst.); ćutanje je prihvat samo izuzetno (3. i 4. odst.)."
+   },
+   {
+    "besedilo_sl": "Določilo v ponudbi, da bo molk naslovnika veljal za sprejem ponudbe, je brez učinka.",
+    "prevod_sr": "Odredba u ponudi da će ćutanje ponuđenog važiti kao prihvat ponude nema dejstvo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 30. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Če je naslovnik glede določenega blaga v stalni poslovni zvezi s ponudnikom, se šteje, da je sprejel ponudbo, ki se nanaša na takšno blago, če je ni takoj ali v danem roku zavrnil.",
+    "prevod_sr": "Ako je ponuđeni u pogledu određene robe u stalnoj poslovnoj vezi sa ponudiocem, smatra se da je prihvatio ponudu koja se odnosi na takvu robu ako je nije odmah ili u datom roku odbio.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 30. člen, 3. odst. OZ – izuzetak od pravila da ćutanje nije prihvat."
+   },
+   {
+    "besedilo_sl": "Molk naslovnika pomeni sprejem ponudbe, če je ponudba dana v pisni obliki.",
+    "prevod_sr": "Ćutanje ponuđenog znači prihvat ponude ako je ponuda data u pisanoj formi.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 30. člen OZ ne vezuje dejstvo ćutanja za formu ponude; izuzeci su stalna poslovna veza (3. odst.) i izvršavanje naloga (4. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "molk naslovnika",
+   "stalna poslovna zveza",
+   "zavrniti ponudbo",
+   "brez učinka"
+  ],
+  "vir": {
+   "literatura_str": "zapiski Tutorji EPF: vprasanja_1.txt (»Kdaj se molk šteje, da je ponudba sprejeta?«); vprasanja_2.txt, vpr. 24 in 33",
+   "zakon_clen": "OZ, 30. člen, 1.–3. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "po_zapiskih",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-015",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Predpogodba",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o predpogodbi so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o predugovoru tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Sklenitev glavne pogodbe se lahko zahteva v treh letih od izteka roka, določenega za njeno sklenitev.",
+    "prevod_sr": "Zaključenje glavnog ugovora može se zahtevati u roku od tri godine od isteka roka određenog za njegovo zaključenje.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: rok je šest meseci (33. člen, 5. odst. OZ); tri godine je objektivni rok za poništenje rušljivog ugovora (99. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Sklenitev glavne pogodbe se lahko zahteva v šestih mesecih od izteka roka, določenega za njeno sklenitev.",
+    "prevod_sr": "Zaključenje glavnog ugovora može se zahtevati u roku od šest meseci od isteka roka određenog za njegovo zaključenje.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 33. člen, 5. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Predpogodba je veljavna v kakršnikoli obliki, tudi kadar je za glavno pogodbo oblika predpisana kot pogoj za veljavnost.",
+    "prevod_sr": "Predugovor je punovažan u bilo kojoj formi, i kada je za glavni ugovor forma propisana kao uslov punovažnosti.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: propisi o formi glavnog ugovora važe i za predugovor ako je forma uslov punovažnosti (33. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "S predpogodbo se prevzema obveznost, da bo pozneje sklenjena druga, glavna pogodba.",
+    "prevod_sr": "Predugovorom se preuzima obaveza da će kasnije biti zaključen drugi, glavni ugovor.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 33. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Predpogodba veže, če vsebuje bistvene sestavine glavne pogodbe.",
+    "prevod_sr": "Predugovor obavezuje ako sadrži bitne sastojke glavnog ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 33. člen, 3. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "predpogodba",
+   "glavna pogodba",
+   "bistvene sestavine",
+   "šest mesecev"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 33. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-016",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Predmet obveznosti",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o predmetu pogodbene obveznosti so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o predmetu ugovorne obaveze tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če tretji, ki naj bi določil predmet obveznosti, tega noče ali ne more storiti, predmet določi sodišče.",
+    "prevod_sr": "Ako treći koji je trebalo da odredi predmet obaveze to neće ili ne može, predmet određuje sud.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: u tom slučaju je ugovor ništav (38. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Predmet obveznosti je nedopusten samo, če je v nasprotju z ustavo.",
+    "prevod_sr": "Predmet obaveze je nedopušten samo ako je protivan ustavu.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: nedopušten je ako je protivan ustavu, prinudnim propisima ili moralnim načelima (37. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodba z nedoločljivim predmetom obveznosti je izpodbojna.",
+    "prevod_sr": "Ugovor sa neodredivim predmetom obaveze je rušljiv.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: takav ugovor je ništav, ne rušljiv (35. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodba je nična, če je predmet obveznosti nemogoč, nedopusten, nedoločen ali nedoločljiv.",
+    "prevod_sr": "Ugovor je ništav ako je predmet obaveze nemoguć, nedopušten, neodređen ili neodrediv.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 35. člen OZ."
+   },
+   {
+    "besedilo_sl": "Predmet obveznosti je določljiv tudi, če sta stranki prepustili nekomu tretjemu, naj ga določi.",
+    "prevod_sr": "Predmet obaveze je odrediv i ako su strane prepustile nekom trećem da ga odredi.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 38. člen, 1. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "predmet obveznosti",
+   "mogoč",
+   "dopusten",
+   "določen",
+   "določljiv",
+   "ničnost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 35. člen; 37. člen; 38. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-017",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Podlaga (kavza)",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o podlagi (razlogu) pogodbene obveznosti so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o osnovu (kauzi) ugovorne obaveze tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Domneva se, da ima obveznost podlago, čeprav ta ni izražena.",
+    "prevod_sr": "Pretpostavlja se da obaveza ima osnov iako on nije izražen.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 39. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Podlaga mora biti v pogodbi izrecno navedena, sicer se šteje, da je ni.",
+    "prevod_sr": "Osnov mora biti u ugovoru izričito naveden, inače se smatra da ga nema.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: po 39. členu, 3. odst. OZ osnov se pretpostavlja i kada nije izražen."
+   },
+   {
+    "besedilo_sl": "Če podlage ni ali je ta nedopustna, je pogodba izpodbojna.",
+    "prevod_sr": "Ako osnova nema ili je nedopušten, ugovor je rušljiv.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: sankcija je ništavost (39. člen, 4. odst. OZ), ne rušljivost."
+   },
+   {
+    "besedilo_sl": "Vsaka pogodbena obveznost mora imeti dopustno podlago.",
+    "prevod_sr": "Svaka ugovorna obaveza mora imati dopušten osnov.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 39. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Če podlage ni ali je ta nedopustna, je pogodba nična.",
+    "prevod_sr": "Ako osnova nema ili je nedopušten, ugovor je ništav.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 39. člen, 4. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "podlaga",
+   "razlog",
+   "dopustna podlaga",
+   "domneva",
+   "nična pogodba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 39. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-018",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Poslovna sposobnost",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o pogodbah poslovno omejeno sposobne osebe NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o ugovorima poslovno ograničeno sposobnog lica NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Poslovno omejeno sposobna oseba sme brez dovoljenja zakonitega zastopnika sklepati samo tiste pogodbe, ki ji jih dovoljuje sklepati zakon.",
+    "prevod_sr": "Poslovno ograničeno sposobno lice sme bez dozvole zakonskog zastupnika zaključivati samo one ugovore koje mu zakon dozvoljava.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (41. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Druge pogodbe take osebe, sklenjene brez dovoljenja zakonitega zastopnika, so izpodbojne, vendar lahko ostanejo v veljavi, če jih ta pozneje odobri.",
+    "prevod_sr": "Drugi ugovori takvog lica, zaključeni bez dozvole zakonskog zastupnika, rušljivi su, ali mogu ostati na snazi ako ih on kasnije odobri.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (41. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Če se zakoniti zastopnik v tridesetih dneh od sopogodbenikovega poziva ne izreče, se šteje, da je pogodbo odobril.",
+    "prevod_sr": "Ako se zakonski zastupnik u roku od trideset dana od poziva saugovarača ne izjasni, smatra se da je ugovor odobrio.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): po 43. členu, 2. odst. OZ smatra se da je odobrenje ODBIO."
+   },
+   {
+    "besedilo_sl": "Oseba, ki je pridobila popolno poslovno sposobnost, lahko razveljavitev pogodbe, sklenjene v času omejene poslovne sposobnosti, zahteva v treh letih po pridobitvi popolne poslovne sposobnosti.",
+    "prevod_sr": "Lice koje je steklo potpunu poslovnu sposobnost može poništenje ugovora zaključenog u vreme ograničene poslovne sposobnosti zahtevati u roku od tri godine od sticanja potpune poslovne sposobnosti.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): tužba se mora podneti u roku od tri MESECA od sticanja potpune poslovne sposobnosti (44. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodbe take osebe, sklenjene brez dovoljenja zakonitega zastopnika, so nične in jih ni mogoče naknadno odobriti.",
+    "prevod_sr": "Ugovori takvog lica zaključeni bez dozvole zakonskog zastupnika ništavi su i ne mogu se naknadno odobriti.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): takvi ugovori su rušljivi i mogu se naknadno odobriti (41. člen, 3. odst.; 94. člen OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "poslovna sposobnost",
+   "poslovno omejeno sposobna oseba",
+   "zakoniti zastopnik",
+   "dovoljenje",
+   "odobritev",
+   "izpodbojna pogodba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 41. člen; 43. člen, 2. odst.; 44. člen; 94. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-019",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Napake volje – bistvena zmota",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Na kaj se mora nanašati zmota, da je po OZ bistvena?",
+  "prevod_sr": "Na šta mora da se odnosi zabluda da bi po OZ bila bitna?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Na okoliščine, ki se po običajih v prometu ali po namenu strank štejejo za odločilne.",
+    "prevod_sr": "Na okolnosti koje se po običajima u prometu ili po nameri strana smatraju odlučnim.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 46. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Na katerokoli okoliščino, o kateri je imela stranka napačno predstavo, čeprav zanjo ni bila odločilna.",
+    "prevod_sr": "Na bilo koju okolnost o kojoj je strana imala pogrešnu predstavu, iako za nju nije bila odlučna.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 46. člen, 1. odst. OZ traži odlučne okolnosti – takve da strana inače ne bi zaključila ugovor te sadržine."
+   },
+   {
+    "besedilo_sl": "Na katerikoli nagib stranke pri odplačni pogodbi.",
+    "prevod_sr": "Na bilo koju pobudu strane kod teretnog ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zabluda o pobudi se smatra bitnom samo kod BESPLATNOG ugovora, i to ako je pobuda bila odlučna (47. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Na bistvene lastnosti predmeta.",
+    "prevod_sr": "Na bitna svojstva predmeta.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 46. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Na osebo, s katero se sklepa pogodba, kadar se pogodba sklepa glede na to osebo.",
+    "prevod_sr": "Na lice sa kojim se zaključuje ugovor, kada se ugovor zaključuje s obzirom na to lice.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 46. člen, 1. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "bistvena zmota",
+   "bistvene lastnosti predmeta",
+   "nagib",
+   "neodplačna pogodba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 46. člen, 1. odst.; 47. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-020",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Napake volje – bistvena zmota",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o bistveni zmoti NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o bitnoj zabludi NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Stranka, ki je v zmoti, lahko zahteva razveljavitev pogodbe, razen če pri njeni sklenitvi ni ravnala s skrbnostjo, ki se zahteva v prometu.",
+    "prevod_sr": "Strana koja je u zabludi može zahtevati poništenje ugovora, osim ako pri njegovom zaključenju nije postupala sa pažnjom koja se zahteva u prometu.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (46. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Če je pogodba zaradi zmote razveljavljena, ima druga poštena stranka pravico zahtevati povrnitev škode, čeprav stranka, ki je bila v zmoti, zanjo ni kriva.",
+    "prevod_sr": "Ako je ugovor zbog zablude poništen, druga savesna strana ima pravo da zahteva naknadu štete, iako strana koja je bila u zabludi za nju nije kriva.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (46. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Stranka, ki je v zmoti, se nanjo ne more sklicevati, če je druga stranka pripravljena izpolniti pogodbo tako, kot da zmote ni bilo.",
+    "prevod_sr": "Strana koja je u zabludi ne može se na nju pozivati ako je druga strana spremna da ispuni ugovor kao da zablude nije bilo.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (46. člen, 4. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodba, sklenjena v bistveni zmoti, je nična, zato pazi nanjo sodišče po uradni dolžnosti.",
+    "prevod_sr": "Ugovor zaključen u bitnoj zabludi je ništav, pa sud na to pazi po službenoj dužnosti.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): zabluda je mana volje i vodi rušljivosti – strana može zahtevati poništenje (46. člen, 2. odst.; 94. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Zmota v nagibu se šteje za bistveno zmoto pri vsaki odplačni pogodbi.",
+    "prevod_sr": "Zabluda o pobudi smatra se bitnom zabludom kod svakog teretnog ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): to važi samo kod besplatnog ugovora (47. člen OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "bistvena zmota",
+   "razveljavitev pogodbe",
+   "poštena stranka",
+   "povrnitev škode",
+   "zmota v nagibu"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 46. člen; 47. člen; 94. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-021",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Napake volje – prevara",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Prodajalec rabljenega stroja kupca namenoma prepriča, da je stroj letnik 2022, čeprav ve, da je letnik 2015, da bi ga tako napeljal k sklenitvi pogodbe. Kaj velja po OZ?",
+  "prevod_sr": "Prodavac polovne mašine namerno ubedi kupca da je mašina godište 2022, iako zna da je godište 2015, da bi ga tako naveo na zaključenje ugovora. Šta važi po OZ?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Kupec lahko razveljavitev zahteva samo, če je zmota bistvena.",
+    "prevod_sr": "Kupac može zahtevati poništenje samo ako je zabluda bitna.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kod prevare se poništenje može zahtevati i kada zabluda nije bitna (49. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Kupec ima pravico zahtevati povrnitev nastale škode.",
+    "prevod_sr": "Kupac ima pravo da zahteva naknadu nastale štete.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 49. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pogodba je nična in sodišče na to pazi po uradni dolžnosti.",
+    "prevod_sr": "Ugovor je ništav i sud na to pazi po službenoj dužnosti.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prevara je mana volje; ugovor je rušljiv (49. člen, 1. odst.; 94. člen), a ne ništav (92. člen važi za ništavost)."
+   },
+   {
+    "besedilo_sl": "Kupec lahko razveljavitev zahteva brez časovne omejitve.",
+    "prevod_sr": "Kupac može zahtevati poništenje bez vremenskog ograničenja.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pravo prestaje za godinu dana od saznanja za razlog, a u svakom slučaju za tri godine od zaključenja (99. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Kupec lahko zahteva razveljavitev pogodbe.",
+    "prevod_sr": "Kupac može zahtevati poništenje ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: prevara po 49. členu, 1. odst. OZ daje pravo na poništenje ugovora."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "prevara",
+   "razveljavitev pogodbe",
+   "povrnitev škode",
+   "zmota",
+   "izpodbojnost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 49. člen, 1. in 2. odst.; 94. člen; 99. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-022",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Napake volje – navidezna pogodba",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Stranki skleneta navidezno darilno pogodbo, s katero prikrijeta prodajno pogodbo. Kaj velja po 50. členu OZ?",
+  "prevod_sr": "Strane zaključe prividan ugovor o poklonu kojim prikriju ugovor o prodaji. Šta važi po 50. članu OZ?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Med strankama učinkujeta obe pogodbi, darilna in prodajna.",
+    "prevod_sr": "Između strana dejstvo imaju oba ugovora, i o poklonu i o prodaji.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prividni ugovor nema dejstvo među stranama (50. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Navidezna (darilna) pogodba nima učinka med pogodbenima strankama.",
+    "prevod_sr": "Prividni ugovor (o poklonu) nema dejstvo između ugovornih strana.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 50. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Navideznost pogodbe lahko stranki uveljavljata tudi proti tretji pošteni osebi.",
+    "prevod_sr": "Prividnost ugovora strane mogu isticati i protiv trećeg savesnog lica.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prividnost ugovora ne može se isticati protiv trećeg savesnog lica (50. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Velja prikrita (prodajna) pogodba, če so izpolnjeni pogoji za njeno pravno veljavnost.",
+    "prevod_sr": "Važi prikriveni ugovor (o prodaji), ako su ispunjeni uslovi za njegovu pravnu valjanost.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 50. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Prikrita pogodba ne more veljati v nobenem primeru, ker je bila prikrita.",
+    "prevod_sr": "Prikriveni ugovor ne može važiti ni u kom slučaju, jer je bio prikriven.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prikriveni ugovor važi ako ispunjava uslove za pravnu valjanost (50. člen, 2. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "navidezna pogodba",
+   "prikrita pogodba",
+   "tretja poštena oseba",
+   "učinek"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 50. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-023",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Oblika pogodbe – neobličnost",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kakšna oblika se po OZ zahteva za sklenitev pogodbe?",
+  "prevod_sr": "Kakva se forma po OZ zahteva za zaključenje ugovora?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Ustno je mogoče skleniti samo pogodbe med fizičnimi osebami.",
+    "prevod_sr": "Usmeno se mogu zaključiti samo ugovori između fizičkih lica.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 51. člen, 1. odst. OZ ne pravi razliku prema vrsti strana."
+   },
+   {
+    "besedilo_sl": "Vsaka pogodba mora biti sklenjena v obliki notarskega zapisa.",
+    "prevod_sr": "Svaki ugovor mora biti zaključen u formi notarskog zapisa.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: opšte pravilo je neformalnost (51. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Gospodarske pogodbe morajo biti vedno sklenjene v pisni obliki.",
+    "prevod_sr": "Privredni ugovori moraju uvek biti zaključeni u pisanoj formi.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 13. člen OZ ne propisuje formu privrednih ugovora; važi opšte pravilo neformalnosti iz 51. člena, 1. odst."
+   },
+   {
+    "besedilo_sl": "Za sklenitev pogodbe se ne zahteva nikakršna oblika, razen če zakon določa drugače.",
+    "prevod_sr": "Za zaključenje ugovora se ne zahteva nikakva forma, osim ako zakon određuje drugačije.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 51. člen, 1. odst. OZ (načelo neformalnosti)."
+   },
+   {
+    "besedilo_sl": "Vsaka pogodba mora biti sklenjena v pisni obliki.",
+    "prevod_sr": "Svaki ugovor mora biti zaključen u pisanoj formi.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pisana forma se traži samo kad zakon tako odredi, npr. za nepokretnosti (51. člen, 1. odst.; 52. člen OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "oblika pogodbe",
+   "neobličnost",
+   "pisna oblika"
+  ],
+  "vir": {
+   "literatura_str": "zapiski Tutorji EPF: vprasanja_1.txt (»Kakšna mora biti oblika pogodbe?«); vprasanja_2.txt, vpr. 27",
+   "zakon_clen": "OZ, 51. člen, 1. odst.; 52. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "po_zapiskih",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-024",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Oblika pogodbe – zakonska oblika in sankcija",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o zakonsko predpisani obliki pogodbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o zakonom propisanoj formi ugovora tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Zahteva zakona glede oblike velja samo za sklenitev pogodbe, ne pa tudi za njene poznejše spremembe ali dopolnitve.",
+    "prevod_sr": "Zahtev zakona u pogledu forme važi samo za zaključenje ugovora, a ne i za njegove kasnije izmene ili dopune.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zahtev forme važi i za sve kasnije izmene ili dopune (51. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodba o prenosu lastninske pravice na nepremičnini je lahko ustna, če sta pri sklenitvi navzoči dve priči.",
+    "prevod_sr": "Ugovor o prenosu prava svojine na nepokretnosti može biti usmen ako su pri zaključenju prisutna dva svedoka.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 52. člen OZ traži pisanu formu i ne predviđa zamenu svedocima."
+   },
+   {
+    "besedilo_sl": "Pogodba, na podlagi katere se prenaša lastninska pravica na nepremičnini, mora biti sklenjena v pisni obliki.",
+    "prevod_sr": "Ugovor na osnovu kojeg se prenosi pravo svojine na nepokretnosti mora biti zaključen u pisanoj formi.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 52. člen OZ."
+   },
+   {
+    "besedilo_sl": "Pogodba, ki ni sklenjena v predpisani obliki, je nična, če iz namena predpisa, s katerim je določena oblika, ne izhaja kaj drugega.",
+    "prevod_sr": "Ugovor koji nije zaključen u propisanoj formi je ništav, ako iz svrhe propisa kojim je forma određena ne proizlazi nešto drugo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 55. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pogodba, ki ni sklenjena v predpisani obliki, je izpodbojna.",
+    "prevod_sr": "Ugovor koji nije zaključen u propisanoj formi je rušljiv.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: sankcija je ništavost (55. člen, 1. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "pisna oblika",
+   "nepremičnina",
+   "lastninska pravica",
+   "predpisana oblika",
+   "ničnost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 51. člen, 2. odst.; 52. člen; 55. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-025",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Oblika pogodbe – izpolnjena pogodba brez oblike",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Za neko pogodbo zakon zahteva pisno obliko. Stranki sta jo sklenili ustno, nato pa sta obveznosti iz nje v pretežnem delu izpolnili. Kaj velja po OZ, če iz namena, zaradi katerega je oblika predpisana, očitno ne izhaja kaj drugega?",
+  "prevod_sr": "Za neki ugovor zakon zahteva pisanu formu. Strane su ga zaključile usmeno, a zatim su obaveze iz njega u pretežnom delu ispunile. Šta važi po OZ, ako iz svrhe zbog koje je forma propisana očigledno ne proizlazi nešto drugo?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogodba je nična in stranki si morata vrniti vse, kar sta prejeli.",
+    "prevod_sr": "Ugovor je ništav i strane moraju jedna drugoj vratiti sve što su primile.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 58. člen OZ je izuzetak od ništavosti iz 55. člena, 1. odst."
+   },
+   {
+    "besedilo_sl": "Pogodba je izpodbojna v enem letu od sklenitve.",
+    "prevod_sr": "Ugovor je rušljiv u roku od godinu dana od zaključenja.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: nedostatak forme vodi ništavosti (55. člen), a ovde je ugovor po 58. členu punovažan; o rušljivosti nema reči."
+   },
+   {
+    "besedilo_sl": "Pogodba postane veljavna šele, ko jo stranki naknadno zapišeta.",
+    "prevod_sr": "Ugovor postaje punovažan tek kada ga strane naknadno zapišu.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 58. člen OZ punovažnost vezuje za ispunjenje, ne za naknadno sastavljanje isprave."
+   },
+   {
+    "besedilo_sl": "Pogodba je veljavna, čeprav ni bila sklenjena v pisni obliki.",
+    "prevod_sr": "Ugovor je punovažan iako nije zaključen u pisanoj formi.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 58. člen OZ – ugovor je punovažan ako su strane u celini ili u pretežnom delu ispunile obaveze (konvalidacija)."
+   },
+   {
+    "besedilo_sl": "Pogodba bi bila veljavna samo, če bi stranki obveznosti izpolnili v celoti.",
+    "prevod_sr": "Ugovor bi bio punovažan samo da su strane obaveze ispunile u celini.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: dovoljno je ispunjenje »v celoti ali v pretežnem delu« (58. člen OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "pisna oblika",
+   "izpolnitev v pretežnem delu",
+   "veljavnost pogodbe",
+   "konvalidacija"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 58. člen; 55. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-026",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Oblika pogodbe – listina in dogovorjena oblika",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katera trditev o obliki pogodbe NE drži?",
+  "prevod_sr": "Koja tvrdnja o formi ugovora NE stoji?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če je pogodba sklenjena v posebni obliki, velja samo tisto, kar je v tej obliki izraženo.",
+    "prevod_sr": "Ako je ugovor zaključen u posebnoj formi, važi samo ono što je u toj formi izraženo.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (56. člen, 1. odst. OZ – pretpostavka potpunosti isprave)."
+   },
+   {
+    "besedilo_sl": "Pogodbo, za katero sta stranki dogovorili posebno obliko, je mogoče razvezati, dopolniti ali spremeniti tudi z neobličnim sporazumom.",
+    "prevod_sr": "Ugovor za koji su strane ugovorile posebnu formu može se raskinuti, dopuniti ili izmeniti i neformalnim sporazumom.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (54. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Oblika, ki je z zakonom predpisana za neko pogodbo, velja tudi za pooblastilo za sklenitev te pogodbe.",
+    "prevod_sr": "Forma koja je zakonom propisana za neki ugovor važi i za punomoćje za zaključenje tog ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (75. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Če je treba za sklenitev pogodbe napraviti listino, je pogodba sklenjena, ko listino podpišejo vsi, ki se z njo zavezujejo.",
+    "prevod_sr": "Ako za zaključenje ugovora treba sačiniti ispravu, ugovor je zaključen kada ispravu potpišu svi koji se njome obavezuju.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (57. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Za sklenitev dvostranske pogodbe morata obe stranki vedno podpisati vse izvode listine.",
+    "prevod_sr": "Za zaključenje dvostranog ugovora obe strane uvek moraju potpisati sve primerke isprave.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): dovoljno je da obe strane potpišu jednu ispravu ili da svaka potpiše primerak namenjen drugoj strani (57. člen, 4. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "listina",
+   "podpis",
+   "dogovorjena oblika",
+   "neoblični sporazum",
+   "pooblastilo"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 54. člen, 2. odst.; 56. člen, 1. odst.; 57. člen, 1. in 4. odst.; 75. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-027",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Pogoj",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o pogoju v pogodbi so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o uslovu u ugovoru tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogodba, sklenjena pod nemogočim odložnim pogojem, je nična.",
+    "prevod_sr": "Ugovor zaključen pod nemogućim odložnim uslovom je ništav.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 60. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Nemogoč razvezni pogoj se šteje za neobstoječega.",
+    "prevod_sr": "Nemoguć raskidni uslov smatra se nepostojećim.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 60. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Nična je pogodba, v kateri je postavljen odložni ali razvezni pogoj, ki je v nasprotju z ustavo, s prisilnimi predpisi ali z moralnimi načeli.",
+    "prevod_sr": "Ništav je ugovor u kome je postavljen odložni ili raskidni uslov koji je protivan ustavu, prinudnim propisima ili moralnim načelima.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 60. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Šteje se, da pogoj ni uresničen, če njegovo uresničitev v nasprotju z načelom vestnosti in poštenja prepreči stranka, v katere breme je bil določen.",
+    "prevod_sr": "Smatra se da uslov nije ostvaren ako njegovo ostvarenje protivno načelu savesnosti i poštenja spreči strana na čiji je teret određen.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: u tom slučaju se smatra da uslov JESTE ostvaren (59. člen, 4. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodba, sklenjena pod nemogočim razveznim pogojem, je nična.",
+    "prevod_sr": "Ugovor zaključen pod nemogućim raskidnim uslovom je ništav.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: nemoguć raskidni uslov se smatra nepostojećim, pa ugovor ostaje (60. člen, 2. odst. OZ); ništav je ugovor pod nemogućim ODLOŽNIM uslovom."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "pogoj",
+   "odložni pogoj",
+   "razvezni pogoj",
+   "nemogoč pogoj",
+   "negotovo dejstvo"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 59. člen, 4. odst.; 60. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-028",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Rok – računanje časa",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o računanju rokov po 62. členu OZ so pravilne? (Predpostavite, da zadnji dan roka v primerih ni dela prost dan.)",
+  "prevod_sr": "Koje su tvrdnje o računanju rokova po 62. članu OZ tačne? (Pretpostavite da poslednji dan roka u primerima nije neradan dan.)",
+  "odgovori": [
+   {
+    "besedilo_sl": "Izraz »sredina meseca« pomeni petnajsti dan v mesecu, če iz namena strank, narave pogodbenega razmerja ali običajev ne izhaja kaj drugega.",
+    "prevod_sr": "Izraz »sredina meseca« znači petnaesti dan u mesecu, ako iz namere strana, prirode ugovornog odnosa ili običaja ne proizlazi nešto drugo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 62. člen, 4. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Enomesečni rok, ki se računa od dogodka z dne 31. januarja, se konča zadnji dan februarja.",
+    "prevod_sr": "Rok od mesec dana koji se računa od događaja od 31. januara završava se poslednjeg dana februara.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ako u poslednjem mesecu nema dana koji se poklapa, rok se završava poslednjeg dana tog meseca (62. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Če zadnji dan roka sovpada z dnem, ko se po zakonu ne dela, se za zadnji dan roka šteje zadnji delavnik pred tem dnem.",
+    "prevod_sr": "Ako poslednji dan roka pada na dan kada se po zakonu ne radi, poslednjim danom roka smatra se poslednji radni dan pre tog dana.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: poslednjim danom roka smatra se NAREDNI radni dan (62. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Rok, določen v dnevih, začne teči že na dan dogodka, od katerega se računa.",
+    "prevod_sr": "Rok određen u danima počinje da teče već na dan događaja od kojeg se računa.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: počinje da teče prvog dana POSLE događaja (62. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Petnajstdnevni rok, ki se računa od dogodka z dne 10. marca, začne teči 11. marca in se konča z iztekom 25. marca.",
+    "prevod_sr": "Rok od petnaest dana koji se računa od događaja od 10. marta počinje da teče 11. marta i završava se istekom 25. marta.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: rok u danima počinje prvog dana posle događaja i završava se istekom poslednjeg dana (62. člen, 1. odst. OZ): 11.–25. mart je 15 dana."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "rok",
+   "računanje časa",
+   "delavnik",
+   "sredina meseca",
+   "dogodek"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 62. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-029",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Ara",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kaj je ara po OZ?",
+  "prevod_sr": "Šta je kapara (ara) po OZ?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Znesek, ki ga mora stranka plačati, da sme odstopiti od pogodbe.",
+    "prevod_sr": "Iznos koji strana mora platiti da bi smela da odustane od ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: to je odustanica (odstopnina, skesnina) iz 67. člena OZ; kapara je znak da je ugovor zaključen (64. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Izključno denarni znesek; drugih stvari ni mogoče dati kot aro.",
+    "prevod_sr": "Isključivo novčani iznos; druge stvari se ne mogu dati kao kapara.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kapara može biti i količina drugih zamenljivih stvari (64. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Denarni znesek, ki ga dolžnik plača upniku za primer zamude z izpolnitvijo.",
+    "prevod_sr": "Novčani iznos koji dužnik plaća poveriocu za slučaj docnje sa ispunjenjem.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 64. člen, 1. odst. OZ određuje kaparu kao znak zaključenja ugovora, datu pri zaključenju, a ne kao plaćanje za slučaj docnje."
+   },
+   {
+    "besedilo_sl": "Znesek, ki pri izpolnitvi pogodbe vedno ostane prejemniku poleg celotne izpolnitve.",
+    "prevod_sr": "Iznos koji pri ispunjenju ugovora uvek ostaje primaocu pored celog ispunjenja.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pri ispunjenju ugovora kapara se mora vratiti ili uračunati u ispunjenje obaveze (64. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Znesek denarja ali količina drugih nadomestnih stvari, ki ga ena stranka ob sklenitvi pogodbe da drugi v znamenje, da je pogodba sklenjena.",
+    "prevod_sr": "Iznos novca ili količina drugih zamenljivih stvari koju jedna strana pri zaključenju ugovora da drugoj kao znak da je ugovor zaključen.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 64. člen, 1. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "ara",
+   "nadomestne stvari",
+   "v znamenje",
+   "odstopnina"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 64. člen, 1. in 2. odst.; 67. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-030",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Ara – neizpolnitev pogodbe",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Za neizpolnitev pogodbe je odgovorna stranka, ki je aro PREJELA. Kaj sme po lastni izbiri zahtevati stranka, ki je aro dala?",
+  "prevod_sr": "Za neispunjenje ugovora odgovorna je strana koja je kaparu PRIMILA. Šta sme po sopstvenom izboru da zahteva strana koja je kaparu dala?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Vrnitev trojne are.",
+    "prevod_sr": "Vraćanje trostruke kapare.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakon predviđa vraćanje DVOSTRUKE kapare (65. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Zadovoljiti se s prejeto aro in jo obdržati.",
+    "prevod_sr": "Zadovoljiti se primljenom kaparom i zadržati je.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: to je pravo strane koja je kaparu PRIMILA, kada je odgovoran davalac (65. člen, 1. odst. OZ); ovde je davalac kapare poštena strana."
+   },
+   {
+    "besedilo_sl": "Vrnitev dvojne are.",
+    "prevod_sr": "Vraćanje dvostruke kapare.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 65. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Izpolnitev pogodbe, če je to še mogoče.",
+    "prevod_sr": "Ispunjenje ugovora, ako je to još moguće.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 65. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Povrnitev škode in vrnitev are.",
+    "prevod_sr": "Naknadu štete i vraćanje kapare.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 65. člen, 2. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "ara",
+   "dvojna ara",
+   "neizpolnitev pogodbe",
+   "povrnitev škode",
+   "izpolnitev pogodbe"
+  ],
+  "vir": {
+   "literatura_str": "zapiski Tutorji EPF: vprasanja_2.txt, vpr. 6 (ara pri neizpolnitvi)",
+   "zakon_clen": "OZ, 65. člen, 1. in 2. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "po_zapiskih",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-031",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Odstopnina",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o odstopnini (skesnini) so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o odustanici tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogodbeni stranki se lahko dogovorita, da ima ena ali vsaka od njiju pravico odstopiti od pogodbe, če da odstopnino.",
+    "prevod_sr": "Ugovorne strane mogu se dogovoriti da jedna ili svaka od njih ima pravo da odustane od ugovora ako da odustanicu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 67. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Odstopnina se da ob sklenitvi pogodbe v znamenje, da je pogodba sklenjena.",
+    "prevod_sr": "Odustanica se daje pri zaključenju ugovora kao znak da je ugovor zaključen.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: to je obeležje kapare (64. člen, 1. odst. OZ); odustanica se daje istovremeno sa izjavom o odustanku (67. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Če upravičena stranka izjavi drugi stranki, da bo dala odstopnino, ne more več zahtevati izpolnitve pogodbe.",
+    "prevod_sr": "Ako ovlašćena strana izjavi drugoj strani da će dati odustanicu, ne može više zahtevati ispunjenje ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 67. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Upravičena stranka mora dati odstopnino hkrati z izjavo o odstopu.",
+    "prevod_sr": "Ovlašćena strana mora dati odustanicu istovremeno sa izjavom o odustanku.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 67. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pravica odstopiti od pogodbe preneha, če upravičena stranka začne izpolnjevati svoje obveznosti iz pogodbe ali sprejemati izpolnitev od druge stranke.",
+    "prevod_sr": "Pravo na odustanak od ugovora prestaje ako ovlašćena strana počne da ispunjava svoje obaveze iz ugovora ili da prima ispunjenje od druge strane.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 67. člen, 5. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "odstopnina",
+   "skesnina",
+   "odstop od pogodbe",
+   "upravičena stranka",
+   "izjava o odstopu"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 67. člen; 64. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-032",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Ara in odstop od pogodbe",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Kupec je ob sklenitvi pogodbe dal prodajalcu aro. Pravica do odstopa od pogodbe ni bila dogovorjena. Kupec si premisli in želi od pogodbe odstopiti tako, da aro pusti prodajalcu. Ali to lahko stori?",
+  "prevod_sr": "Kupac je pri zaključenju ugovora dao prodavcu kaparu. Pravo na odustanak od ugovora nije ugovoreno. Kupac se predomisli i želi da odustane od ugovora tako što kaparu ostavi prodavcu. Može li to da učini?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Da, vendar samo v tridesetih dneh od sklenitve pogodbe.",
+    "prevod_sr": "Da, ali samo u roku od trideset dana od zaključenja ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 64. člen OZ ne predviđa takav rok ni takvo pravo."
+   },
+   {
+    "besedilo_sl": "Ne; če ni dogovorjeno kaj drugega, stranka, ki je dala aro, ne more odstopiti od pogodbe s tem, da pusti aro drugi stranki.",
+    "prevod_sr": "Ne; ako nije ugovoreno nešto drugo, strana koja je dala kaparu ne može odustati od ugovora tako što kaparu ostavi drugoj strani.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 64. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Ne, ker je pogodba, pri kateri je dana ara, nična.",
+    "prevod_sr": "Ne, jer je ugovor kod kojeg je data kapara ništav.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kapara je znak da je ugovor zaključen (64. člen, 1. odst. OZ), a ne razlog ništavosti."
+   },
+   {
+    "besedilo_sl": "Da, vendar samo, če prodajalcu plača še enkrat toliko, kot znaša ara.",
+    "prevod_sr": "Da, ali samo ako prodavcu plati još jednom toliko koliko iznosi kapara.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: bez dogovora nema prava na odustanak ostavljanjem kapare (64. člen, 3. odst. OZ); dvostruki iznos se odnosi na primaoca kapare."
+   },
+   {
+    "besedilo_sl": "Da, ker ara po zakonu vedno pomeni tudi odstopnino.",
+    "prevod_sr": "Da, jer kapara po zakonu uvek znači i odustanicu.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kapara se smatra odustanicom samo ako je uz nju ugovoreno pravo na odustanak (68. člen, 1. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "ara",
+   "odstop od pogodbe",
+   "odstopnina",
+   "pustiti aro"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 64. člen, 3. odst.; 68. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-033",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Zastopanje – pogodba neupravičene osebe",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Oseba C sklene v imenu družbe D pogodbo z družbo E, čeprav ji družba D ni dala nobenega pooblastila. Kaj velja po OZ?",
+  "prevod_sr": "Lice C zaključi u ime društva D ugovor sa društvom E, iako mu društvo D nije dalo nikakvo punomoćje. Šta važi po OZ?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če družba D v danem roku pogodbe ne odobri, se šteje, da jo je odobrila.",
+    "prevod_sr": "Ako društvo D u datom roku ugovor ne odobri, smatra se da ga je odobrilo.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: tada se smatra da ugovor uopšte nije zaključen (73. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Družba E lahko zahteva povrnitev škode od osebe C tudi, če je ob sklenitvi pogodbe vedela, da C nima pooblastila.",
+    "prevod_sr": "Društvo E može zahtevati naknadu štete od lica C i ako je pri zaključenju ugovora znalo da C nema punomoćje.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: naknada štete pripada samo strani koja nije znala niti je bila dužna da zna da punomoćja nema (73. člen, 4. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodba zavezuje družbo D samo, če jo ta pozneje odobri.",
+    "prevod_sr": "Ugovor obavezuje društvo D samo ako ga ono kasnije odobri.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 73. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pogodba v vsakem primeru zavezuje družbo D, ta pa lahko nato zahteva povračilo od osebe C.",
+    "prevod_sr": "Ugovor u svakom slučaju obavezuje društvo D, a ono zatim može zahtevati naknadu od lica C.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: neovlašćeno zastupanog ugovor obavezuje samo ako ga naknadno odobri (73. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Družba E lahko zahteva od družbe D, naj se v primernem roku izreče, ali pogodbo odobrava ali ne.",
+    "prevod_sr": "Društvo E može zahtevati od društva D da se u primerenom roku izjasni da li ugovor odobrava ili ne.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 73. člen, 2. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "zastopanje",
+   "pooblastilo",
+   "neupravičeno zastopani",
+   "odobritev",
+   "povrnitev škode"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 73. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-034",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Pooblastilo",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o pooblastilu NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o punomoćju NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pooblastitelj pooblastila ne more preklicati, če se je s pogodbo tej pravici odpovedal.",
+    "prevod_sr": "Vlastodavac ne može opozvati punomoćje ako se ugovorom tog prava odrekao.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): vlastodavac može suziti ili opozvati punomoćje čak i ako se ugovorom tog prava odrekao (77. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pooblastilo je upravičenost za zastopanje, ki jo da pooblastitelj s pravnim poslom pooblaščencu.",
+    "prevod_sr": "Punomoćje je ovlašćenje za zastupanje koje vlastodavac pravnim poslom daje punomoćniku.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (74. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pooblaščenec je lahko tudi pravna oseba.",
+    "prevod_sr": "Punomoćnik može biti i pravno lice.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (74. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pooblastilo je mogoče preklicati samo v enaki obliki, v kakršni je bilo dano.",
+    "prevod_sr": "Punomoćje se može opozvati samo u istoj formi u kojoj je dato.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): svako punomoćje može se opozvati i suziti izjavom bez posebne forme (77. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Obstoj in obseg pooblastila nista odvisna od pravnega razmerja, ki je bilo zanj podlaga.",
+    "prevod_sr": "Postojanje i obim punomoćja ne zavise od pravnog odnosa koji je bio njegov osnov.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (74. člen, 2. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "pooblastilo",
+   "pooblastitelj",
+   "pooblaščenec",
+   "preklic pooblastila",
+   "zožitev pooblastila"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 74. člen; 77. člen, 1. in 2. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-035",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Pooblastilo – obseg",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Za katere od naštetih poslov potrebuje pooblaščenec po OZ posebno pooblastitev za vsak posamezen primer?",
+  "prevod_sr": "Za koje od navedenih poslova punomoćniku po OZ treba posebno ovlašćenje za svaki pojedini slučaj?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Za sklenitev pogodbe o poroštvu.",
+    "prevod_sr": "Za zaključenje ugovora o jemstvu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 76. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Za pravne posle, ki spadajo v redno poslovanje, kadar ima splošno pooblastilo.",
+    "prevod_sr": "Za pravne poslove koji spadaju u redovno poslovanje, kada ima opšte punomoćje.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: punomoćniku sa opštim punomoćjem dozvoljeni su upravo poslovi redovnog poslovanja (76. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Za sklenitev arbitražnega sporazuma.",
+    "prevod_sr": "Za zaključenje arbitražnog sporazuma.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 76. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Za prevzem menične obveznosti.",
+    "prevod_sr": "Za preuzimanje menične obaveze.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 76. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Za odtujitev ali obremenitev nepremičnin.",
+    "prevod_sr": "Za otuđenje ili opterećenje nepokretnosti.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 76. člen, 3. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "splošno pooblastilo",
+   "posebna pooblastitev",
+   "redno poslovanje",
+   "menična obveznost",
+   "poroštvo",
+   "arbitražni sporazum"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 76. člen, 2. in 3. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-036",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Poslovno pooblastilo – pooblastilo po zaposlitvi",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kaj po 80. členu OZ velja za osebe, ki na podlagi pogodbe z gospodarsko družbo ali samostojnim podjetnikom posameznikom opravljajo tako delo, da je z njim zvezano sklepanje ali izpolnjevanje določenih pogodb (npr. prodajalci v trgovinah)?",
+  "prevod_sr": "Šta po 80. članu OZ važi za lica koja na osnovu ugovora sa privrednim društvom ili samostalnim preduzetnikom obavljaju takav posao da je s njim povezano zaključivanje ili ispunjavanje određenih ugovora (npr. prodavci u trgovinama)?",
+  "odgovori": [
+   {
+    "besedilo_sl": "S tem imajo pravico skleniti in izpolniti take pogodbe.",
+    "prevod_sr": "Samim tim imaju pravo da zaključe i ispune takve ugovore.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 80. člen OZ (pooblastilo po zaposlitvi)."
+   },
+   {
+    "besedilo_sl": "Pooblaščene so samo za zbiranje naročil, ne pa za sklepanje pogodb.",
+    "prevod_sr": "Ovlašćena su samo za prikupljanje porudžbina, a ne za zaključivanje ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: to je pravilo u sumnji za trgovačkog putnika (81. člen, 2. odst. OZ), ne za lica iz 80. člena."
+   },
+   {
+    "besedilo_sl": "Pogodbe, ki jih sklenejo, so izpodbojne, dokler jih ne odobri poslovodstvo.",
+    "prevod_sr": "Ugovori koje zaključe rušljivi su dok ih ne odobri poslovodstvo.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 80. člen OZ im daje pravo da takve ugovore zaključe i ispune; naknadno odobrenje se ne traži."
+   },
+   {
+    "besedilo_sl": "Za vsako posamezno pogodbo potrebujejo posebno pisno pooblastilo.",
+    "prevod_sr": "Za svaki pojedini ugovor potrebno im je posebno pisano punomoćje.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: ovlašćenje proizlazi već iz posla koji obavljaju (80. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Take pogodbe smejo samo skleniti, ne pa tudi izpolniti.",
+    "prevod_sr": "Takve ugovore smeju samo da zaključe, ali ne i da ispune.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: po 80. členu OZ imaju pravo da takve ugovore »skleniti in izpolniti« – i da ih zaključe i da ih ispune."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "poslovno pooblastilo",
+   "pooblastilo po zaposlitvi",
+   "prodajalec",
+   "gospodarska družba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 80. člen; 81. člen, 2. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-037",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Trgovski potnik",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o trgovskem potniku NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o trgovačkom putniku NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Trgovski potnik je pooblaščen samo za tiste posle, ki se nanašajo na prodajo blaga in so navedeni v pooblastilu.",
+    "prevod_sr": "Trgovački putnik je ovlašćen samo za one poslove koji se odnose na prodaju robe i navedeni su u punomoćju.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (81. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Če ni gotovo, se šteje, da ima trgovski potnik pravico sklepati pogodbe.",
+    "prevod_sr": "Ako nije izvesno, smatra se da trgovački putnik ima pravo da zaključuje ugovore.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): u sumnji sme samo da prikuplja porudžbine (81. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Trgovski potnik, ki je pooblaščen sklepati pogodbe o prodaji blaga, sme brez posebnega pooblastila sprejemati kupnino in prodajati na kredit.",
+    "prevod_sr": "Trgovački putnik koji je ovlašćen da zaključuje ugovore o prodaji robe sme bez posebnog punomoćja da prima kupovnu cenu i da prodaje na kredit.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): za prodaju na kredit i primanje kupovne cene treba mu posebno punomoćje (81. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Če ni gotovo, se šteje, da trgovski potnik nima pravice sklepati pogodb, temveč samo zbirati naročila.",
+    "prevod_sr": "Ako nije izvesno, smatra se da trgovački putnik nema pravo da zaključuje ugovore, nego samo da prikuplja porudžbine.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (81. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Trgovski potnik ima pravico sprejemati za pooblastitelja izjave glede napak blaga v zvezi s pogodbo, sklenjeno z njegovim sodelovanjem.",
+    "prevod_sr": "Trgovački putnik ima pravo da za vlastodavca prima izjave u pogledu nedostataka robe u vezi sa ugovorom zaključenim uz njegovo učešće.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (81. člen, 4. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "trgovski potnik",
+   "zbirati naročila",
+   "kupnina",
+   "prodaja na kredit",
+   "napake blaga"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 81. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-038",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Razlaga pogodb",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o razlagi pogodb so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o tumačenju ugovora tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pri razlagi spornih določil je treba iskati skupen namen pogodbenikov.",
+    "prevod_sr": "Pri tumačenju spornih odredaba treba tražiti zajedničku nameru ugovarača.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 82. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Nejasna določila v neodplačni pogodbi je treba razlagati v pomenu, ki je manj težak za dolžnika.",
+    "prevod_sr": "Nejasne odredbe u besplatnom ugovoru treba tumačiti u značenju koje je manje teško za dužnika.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 84. člen OZ."
+   },
+   {
+    "besedilo_sl": "Pri razlagi spornih določil se je treba vedno držati dobesednega pomena uporabljenih izrazov.",
+    "prevod_sr": "Pri tumačenju spornih odredaba treba se uvek držati doslovnog značenja upotrebljenih izraza.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kod spornih odredaba se ne treba držati doslovnog značenja, nego tražiti zajedničku nameru (82. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Nejasna določila v odplačni pogodbi je treba razlagati v korist upnika.",
+    "prevod_sr": "Nejasne odredbe u teretnom ugovoru treba tumačiti u korist poverioca.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: u teretnom ugovoru tumače se tako da uzajamna davanja budu u pravičnom odnosu (84. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Določila pogodbe se uporabljajo tako, kot se glasijo.",
+    "prevod_sr": "Odredbe ugovora primenjuju se onako kako glase.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 82. člen, 1. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "razlaga pogodb",
+   "sporna določila",
+   "skupen namen pogodbenikov",
+   "dobesedni pomen",
+   "neodplačna pogodba",
+   "odplačna pogodba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 82. člen; 84. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-039",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Razlaga pogodb – nejasna določila",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Banka je pripravila pogodbo po vnaprej natisnjeni vsebini in jo predlagala stranki. Eno od določil pogodbe je nejasno. Kako ga je treba razlagati po OZ?",
+  "prevod_sr": "Banka je pripremila ugovor po unapred odštampanom sadržaju i predložila ga klijentu. Jedna od odredaba ugovora je nejasna. Kako je treba tumačiti po OZ?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Tako, kot ga razume stranka, ki je pogodbo pripravila in predlagala.",
+    "prevod_sr": "Onako kako je razume strana koja je ugovor pripremila i predložila.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 83. člen OZ nalaže tumačenje u korist DRUGE strane."
+   },
+   {
+    "besedilo_sl": "V korist banke, ker je pogodbo pripravila.",
+    "prevod_sr": "U korist banke, jer je ona pripremila ugovor.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pravilo je obrnuto – nejasne odredbe tumače se u korist druge strane (83. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Izključno po dobesednem pomenu uporabljenih izrazov.",
+    "prevod_sr": "Isključivo po doslovnom značenju upotrebljenih izraza.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kod spornih odredaba se ne treba držati doslovnog značenja (82. člen, 2. odst.), a za unapred pripremljene ugovore važi posebno pravilo 83. člena OZ."
+   },
+   {
+    "besedilo_sl": "V korist druge stranke, torej tiste, ki pogodbe ni pripravila.",
+    "prevod_sr": "U korist druge strane, dakle one koja ugovor nije pripremila.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 83. člen OZ."
+   },
+   {
+    "besedilo_sl": "Nejasno določilo je po samem zakonu nično, zato se sploh ne razlaga.",
+    "prevod_sr": "Nejasna odredba je po samom zakonu ništava, pa se uopšte ne tumači.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 83. člen OZ predviđa tumačenje, ne ništavost nejasne odredbe."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "nejasna določila",
+   "vnaprej natisnjena vsebina",
+   "razlaga v korist druge stranke"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 83. člen; 82. člen, 2. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-040",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Ničnost – razlogi",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katera pogodba je po splošnem pravilu 86. člena OZ nična (če namen kršenega pravila ne odkazuje na kakšno drugo sankcijo ali če zakon ne predpisuje kaj drugega)?",
+  "prevod_sr": "Koji je ugovor po opštem pravilu 86. člana OZ ništav (ako svrha povređenog pravila ne upućuje na neku drugu sankciju ili ako zakon ne propisuje nešto drugo)?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogodba, ki nasprotuje ustavi, prisilnim predpisom ali moralnim načelom.",
+    "prevod_sr": "Ugovor koji je protivan ustavu, prinudnim propisima ili moralnim načelima.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 86. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pogodba, ki jo je stranka sklenila zaradi nedopustne grožnje.",
+    "prevod_sr": "Ugovor koji je strana zaključila zbog nedopuštene pretnje.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kod pretnje strana može zahtevati poništenje – ugovor je rušljiv (45. člen, 1. odst.; 94. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Dvostranska pogodba, pri kateri je bilo ob sklenitvi očitno nesorazmerje med obveznostmi strank (čezmerno prikrajšanje).",
+    "prevod_sr": "Dvostrani ugovor kod kojeg je pri zaključenju postojala očigledna nesrazmera između obaveza strana (prekomerno oštećenje).",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kod prekomernog oštećenja oštećena strana može zahtevati poništenje (118. člen, 1. odst. OZ); ništav je zelenaški ugovor (119. člen)."
+   },
+   {
+    "besedilo_sl": "Pogodba, ki jo je brez dovoljenja zakonitega zastopnika sklenila poslovno omejeno sposobna oseba.",
+    "prevod_sr": "Ugovor koji je bez dozvole zakonskog zastupnika zaključilo poslovno ograničeno sposobno lice.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: takav ugovor je rušljiv (41. člen, 3. odst.; 94. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodba, ki jo je stranka sklenila v bistveni zmoti.",
+    "prevod_sr": "Ugovor koji je strana zaključila u bitnoj zabludi.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zabluda je mana volje i vodi rušljivosti – može se zahtevati poništenje (46. člen, 2. odst.; 94. člen OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "ničnost",
+   "nična pogodba",
+   "ustava",
+   "prisilni predpisi",
+   "moralna načela"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 86. člen, 1. odst.; 41., 45., 46., 94., 118. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-041",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Ničnost – uveljavljanje",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o uveljavljanju ničnosti so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o isticanju ništavosti tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Na ničnost pazi sodišče po uradni dolžnosti.",
+    "prevod_sr": "Na ništavost sud pazi po službenoj dužnosti.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 92. člen OZ."
+   },
+   {
+    "besedilo_sl": "Ničnost je mogoče uveljavljati samo v treh letih od sklenitve pogodbe.",
+    "prevod_sr": "Ništavost se može isticati samo u roku od tri godine od zaključenja ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pravo na isticanje ništavosti se ne gasi (93. člen OZ); tri godine je objektivni rok kod rušljivosti (99. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Pravica do uveljavljanja ničnosti ne ugasne.",
+    "prevod_sr": "Pravo na isticanje ništavosti se ne gasi.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 93. člen OZ."
+   },
+   {
+    "besedilo_sl": "Nična pogodba postane veljavna, če vzrok ničnosti pozneje preneha.",
+    "prevod_sr": "Ništav ugovor postaje punovažan ako uzrok ništavosti kasnije prestane.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: ništav ugovor ne postaje punovažan kada zabrana ili drugi uzrok ništavosti kasnije prestane (90. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Na ničnost se lahko sklicuje samo pogodbena stranka, ne pa tudi druga zainteresirana oseba.",
+    "prevod_sr": "Na ništavost se može pozivati samo ugovorna strana, a ne i drugo zainteresovano lice.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: na ništavost se može pozivati svako zainteresovano lice (92. člen OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "uveljavljanje ničnosti",
+   "po uradni dolžnosti",
+   "zainteresirana oseba",
+   "ne ugasne"
+  ],
+  "vir": {
+   "literatura_str": "zapiski Tutorji EPF: vprasanja_2.txt, vpr. 4 (»Kako dolgo lahko zahtevaš ničnost?«)",
+   "zakon_clen": "OZ, 90. člen, 1. odst.; 92. člen; 93. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "po_zapiskih",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-042",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Ničnost – delna ničnost in konverzija",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o ničnih pogodbah so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o ništavim ugovorima tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Ničnost enega pogodbenega določila ima vedno za posledico ničnost celotne pogodbe.",
+    "prevod_sr": "Ništavost jedne ugovorne odredbe uvek ima za posledicu ništavost celog ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: ugovor po pravilu ostaje bez ništave odredbe ako može opstati bez nje (88. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Če je sklenitev določene pogodbe prepovedana samo eni stranki, ostane pogodba v veljavi, razen če zakon za posamezen primer določa kaj drugega.",
+    "prevod_sr": "Ako je zaključenje određenog ugovora zabranjeno samo jednoj strani, ugovor ostaje na snazi, osim ako zakon za pojedini slučaj određuje nešto drugo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 86. člen, 2. odst. OZ; stranu koja je prekršila zabranu pogađaju odgovarajuće posledice."
+   },
+   {
+    "besedilo_sl": "Kadar nična pogodba izpolnjuje pogoje za veljavnost kakšne druge pogodbe, velja med pogodbenikoma ta druga pogodba, če je to v skladu z njunim namenom in se lahko šteje, da bi jo sklenila, če bi vedela za ničnost svoje pogodbe.",
+    "prevod_sr": "Kada ništav ugovor ispunjava uslove za punovažnost nekog drugog ugovora, među ugovaračima važi taj drugi ugovor, ako je to u skladu s njihovom namerom i može se smatrati da bi ga zaključili da su znali za ništavost svog ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 89. člen OZ (konverzija)."
+   },
+   {
+    "besedilo_sl": "Zaradi ničnosti kakšnega pogodbenega določila ni nična tudi sama pogodba, če lahko obstane brez ničnega določila in če to določilo ni bilo ne pogodbeni pogoj ne odločilen nagib, zaradi katerega je bila sklenjena.",
+    "prevod_sr": "Zbog ništavosti neke ugovorne odredbe nije ništav i sam ugovor, ako može opstati bez ništave odredbe i ako ta odredba nije bila ni uslov ugovora ni odlučujuća pobuda zbog koje je zaključen.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 88. člen, 1. odst. OZ (delimična ništavost)."
+   },
+   {
+    "besedilo_sl": "Če je pogodba nična, vsaka stranka obdrži, kar je na njeni podlagi prejela.",
+    "prevod_sr": "Ako je ugovor ništav, svaka strana zadržava ono što je na osnovu njega primila.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: svaka strana mora drugoj vratiti sve što je primila, a ako to nije moguće, dati odgovarajuću novčanu naknadu (87. člen, 1. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "delna ničnost",
+   "konverzija",
+   "nično določilo",
+   "posledice ničnosti",
+   "vrniti"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 86. člen, 2. odst.; 87. člen, 1. odst.; 88. člen, 1. odst.; 89. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-043",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Izpodbojnost – razlogi",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kdaj je pogodba po 94. členu OZ izpodbojna?",
+  "prevod_sr": "Kada je ugovor po 94. članu OZ rušljiv?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če so bile pri njeni sklenitvi napake glede volje strank.",
+    "prevod_sr": "Ako su pri njegovom zaključenju postojale mane volje strana.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 94. člen OZ (pretnja, bitna zabluda, prevara – 45., 46., 49. člen)."
+   },
+   {
+    "besedilo_sl": "Če je predmet obveznosti nedopusten.",
+    "prevod_sr": "Ako je predmet obaveze nedopušten.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: tada je ugovor ništav (35. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Če ni sklenjena v obliki, ki jo predpisuje zakon.",
+    "prevod_sr": "Ako nije zaključen u formi koju propisuje zakon.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: nedostatak propisane forme po pravilu vodi ništavosti (55. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Če je tako določeno v OZ ali v drugem zakonu.",
+    "prevod_sr": "Ako je tako određeno u OZ ili u drugom zakonu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 94. člen OZ; primer je prekomerno oštećenje (118. člen)."
+   },
+   {
+    "besedilo_sl": "Če jo je sklenila stranka, ki je poslovno omejeno sposobna.",
+    "prevod_sr": "Ako ga je zaključila strana koja je poslovno ograničeno sposobna.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 94. člen OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "izpodbojnost",
+   "izpodbojna pogodba",
+   "napake volje",
+   "poslovno omejeno sposobna oseba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 94. člen; 35. člen; 55. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-044",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Izpodbojnost – roki",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Kdaj preneha pravica zahtevati razveljavitev izpodbojne pogodbe?",
+  "prevod_sr": "Kada prestaje pravo da se zahteva poništenje rušljivog ugovora?",
+  "odgovori": [
+   {
+    "besedilo_sl": "S pretekom enega leta od dneva, ko je upravičenec zvedel za razlog izpodbojnosti, oziroma enega leta od prenehanja sile.",
+    "prevod_sr": "Istekom jedne godine od dana kada je ovlašćeno lice saznalo za razlog rušljivosti, odnosno jedne godine od prestanka prinude.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 99. člen, 1. odst. OZ (subjektivni rok)."
+   },
+   {
+    "besedilo_sl": "V vsakem primeru s pretekom petih let od dneva, ko je bila pogodba sklenjena.",
+    "prevod_sr": "U svakom slučaju istekom pet godina od dana kada je ugovor zaključen.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: objektivni rok je tri godine (99. člen, 2. odst. OZ); pet godina je rok za zahtev za smanjenje obaveze kod zelenaškog ugovora (119. člen, 4. odst.)."
+   },
+   {
+    "besedilo_sl": "S pretekom tridesetih dni od dneva, ko je bila pogodba sklenjena.",
+    "prevod_sr": "Istekom trideset dana od dana kada je ugovor zaključen.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 99. člen OZ određuje jednu godinu (subjektivno) i tri godine (objektivno); 30 dana je najkraći rok za izjašnjenje iz 95. člena, 2. odst."
+   },
+   {
+    "besedilo_sl": "Ta pravica ne ugasne.",
+    "prevod_sr": "To pravo se ne gasi.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: ne gasi se pravo na isticanje NIŠTAVOSTI (93. člen OZ); za rušljivost važe rokovi iz 99. člena."
+   },
+   {
+    "besedilo_sl": "V vsakem primeru s pretekom treh let od dneva, ko je bila pogodba sklenjena.",
+    "prevod_sr": "U svakom slučaju istekom tri godine od dana kada je ugovor zaključen.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 99. člen, 2. odst. OZ (objektivni rok)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "razveljavitev",
+   "izpodbojna pogodba",
+   "eno leto",
+   "tri leta",
+   "prenehanje pravice"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 99. člen; 93. člen; 95. člen, 2. odst.; 119. člen, 4. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-045",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Ničnost in izpodbojnost – razlikovanje",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "V katerih od naštetih primerov lahko stranka po OZ zahteva razveljavitev pogodbe (pogodba je izpodbojna, ne nična)?",
+  "prevod_sr": "U kojim od navedenih slučajeva strana po OZ može zahtevati poništenje ugovora (ugovor je rušljiv, a ne ništav)?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Stranka je sklenila pogodbo zaradi utemeljenega strahu, ki ga je povzročila nedopustna grožnja.",
+    "prevod_sr": "Strana je zaključila ugovor zbog opravdanog straha koji je izazvala nedopuštena pretnja.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 45. člen, 1. odst. OZ – strana može zahtevati poništenje."
+   },
+   {
+    "besedilo_sl": "Druga stranka je stranko s prevaro napeljala k sklenitvi pogodbe.",
+    "prevod_sr": "Druga strana je prevarom navela stranu na zaključenje ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 49. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Nekdo je izkoristil stisko drugega in si izgovoril korist, ki je v očitnem nesorazmerju s tem, kar je sam dal (oderuška pogodba).",
+    "prevod_sr": "Neko je iskoristio nuždu drugoga i ugovorio za sebe korist koja je u očiglednoj nesrazmeri s onim što je sam dao (zelenaški ugovor).",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zelenaški ugovor je NIŠTAV (119. člen, 1. odst. OZ), a ne rušljiv."
+   },
+   {
+    "besedilo_sl": "Stranka je bila v bistveni zmoti in je pri sklenitvi pogodbe ravnala s skrbnostjo, ki se zahteva v prometu.",
+    "prevod_sr": "Strana je bila u bitnoj zabludi i pri zaključenju ugovora je postupala sa pažnjom koja se zahteva u prometu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 46. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Ob sklenitvi dvostranske pogodbe je bilo med obveznostmi strank očitno nesorazmerje, oškodovana stranka pa za pravo vrednost ni vedela in ni bila dolžna vedeti.",
+    "prevod_sr": "Pri zaključenju dvostranog ugovora postojala je očigledna nesrazmera između obaveza strana, a oštećena strana za pravu vrednost nije znala niti je bila dužna da zna.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 118. člen, 1. odst. OZ (prekomerno oštećenje) – može se zahtevati poništenje."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "razveljavitev",
+   "izpodbojnost",
+   "grožnja",
+   "prevara",
+   "čezmerno prikrajšanje",
+   "bistvena zmota",
+   "oderuška pogodba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 45., 46., 49., 94., 118., 119. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-046",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Ničnost in izpodbojnost – razlikovanje",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o razliki med ničnostjo in izpodbojnostjo NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o razlici između ništavosti i rušljivosti NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pravica zahtevati razveljavitev izpodbojne pogodbe ne ugasne.",
+    "prevod_sr": "Pravo da se zahteva poništenje rušljivog ugovora se ne gasi.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): to pravo prestaje za jednu godinu od saznanja, a u svakom slučaju za tri godine od zaključenja (99. člen OZ); ne gasi se pravo na isticanje ništavosti (93. člen)."
+   },
+   {
+    "besedilo_sl": "Razveljavitev izpodbojne pogodbe lahko zahteva pogodbenik, v čigar interesu je določena izpodbojnost.",
+    "prevod_sr": "Poništenje rušljivog ugovora može zahtevati ugovarač u čijem je interesu rušljivost određena.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (95. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Na ničnost se lahko sklicuje vsaka zainteresirana oseba.",
+    "prevod_sr": "Na ništavost se može pozivati svako zainteresovano lice.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (92. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Na ničnost pazi sodišče po uradni dolžnosti.",
+    "prevod_sr": "Na ništavost sud pazi po službenoj dužnosti.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (92. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Razveljavitev izpodbojne pogodbe lahko zahteva vsaka zainteresirana oseba.",
+    "prevod_sr": "Poništenje rušljivog ugovora može zahtevati svako zainteresovano lice.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): poništenje može zahtevati samo ugovarač u čijem je interesu rušljivost određena (95. člen, 1. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "ničnost",
+   "izpodbojnost",
+   "po uradni dolžnosti",
+   "zainteresirana oseba",
+   "razveljavitev"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 92. člen; 93. člen; 95. člen, 1. odst.; 99. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-047",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Dvostranske pogodbe – ugovor neizpolnjene pogodbe",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o pravilu sočasne izpolnitve pri dvostranskih pogodbah so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o pravilu istovremenog ispunjenja kod dvostranih ugovora tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če stranka na sodišču uveljavlja ta ugovor, sodišče tožbeni zahtevek druge stranke v celoti zavrne.",
+    "prevod_sr": "Ako strana na sudu istakne taj prigovor, sud tužbeni zahtev druge strane u celini odbija.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: sud nalaže ispunjenje istovremeno sa ispunjenjem druge strane (101. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pri prodajni pogodbi mora po zakonu prodajalec vedno izpolniti prvi.",
+    "prevod_sr": "Kod ugovora o prodaji po zakonu prodavac uvek mora da ispuni prvi.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: opšte pravilo je istovremeno ispunjenje (101. člen, 1. odst. OZ); i kod prodaje se cena, ako nije ugovoreno ili uobičajeno drugačije, plaća pri predaji stvari (496. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Nobena stranka ni dolžna izpolniti svoje obveznosti, če druga stranka ne izpolni ali ni pripravljena sočasno izpolniti svoje, razen če je dogovorjeno ali z zakonom določeno kaj drugega ali če kaj drugega izhaja iz narave posla.",
+    "prevod_sr": "Nijedna strana nije dužna da ispuni svoju obavezu ako druga strana ne ispuni ili nije spremna da istovremeno ispuni svoju, osim ako je ugovoreno ili zakonom određeno nešto drugo ili ako nešto drugo proizlazi iz prirode posla.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 101. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Če stranka na sodišču ugovarja, da ni dolžna izpolniti, dokler tudi druga stranka ne izpolni svoje obveznosti, ji sodišče naloži, da mora izpolniti takrat, ko jo izpolni tudi druga stranka.",
+    "prevod_sr": "Ako strana na sudu prigovori da nije dužna da ispuni dok i druga strana ne ispuni svoju obavezu, sud joj nalaže da ispuni onda kada je ispuni i druga strana.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 101. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pravilo sočasne izpolnitve je prisilno, zato stranki ne moreta dogovoriti, da bo ena izpolnila prva.",
+    "prevod_sr": "Pravilo istovremenog ispunjenja je prinudno, pa strane ne mogu ugovoriti da će jedna ispuniti prva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 101. člen, 1. odst. OZ izričito dopušta drugačiji dogovor; 102. člen uređuje baš slučaj kada jedna strana ispunjava prva."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "dvostranska pogodba",
+   "sočasna izpolnitev",
+   "ugovor neizpolnjene pogodbe",
+   "izpolniti obveznost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 101. člen; 102. člen; 496. člen, 2. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-048",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Dvostranske pogodbe – odstop zaradi neizpolnitve",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Rok za dobavo blaga ni bistvena sestavina pogodbe. Dobavitelj blaga v dogovorjenem roku ne dobavi. Kaj velja za kupca, ki želi odstopiti od pogodbe?",
+  "prevod_sr": "Rok za isporuku robe nije bitan sastojak ugovora. Isporučilac robu ne isporuči u ugovorenom roku. Šta važi za kupca koji želi da odustane od ugovora?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogodba je že s potekom dogovorjenega roka razvezana po samem zakonu.",
+    "prevod_sr": "Ugovor je već istekom ugovorenog roka raskinut po samom zakonu.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: raskid po samom zakonu nastupa kad je rok bitan sastojak ugovora (104. člen, 1. odst. OZ); ovde nije."
+   },
+   {
+    "besedilo_sl": "Kupec od pogodbe sploh ne more odstopiti; zahteva lahko samo odškodnino.",
+    "prevod_sr": "Kupac od ugovora uopšte ne može odustati; može zahtevati samo naknadu štete.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: druga strana može zahtevati ispunjenje ili odustati od ugovora, a u svakom slučaju ima pravo na naknadu štete (103. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Dobavitelj po izteku dogovorjenega roka obveznosti ne sme več izpolniti.",
+    "prevod_sr": "Isporučilac posle isteka ugovorenog roka obavezu više ne sme da ispuni.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: dužnik zadržava pravo da ispuni i posle isteka roka (105. člen, 1. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Dobavitelju mora praviloma pustiti primeren dodatni rok za izpolnitev.",
+    "prevod_sr": "Po pravilu mora isporučiocu ostaviti primeren naknadni rok za ispunjenje.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 105. člen, 2. odst. OZ; izuzetak je 106. člen (kad iz dužnikovog ponašanja proizlazi da ni u naknadnom roku neće ispuniti)."
+   },
+   {
+    "besedilo_sl": "Dodatnega roka mu ni treba pustiti, če iz dobaviteljevega ravnanja izhaja, da obveznosti niti v dodatnem roku ne bo izpolnil.",
+    "prevod_sr": "Naknadni rok ne mora da mu ostavi ako iz ponašanja isporučioca proizlazi da obavezu neće ispuniti ni u naknadnom roku.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 106. člen OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "odstop od pogodbe",
+   "dodatni rok",
+   "bistvena sestavina",
+   "neizpolnitev",
+   "razveza po samem zakonu"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 103. člen; 104. člen, 1. odst.; 105. člen; 106. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-049",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Dvostranske pogodbe – odstop zaradi neizpolnitve",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katera trditev o prenehanju dvostranske pogodbe zaradi neizpolnitve NI pravilna?",
+  "prevod_sr": "Koja tvrdnja o prestanku dvostranog ugovora zbog neispunjenja NIJE tačna?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če je pred iztekom roka za izpolnitev očitno, da ena stranka ne bo izpolnila svoje obveznosti, lahko druga stranka odstopi od pogodbe in zahteva povrnitev škode.",
+    "prevod_sr": "Ako je pre isteka roka za ispunjenje očigledno da jedna strana neće ispuniti svoju obavezu, druga strana može odustati od ugovora i zahtevati naknadu štete.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (107. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Upnik, ki zaradi neizpolnitve dolžnikove obveznosti odstopi od pogodbe, mora to nemudoma sporočiti dolžniku.",
+    "prevod_sr": "Poverilac koji zbog neispunjenja dužnikove obaveze odustane od ugovora mora to bez odlaganja saopštiti dužniku.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (109. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Od pogodbe ni mogoče odstopiti zaradi neizpolnitve neznatnega dela obveznosti.",
+    "prevod_sr": "Od ugovora se ne može odustati zbog neispunjenja neznatnog dela obaveze.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (110. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Stranka, ki odstopi od pogodbe, s tem izgubi pravico do odškodnine.",
+    "prevod_sr": "Strana koja odustane od ugovora time gubi pravo na naknadu štete.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): druga strana »v vsakem primeru« ima pravo na naknadu štete (103. člen OZ); i posle raskida ostaje obaveza naknade štete (111. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Če je izpolnitev v določenem roku bistvena sestavina pogodbe in dolžnik v tem roku ne izpolni, je pogodba razvezana po samem zakonu.",
+    "prevod_sr": "Ako je ispunjenje u određenom roku bitan sastojak ugovora, a dužnik u tom roku ne ispuni, ugovor je raskinut po samom zakonu.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (104. člen, 1. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "odstop od pogodbe",
+   "neznaten del obveznosti",
+   "odškodnina",
+   "razvezana pogodba",
+   "nemudoma sporočiti"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 103. člen; 104. člen, 1. odst.; 107. člen; 109. člen; 110. člen; 111. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-050",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Spremenjene okoliščine",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o razvezi pogodbe zaradi spremenjenih okoliščin so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o raskidu ugovora zbog promenjenih okolnosti tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Stranka se lahko sklicuje tudi na spremenjene okoliščine, ki so nastale po izteku roka, določenega za izpolnitev njene obveznosti.",
+    "prevod_sr": "Strana se može pozivati i na promenjene okolnosti koje su nastale posle isteka roka određenog za ispunjenje njene obaveze.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: na takve okolnosti se ne može pozivati (112. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Pogodba se ne razveže, če druga stranka ponudi ali privoli, da se ustrezni pogodbeni pogoji pravično spremenijo.",
+    "prevod_sr": "Ugovor se ne raskida ako druga strana ponudi ili pristane da se odgovarajući ugovorni uslovi pravično izmene.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 112. člen, 4. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Ko nastopijo spremenjene okoliščine, je pogodba razvezana po samem zakonu, ne da bi stranka to zahtevala.",
+    "prevod_sr": "Kada nastupe promenjene okolnosti, ugovor je raskinut po samom zakonu, bez zahteva strane.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pogođena strana može ZAHTEVATI raskid (112. člen, 1. odst.), o čemu odlučuje sud (112. člen, 5. odst.; 114. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Razveze ni mogoče zahtevati, če bi bila morala stranka te okoliščine upoštevati ob sklenitvi pogodbe ali če bi se jim bila lahko izognila.",
+    "prevod_sr": "Raskid se ne može zahtevati ako je strana te okolnosti morala uzeti u obzir pri zaključenju ugovora ili ako ih je mogla izbeći.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 112. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Okoliščine, ki otežujejo izpolnitev ali onemogočajo dosego namena pogodbe, morajo nastati po sklenitvi pogodbe.",
+    "prevod_sr": "Okolnosti koje otežavaju ispunjenje ili onemogućavaju postizanje svrhe ugovora moraju nastati posle zaključenja ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 112. člen, 1. odst. OZ."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "spremenjene okoliščine",
+   "razveza pogodbe",
+   "namen pogodbe",
+   "pravična sprememba pogodbenih pogojev"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 112. člen; 114. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-051",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Spremenjene okoliščine",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o spremenjenih okoliščinah NE držijo?",
+  "prevod_sr": "Koje tvrdnje o promenjenim okolnostima NE stoje?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Stranka, ki druge stranke ni pravočasno obvestila o nameri zahtevati razvezo, ne odgovarja za škodo, ki jo je druga stranka zaradi tega imela.",
+    "prevod_sr": "Strana koja drugu stranu nije blagovremeno obavestila o nameri da zahteva raskid ne odgovara za štetu koju je druga strana zbog toga imala.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): po 113. členu OZ strana koja nije obavestila odgovara za štetu koju je druga strana imala zato što o zahtevu nije blagovremeno obaveštena."
+   },
+   {
+    "besedilo_sl": "Sodišče pri odločanju upošteva zlasti namen pogodbe, tveganja, ki so v poslovnem prometu običajna pri pogodbah iste vrste, in uravnoteženost interesov obeh strank.",
+    "prevod_sr": "Sud pri odlučivanju naročito uzima u obzir svrhu ugovora, rizike koji su u poslovnom prometu uobičajeni kod ugovora iste vrste i uravnoteženost interesa obe strane.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (114. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Stranki se sklicevanju na določene spremenjene okoliščine ne moreta vnaprej odpovedati.",
+    "prevod_sr": "Strane se ne mogu unapred odreći pozivanja na određene promenjene okolnosti.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (netačna tvrdnja): strane se mogu ugovorom unapred odreći pozivanja na određene promenjene okolnosti, osim ako je to protivno načelu savesnosti i poštenja (115. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Stranka, ki je upravičena zahtevati razvezo, mora drugo stranko obvestiti, da jo namerava zahtevati, brž ko zve, da so nastale takšne okoliščine.",
+    "prevod_sr": "Strana koja je ovlašćena da zahteva raskid mora obavestiti drugu stranu da namerava da ga zahteva čim sazna da su nastale takve okolnosti.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (113. člen OZ)."
+   },
+   {
+    "besedilo_sl": "Če sodišče razveže pogodbo, na zahtevo druge stranke naloži stranki, ki je razvezo zahtevala, da ji povrne pravičen del škode, ki ji je zaradi razveze nastala.",
+    "prevod_sr": "Ako sud raskine ugovor, na zahtev druge strane nalaže strani koja je raskid zahtevala da joj naknadi pravičan deo štete koja joj je zbog raskida nastala.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (112. člen, 5. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "spremenjene okoliščine",
+   "dolžnost obvestitve",
+   "odpoved sklicevanju",
+   "pravičen del škode"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 112. člen, 5. odst.; 113. člen; 114. člen; 115. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-052",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Čezmerno prikrajšanje",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o čezmernem prikrajšanju (118. člen OZ) so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o prekomernom oštećenju (118. član OZ) tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogodba ostane v veljavi, če druga stranka ponudi dopolnitev do prave vrednosti.",
+    "prevod_sr": "Ugovor ostaje na snazi ako druga strana ponudi dopunu do prave vrednosti.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 118. člen, 4. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Stranka se lahko tej pravici veljavno odpove vnaprej, že v sami pogodbi.",
+    "prevod_sr": "Strana se tog prava može punovažno odreći unapred, već u samom ugovoru.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: unapred dato odricanje nema pravno dejstvo (118. člen, 3. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Očitno nesorazmerje med obveznostmi strank mora obstajati ob sklenitvi dvostranske pogodbe.",
+    "prevod_sr": "Očigledna nesrazmera između obaveza strana mora postojati pri zaključenju dvostranog ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 118. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pravica zahtevati razveljavitev pogodbe preneha po enem letu od sklenitve pogodbe.",
+    "prevod_sr": "Pravo da se zahteva poništenje ugovora prestaje po isteku jedne godine od zaključenja ugovora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 118. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pogodba je zaradi čezmernega prikrajšanja nična.",
+    "prevod_sr": "Ugovor je zbog prekomernog oštećenja ništav.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: oštećena strana može zahtevati poništenje – ugovor je rušljiv (118. člen, 1. odst. OZ); ništav je zelenaški ugovor (119. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "čezmerno prikrajšanje",
+   "očitno nesorazmerje",
+   "razveljavitev",
+   "prava vrednost",
+   "eno leto"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 118. člen; 119. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-053",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Čezmerno prikrajšanje",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Pri katerih pogodbah se zaradi očitnega nesorazmerja vzajemnih dajatev (čezmerno prikrajšanje) NE more zahtevati razveljavitev?",
+  "prevod_sr": "Kod kojih se ugovora zbog očigledne nesrazmere uzajamnih davanja (prekomerno oštećenje) NE može zahtevati poništenje?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pri pogodbi, sklenjeni na podlagi javne dražbe.",
+    "prevod_sr": "Kod ugovora zaključenog na osnovu javne licitacije.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: 118. člen, 5. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pri vsaki pogodbi, ki sta jo sklenila gospodarska subjekta.",
+    "prevod_sr": "Kod svakog ugovora koji su zaključila dva privredna subjekta.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: 118. člen, 5. odst. OZ takav izuzetak ne navodi; izuzeci su samo ugovor na sreću, javna licitacija i viša cena iz posebne naklonosti."
+   },
+   {
+    "besedilo_sl": "Pri pogodbi, pri kateri je bila za stvar dana višja cena iz posebne naklonjenosti.",
+    "prevod_sr": "Kod ugovora kod kojeg je za stvar data viša cena iz posebne naklonosti.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: 118. člen, 5. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pri vsaki pogodbi, sklenjeni v pisni obliki.",
+    "prevod_sr": "Kod svakog ugovora zaključenog u pisanoj formi.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: forma ugovora nije izuzetak po 118. členu, 5. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Pri pogodbi na srečo.",
+    "prevod_sr": "Kod ugovora na sreću.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: 118. člen, 5. odst. OZ izričito isključuje ugovor na sreću."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "čezmerno prikrajšanje",
+   "pogodba na srečo",
+   "javna dražba",
+   "posebna naklonjenost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 118. člen, 5. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-054",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Oderuška pogodba",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Posojilodajalec izkoristi hudo premoženjsko stisko posojilojemalca in si izgovori korist, ki je v očitnem nesorazmerju s tem, kar je sam dal. Za kateri institut gre in kakšna je sankcija po OZ?",
+  "prevod_sr": "Zajmodavac iskoristi teško imovinsko stanje zajmoprimca i ugovori za sebe korist koja je u očiglednoj nesrazmeri s onim što je sam dao. O kom institutu je reč i kakva je sankcija po OZ?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Gre za spremenjene okoliščine, zaradi katerih lahko posojilojemalec zahteva razvezo pogodbe.",
+    "prevod_sr": "Reč je o promenjenim okolnostima, zbog kojih zajmoprimac može zahtevati raskid ugovora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: promenjene okolnosti nastaju POSLE zaključenja ugovora (112. člen, 1. odst. OZ); ovde nesrazmera postoji od početka zbog iskorišćavanja nužde (119. člen)."
+   },
+   {
+    "besedilo_sl": "Gre za oderuško pogodbo, ki je nična.",
+    "prevod_sr": "Reč je o zelenaškom ugovoru, koji je ništav.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 119. člen, 1. odst. OZ – iskorišćavanje nužde ili teškog imovinskog stanja + očigledna nesrazmera = ništavost."
+   },
+   {
+    "besedilo_sl": "Gre za oderuško pogodbo, ki je izpodbojna v enem letu od sklenitve.",
+    "prevod_sr": "Reč je o zelenaškom ugovoru, koji je rušljiv u roku od godinu dana od zaključenja.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zelenaški ugovor je ništav (119. člen, 1. odst.); rok od godinu dana važi za prekomerno oštećenje (118. člen, 2. odst. OZ)."
+   },
+   {
+    "besedilo_sl": "Gre za navidezno pogodbo, ki nima učinka med strankama.",
+    "prevod_sr": "Reč je o prividnom ugovoru, koji nema dejstvo između strana.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prividan ugovor (50. člen OZ) je onaj koji strane zapravo ne žele; ovde je reč o iskorišćavanju nužde (119. člen)."
+   },
+   {
+    "besedilo_sl": "Gre za čezmerno prikrajšanje; pogodba je nična.",
+    "prevod_sr": "Reč je o prekomernom oštećenju; ugovor je ništav.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prekomerno oštećenje (118. člen OZ) ne traži iskorišćavanje nužde i vodi poništenju, ne ništavosti; opisani slučaj je zelenaški ugovor (119. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "oderuška pogodba",
+   "stiska",
+   "težko premoženjsko stanje",
+   "očitno nesorazmerje",
+   "ničnost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 119. člen, 1. odst.; 118. člen; 50. člen; 112. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T4-055",
+  "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+  "podtema": "Splošni pogoji pogodbe",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o splošnih pogojih pogodbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o opštim uslovima ugovora tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Splošni pogoji, ki jih določi en pogodbenik, dopolnjujejo posebne dogovore med pogodbenikoma in praviloma zavezujejo tako kot ti.",
+    "prevod_sr": "Opšti uslovi koje odredi jedan ugovarač dopunjuju posebne dogovore među ugovaračima i po pravilu obavezuju kao i oni.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 120. člen, 1. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Splošni pogoji zavezujejo pogodbeno stranko, če so ji bili ob sklenitvi pogodbe znani ali bi ji morali biti znani.",
+    "prevod_sr": "Opšti uslovi obavezuju ugovornu stranu ako su joj pri zaključenju ugovora bili poznati ili su joj morali biti poznati.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 120. člen, 3. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Splošni pogoji pogodbe morajo biti objavljeni na običajen način.",
+    "prevod_sr": "Opšti uslovi ugovora moraju biti objavljeni na uobičajen način.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 120. člen, 2. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Če se splošni pogoji in posebni dogovori ne ujemajo, veljajo posebni dogovori.",
+    "prevod_sr": "Ako se opšti uslovi i posebni dogovori ne slažu, važe posebni dogovori.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 120. člen, 4. odst. OZ."
+   },
+   {
+    "besedilo_sl": "Določila splošnih pogojev, ki nasprotujejo dobrim poslovnim običajem, so veljavna, če je splošne pogoje odobril pristojni organ.",
+    "prevod_sr": "Odredbe opštih uslova koje su protivne dobrim poslovnim običajima punovažne su ako je opšte uslove odobrio nadležni organ.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: takve odredbe su ništave čak i ako je opšte uslove odobrio nadležni organ (121. člen, 1. odst. OZ)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "splošni pogoji pogodbe",
+   "posebni dogovori",
+   "formularna pogodba",
+   "objavljeni na običajen način",
+   "dobri poslovni običaji"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "OZ, 120. člen; 121. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ }
+]

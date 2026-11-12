@@ -1,0 +1,575 @@
+KAPITALSKE DRUŽBE
+
+1.DELNIŠKA DRUŽBA(d.d.)
+-najpomembnejša trgovinska družba
+-je pravna oseba,ki odgovarja upnikom za obveznosti z vsem svojim premoženjem
+-je skupnost oseb,ki se povezujejo v družbo preko vložkov v njej osnovni kapital
+-značilnosti:
+      *je gospodarska in kapitalska družba
+      *osnovni kapital družbe je razdeljen na delnice
+      *je pravna oseba
+      *ustanovitveni akt je statut družbe
+      * delničarji za obveznosti družbe odgovarjajo le z svojim vložkom
+      *članstvo preneha z prodajo delnic
+-pravni lastnik premoženja je družba in ne delničarji(ti le vplačajo delnice ter v zameno dobijo določene
+premoženjske/članske pravice)
+-delitev zasebnega premoženja delničarjev in premoženja delniške družbe
+DELNICE
+     *lahko pripadajo le d.d.,ne more jih izdati nobena druga družba
+     *vsaka delnica ima glasovalno pravico,z izjemo prednostnih delnic
+     *delnice z enako pravico sestavljajo en razred
+     *je vrednostni papir(nematerializiran)
+               na njih je zapisana obveznost izdajatelja in pravica upravičenca
+               pravice so inkorporirane v nosilcu zapisa(papir ali računalniški medij)
+               pravice se prenašajo,nastanejo,se uveljavljajo in prenehajo s papirjem/rač.medijem-
+               danes je v veljavi le rač.medij-izdajanje delnic v nematerializirani obliki
+                    -predložitvena funkcija delnice(izraža se v obveznosti,da delničar deponira delnice
+                     na predpisanem mestu in da je to pogoj za vpis na seznam udeležencev z glasovalno
+                     pravico)
+                    -prenosna funkcija delnice(prenos pravic,ki iz nje izhajajo)
+               delniška listina se izda po vpisu družbe v register
+               delnice z enako pravico tvorijo razred delnic
+               delitev delnic glede na pravice:
+                    -navadne(redne)-dajo imetnikom pravico udeležbe pri upravljanju družbe,pravico
+                    do dela dobička in do izplačila ob likvidaciji družbe
+                    -prednostne-dajo imetnikom npr.prednost pri izplačilu ob likvidaciji družbe(glasovalna pravica
+                    se lahko izključi)
+                           prednostne so lahko:zbirne(dajejo imetniku prednostno pravico do izplačila
+                           še ne izplačanih dividend,preden se imetnikom navadnih delnic izplačajo dividende)
+                                                   udeležbene(dajejo imetniku prednostne dividende+
+                               pravico do izplačil takih dividend,kot pripadajo imetnikom navadnih delnic)
+               *je alikvotni del osnovnega kapitala d.d.
+               *glasiti se mora na točno določen znesek izražen v domači valuti
+               *vplačajo se lahko v denarju,s stvarnimi vložki,stvarnim prevzemom(vsaj 1/3 v denarju!)
+               *je vsebina članskih in upravljalskih pravic v družbi(delnica pomeni članstvo v družbi)
+                          delničar je tisti,ki ima vsaj eno delnico v osnovnem kapitalu družbe
+                                   vlagatelj družbe z vplačilom zneska za delnice
+                                   ni upnik družbe,nima pravico terjati povračila za svoje vložke od družbe
+                                   z delnico dobi proporcionalni delež,ne postane pa z imetništvom delnice
+                               (so)lastnik d.d.
+                                   pravice pridobi:originarno(pri ustanovitvi,povečanju osn.kapitala) ali
+                               derivativno(od drugega delničarja)
+                                  celota pravic,ki pomenijo članstvo delničarja v družbi,imenujemo korporacijske
+                                  pravice:
+                                        -premoženjske
+                                          ∼ do dela dobička(ideologija sorazmernosti-prepoved razl.št.glasov)
+                                          ∼ do ustreznega dela preostalega premoženja pri likvidaciji/stečaju družbe
+                                          (izračuna se sorazmerno na vložena sredstva)
+                                          ∼ prednostna pravica do nakupa delnic novih emisij(delničarjem zagotavlja
+                                            ohranjanje proporcionalnega lastniškega interesa v družbi,ni je mogoče
+                                            prenesti naprej)
+                                    -članske=upravljalske
+                                      ∼ udeležba na skupščini
+                                      ∼ aktivna/pasivna volilna pravica v organih družbe
+                                      ∼ pravica do informacij
+                                      ∼ pravica do nadzorstva nad poslovanjem družbe
+                                      ∼ pravica do ukrepov organov družbe
+               *prepovedano je:izdajati delnice z večkratno glasovalno pravico+delnice brez glasovalne
+                pravice,če niso prednostne
+               *sestava delnice:
+                 1.plašč:v njem so označene sestavine delnice
+                 2.kuponska pola:za izplačilo dividend,sestavine kupona:zaporedna št.+št.delnice+ime
+                 izdajatelja delnice+leto,v katerem se dividenda izplačuje+faksimile podpisov
+                 pooblaščenih oseb izdajatelja delnice
+                 3.talon:imetnik delnice z njim uveljavlja pravico do nove kuponske pole
+
+PRAVNA RAZMERJA MED DELNIČARJI IN D.D.
+   ∼ niso pravno urejena
+   ∼ ureditev izhaja iz pravnega pomena in položaja d.d. kot samostojne pravne osebe ter pravnega položaja
+      delničarja kot člana d.d. in njenega ekonomskega lastnika
+   ∼ pomembni so interesi d.d. do obstoja in ohranitve svojega kapitala ter interesi delničarja,ki niso vedno
+      enaki družbenim
+   ∼ predmet ureditve so razmerja,ki izvirajo iz članstva delničarja v d.d.
+   ∼ načelo enakega položaja delničarjev-različno je lahko le pri številu in vrsti delnic
+   ∼ glavna obveznost delničarjev- plačilo za vpisane delnice se šteje na račun družbe(zagotavljanje
+      osnovnega kapitala družbe)
+               -če ne vplača pravočasno-dodaten rok z opozorilom,da se mu po izteku delnice in izvršena plačila
+               odvzamejo v korist družbe
+                -vsaka oprostitev plačila je nedopustna(tudi olajšanje plačila)
+                -vsako plačilo delničarju,razen izplačila dobička,je prepovedano
+                -pravico do dobička lahko uveljavlja,ko skupščina sprejme sklep o razdelitvi bilančnega dobička
+   ∼ družba ne sme ob ustanovitvi vpisati in ob povečanju kapitala prevzeti lastnih delnic(d.d. ne more
+      postati sama svoj delničar)
+   ∼ vpis v delniško knjigo
+          -ustvarja se razmerje med delničarjem in družbo
+          -imenske delnice se vpišejo z imetnikovo oznako ali s podatki o imenu,priimku in prebivališču
+                   prenašajo se z indosamentom,statut lahko omeji njihovo prenosljivost(določi,da je za prenos
+                   potrebno dovoljenje družbe)
+                   delnice so praviloma prosto prenosljive(pridobitelj,ki ni vpisan v knjigo delničarjev,v razmerju z
+                   družbo ne velja za delničarja)
+          -če vpisana oseba ni upravičenec,velja v razmerju do družbe vseeno za delničarja(družba lahko vpis
+           Izbriše,če prej obvesti delničarja in mu določi rok za ugovor)
+   ∼ manjšinske pravice delničarjev
+          -pravica do udeležbe na skupščini(lahko jo uresničuje delničar z eno delnico)- mogoče je glasovanje in
+      udeležba preko interneta
+          -revizije-zahteva posebnega revizorja preko sodišča
+          -zaveza d.d. za prenos najmanj 25% premoženja družbe(varovanje interesov delničarjev)
+           -izključitev manjšinskih delničarjev iz družbe:zakonita pravica delničarja(manjšinski delničarji lahko
+      od njega zahtevajo,da odkupi njihove delnice)
+    ∼ ničnost in izpodbojnost skupščine
+          *sklep skupščine je korporacijski pravni posel,s katerim skupščina z glasovanjem delničarjev oblikuje
+      in izjavi njihovo voljo v zvezi z urejanjem družbenih zadev
+                  ničnost sklepa:sklep že od sprejetja nima pravnih učinkov
+                  izpodbojni sklep:je vprašljiv,dokler se ga ne izpodbije/ne poteče rok za izpodbijanje
+STATUT D.D.
+    • je ustanovitveni akt d.d.
+    • oblika in način objav je obvezna sestavina statuta(statut mora določiti glasilo/el.medij,kjer se
+        objavljajo podatki ali sporočila
+    • sestavljen mora biti v obliki notarskega zapisa
+    • za spremembe statuta in osnovnega kapitala je potrebna vsaj tričetrtinska večina
+USTANOVITEV DELNIŠKE DRUŽBE
+
+a)SOČASNA=SIMULTANA
+-ustanovitelji sprejmejo,podpišejo in sami prevzamejo vse delnice družba je ustanovljena
+-vpis v register(pravna osebnost)
+-vplačilo delnic pred vpisom v register
+-delnice se ne morejo izdati pod svojo najmanjšo emisijsko vrednostjo
+-ustanovitelji imenujejo nadzorni svet/upravni odbor družbe in revizorja za delno/polno poslovno leto
+      nadzorni svet imenuje člane uprave
+     (če ni nadz.sveta,upravitelji imenujejo upravo,upravni odbor pa izvršne direktorje)
+-ustanovitelji sestavijo ustanovitveno poročilo
+-ustanovitvene nadzornike imenuje sodišče
+-ustanovitelji so družbi odgovorni za škodo zaradi netočnosti podatkov
+
+b)POSTOPNA=SUKCESIVNA
+-delnice se vpisujejo na podlagi oglasa z vabilom k javnemu vpisu delnic
+-ustanovitelji sprejmejo statut,objavijo prospekt in prevzamejo del delnic(preostale vplačujejo zainterisirani)
+-udeleženo je večje število oseb
+-ustanovitev ni bila uspešna,če se ponujene delnice ne prevzamejo/vpišejo in pravilno vplačajo
+-sklic ustanovne skupščine(ugotavlja ali so vpisane vse delnice,če je bila opravljena razdelitev delnic/vplačila,če
+so izpolnjene vse zahteve glede stvarnih vložkov,izvoli organe za katere je pristojna skupščina,ugotavlja največji
+dovoljeni znesek stroškov v breme družbi) družba je ustanovljena ob sprejetju vseh sklepov
+          namenjen je preveritvi postopka ustanovitve z vsemi vpisniki delnic
+-statut sprejmejo ustanovitelji
+-predlog za vpis v sodni register
+
+c)POUSTANOVITEV=NAKNADNA USTANOVITEV
+-institut poustanovitve,ki služi dodatnemu preverjanju ustanavljanja družbe s stvarnimi vložki in prevzemom
+takoj po ustanovitvi družbe
+-varstvo upnikov,malih delničarjev pred izstradanjem družbe,varstvo delničarjev
+-uprava mora izdelati pisno poročilo o pogodbi(obrazložitev namena pridobitve premoženja)
+-pogodbo pregleda nadzornik
+-nadzorni svet pregleda pogodbo in izdela pisno poročilo za skupščino
+
+KAPITALSKA RAZMERJA V DELNIŠKI DRUŽBI
+
+OSNOVNI KAPITAL
+-lastniški kapital(celoten)=osnovni kapital+rezerve
+      dolžniški kapital-pridobitev z obveznostnimi pravnimi posli,posojili
+-je zmnožek števila delnic in nominalnega zneska(nadomestila plačanega za te delnice) NOMINALNI SISTEM
+-je število kosovnih delnic KOSOVNI SISTEM
+- razdeljen je na delnice
+- je začetnik in nosilec eksistence družbe(začetna in obratna glavnica pri ustanovitvi družbe)
+-načelo ohranjanja osnovnega kapitala-ne sme se znižati pod zakonsko predpisan najnižji znesek(25000€)
+- potrebno ga je opredeliti v statutu d.d. in ga registrirati v sodnem registru
+- zakonodaja skrbi,da ne slabi/izgublja svoje vrednosti zaradi inflatornih gibanj
+- pasivna stran bilance(obračuna)
+       osnovni kapital se opredeljuje le kot del lastniškega kapitala
+       ta stran bilance predstavlja računsko kategorijo,ki nam služi le kot pokazatelj določenih odnosov v d.d.
+-aktivna stran bilance
+       premoženje družbe je sestavljeno iz različnih pojavnih oblik denarja,stvari in pravic
+       pri ustanovitvi družbe je teoretično mogoče pritrditi,da je osn.kapital družbe enak njenemu premoženju
+      v nadaljnjem poslovanju družbe premoženje družbe večkrat preseže vrednost osnovnega
+     kapitala(osn.kapital tako služi le kot seme družbenega premoženja,postane zgolj računska enota)
+-minimalni OK
+     • za pričetek poslovanja družbe in opravljanja pridobitne dejavnosti
+     • na podlagi korporacijskega instituta spregleda pravne osebnosti lahko delničarji odgovarjajo za obveznosti
+             ta institut je povezan z institutom podkapitaliziranosti
+                   *nominalna podkapitalizacija
+                   *materialna podkapitalizacija(primankljaj zadostnih finančnih sredstev za normalno poslovanje)
+       kapitalska ustreznost-družbeni organi jo morajo zagotavljati ves čas poslovanja
+-nominalni zneski delnic
+    ∼ osnovni kapital je seštevek nominalnih zneskov delnic
+    ∼ zakonodaje določajo kogentno najnižje nominalne zneske delnic+obvezno nominacijo v valuti države
+    ∼ seštevek nominalnih vrednosti izdanih delnic bo znašal najmanj minimalni nominalni znesek
+      OK,potrebnega za ustanovitev d.d.
+-rezerve
+        odvisne so od poslovanja družbe
+        predstavljajo določeno vrednost pri zagotavljanju OK
+        delitev
+            *kapitalske(vplačani presežek kapitala)
+                 -oblikujejo se iz dodatnih vplačil družbenikov/upnikov v kapital ali kot rezultat nominalnega
+                  znižanja OK
+                 -dolžnost oblikovanja zakonskih rezerv(kot dodatna zaščita upnikom pred položajem,v katerem bi
+                  d.d. postala prezadolžena)
+            *rezerve iz dobička(zakonske,statutarne)
+                 -oblikujejo se iz zneskov čistega dobička poslovnega leta in preteklih let
+-zagotavljanje OK
+      za vsako delnico je potrebno vplačati vnaprej določeno vrednost,katerih seštevek bo predstavljal
+      personificiran kapital
+      s prodajo delnic je potrebno zagotoviti vsaj znesek OK
+      oblike vplačil
+         *vplačilo je osnovna obveznost delničarja
+         *vsaj 1/3 v denarju
+         *izraziti se mora vedno v denarju
+         *denarna vplačila
+               -temeljna,prevladujoča
+              -gotovina,ček,menica…
+         *vplačila s stvarnimi vložki
+               -nedenarna oblika plačila(vložek,prevzem)
+               -vložek,katerega predmet ni denar
+               -vrednost stvari/pravice mora strokovno oceniti strokovnjak(potrebno je podati točno ocenitev,če
+                ne ne bo zagotovljen OK v določeni višini)
+              -prisotnost pravnih posledic zaradi stvarnih ali pravnih napak na stvari,prepuščenih družbi
+      nadzor nad vplačili
+        *preprečevanje zlorab
+        *nadzor iz strani neodvisnih strokovnjakov(revizorjev),tudi registrsko sodišče-preveri pravilnost podatkov
+        *ustanovitvena revizija(člani uprave in nadzornega sveta družbe preverijo potek
+      ustanovitve,ustanovitveno poročilo za zagotavljanje in preverjanje premoženjsko-pravnih elementov)
+      registriran in vplačan OK
+        *zagotovitev zagonskega kapitala za začetek opravljanja dejavnosti d
+        *zagotovitev minimalne garancije upnikom za poplačilo njihovih terjatev
+        *ob ustanovitvi ni potrebno plačilo celotnega OK
+              ločimo:
+                   -registriran OK(OK,ki je vpisan v sodni register+njegova velikost je točno opredeljena v
+                    statutu-ne more biti nižji od zakonsko dol. minimalnega zneska OK)
+                   -vplačan OK(znesek kapitala,ki ga ob ustanovitvi delničarji vnesejo na račun družbe-vsa vplačila
+                    najmanjših emisijskih zneskov delnic morajo biti enaka vsaj višini OK)
+                            zamuda pri vplačilu:delničarji dolgujejo družbi zamudne obresti(stranska obveznost)
+                            nevplačilo:izpelje se postopek izključitve delničarja iz družbe=kaducitetni postopek
+                            (uprava družbe je popolnoma svobodna,odvzete delnice pripadejo družbi,za odvzem je
+                             potrebna objava-delnica postane neveljavna in se izdajo nove,ki morajo vsebovati tudi
+                             zaostali znesek)
+      (ne)nominalne delnice
+       *delnica ima svojo nominalno vrednost-zapisan znesek,ki predstavlja alikvotni del OK(izražen zneskovno)
+       *nominalnim delnicam očitajo pomanjkljivosti(načeloma ne predstavljajo odraza resnične vrednosti
+        premoženja družbe,ki služi varstvu upniku+pri poslovanju družbe predstavlja premoženje le še vrednost,
+        ki se nenehno spreminja)
+     *nenominalne delnice:
+        1.
+           ∼ prave delnice
+             -OK ni razdeljen na delnice v smislu alikvotnega dela
+             -pomembna je le funkcija varovanja upnikov
+             -poudarjajo udeležbeno naravo v čistem premoženju družbe
+             -temelji na sistemu ¨one share-one vote¨
+           ∼ neprave delnice
+             -vezane na OK(OK je razdeljen na delnice)
+             -nominalni znesek se lahko izračuna
+
+         2.
+             ∼ kosovne delnice
+                -ne glasijo niti na nominalni znesek niti na delež in kvoto
+                -je delež od OK ali premoženja družbe
+                -vsaka ima enak delež in pripadajoči znesek v OK
+                -njen nominalni znesek je mogoče izračunati z izraženim kosovnim deležem od velikosti točno
+                določenega OK
+                -so pregledne,enostavne
+                -njihovo število se mora povečati v enakem razmerju kot OK
+                -omogoča lažje povečanje/zmanjšanje OK-pripadajoč znesek delnice se lahko poveča/zmanjša za
+                znesek,ki se glasi na decimalni znesek in ne cel €
+             ∼ kvotne delnice
+-ohranitev OK
+    • določena je s številnimi kogentnimi pravnimi normami(služijo temu,da bi se znesek zagotovljenega
+       kapitala ob ustanovitvi povečal ali vsaj ohranil)
+    • vračilo vložkov v družbo+ obrestovanje:se ne smejo vrniti in ne obrestovati,kršitev pomeni ničnost
+       pravnih poslov
+             obrestovanje vložkov(prepoved je namenjena ohranjanju OK,obresti so stalni tekoči prihodki ki bi
+             jih delničar pridobival na podlagi svojega deleža)
+    • kapitalsko posojilo=posojila delničarjev oz. naknadna vplačila(institut kapital.posojila se uporablja le za
+       delničarje,ki posedujejo v družbi več kot 25% delež delnic z glasovalno pravico)
+    • lastne delnice-delnice,ki jih družba pridobi nazaj od delničarjev
+          družba praviloma ne sme pridobivati lastnih delnic-ne more biti sama svoj delničar
+          pridobivanje:
+            -v sistemu primarnega trga delnic(originarna pridobitev-je absolutna)-prepovedano
+            -v okviru sekundarnega trga delnic(derivativna pridobitev-je relativna)-prepovedano(možne izjeme)
+        Drugo pridobivanje:
+            -sistem odkupljivih delnic
+            -pooblastila skupščine
+         Nepravilno pridobivanje:pravne posledice
+                  *pravni posel je ničen,pridobitev delnic ni neveljavna
+           vpisovanje:prepovedano
+     • dobiček družbe
+                premoženje,ki ga družba ustvari s svojim poslovanjem
+                razdelitev med delničarje(najmanj 4% od OK)
+                kapital v družbi se spreminja
+                poslovno leto ne prinese vedno dobička,tudi izgubo(vnešena so bila kogentna določila za
+                ohranitev kapitala)
+                delitev:
+                   -čisti dobiček=poslovni izid poslovnega leta po plačilu davkov
+                   -bilančni dobiček=vsota čistega dobička,ki se izkaže po seštevku prenesenega dobička in
+                   odvajanj v/iz bilančnega dobička(je predmet odločanja razdelitve na skupščini-o delitvi torej
+                   odloča skupščina popolnoma svobodno-predloge lahko da vsak delničar)
+                            o njuni uporabi odloča uprava skupaj z nadzornim svetom
+                uporaba čistega dobička:po točno določenem vrstnem redu(kritje prenesene izgube,oblikovanje
+                zakonskih rezerv+ rezerv za lastne deleže in statutarnih rezerv)
+                            skupščina ne more posegati v uporabo čistega dobička
+                prenos dobička:skupščina lahko odloči da se del/celotni bilančni dobiček opredeli kot preneseni
+                dobiček(naslednje leto se bo ponovno odločalo o tem bilančnem dobičku-če je izid tistega
+                poslovnega leta negativen,se z bilanč.dobičkom najprej pokrijejo izgube)
+              kapitalska ustreznost:za primere izgub v višini polovice OK so namenjeni posebni postopki(zaščita
+              upnikov)
+                         takojšen sklic skupščine+obvestitev
+                         plačilna nesposobnost,kapitalska neustreznost,prezadolženost-morajo se sprožiti
+                        postopki
+                         nelikvidnost,insolventnost družbe-sprožitev postopka stečaja ali prisilne poravnave
+                         (prepovedana so vsa izplačila družbe)
+                         zagotavljati kapitalsko ustreznost je obveznost poslovodstva
+                         plačilna sposobnost=poslovanje podjetja,da je v vsakem trenutku sposobno pravočasno
+                         Izpolnjevati zapadle obveznosti(je pogoj/trajna naloga za doseganje dobička)
+                         kapitalska ustreznost=treba jo je ugotavljati glede na obseg/vrsto poslov/
+                        tveganja(redno spremljanje/preverjanje poslovodstva ali družba dosega kapital.ustrez.)
+                         solventnost=insolventen položaj je,če dolžnik v daljšem čas.obd.ni sposoben
+                        poravnati obveznosti,zapadlih v obdobju oz.če postane dolgoročno plačilno nesposoben)
+                         upravljanje tveganj-družba mora redno izvajati ukrepe upravljanja tveganj
+                            -poslovodstvo mora upoštevati tveganja,ki bi jim lahko bila družba izpostavljena in
+                             vključujejo zlasti kreditno,tržno,operativno,likvidnostno tveganje
+                            -družba mora gospodariti,da je vedno sposobna izpolniti svoje zapadle obveznosti
+-povečanje OK
+     ∼ Ločimo:
+           *realno=efektivno-na pasivi se istočasno v korelaciji spreminja tudi premoženje družbe na aktivi
+           *nominalno=računsko-povečanje OK iz obstoječih sredstev družbe(računska operacija na pasivi)
+     ∼ potrebno je varovati interese delničarjev,upnikov
+     ∼ povečanje z vložki-je vedno realno
+              *je redni način povečevanja
+                  -potrebno je zadostiti določenim pogojem
+                  -pride do nove izdaje delnic(vpisujejo se s pisno izjavo,dotedanji delničarji imajo prednostno
+                  pravico do vpisa novih delnic)
+                  -potreben je dodaten revizorjev pregled vložka
+     ∼ emisijska=prodajna vrednost delnic
+                  *ni nujno,da je prodajna cena delnice enaka nominalni vrednosti(ne sme biti pod njo,presežek
+        je odvisen od bilančne vrednosti ali tržne cene)
+                  *možnosti uspešnega poslovanja skozi ceno delnic:
+                      -prodajna cena je enaka najnižji emisijski vrednosti-celotno premoženje gre v OK
+                      -prodajna cena je enaka najnižji emisijski vrednosti s presežkom-v OK gre najnižji emisijski
+                       znesek,presežek predstavlja del vezanih rezerv
+     ∼ pogojno povečanje-pri odločanju še ne pride do dejanskega povečanja OK,povečanje je odloženo na
+        prihodnost in podrejeno uresničitvi določenega pogoja
+                  *v trenutku sklepanja še ni mogoče vedeti za koliko se bo OK povečal
+                  *pogojna je izvedba povečanja(kaže se iz vidika obsega in časovnega trenutka povečanja)
+                  *delničarjem ne zagotavlja prednostne pravice
+                  *skupna višina pogojnega povečanja je omejena na največ ½ OK
+     ∼ povečanje iz sredstev družbe
+           *ne pride do novih vplačil v premoženje družbe,opravijo se preračuni pasive+preoblikovanje
+               Kategorij,da se poveča znesek OK
+           *na aktivi se ne zgodi nič,saj se ne vplačujejo novi vložki
+           *izdaja novih delnic-delničarjeve stare/nove delnice imajo enak delež(stara izgubi na vrednosti)
+     ∼ institut odobrenega kapitala
+                  *z njim lahko družba poveča svoj OK s poenostavljenim postopkom
+                  *pooblastitev poslovodstva,da poveča OK do določenega zneska=odobreni kapital(povečanje
+                   se izvede z izdajo novih delnic za vložke-denarni/stvarni)
+                  *znesek odobrenega kapitala ne sme preseči polovice zneska OK
+                  *nove delnice se izdajo s soglasjem nadzornega sveta
+                  *registracija statuta/sprememba statuta s pooblastilom za odobreni kapital+registracija
+                   spremembe OK
+                  *povečanje je možno,ko je sprejeto letno poročilo za zadnje poslovno leto
+                  *osnova za povečanje je lahko vmesna bilanca stanja
+                       -sklep mora temeljiti na bilanci stanja,katere bilančni presečni dan je največ 8 mesecev
+                        pred vložitvijo predloga za vpis povečanja v register
+                             ko je sklep vpisan v register,so nove delnice polno vplačane
+-zmanjšanje OK
+    • zahtevni,zapleteni postopki
+    • je ukrep za popravek OK
+    • Ločimo:
+         *realno=efektivno
+         *nominalno-pride do prestrukturiranja lastniških kategorij kapitala na pasivi
+    • Vrste zmanjšanja:
+         *redno
+              -znižujejo se nominalni zneski delnic,tudi premoženje družbe
+              -prične se s sklepom skupščine(določiti namen,način zmanjšanja)
+             -dva načina:zmanjšanje nominalnega zneska delnic ali združevanje delnic,če se najnižji emisijski
+              delež ne more več znižati(način je prepuščen neodvisnosti volje družbe)
+         *poenostavljeno
+            -kapital se realno ne zmanjša,ostane enak
+            -namen:kritje prenesene/čiste izgube poslovnega leta ali prenos zneskov iz OK v kapitalske rezerve
+            -bilančni dobiček se ne sme razdeliti med delničarje ali uporabiti za druge namene,dokler družba
+             ne oblikuje rezervnega sklada
+         *z umikom delnic
+            -pride do uničenja članskih pravic delničarja+formula OK se zmanjšuje/izenačuje z umikom delnic
+            -lahko je vključeno efektivno ali nominalno zmanjšanje
+            -lahko se izvede prisilno(uporaba določb rednega zmanjšanja) ali s pridobitvijo iz strani
+             družbe(odplačno/neodplačno)
+            -sklep sprejme skupščina(določitev namena zmanjšanja)
+-kombinirano zmanjšanje OK
+      pomeni hkratno zmanjšanje in povečanje OK(sočasna izvedba+sočasna registracija)
+      potrebno je vpisati sklep o povečanju in izvesti samo povečanje pod predpisani minimum,v roku 6
+      mesecev-drugače je sklep ničen
+
+
+UPRAVLJANJE DELNIŠKE DRUŽBE
+
+-enotirni,dvotirni sistem upravljanja(vse države članice EU so morale v svojih zakonodajah urediti oba sistema)
+-organi vodenja/nadzora so uprava,nadzorni svet,upravni odbor
+      ustanovitelji v statutu določijo,kateri sistem upravljanja bodo izbrali
+      max. mandat v trajanju 6 let
+      sklican vsaj enkrat v četrtletju
+      vsak član ima en glas
+      mora sprejeti poslovnik o svojem delu z večino glasov vseh članov(kršitev ni sankcionirana)
+      nejavne seje,sklicuje jih predsednik
+      člani morajo ravnati v dobro družbe s skrbnostjo vestnega in poštenega gospodarstvenika+varovati
+      morajo poslovno skrivnost družbe(kršitev-odškodninska odgovornost-solidarno)
+-uprava, nadzorni svet+skupščina in upravni odbor+ skupščina
+
+   dvotirni sistem(Nem)                    enotirni sistem(VB,ZDA)
+     -večja formalnost                          -manj formalen
+     -kogentnost zakonskih norm                -bolj dispozitiven
+     -delegacija pristojnosti na druge         -upravni odbor vodi družbo in nadzoruje
+      organe ali tretje osebe ni dovoljena      izvajanje poslov+imenuje enega/več
+     -uprava vodi posle družbe samostojno izvršnih direktorjev
+      In na lastno odgovornost(če ima več      -delegacija je dovoljena
+      članov,sprejmejo odločitve soglasno)     -zastopanje pripada upr.odboru+predstavlja družbo
+     -nadzorni svet lahko določi le,da se       (če imenuje izvršne direktorje to počnejo oni)
+      smejo posamezne vrste poslov
+      opravljati le z njegovim soglasjem
+     -uprava je zakoniti zastopnik družbe+
+      lahko opravlja vsa dejanja,ki spadajo
+      v pravno sposobnost družbe
+     -nadzorni svet lahko od uprave zahteva
+      kakršnekoli informacije za izvajanje nadzora
+1.UPRAVA
+-neodvisnost in samostojnost pri vodenju in organiziranju podjetja
+-ima široka pooblastila pri sprejemanju sklepov,povezanih s poslovanjem podjetja
+-na nivoju družbe je lahko le predlagatelj določenih sklepov,ki jih sprejemajo delničarji na skupščini in jih nato
+uprava le izvrši
+-osebna odgovornost delničarjev za obveznosti družbe je odsotna
+-število članov uprave se določi v statutu
+-član je lahko vsaka neomejeno poslovno sposobna fizična oseba(ne more biti član že katerega drugega organa
+vodenja ali nadzora v družbi)
+        soglasno sprejemanje odločitev,vsak član ima en glas
+        odpoklic ni mogoč brez utemeljenega razloga(kršitev,nesposobnost,nezaupanje…)
+-člane in predsednika uprave v Sloveniji imenuje nadzorni svet
+-dolžnosti uprave:vodenje poslov,odločanje,zastopanje,predstavljanje
+          zastopanje je izjavljanje in sprejemanje izjav volje
+              *skupno zastopanje(ni obvezno)=pri izjavljanju volje morajo sodelovati posamezno vsi člani,pri
+               Sprejemanju pa zadošča,da je izjava volje iz strani tretjega podana kateremukoli članu in ni
+               potrebno da jo sprejmejo vsi skupaj
+          predstavljanje je nastopanje v imenu pravne osebe brez ustvarjanja pravnih posledic
+          uprava poroča nadzornemu svetu o načrtovani poslovni politiki,donosnosti družbe,poteku poslov
+           (nadzorni svet dejavnost uprave vsestransko nadzira)
+-pristojnosti in odgovornosti:vse,ki jih ima uprava do nadzornega sveta,delničarjev,družbe in upnikov
+-članom je prepovedano opravljati pridobitno dejavnost z omejitvijo,da gre za dejavnost,ki jo sicer opravlja
+d.d.+prepovedano je sklepanje posamičnih poslov,če gre za področje,na katerem opravlja svojo dejavnost d.d.
+  =prepovedano je opravljanje kakršnekoli dejavnosti,ki je družbi konkurenčna(posli se nanašajo na področje,ki
+sodi v redno dejavnost d.d.)
+          prepoved je pogojna in se veže na soglasje nadzornega sveta(sankcija je odškodninska)
+-posojila članom uprave in prokuristom-le na podlagi sklepa nadzornega sveta
+-prejemki članov uprave:
+      *nadzorni svet mora poskrbeti,da so celotni prejemki uprave v ustreznem sorazmerju z nalogami članov
+uprave in finančnim stanjem družbe(nadz.svet lahko zniža prejemke)
+      *s statutom se lahko določi,da se članom uprave za njihovo delo zagotovi udeležba pri dobičku
+      *izbira in model nagrajevanja je prepuščen avtonomnemu urejanju stanovskih organizacij in družb samih
+      *fiksni prejemek=denarna plačila in bonitete(npr.za lojalnost,opravljeno delo)
+       variabilni prejemek=denarna plačila(npr.za doseganje letnih poslovnih načrtov)
+
+2.NADZORNI SVET
+-je kolegijski organ,sestavljen iz vsaj 3 članov,ki jih imenuje skupščina
+-naloge:
+     *skrbi za dolgoročne interese družbe,za uresničevanje sprejete strategije družbe ter družb.odgovorno
+povečevanje ekonomske učinkovitosti družbe
+     *enkrat letno ovrednoti delo celoletnega nadz.sveta in prispevek posameznih članov,po potrebi določi
+ukrepe za izboljšanje učinkovitosti svojega dela
+     *večino svojega dela opravi na sejah
+     *za pomoč pri delu lahko nadzorni svet imenuje eno/več komisij(pripravljajo sklepe in skrbijo za izvršitev)
+-člani:
+     * ne obveščajo javnosti o svojem delu in podatkih
+     *vsi člani imajo enake pravice in obveznosti(pravica do informiranosti,do sodelovanja v delu,glasovalna
+      pravica)
+     *dolžni so skrbno ravnati
+     *z vsemi podatki morajo po svoji presoji ravnati kot s poslovno skrivnostjo(sankcije za kršitev poslovne
+      skrivnosti so odpoklic ali odškodninska odgovornost)
+     *morajo redno in osebno sodelovati na vseh sejah+se ustrezno pripraviti na sejo
+     *uporabiti morajo vse možnosti,da dosežejo pravočasen sklic seje in odločanje o vprašanjih
+     *ne more zahtevati,da uprava njega osebno informira in mu omogoča vpogled v poslovne knjige
+     *nadzorni svet mora vedno opozoriti o kršitvi obveznosti s strani uprave,za katero je zvedel
+     *funkcija članstva ne zahteva polne zaposlitve člana v družbi
+-predsednik:
+    *naloge
+        -sklicuje,pripravlja,vodi seje
+        -skrbi za stalno zvezo z upravo
+        -je pomemben vir informacij o dogajanju v družbi ob formalnih informacijah,ki jih pošilja uprava
+        -pomembna vloga pri sestavi zapisnika
+    *izvoli ga nadzorni svet na prvi seji(nadz.svet mora imeti vsaj enega predsednika in namestnika)
+-seje nadzornega sveta:
+    *skliče jih predsednik(povabiti je treba vsakega posameznega člana)
+    *niso odprte za javnost
+    *prva točka=pregled in sprejem zapisnika prejšnje seje
+    *vsak član ima en glas(glasuje se z dvigom rok)
+    * vsi člani aktivno sodelujejo
+    * piše se zapisnik(navedejo se predvsem sprejeti sklepi)
+    * za veljavnost sklepa je potrebna večina oddanih glasov,pri sklepanju mora biti navzoča vsaj ½ članov
+      (veljajo tudi tisti,ki izročijo pisne glasovnice)
+    * neveljavni sklepi=nični ali izpodbojni-zaradi kršitve zakona ali statuta(nepravilno izvoljen nadz.svet,potek
+      mandata članom..)
+              lahko uveljavlja vsak posamezen član s tožbo ali ugovorom
+    *nadzorni svet mora biti sklican vsaj enkrat v četrtletju
+
+3.UPRAVNI ODBOR
+-sestavljajo ga najmanj 3 člani
+-skupščina izvoli predstavnike delničarjev
+-delavci imajo pravico imenovati enega svojega predsstavnika na vsake 3 člane,lahko imenujejo tudi
+predstavnika v vse komisije
+      če ima družba >500 delavcev,je lahko delavski predstavnik imenovan za izvršnega direktorja(ne more pa
+biti predsednik)
+-sestava upr.odbora je odvisna od velikosti družbe in ureditve v statutu vsake posamezne družbe
+-v družbah(razen majhnih) je obvezna udeležba delavskih predstavnikov,če jih svet delavcev imenuje
+        ni nujno,da upravni odbor imenuje izvršne direktorje(lahko imenuje tretje osebe)
+-javne d.d.(z njenimi vrednostnimi papirji se trguje na organiziranem trgu)-upr.odbor mora izmed svojih članov
+imenovati vsaj enega izvršnega direktorja
+       pride do razmejitve med izvršnimi in neizvršnimi člani(za predsednika ne more biti izvoljen izvršni direktor
+-pristojnosti upravnega odbora:
+     *vodenje družbe in nadzor izvajanja njenih poslov
+     *od izvršnih direktorjev lahko kadarkoli zahteva informacije,potrebne za nadzor
+     *lahko veže posamezne odločitve izvršnih direktorjev na svoje soglasje in navodilo
+     *sestaviti,preveriti in potrditi mora letno poročilo
+     *je zakoniti zastopnik družbe(če imenuje izvršne direktorje to vlogo prevzamejo oni)
+     *mora imenovati revizijsko komisijo v družbi(sestavljajo jo neizvršni člani in vsaj en član mora biti neodvisen
+       strokovnjak iz računovodskega ali finančnega področja+en delavski predstavnik
+-izvršni direktorji:
+     *možnost delegacije pristojnosti upr.odbora na izvršne direktorje
+    *upravni odbor imenuje enega ali več(hkrati so lahko člani upr.odbora)
+    *pri opravljanju prenesenih nalog so dolžni upoštevati navodila in omejitve iz strani
+    statuta,upr.odbora,skupščine,poslovnika o delu
+    *upravni odbor lahko s sklepom kadarkoli odpokliče izvršne direktorje(ni hkrati odpoklic iz upr.odbora,če so
+    le-ti njegovi člani)
+    *če je imenovanih več izvršnih direktorjev,vodijo posle skupno
+
+4.SKUPŠČINA
+-je organ družbe,v katerem se oblikuje in izraža volja delničarjev,da le-ta postane volja d.d.
+-hierarhično je najvišji organ d.d., strokovno pa ni najpomembnejši organ v družbi
+-skupščina ne more posegati v uporabo čistega dobička
+-ne more posegati v pristojnosti drugih organov
+-nanjo ni mogoče prenesti vodenja poslov družbe
+-delničar ima pravico do obveščenosti(zagotavljanje zanesljivih informacij,ki so pomembne za odločanje na
+skupščini in za vodenje nadzora nad organi d.d.)
+-o sklicu odloča poslovodstvo in je javen
+         treba jo je sklicati vedno kadar je to v korist družbe
+         skupščina se opravi kot seja,zasedanje,ki ga vodi predsednik
+         od delničarja se terja deponiranje delnic ali prijava delničarja(če tega ne stori,izgubi glasovalno pravico)
+         delničarji lahko na predloge sklepov,ki jih pripravijo organi vodenja in nadzora,postavijo
+protipredloge(mora biti utemeljen)
+        zapisnik-poslovodstvo ga z vsemi predpisanimi predlogami pošlje registrskemu sodišču
+-vsaka delnica ima glasovalno pravico,z izjemo prednostnih delnic
+                za sprejem skupščinskih sklepov je potrebna večina oddanih glasov delničarjev(>1/2)
+                uresničuje se glede na delež delnic v OK
+                omejitev glasovalne pravice s statutom(št.glasov posameznika glede na št.delnic ne more
+                presegati določenega števila ali odstotka)
+                oddani glasovi predstavljajo nominalne zneske delnic,ki so jih delničarji oddali pri glasovanju za
+                posamezni sklep
+                glasovalna pravica se pridobi s celotnim vplačilom vložka
+                zakon dovoljuje tudi pridobitev z vplačilom minimalnega emisijskega zneska delnic
+                najnižji emisijski znesek je 1€
+                glasovalno pravico lahko uveljavi delničar sam ali pa namesto njega to stori finančna organizacija
+                ali delničarsko združenje(pooblastilo,ki pa se lahko kadarkoli prekliče)
+                delničarski sporazum=dogovor tudi za način uresničevanja glasovalne pravice na skupščini(ni
+                pravna oseba,ni potrebna registracija)
+                          -lahko se nadgradi kot pravno osebo
+                prednostne delnice brez glasovalne pravice-družba ne sme imeti več kot ½ tovrstnih delnic v
+                sestavi OK(so edine delnice,ki se jim lahko glasovalna pravica izključi)
+-pristojnosti:
+    1.kadrovske odločitve
+           -imenuje/odpokliče člane nadz.sveta in upr.odbora
+           -odloča o podelitvi razrešnice članom organov vodenja in nadzora
+           -imenuje revizorja
+
+     2.poslovne odločitve
+           -sprejem letnega poročila,če to ne opravi nadz.svet ali upr.odbor
+           -glede uporabe bilančnega dobička
+     3.temeljne odločitve
+           -sprejem/spremembe statuta
+           -odločanje o zvišanju/zmanjšanju OK
+           -sklenitev podjetniških pogodb
+           -statusne spremembe
+           -odločitev o prenehanju družbe
+-običajni=redni sklepi-sprejemajo se na redni skupščini(z navadno večino oddanih glasov)
+-izredni sklepi-se sprejemajo na izrednem zasedanju skupščine(višji kvorum ali kvalificirana večina za sprejem)
+ali pa se za sprejem zahteva kvalificirana večina,kjer ni formalne razlike med redno in izredno skupščino
+

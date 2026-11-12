@@ -1,0 +1,1009 @@
+{
+ "ZGD-1": {
+  "ref": "id/ZAKO4291",
+  "zunanjiID": "ZAKO4291",
+  "naslov": "Zakon o gospodarskih družbah (ZGD-1)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 603422892,
+   "naziv": "NPB 24",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": "2026-07-24"
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 612427594,
+   "WORD_DOCUMENT_DOCX": 612427597,
+   "PDF_DOCUMENT": 612427600
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ],
+   [
+    "NPB 3",
+    null
+   ],
+   [
+    "NPB 4",
+    null
+   ],
+   [
+    "NPB 5",
+    null
+   ],
+   [
+    "NPB 6",
+    null
+   ],
+   [
+    "NPB 7",
+    null
+   ],
+   [
+    "NPB 8",
+    null
+   ],
+   [
+    "NPB 9",
+    null
+   ],
+   [
+    "NPB 10",
+    null
+   ],
+   [
+    "NPB 11",
+    null
+   ],
+   [
+    "NPB 12",
+    null
+   ],
+   [
+    "NPB 13",
+    null
+   ],
+   [
+    "NPB 14",
+    null
+   ],
+   [
+    "NPB 15",
+    null
+   ],
+   [
+    "NPB 16",
+    null
+   ],
+   [
+    "NPB 17",
+    null
+   ],
+   [
+    "NPB 18",
+    null
+   ],
+   [
+    "NPB 19",
+    null
+   ],
+   [
+    "NPB 20",
+    null
+   ],
+   [
+    "NPB 21",
+    null
+   ],
+   [
+    "NPB 22",
+    "2025-10-08"
+   ],
+   [
+    "NPB 23",
+    "2026-02-25"
+   ],
+   [
+    "NPB 24",
+    "2026-07-24"
+   ]
+  ]
+ },
+ "OZ": {
+  "ref": "id/ZAKO1263",
+  "zunanjiID": "ZAKO1263",
+  "naslov": "Obligacijski zakonik (OZ)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 4903572,
+   "naziv": "NPB 4",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 645694652,
+   "WORD_DOCUMENT_DOCX": 645694655,
+   "PDF_DOCUMENT": 645694658
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ],
+   [
+    "NPB 3",
+    null
+   ],
+   [
+    "NPB 4",
+    null
+   ]
+  ]
+ },
+ "SPZ": {
+  "ref": "id/ZAKO3242",
+  "zunanjiID": "ZAKO3242",
+  "naslov": "Stvarnopravni zakonik (SPZ)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 9840865,
+   "naziv": "NPB 2",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 355895244,
+   "WORD_DOCUMENT_DOCX": 355895247,
+   "PDF_DOCUMENT": 355895250
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ]
+  ]
+ },
+ "URS": {
+  "ref": "id/USTA1",
+  "zunanjiID": "USTA1",
+  "naslov": "Ustava Republike Slovenije (URS)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 408999900,
+   "naziv": "NPB 12",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": "2025-12-01"
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 590962067,
+   "WORD_DOCUMENT_DOCX": 590962070,
+   "PDF_DOCUMENT": 590962073
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ],
+   [
+    "NPB 3",
+    null
+   ],
+   [
+    "NPB 4",
+    null
+   ],
+   [
+    "NPB 5",
+    null
+   ],
+   [
+    "NPB 6",
+    null
+   ],
+   [
+    "NPB 7",
+    null
+   ],
+   [
+    "NPB 8",
+    null
+   ],
+   [
+    "NPB 9",
+    null
+   ],
+   [
+    "NPB 10",
+    null
+   ],
+   [
+    "NPB 11",
+    null
+   ],
+   [
+    "NPB 12",
+    "2025-12-01"
+   ]
+  ]
+ },
+ "ZSReg": {
+  "ref": "id/ZAKO320",
+  "zunanjiID": "ZAKO320",
+  "naslov": "Zakon o sodnem registru (ZSReg)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 10465969,
+   "naziv": "NPB 14",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 356554730,
+   "WORD_DOCUMENT_DOCX": 356554733,
+   "PDF_DOCUMENT": 356554736
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ],
+   [
+    "NPB 3",
+    null
+   ],
+   [
+    "NPB 4",
+    null
+   ],
+   [
+    "NPB 5",
+    null
+   ],
+   [
+    "NPB 7",
+    null
+   ],
+   [
+    "NPB 8",
+    null
+   ],
+   [
+    "NPB 9",
+    null
+   ],
+   [
+    "NPB 10",
+    null
+   ],
+   [
+    "NPB 11",
+    null
+   ],
+   [
+    "NPB 12",
+    null
+   ],
+   [
+    "NPB 13",
+    null
+   ],
+   [
+    "NPB 14",
+    null
+   ]
+  ]
+ },
+ "ZS": {
+  "ref": "id/ZAKO332",
+  "zunanjiID": "ZAKO332",
+  "naslov": "Zakon o sodiščih (ZS)",
+  "status": "Neveljaven predpis, ki se še uporablja",
+  "cur": {
+   "id": 81768644,
+   "naziv": "NPB 30",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 359207400,
+   "WORD_DOCUMENT_DOCX": 359207403,
+   "PDF_DOCUMENT": 359207406
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ],
+   [
+    "NPB 3",
+    null
+   ],
+   [
+    "NPB 4",
+    null
+   ],
+   [
+    "NPB 5",
+    null
+   ],
+   [
+    "NPB 6",
+    null
+   ],
+   [
+    "NPB 7",
+    null
+   ],
+   [
+    "NPB 8",
+    null
+   ],
+   [
+    "NPB 9",
+    null
+   ],
+   [
+    "NPB 10",
+    null
+   ],
+   [
+    "NPB 11",
+    null
+   ],
+   [
+    "NPB 12",
+    null
+   ],
+   [
+    "NPB 13",
+    null
+   ],
+   [
+    "NPB 14",
+    null
+   ],
+   [
+    "NPB 15",
+    null
+   ],
+   [
+    "NPB 16",
+    null
+   ],
+   [
+    "NPB 17",
+    null
+   ],
+   [
+    "NPB 18",
+    null
+   ],
+   [
+    "NPB 19",
+    null
+   ],
+   [
+    "NPB 20",
+    null
+   ],
+   [
+    "NPB 21",
+    null
+   ],
+   [
+    "NPB 22",
+    null
+   ],
+   [
+    "NPB 23",
+    null
+   ],
+   [
+    "NPB 24",
+    null
+   ],
+   [
+    "NPB 25",
+    null
+   ],
+   [
+    "NPB 26",
+    null
+   ],
+   [
+    "NPB 27",
+    null
+   ],
+   [
+    "NPB 28",
+    null
+   ],
+   [
+    "NPB 29",
+    null
+   ],
+   [
+    "NPB 30",
+    null
+   ]
+  ]
+ },
+ "ZS-1": {
+  "ref": "sop/2025-01-3383",
+  "zunanjiID": "ZAKO8887",
+  "naslov": "Zakon o sodiščih (ZS-1)",
+  "status": "Veljaven predpis, ki se še ne uporablja",
+  "cur": {
+   "id": 412131759,
+   "naziv": "Osnovni",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [
+   {
+    "id": 648752729,
+    "naziv": "NPB 1",
+    "komentiranjeDatumOd": null,
+    "komentiranjeDatumDo": null,
+    "datumZacetkaUporabe": "2027-07-01"
+   }
+  ],
+  "files": {
+   "HTML_DOCUMENT": 413927718,
+   "WORD_DOCUMENT_DOCX": 413927721,
+   "PDF_DOCUMENT": 413927724
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    "2027-07-01"
+   ]
+  ]
+ },
+ "ZPP": {
+  "ref": "id/ZAKO1212",
+  "zunanjiID": "ZAKO1212",
+  "naslov": "Zakon o pravdnem postopku (ZPP)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 161587001,
+   "naziv": "NPB 30",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 359080260,
+   "WORD_DOCUMENT_DOCX": 359080263,
+   "PDF_DOCUMENT": 359080266
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ],
+   [
+    "NPB 3",
+    null
+   ],
+   [
+    "NPB 4",
+    null
+   ],
+   [
+    "NPB 5",
+    null
+   ],
+   [
+    "NPB 6",
+    null
+   ],
+   [
+    "NPB 7",
+    null
+   ],
+   [
+    "NPB 8",
+    null
+   ],
+   [
+    "NPB 9",
+    null
+   ],
+   [
+    "NPB 10",
+    null
+   ],
+   [
+    "NPB 11",
+    null
+   ],
+   [
+    "NPB 12",
+    null
+   ],
+   [
+    "NPB 13",
+    null
+   ],
+   [
+    "NPB 14",
+    null
+   ],
+   [
+    "NPB 15",
+    null
+   ],
+   [
+    "NPB 16",
+    null
+   ],
+   [
+    "NPB 17",
+    null
+   ],
+   [
+    "NPB 18",
+    null
+   ],
+   [
+    "NPB 19",
+    null
+   ],
+   [
+    "NPB 20",
+    null
+   ],
+   [
+    "NPB 23",
+    null
+   ],
+   [
+    "NPB 24",
+    null
+   ],
+   [
+    "NPB 25",
+    null
+   ],
+   [
+    "NPB 26",
+    null
+   ],
+   [
+    "NPB 27",
+    null
+   ],
+   [
+    "NPB 28",
+    null
+   ],
+   [
+    "NPB 29",
+    null
+   ],
+   [
+    "NPB 30",
+    null
+   ]
+  ]
+ },
+ "ZArbit": {
+  "ref": "id/ZAKO5288",
+  "zunanjiID": "ZAKO5288",
+  "naslov": "Zakon o arbitraži (ZArbit)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 411979503,
+   "naziv": "NPB 1",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 413803549,
+   "WORD_DOCUMENT_DOCX": 413803552,
+   "PDF_DOCUMENT": 413803555
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ]
+  ]
+ },
+ "ZMCGZ": {
+  "ref": "id/ZAKO5289",
+  "zunanjiID": "ZAKO5289",
+  "naslov": "Zakon o mediaciji v civilnih in gospodarskih zadevah (ZMCGZ)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 10875132,
+   "naziv": "Osnovni",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 356985043,
+   "WORD_DOCUMENT_DOCX": 356985046,
+   "PDF_DOCUMENT": 356985049
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ]
+  ]
+ },
+ "ZFPPIPP": {
+  "ref": "id/ZAKO4735",
+  "zunanjiID": "ZAKO4735",
+  "naslov": "Zakon o finančnem poslovanju, postopkih zaradi insolventnosti in prisilnem prenehanju (ZFPPIPP)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 411960214,
+   "naziv": "NPB 27",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 413586129,
+   "WORD_DOCUMENT_DOCX": 413586132,
+   "PDF_DOCUMENT": 413586135
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ],
+   [
+    "NPB 3",
+    null
+   ],
+   [
+    "NPB 4",
+    null
+   ],
+   [
+    "NPB 5",
+    null
+   ],
+   [
+    "NPB 6",
+    null
+   ],
+   [
+    "NPB 7",
+    null
+   ],
+   [
+    "NPB 8",
+    null
+   ],
+   [
+    "NPB 9",
+    null
+   ],
+   [
+    "NPB 10",
+    null
+   ],
+   [
+    "NPB 11",
+    null
+   ],
+   [
+    "NPB 12",
+    null
+   ],
+   [
+    "NPB 13",
+    null
+   ],
+   [
+    "NPB 14",
+    null
+   ],
+   [
+    "NPB 15",
+    null
+   ],
+   [
+    "NPB 16",
+    null
+   ],
+   [
+    "NPB 17",
+    null
+   ],
+   [
+    "NPB 18",
+    null
+   ],
+   [
+    "NPB 19",
+    null
+   ],
+   [
+    "NPB 20",
+    null
+   ],
+   [
+    "NPB 21",
+    null
+   ],
+   [
+    "NPB 22",
+    null
+   ],
+   [
+    "NPB 23",
+    null
+   ],
+   [
+    "NPB 24",
+    null
+   ],
+   [
+    "NPB 25",
+    null
+   ],
+   [
+    "NPB 26",
+    null
+   ],
+   [
+    "NPB 27",
+    null
+   ]
+  ]
+ },
+ "ZZad": {
+  "ref": "id/ZAKO217",
+  "zunanjiID": "ZAKO217",
+  "naslov": "Zakon o zadrugah (ZZad)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 36721844,
+   "naziv": "NPB 6",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 356097295,
+   "WORD_DOCUMENT_DOCX": 356097298,
+   "PDF_DOCUMENT": 356097301
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ],
+   [
+    "NPB 3",
+    null
+   ],
+   [
+    "NPB 4",
+    null
+   ],
+   [
+    "NPB 5",
+    null
+   ],
+   [
+    "NPB 6",
+    null
+   ]
+  ]
+ },
+ "ZGZ": {
+  "ref": "id/ZAKO4251",
+  "zunanjiID": "ZAKO4251",
+  "naslov": "Zakon o gospodarskih zbornicah (ZGZ)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 11587519,
+   "naziv": "NPB 2",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 357760723,
+   "WORD_DOCUMENT_DOCX": 357760726,
+   "PDF_DOCUMENT": 357760729
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ]
+  ]
+ },
+ "ZZ": {
+  "ref": "id/ZAKO10",
+  "zunanjiID": "ZAKO10",
+  "naslov": "Zakon o zavodih (ZZ)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 11999282,
+   "naziv": "NPB 3",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": "2007-03-07"
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 460238568,
+   "WORD_DOCUMENT_DOCX": 460238571,
+   "PDF_DOCUMENT": 460238574
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    "1996-02-13"
+   ],
+   [
+    "NPB 2",
+    "2001-05-11"
+   ],
+   [
+    "NPB 3",
+    "2007-03-07"
+   ]
+  ]
+ },
+ "ZGJS": {
+  "ref": "id/ZAKO272",
+  "zunanjiID": "ZAKO272",
+  "naslov": "Zakon o gospodarskih javnih službah (ZGJS)",
+  "status": "Veljaven predpis",
+  "cur": {
+   "id": 10789926,
+   "naziv": "NPB 3",
+   "komentiranjeDatumOd": null,
+   "komentiranjeDatumDo": null,
+   "datumZacetkaUporabe": null
+  },
+  "future": [],
+  "files": {
+   "HTML_DOCUMENT": 356897683,
+   "WORD_DOCUMENT_DOCX": 356897686,
+   "PDF_DOCUMENT": 356897689
+  },
+  "all": [
+   [
+    "Osnovni",
+    null
+   ],
+   [
+    "NPB 1",
+    null
+   ],
+   [
+    "NPB 2",
+    null
+   ],
+   [
+    "NPB 3",
+    null
+   ]
+  ]
+ }
+}

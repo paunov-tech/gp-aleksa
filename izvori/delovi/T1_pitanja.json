@@ -1,0 +1,2959 @@
+[
+  {
+    "id": "T1-001",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Delitev oblasti",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Po katerem načelu se po Ustavi Republike Slovenije izvršuje oblast?",
+    "prevod_sr": "Po kom načelu se prema Ustavu Republike Slovenije vrši vlast?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Po načelu delitve oblasti na državno in lokalno.",
+        "prevod_sr": "Po načelu podele vlasti na državnu i lokalnu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: URS, 3. člen govori o podeli na zakonodavnu, izvršnu i sudsku vlast, ne o podeli na državnu i lokalnu."
+      },
+      {
+        "besedilo_sl": "Po načelu delitve oblasti na zakonodajno, izvršilno in nadzorno.",
+        "prevod_sr": "Po načelu podele vlasti na zakonodavnu, izvršnu i nadzornu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: treća grana je sudska („sodna“), ne nadzorna (URS, 3. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Po načelu enotnosti oblasti, ki jo v celoti izvršuje državni zbor.",
+        "prevod_sr": "Po načelu jedinstva vlasti, koju u celini vrši Državni zbor.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: URS, 3. člen propisuje podelu vlasti, a ne jedinstvo vlasti u rukama Državnog zbora."
+      },
+      {
+        "besedilo_sl": "Po načelu delitve oblasti na zakonodajno, izvršilno in sodno.",
+        "prevod_sr": "Po načelu podele vlasti na zakonodavnu, izvršnu i sudsku.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 3. člen, 2. odst. doslovno navodi podelu na zakonodavnu, izvršnu i sudsku vlast."
+      },
+      {
+        "besedilo_sl": "Po načelu delitve oblasti na zakonodajno, upravno in ustavnosodno.",
+        "prevod_sr": "Po načelu podele vlasti na zakonodavnu, upravnu i ustavnosudsku.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: URS, 3. člen navodi zakonodavnu, izvršnu i sudsku vlast; „upravna“ i „ustavnosudska“ nisu grane iz tog člana."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "delitev oblasti",
+      "zakonodajna oblast",
+      "izvršilna oblast",
+      "sodna oblast"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 3. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-002",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Hierarhija pravnih aktov",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere trditve o usklajenosti pravnih aktov so po Ustavi Republike Slovenije pravilne?",
+    "prevod_sr": "Koje tvrdnje o usklađenosti pravnih akata su prema Ustavu Republike Slovenije tačne?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Podzakonski predpisi in drugi splošni akti morajo biti v skladu z ustavo in z zakoni.",
+        "prevod_sr": "Podzakonski propisi i drugi opšti akti moraju biti u skladu sa ustavom i zakonima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 153. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Zakoni morajo biti v skladu z veljavnimi mednarodnimi pogodbami, ki jih je ratificiral državni zbor.",
+        "prevod_sr": "Zakoni moraju biti u skladu sa važećim međunarodnim ugovorima koje je ratifikovao Državni zbor.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 153. člen, 2. odst. – zakoni moraju biti u skladu sa opšte važećim načelima međunarodnog prava i ugovorima koje je ratifikovao Državni zbor."
+      },
+      {
+        "besedilo_sl": "Mednarodne pogodbe, ki jih ratificira državni zbor, morajo biti v skladu z zakoni.",
+        "prevod_sr": "Međunarodni ugovori koje ratifikuje Državni zbor moraju biti u skladu sa zakonima.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obrnuto – zakoni moraju biti u skladu sa međunarodnim ugovorima koje je ratifikovao Državni zbor (URS, 153. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Zakoni morajo biti v skladu s podzakonskimi predpisi vlade.",
+        "prevod_sr": "Zakoni moraju biti u skladu sa podzakonskim propisima vlade.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obrnuto – podzakonski propisi moraju biti u skladu sa zakonima (URS, 153. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Zakoni, podzakonski predpisi in drugi splošni akti morajo biti v skladu z ustavo.",
+        "prevod_sr": "Zakoni, podzakonski propisi i drugi opšti akti moraju biti u skladu sa ustavom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: doslovno URS, 153. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "usklajenost pravnih aktov",
+      "podzakonski predpis",
+      "splošni akt",
+      "mednarodna pogodba"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 153. člen, 1.–3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-003",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Objava in začetek veljavnosti predpisov",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po Ustavi Republike Slovenije glede objave in veljavnosti predpisov?",
+    "prevod_sr": "Šta prema Ustavu Republike Slovenije važi u pogledu objave i važenja propisa?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Predpis začne veljati osmi dan po objavi, če ni v njem drugače določeno.",
+        "prevod_sr": "Propis počinje da važi osmog dana po objavi, ako u njemu nije drugačije određeno.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: propis počinje da važi petnaestog dana po objavi, ako u njemu nije drugačije određeno (URS, 154. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Predpisi lokalnih skupnosti se objavljajo izključno v državnem uradnem listu.",
+        "prevod_sr": "Propisi lokalnih zajednica objavljuju se isključivo u državnom službenom listu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: propisi lokalnih zajednica objavljuju se u službenom glasilu koje one same odrede (URS, 154. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Državni predpisi se objavljajo v državnem uradnem listu.",
+        "prevod_sr": "Državni propisi se objavljuju u državnom službenom listu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 154. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Predpis začne veljati z dnem, ko ga sprejme državni zbor.",
+        "prevod_sr": "Propis počinje da važi danom kada ga usvoji Državni zbor.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: važenje se vezuje za objavu, ne za usvajanje – propis mora biti objavljen pre nego što počne da važi (URS, 154. člen)."
+      },
+      {
+        "besedilo_sl": "Predpisi morajo biti objavljeni, preden začno veljati.",
+        "prevod_sr": "Propisi moraju biti objavljeni pre nego što počnu da važe.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 154. člen, 1. odst., prva rečenica."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "objava predpisa",
+      "začetek veljavnosti",
+      "uradni list",
+      "petnajsti dan"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 154. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-004",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Objava in začetek veljavnosti predpisov",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Zakon je objavljen v Uradnem listu Republike Slovenije in ne vsebuje določbe o tem, kdaj začne veljati. Kdaj začne veljati po Ustavi Republike Slovenije?",
+    "prevod_sr": "Zakon je objavljen u Službenom listu Republike Slovenije i ne sadrži odredbu o tome kada počinje da važi. Kada počinje da važi prema Ustavu Republike Slovenije?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Dvajseti dan po objavi.",
+        "prevod_sr": "Dvadesetog dana po objavi.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dvadeseti dan po objavi važi za zakonodavne akte EU (PDEU, člen 297), a za slovenačke propise petnaesti dan (URS, 154. člen)."
+      },
+      {
+        "besedilo_sl": "Z dnem objave.",
+        "prevod_sr": "Danom objave.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: bez posebne odredbe propis počinje da važi petnaestog dana po objavi, ne danom objave (URS, 154. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Osmi dan po objavi.",
+        "prevod_sr": "Osmog dana po objavi.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rok je petnaesti dan po objavi (URS, 154. člen); 8 dana je rok u kome predsednik republike proglašava zakon (URS, 91. člen)."
+      },
+      {
+        "besedilo_sl": "Petnajsti dan po objavi.",
+        "prevod_sr": "Petnaestog dana po objavi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ako u propisu nije drugačije određeno, počinje da važi petnaestog dana po objavi (URS, 154. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Petnajsti dan po sprejemu v državnem zboru.",
+        "prevod_sr": "Petnaestog dana po usvajanju u Državnom zboru.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rok se računa od objave, ne od usvajanja (URS, 154. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "začetek veljavnosti",
+      "objava",
+      "Uradni list Republike Slovenije"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 154. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-005",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Prepoved povratne veljave",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o povratni veljavi pravnih aktov po Ustavi Republike Slovenije NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o povratnom dejstvu pravnih akata prema Ustavu Republike Slovenije NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zakon sme določiti učinek za nazaj tudi tedaj, ko se s tem posega v pridobljene pravice.",
+        "prevod_sr": "Zakon sme odrediti dejstvo unazad i onda kada se time zadire u stečena prava.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: povratno dejstvo je dopušteno samo ako se time ne zadire u stečena prava (URS, 155. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Učinek posameznih določb zakona za nazaj je dopusten le, če to zahteva javna korist in če se s tem ne posega v pridobljene pravice.",
+        "prevod_sr": "Dejstvo pojedinih odredaba zakona unazad dopušteno je samo ako to zahteva javna korist i ako se time ne zadire u stečena prava.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna – navodi oba uslova: javna korist i nezadiranje u stečena prava (URS, 155. člen, 2. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Samo zakon lahko določi, da imajo posamezne njegove določbe učinek za nazaj.",
+        "prevod_sr": "Samo zakon može odrediti da pojedine njegove odredbe imaju dejstvo unazad.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 155. člen, 2. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Učinek za nazaj lahko za posamezne svoje določbe določi tudi uredba vlade, če to zahteva javna korist.",
+        "prevod_sr": "Dejstvo unazad za pojedine svoje odredbe može odrediti i uredba vlade, ako to zahteva javna korist.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: izuzetak je dopušten samo zakonu, ne podzakonskom propisu (URS, 155. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Zakoni, drugi predpisi in splošni akti ne morejo imeti učinka za nazaj.",
+        "prevod_sr": "Zakoni, drugi propisi i opšti akti ne mogu imati dejstvo unazad.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 155. člen, 1. odst.), pa se ne označava."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "povratna veljava",
+      "učinek za nazaj",
+      "javna korist",
+      "pridobljene pravice"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 155. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-006",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Mednarodne pogodbe v pravnem redu",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj določa Ustava Republike Slovenije o mednarodnih pogodbah?",
+    "prevod_sr": "Šta Ustav Republike Slovenije određuje o međunarodnim ugovorima?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Ob neskladju ima zakon prednost pred mednarodno pogodbo, ki obvezuje Slovenijo.",
+        "prevod_sr": "U slučaju neusklađenosti zakon ima prednost pred međunarodnim ugovorom koji obavezuje Sloveniju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakoni moraju biti u skladu sa međunarodnim ugovorima koji obavezuju Sloveniju (URS, 8. člen; 153. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Zakoni in drugi predpisi morajo biti v skladu z mednarodnimi pogodbami, ki obvezujejo Slovenijo.",
+        "prevod_sr": "Zakoni i drugi propisi moraju biti u skladu sa međunarodnim ugovorima koji obavezuju Sloveniju.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 8. člen, prva rečenica."
+      },
+      {
+        "besedilo_sl": "Ratificirane in objavljene mednarodne pogodbe se uporabljajo neposredno.",
+        "prevod_sr": "Ratifikovani i objavljeni međunarodni ugovori primenjuju se neposredno.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 8. člen, druga rečenica."
+      },
+      {
+        "besedilo_sl": "Mednarodne pogodbe se uporabljajo neposredno že od podpisa, tudi če niso ratificirane in objavljene.",
+        "prevod_sr": "Međunarodni ugovori se primenjuju neposredno već od potpisivanja, čak i ako nisu ratifikovani i objavljeni.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: neposredno se primenjuju ratifikovani i objavljeni ugovori (URS, 8. člen)."
+      },
+      {
+        "besedilo_sl": "Mednarodne pogodbe se uporabljajo šele, ko je njihova vsebina prenesena v poseben izvedbeni zakon.",
+        "prevod_sr": "Međunarodni ugovori se primenjuju tek kada se njihov sadržaj prenese u poseban izvršni zakon.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ratifikovani i objavljeni ugovori primenjuju se neposredno (URS, 8. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "mednarodna pogodba",
+      "ratifikacija",
+      "neposredna uporaba"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 8. člen; 153. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-007",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Prenos izvrševanja suverenih pravic (3.a člen URS)",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po 3.a členu Ustave Republike Slovenije za prenos izvrševanja dela suverenih pravic na mednarodne organizacije?",
+    "prevod_sr": "Šta prema članu 3.a Ustava Republike Slovenije važi za prenos vršenja dela suverenih prava na međunarodne organizacije?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Mednarodno pogodbo o prenosu ratificira državni zbor z dvotretjinsko večino glasov vseh poslancev.",
+        "prevod_sr": "Međunarodni ugovor o prenosu ratifikuje Državni zbor dvotrećinskom većinom glasova svih poslanika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 3.a člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pravni akti in odločitve, sprejeti v okviru teh mednarodnih organizacij, se v Sloveniji uporabljajo v skladu s pravno ureditvijo teh organizacij.",
+        "prevod_sr": "Pravni akti i odluke doneti u okviru tih međunarodnih organizacija primenjuju se u Sloveniji u skladu sa pravnim uređenjem tih organizacija.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 3.a člen, 3. odst. – to je ustavni osnov za primenu prava EU."
+      },
+      {
+        "besedilo_sl": "Pred ratifikacijo take mednarodne pogodbe lahko državni zbor razpiše referendum.",
+        "prevod_sr": "Pre ratifikacije takvog međunarodnog ugovora Državni zbor može raspisati referendum.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 3.a člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Tako pogodbo ratificira državni zbor z večino opredeljenih glasov navzočih poslancev.",
+        "prevod_sr": "Takav ugovor ratifikuje Državni zbor većinom opredeljenih glasova prisutnih poslanika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: potrebna je dvotrećinska većina glasova svih poslanika (URS, 3.a člen, 1. odst.); većina opredeljenih glasova prisutnih je opšte pravilo iz 86. člena."
+      },
+      {
+        "besedilo_sl": "Slovenija lahko s tako pogodbo na mednarodno organizacijo prenese svojo celotno suverenost.",
+        "prevod_sr": "Slovenija takvim ugovorom može na međunarodnu organizaciju preneti svoju celokupnu suverenost.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prenosi se samo vršenje dela suverenih prava (URS, 3.a člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "suverene pravice",
+      "mednarodna organizacija",
+      "dvotretjinska večina",
+      "ratifikacija"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 3.a člen, 1.–3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-008",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Hierarhija pravnih aktov",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Vlada izda uredbo, ki je v nasprotju z zakonom. Kaj velja po Ustavi Republike Slovenije?",
+    "prevod_sr": "Vlada donese uredbu koja je u suprotnosti sa zakonom. Šta važi prema Ustavu Republike Slovenije?",
+    "odgovori": [
+      {
+        "besedilo_sl": "O skladnosti uredbe z zakonom odloča občna seja Vrhovnega sodišča.",
+        "prevod_sr": "O usklađenosti uredbe sa zakonom odlučuje opšta sednica Vrhovnog suda.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je nadležnost Ustavnog suda (URS, 160. člen); opšta sednica Vrhovnog suda donosi načelna pravna mišljenja (ZS, 110. člen)."
+      },
+      {
+        "besedilo_sl": "Ker je uredba novejša od zakona, ima pred njim prednost.",
+        "prevod_sr": "Pošto je uredba novija od zakona, ima prednost pred njim.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: podzakonski propis mora biti u skladu sa zakonom bez obzira na to kada je donet (URS, 153. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Uredba kot podzakonski predpis mora biti v skladu z ustavo in z zakoni.",
+        "prevod_sr": "Uredba kao podzakonski propis mora biti u skladu sa ustavom i zakonima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: podzakonski propisi moraju biti u skladu sa ustavom i zakonima (URS, 153. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "O skladnosti uredbe z zakonom odloča državni svet.",
+        "prevod_sr": "O usklađenosti uredbe sa zakonom odlučuje Državni svet.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: Državni svet nema tu nadležnost (URS, 97. člen); odlučuje Ustavni sud (URS, 160. člen)."
+      },
+      {
+        "besedilo_sl": "O skladnosti podzakonskega predpisa z zakonom odloča ustavno sodišče.",
+        "prevod_sr": "O usklađenosti podzakonskog propisa sa zakonom odlučuje Ustavni sud.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: Ustavni sud odlučuje o usklađenosti podzakonskih propisa sa ustavom i zakonima (URS, 160. člen, 1. odst., 3. alineja)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "uredba",
+      "podzakonski predpis",
+      "ustavno sodišče",
+      "skladnost z zakonom"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 153. člen, 3. odst.; 160. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-009",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Državni zbor",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po Ustavi Republike Slovenije za državni zbor?",
+    "prevod_sr": "Šta prema Ustavu Republike Slovenije važi za Državni zbor?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Šteje 90 poslancev.",
+        "prevod_sr": "Ima 90 poslanika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 80. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Vanj se vedno izvoli po en poslanec italijanske in madžarske narodne skupnosti.",
+        "prevod_sr": "U njega se uvek bira po jedan poslanik italijanske i mađarske nacionalne zajednice.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 80. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Voli se za štiri leta.",
+        "prevod_sr": "Bira se na četiri godine.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 81. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Volitve v državni zbor razpiše predsednik državnega zbora.",
+        "prevod_sr": "Izbore za Državni zbor raspisuje predsednik Državnog zbora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: izbore za Državni zbor raspisuje predsednik republike (URS, 81. člen, 3. odst.; 107. člen)."
+      },
+      {
+        "besedilo_sl": "Poslanci so predstavniki vsega ljudstva in niso vezani na kakršnakoli navodila.",
+        "prevod_sr": "Poslanici su predstavnici celog naroda i nisu vezani nikakvim uputstvima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 82. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "državni zbor",
+      "poslanec",
+      "mandatna doba",
+      "narodna skupnost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 80. člen; 81. člen; 82. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-010",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Državni svet",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o državnem svetu po Ustavi Republike Slovenije NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o Državnom svetu prema Ustavu Republike Slovenije NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Člani državnega sveta se volijo za dobo štirih let.",
+        "prevod_sr": "Članovi Državnog sveta biraju se na period od četiri godine.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: članovi Državnog sveta biraju se na pet godina (URS, 98. člen, 2. odst.); četiri godine je mandat Državnog zbora (81. člen)."
+      },
+      {
+        "besedilo_sl": "Državni svet je zastopstvo nosilcev socialnih, gospodarskih, poklicnih in lokalnih interesov.",
+        "prevod_sr": "Državni svet je predstavništvo nosilaca socijalnih, privrednih, strukovnih i lokalnih interesa.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 96. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Član državnega sveta je lahko hkrati poslanec v državnem zboru.",
+        "prevod_sr": "Član Državnog sveta može istovremeno biti poslanik u Državnom zboru.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: član Državnog sveta ne sme istovremeno biti poslanik u Državnom zboru (URS, 100. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Državni svet ima 40 članov.",
+        "prevod_sr": "Državni svet ima 40 članova.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 96. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Državni svet lahko državnemu zboru predlaga sprejem zakonov.",
+        "prevod_sr": "Državni svet može Državnom zboru predložiti donošenje zakona.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 97. člen, 1. odst., 1. alineja), pa se ne označava."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "državni svet",
+      "zastopstvo interesov",
+      "nezdružljivost funkcije"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 96. člen; 97. člen; 98. člen; 100. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-011",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Zakonodajni postopek",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "S kakšno večino državni zbor sprejema zakone, kadar ni z ustavo ali z zakonom določena drugačna večina?",
+    "prevod_sr": "Kojom većinom Državni zbor donosi zakone kada ustavom ili zakonom nije određena drugačija većina?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Z večino opredeljenih glasov navzočih poslancev.",
+        "prevod_sr": "Većinom opredeljenih glasova prisutnih poslanika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 86. člen."
+      },
+      {
+        "besedilo_sl": "Z večino glasov vseh poslancev.",
+        "prevod_sr": "Većinom glasova svih poslanika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: većina svih poslanika traži se npr. pri ponovnom odlučivanju posle veta Državnog sveta (URS, 91. člen), a opšte pravilo je većina opredeljenih glasova prisutnih (86. člen)."
+      },
+      {
+        "besedilo_sl": "Z večino opredeljenih glasov navzočih poslancev, pri čemer zadošča navzočnost tretjine poslancev.",
+        "prevod_sr": "Većinom opredeljenih glasova prisutnih poslanika, pri čemu je dovoljno prisustvo trećine poslanika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: Državni zbor odlučuje samo ako je na sednici prisutna većina poslanika (URS, 86. člen)."
+      },
+      {
+        "besedilo_sl": "Z dvotretjinsko večino glasov navzočih poslancev.",
+        "prevod_sr": "Dvotrećinskom većinom glasova prisutnih poslanika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ta većina važi za posebne slučajeve (npr. zakon o referendumu, URS, 90. člen, 5. odst.), ne kao opšte pravilo (86. člen)."
+      },
+      {
+        "besedilo_sl": "Z dvotretjinsko večino glasov vseh poslancev.",
+        "prevod_sr": "Dvotrećinskom većinom glasova svih poslanika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ta većina važi npr. za akt o promeni ustava (URS, 169. člen), ne za obične zakone (86. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "večina opredeljenih glasov",
+      "navzoči poslanci",
+      "sklepčnost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 86. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-012",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Zakonodajni postopek",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kdo lahko po Ustavi Republike Slovenije predlaga zakon?",
+    "prevod_sr": "Ko prema Ustavu Republike Slovenije može predložiti zakon?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Državni svet.",
+        "prevod_sr": "Državni svet.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: Državni svet može Državnom zboru predložiti donošenje zakona (URS, 97. člen, 1. odst., 1. alineja)."
+      },
+      {
+        "besedilo_sl": "Predsednik republike.",
+        "prevod_sr": "Predsednik republike.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: predsednik republike proglašava zakone (URS, 91. i 107. člen), ali nije među predlagačima iz 88. i 97. člena."
+      },
+      {
+        "besedilo_sl": "Vsak poslanec.",
+        "prevod_sr": "Svaki poslanik.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 88. člen."
+      },
+      {
+        "besedilo_sl": "Najmanj pet tisoč volivcev.",
+        "prevod_sr": "Najmanje pet hiljada birača.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 88. člen, druga rečenica."
+      },
+      {
+        "besedilo_sl": "Vlada.",
+        "prevod_sr": "Vlada.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 88. člen."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zakonska iniciativa",
+      "predlagatelj zakona",
+      "volivci"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 88. člen; 97. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-013",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Zakonodajni postopek",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere trditve o razglasitvi zakona in o odložilnem vetu državnega sveta so pravilne?",
+    "prevod_sr": "Koje tvrdnje o proglašenju zakona i o odložnom vetu Državnog sveta su tačne?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Državni svet lahko ponovno odločanje zahteva tudi po razglasitvi zakona.",
+        "prevod_sr": "Državni svet može zahtevati ponovno odlučivanje i posle proglašenja zakona.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zahtev se može podneti u sedam dana od usvajanja i još pre proglašenja zakona (URS, 91. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Pri ponovnem odločanju zadošča za sprejem zakona večina opredeljenih glasov navzočih poslancev.",
+        "prevod_sr": "Pri ponovnom odlučivanju za usvajanje zakona dovoljna je većina opredeljenih glasova prisutnih poslanika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pri ponovnom odlučivanju za zakon mora glasati većina svih poslanika (URS, 91. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Zakone razglaša predsednik državnega zbora najkasneje 15 dni po njihovem sprejemu.",
+        "prevod_sr": "Zakone proglašava predsednik Državnog zbora najkasnije 15 dana po njihovom usvajanju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakone proglašava predsednik republike najkasnije 8 dana po usvajanju (URS, 91. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Državni svet lahko v sedmih dneh od sprejetja zakona in še pred njegovo razglasitvijo zahteva, da državni zbor o njem še enkrat odloča.",
+        "prevod_sr": "Državni svet može u roku od sedam dana od usvajanja zakona, a pre njegovog proglašenja, zahtevati da Državni zbor o njemu još jednom odlučuje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 91. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Zakone razglaša predsednik republike najkasneje 8 dni po njihovem sprejemu.",
+        "prevod_sr": "Zakone proglašava predsednik republike najkasnije 8 dana po njihovom usvajanju.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 91. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "razglasitev zakona",
+      "odložilni veto",
+      "ponovno odločanje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 91. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-014",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Zakonodajni postopek",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Državni svet je pravočasno zahteval, da državni zbor o sprejetem zakonu še enkrat odloča. Za sprejem tega zakona ustava ne predvideva večjega števila glasov. Pri ponovnem glasovanju je navzočih 80 poslancev; 44 jih glasuje za zakon, 30 proti. Kaj velja?",
+    "prevod_sr": "Državni svet je blagovremeno zahtevao da Državni zbor o usvojenom zakonu još jednom odlučuje. Za usvajanje tog zakona ustav ne predviđa veći broj glasova. Pri ponovnom glasanju prisutno je 80 poslanika; 44 glasaju za zakon, 30 protiv. Šta važi?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Državni svet lahko po ponovnem odločanju isti zakon še enkrat vrne državnemu zboru.",
+        "prevod_sr": "Državni svet može posle ponovnog odlučivanja isti zakon još jednom vratiti Državnom zboru.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ponovna odluka Državnog zbora je konačna (URS, 91. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Zakon je sprejet, ker je zanj glasovala večina opredeljenih glasov navzočih poslancev.",
+        "prevod_sr": "Zakon je usvojen jer je za njega glasala većina opredeljenih glasova prisutnih poslanika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: opšte pravilo iz 86. člena ovde ne važi; pri ponovnom odlučivanju traži se većina svih poslanika (URS, 91. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Zakon bi bil pri ponovnem odločanju sprejet le z dvotretjinsko večino glasov vseh poslancev.",
+        "prevod_sr": "Zakon bi pri ponovnom odlučivanju bio usvojen samo dvotrećinskom većinom glasova svih poslanika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: traži se većina svih poslanika, ne dvotrećinska (URS, 91. člen, 2. odst.), osim ako ustav za taj zakon predviđa veći broj glasova, što ovde nije slučaj."
+      },
+      {
+        "besedilo_sl": "Zakon ni sprejet, ker zanj ni glasovala večina vseh poslancev.",
+        "prevod_sr": "Zakon nije usvojen jer za njega nije glasala većina svih poslanika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: pri ponovnom odlučivanju potrebna je većina svih poslanika (URS, 91. člen, 2. odst.); Državni zbor ima 90 poslanika (80. člen), pa 44 glasa nisu većina svih."
+      },
+      {
+        "besedilo_sl": "Ponovna odločitev državnega zbora je dokončna.",
+        "prevod_sr": "Ponovna odluka Državnog zbora je konačna.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 91. člen, 2. odst., poslednja rečenica."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "odložilni veto",
+      "večina vseh poslancev",
+      "ponovno odločanje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 91. člen, 2. odst.; 80. člen, 1. odst.; 86. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-015",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Zakonodajni referendum",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere trditve o zakonodajnem referendumu so po Ustavi Republike Slovenije pravilne?",
+    "prevod_sr": "Koje tvrdnje o zakonodavnom referendumu su prema Ustavu Republike Slovenije tačne?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Državni zbor razpiše referendum o uveljavitvi zakona, ki ga je sprejel, če to zahteva najmanj štirideset tisoč volivcev.",
+        "prevod_sr": "Državni zbor raspisuje referendum o stupanju na snagu zakona koji je usvojio, ako to zahteva najmanje četrdeset hiljada birača.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 90. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Zakon je na referendumu zavrnjen, če proti njemu glasuje večina volivcev, ki so veljavno glasovali, pod pogojem, da proti zakonu glasuje najmanj petina vseh volivcev.",
+        "prevod_sr": "Zakon je na referendumu odbijen ako protiv njega glasa većina birača koji su važeće glasali, pod uslovom da protiv zakona glasa najmanje petina svih birača.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 90. člen, 4. odst."
+      },
+      {
+        "besedilo_sl": "Referendum se razpiše, če to zahteva najmanj pet tisoč volivcev.",
+        "prevod_sr": "Referendum se raspisuje ako to zahteva najmanje pet hiljada birača.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: za referendum je potrebno najmanje 40.000 birača (URS, 90. člen); 5.000 birača može predložiti zakon (88. člen)."
+      },
+      {
+        "besedilo_sl": "Referendum je dopustno razpisati tudi o zakonih o ratifikaciji mednarodnih pogodb.",
+        "prevod_sr": "Referendum je dopušteno raspisati i o zakonima o ratifikaciji međunarodnih ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: o zakonima o ratifikaciji međunarodnih ugovora referendum nije dopušten (URS, 90. člen, 2. odst., 3. alineja)."
+      },
+      {
+        "besedilo_sl": "Referenduma ni dopustno razpisati o zakonih o davkih, carinah in drugih obveznih dajatvah.",
+        "prevod_sr": "Referendum nije dopušteno raspisati o zakonima o porezima, carinama i drugim obaveznim dažbinama.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 90. člen, 2. odst., 2. alineja."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zakonodajni referendum",
+      "volivci",
+      "uveljavitev zakona"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 90. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-016",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Predsednik republike",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po Ustavi Republike Slovenije za predsednika republike?",
+    "prevod_sr": "Šta prema Ustavu Republike Slovenije važi za predsednika republike?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Predstavlja Republiko Slovenijo in je vrhovni poveljnik njenih obrambnih sil.",
+        "prevod_sr": "Predstavlja Republiku Sloveniju i vrhovni je komandant njenih odbrambenih snaga.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 102. člen."
+      },
+      {
+        "besedilo_sl": "Izvoljen je za dobo petih let, vendar največ dvakrat zaporedoma.",
+        "prevod_sr": "Bira se na period od pet godina, ali najviše dva puta uzastopno.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 103. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Izvoli ga državni zbor z večino glasov vseh poslancev.",
+        "prevod_sr": "Bira ga Državni zbor većinom glasova svih poslanika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: predsednik republike bira se na neposrednim, opštim i tajnim izborima (URS, 103. člen, 1. odst.); Državni zbor tako bira predsednika vlade (111. člen)."
+      },
+      {
+        "besedilo_sl": "Imenuje in razrešuje ministre.",
+        "prevod_sr": "Imenuje i razrešava ministre.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ministre imenuje i razrešava Državni zbor na predlog predsednika vlade (URS, 112. člen)."
+      },
+      {
+        "besedilo_sl": "Razglaša zakone.",
+        "prevod_sr": "Proglašava zakone.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 107. člen, 1. odst., 2. alineja; 91. člen."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "predsednik republike",
+      "razglasitev zakonov",
+      "neposredne volitve"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 102. člen; 103. člen; 107. člen; 112. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-017",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Vlada",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o vladi po Ustavi Republike Slovenije NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o vladi prema Ustavu Republike Slovenije NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Predsednika vlade voli državni zbor.",
+        "prevod_sr": "Predsednika vlade bira Državni zbor.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 111. člen, 2. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Ministre imenuje in razrešuje predsednik republike na predlog predsednika vlade.",
+        "prevod_sr": "Ministre imenuje i razrešava predsednik republike na predlog predsednika vlade.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: ministre imenuje i razrešava Državni zbor na predlog predsednika vlade (URS, 112. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Kandidata za predsednika vlade predloži državnemu zboru predsednik republike po posvetovanjih z vodji poslanskih skupin.",
+        "prevod_sr": "Kandidata za predsednika vlade predlaže Državnom zboru predsednik republike posle konsultacija sa vođama poslaničkih grupa.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 111. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Vlada in posamezni ministri so odgovorni državnemu svetu.",
+        "prevod_sr": "Vlada i pojedini ministri odgovorni su Državnom svetu.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: vlada i ministri odgovorni su Državnom zboru (URS, 110. člen)."
+      },
+      {
+        "besedilo_sl": "Vlado sestavljajo predsednik in ministri.",
+        "prevod_sr": "Vladu čine predsednik i ministri.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 110. člen), pa se ne označava."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "vlada",
+      "predsednik vlade",
+      "minister",
+      "odgovornost državnemu zboru"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 110. člen; 111. člen; 112. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-018",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Ustavno sodišče",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "O čem odloča ustavno sodišče po Ustavi Republike Slovenije?",
+    "prevod_sr": "O čemu odlučuje Ustavni sud prema Ustavu Republike Slovenije?",
+    "odgovori": [
+      {
+        "besedilo_sl": "O skladnosti zakonov z ustavo.",
+        "prevod_sr": "O usklađenosti zakona sa ustavom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 160. člen, 1. odst., 1. alineja."
+      },
+      {
+        "besedilo_sl": "O reviziji zoper pravnomočne sodbe, izdane na drugi stopnji.",
+        "prevod_sr": "O reviziji protiv pravosnažnih presuda donetih u drugom stepenu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: o reviziji odlučuje Vrhovni sud (ZPP, 37. člen; ZS, 106. člen), ne Ustavni sud."
+      },
+      {
+        "besedilo_sl": "O sporih o pristojnostih med državnim zborom, predsednikom republike in vlado.",
+        "prevod_sr": "O sporovima o nadležnostima između Državnog zbora, predsednika republike i vlade.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 160. člen, 1. odst., 9. alineja."
+      },
+      {
+        "besedilo_sl": "O ustavnih pritožbah zaradi kršitev človekovih pravic in temeljnih svoboščin s posamičnimi akti.",
+        "prevod_sr": "O ustavnim žalbama zbog povreda ljudskih prava i osnovnih sloboda pojedinačnim aktima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 160. člen, 1. odst., 6. alineja."
+      },
+      {
+        "besedilo_sl": "O pritožbah zoper odločbe okrajnih in okrožnih sodišč.",
+        "prevod_sr": "O žalbama protiv odluka okrajnih i okružnih sudova.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: o tim žalbama odlučuju viši sudovi (ZS, 104. člen; ZPP, 35. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "ustavno sodišče",
+      "ustavna pritožba",
+      "skladnost z ustavo",
+      "spor glede pristojnosti"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 160. člen, 1. odst.; ZS, 104. in 106. člen; ZPP, 35. in 37. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1 ; https://pisrs.si/pregledPredpisa?id=ZAKO332 ; https://pisrs.si/pregledPredpisa?id=ZAKO1212"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-019",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Ustavno sodišče",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o odločitvah ustavnega sodišča po 161. členu Ustave Republike Slovenije NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o odlukama Ustavnog suda prema članu 161. Ustava Republike Slovenije NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Razveljavitev zakona učinkuje takoj ali v roku, ki ga določi ustavno sodišče.",
+        "prevod_sr": "Ukidanje zakona deluje odmah ili u roku koji odredi Ustavni sud.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 161. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Rok, v katerem začne učinkovati razveljavitev zakona, je lahko daljši od enega leta.",
+        "prevod_sr": "Rok u kome ukidanje zakona počinje da deluje može biti duži od jedne godine.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: taj rok ne sme biti duži od jedne godine (URS, 161. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Druge protiustavne ali nezakonite predpise ali splošne akte ustavno sodišče odpravi ali razveljavi.",
+        "prevod_sr": "Druge protivustavne ili nezakonite propise ili opšte akte Ustavni sud poništava ili ukida.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 161. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Če ustavno sodišče ugotovi, da je zakon protiustaven, ga v celoti ali delno razveljavi.",
+        "prevod_sr": "Ako Ustavni sud utvrdi da je zakon protivustavan, ukida ga u celini ili delimično.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 161. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Ustavno sodišče lahko pod pogoji, ki jih določa zakon, do končne odločitve zadrži izvrševanje akta, katerega ustavnost presoja.",
+        "prevod_sr": "Ustavni sud može, pod uslovima koje određuje zakon, do konačne odluke zadržati izvršavanje akta čiju ustavnost ocenjuje.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (URS, 161. člen, 1. odst., poslednja rečenica), pa se ne označava."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "razveljavitev zakona",
+      "odprava predpisa",
+      "protiustavnost",
+      "zadržanje izvrševanja"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 161. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-020",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Ustavno sodišče",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Okrožno sodišče pri odločanju v pravdi meni, da je zakon, ki bi ga moralo uporabiti, protiustaven. Kako mora ravnati po Ustavi Republike Slovenije?",
+    "prevod_sr": "Okružni sud pri odlučivanju u parnici smatra da je zakon koji bi morao da primeni protivustavan. Kako mora postupiti prema Ustavu Republike Slovenije?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zakon mora uporabiti, postopka pa ne sme prekiniti.",
+        "prevod_sr": "Mora primeniti zakon, a postupak ne sme prekinuti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: URS, 156. člen izričito nalaže prekid postupka."
+      },
+      {
+        "besedilo_sl": "Zakona ne uporabi in odloči neposredno na podlagi ustave.",
+        "prevod_sr": "Ne primenjuje zakon i odlučuje neposredno na osnovu ustava.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sud ne sme sam odbiti primenu zakona; mora prekinuti postupak i pokrenuti postupak pred Ustavnim sudom (URS, 156. člen)."
+      },
+      {
+        "besedilo_sl": "Zadevo odstopi Vrhovnemu sodišču, da zakon razveljavi.",
+        "prevod_sr": "Ustupa predmet Vrhovnom sudu da ukine zakon.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: protivustavan zakon ukida Ustavni sud (URS, 161. člen), a sud pokreće postupak pred njim (156. člen)."
+      },
+      {
+        "besedilo_sl": "Postopek mora prekiniti in začeti postopek pred ustavnim sodiščem.",
+        "prevod_sr": "Mora prekinuti postupak i pokrenuti postupak pred Ustavnim sudom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 156. člen; postupak pred sudom se nastavlja posle odluke Ustavnog suda."
+      },
+      {
+        "besedilo_sl": "Zakon razveljavi kar samo, z učinkom med strankama.",
+        "prevod_sr": "Sam ukida zakon sa dejstvom između stranaka.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon može ukinuti samo Ustavni sud (URS, 160. i 161. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "ocena ustavnosti",
+      "prekinitev postopka",
+      "protiustaven zakon"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 156. člen; 161. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-021",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Pravno pravilo (pravna norma)",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katere so sestavine pravnega pravila (pravne norme)?",
+    "prevod_sr": "Koji su sastavni delovi pravnog pravila (pravne norme)?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Preambula.",
+        "prevod_sr": "Preambula.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: preambula je uvodni deo ustava, ne deo pravne norme (snov_1_kolokvij, str. 2–3)."
+      },
+      {
+        "besedilo_sl": "Hipoteza.",
+        "prevod_sr": "Hipoteza.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno prema zapiscima: hipoteza opisuje okolnosti (činjenično stanje) u kojima treba postupiti po dispoziciji (snov_1_kolokvij, str. 2)."
+      },
+      {
+        "besedilo_sl": "Sankcija.",
+        "prevod_sr": "Sankcija.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno prema zapiscima: sankcija određuje pravne posledice ako adresat ne postupi po dispoziciji (snov_1_kolokvij, str. 2)."
+      },
+      {
+        "besedilo_sl": "Dispozicija.",
+        "prevod_sr": "Dispozicija.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno prema zapiscima: dispozicija je središnji deo pravila i određuje način ponašanja – zapovest, zabrana ili dozvola (snov_1_kolokvij, str. 2)."
+      },
+      {
+        "besedilo_sl": "Avtentična razlaga.",
+        "prevod_sr": "Autentično tumačenje.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: autentično tumačenje je vrsta tumačenja pravnog akta koju daje organ koji je akt doneo, ne deo norme (snov_1_kolokvij, str. 4)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pravno pravilo",
+      "hipoteza",
+      "dispozicija",
+      "sankcija"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: snov_1_kolokvij, str. 2–4; povzetki_1_del, str. 2",
+      "zakon_clen": "ni člena v razpoložljivih zakonih – ključ po zapiskih (splošna teorija prava)",
+      "url": "izvori/pdf/tutorji_epf/ (lokalni zapiski, ni zakonskega URL)"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": false,
+    "opomba_preverjanja": "Ključ se ne može potvrditi tekstom nijednog zakona iz izvori/zakoni: sastav pravne norme (hipoteza, dispozicija, sankcija) je opšta teorija prava, a jedini navedeni izvor su studentski zapisi, koji po briefu nisu izvor istine. Sadržinski ključ odgovara uobičajenoj udžbeničkoj podeli, ali ostaje nepotvrđen."
+  },
+  {
+    "id": "T1-022",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Dispozitivna in prisilna pravila",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po Obligacijskem zakoniku glede dispozitivne narave njegovih določb in prostega urejanja obligacijskih razmerij?",
+    "prevod_sr": "Šta prema Obligacionom zakoniku važi u pogledu dispozitivne prirode njegovih odredaba i slobodnog uređivanja obligacionih odnosa?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Udeleženci obligacijskih razmerij ne smejo urejati v nasprotju z ustavo, s prisilnimi predpisi ali z moralnimi načeli.",
+        "prevod_sr": "Učesnici ne smeju uređivati obligacione odnose suprotno ustavu, prinudnim propisima ili moralnim načelima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 3. člen."
+      },
+      {
+        "besedilo_sl": "Udeleženci lahko uredijo svoje obligacijsko razmerje drugače, kot je določeno v zakoniku, če iz posamezne določbe ali iz njenega smisla ne izhaja kaj drugega.",
+        "prevod_sr": "Učesnici mogu urediti svoj obligacioni odnos drugačije nego što je određeno u zakoniku, ako iz pojedine odredbe ili iz njenog smisla ne proizlazi nešto drugo.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 2. člen (dispozitivna priroda zakonskih odredaba)."
+      },
+      {
+        "besedilo_sl": "Drugačen dogovor udeležencev velja le, če ga odobri sodišče.",
+        "prevod_sr": "Drugačiji sporazum učesnika važi samo ako ga odobri sud.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: OZ, 2. i 3. člen ne traže odobrenje suda; učesnici slobodno uređuju odnose u granicama ustava, prinudnih propisa i morala."
+      },
+      {
+        "besedilo_sl": "Udeleženci lahko z dogovorom izključijo tudi uporabo prisilnih predpisov.",
+        "prevod_sr": "Učesnici mogu sporazumom isključiti i primenu prinudnih propisa.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obligacioni odnosi se ne smeju uređivati suprotno prinudnim propisima (OZ, 3. člen)."
+      },
+      {
+        "besedilo_sl": "Od določb zakonika udeleženci v nobenem primeru ne smejo odstopiti.",
+        "prevod_sr": "Od odredaba zakonika učesnici ni u kom slučaju ne smeju odstupiti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odredbe OZ su po pravilu dispozitivne – učesnici mogu drugačije urediti odnos (OZ, 2. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "dispozitivna določba",
+      "prisilni predpis",
+      "obligacijsko razmerje",
+      "moralna načela"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 2. člen; 3. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-023",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Pravni subjekti – fizična oseba",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za pravno in poslovno sposobnost fizične osebe?",
+    "prevod_sr": "Šta važi za pravnu i poslovnu sposobnost fizičkog lica?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Popolno poslovno sposobnost pridobi s polnoletnostjo, to je z dopolnjenimi 18 leti.",
+        "prevod_sr": "Potpunu poslovnu sposobnost stiče punoletstvom, tj. sa navršenih 18 godina.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno prema zapiscima (povzetki_1_del, str. 6); danas to uređuje Družinski zakonik, koji nije među našim izvorima."
+      },
+      {
+        "besedilo_sl": "Poslovno sposobnost pridobi z rojstvom.",
+        "prevod_sr": "Poslovnu sposobnost stiče rođenjem.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rođenjem se stiče pravna sposobnost; poslovna se stiče punoletstvom (povzetki_1_del, str. 6)."
+      },
+      {
+        "besedilo_sl": "Pravno sposobnost pridobi z rojstvom in jo izgubi s smrtjo.",
+        "prevod_sr": "Pravnu sposobnost stiče rođenjem i gubi je smrću.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno prema zapiscima (povzetki_1_del, str. 6): fizičko lice je čovek od rođenja do smrti; pravnu sposobnost stiče rođenjem, gubi smrću."
+      },
+      {
+        "besedilo_sl": "Pravno sposobnost pridobi šele s polnoletnostjo.",
+        "prevod_sr": "Pravnu sposobnost stiče tek punoletstvom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: punoletstvom se stiče potpuna poslovna, a ne pravna sposobnost; pravna se stiče rođenjem (povzetki_1_del, str. 6)."
+      },
+      {
+        "besedilo_sl": "Poslovna sposobnost pomeni sposobnost biti nosilec pravic in obveznosti.",
+        "prevod_sr": "Poslovna sposobnost znači sposobnost biti nosilac prava i obaveza.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je definicija pravne sposobnosti; poslovna sposobnost znači da lice sopstvenim izjavama volje preuzima prava i obaveze (povzetki_1_del, str. 6)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "fizična oseba",
+      "pravna sposobnost",
+      "poslovna sposobnost",
+      "polnoletnost"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: povzetki_1_del, str. 6; snov_1_kolokvij, str. 5",
+      "zakon_clen": "ni člena v razpoložljivih zakonih – ključ po zapiskih (danes Družinski zakonik, ki ni med viri)",
+      "url": "izvori/pdf/tutorji_epf/ (lokalni zapiski, ni zakonskega URL)"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": false,
+    "opomba_preverjanja": "Ključ se ne može potvrditi tekstom zakona iz izvori/zakoni: sticanje pravne sposobnosti rođenjem i potpune poslovne sposobnosti punoletstvom (18 godina) uređuju Družinski zakonik i opšta teorija, kojih nema među izvorima; OZ (41. člen) samo pretpostavlja poslovnu sposobnost, ne definiše je. Oslonac su isključivo studentski zapisi. Napomena: po DZ se potpuna poslovna sposobnost može steći i pre 18. godine (sklapanje braka, roditeljstvo po odluci suda), pa je odgovor o 18 godina tačan samo kao opšte pravilo."
+  },
+  {
+    "id": "T1-024",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Pravni subjekti – pravna oseba",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po ZGD-1 za pravno osebnost gospodarskih družb?",
+    "prevod_sr": "Šta prema ZGD-1 važi za pravni subjektivitet privrednih društava?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Vse družbe so pravne osebe.",
+        "prevod_sr": "Sva društva su pravna lica.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 4. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Lastnost pravne osebe pridobijo z vpisom v register.",
+        "prevod_sr": "Svojstvo pravnog lica stiču upisom u registar.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 5. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pravne osebe so samo kapitalske družbe, osebne družbe pa ne.",
+        "prevod_sr": "Pravna lica su samo društva kapitala, a društva lica nisu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sva društva su pravna lica (ZGD-1, 4. člen, 1. odst.), dakle i d.n.o. i k.d. (3. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Kot pravne osebe lahko tožijo ali so tožene.",
+        "prevod_sr": "Kao pravna lica mogu tužiti ili biti tužena.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 4. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Lastnost pravne osebe pridobijo s sklenitvijo družbene pogodbe.",
+        "prevod_sr": "Svojstvo pravnog lica stiču zaključenjem društvenog ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: svojstvo pravnog lica stiče se upisom u registar; pre upisa se na odnose među družbenicima primenjuju pravila o građanskopravnom ugovoru o ortakluku (ZGD-1, 5. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pravna oseba",
+      "gospodarska družba",
+      "vpis v register",
+      "pravna osebnost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 3. člen, 3. odst.; 4. člen; 5. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-025",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Pravni subjekti – pravna oseba",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj zavod po Zakonu o zavodih pridobi pravno sposobnost?",
+    "prevod_sr": "Kada ustanova (zavod) prema Zakonu o zavodima stiče pravnu sposobnost?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Z objavo akta o ustanovitvi v Uradnem listu Republike Slovenije.",
+        "prevod_sr": "Objavom akta o osnivanju u Službenom listu Republike Slovenije.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ZZ, 12. člen vezuje sticanje pravne sposobnosti za upis u sudski registar, ne za objavu u službenom listu."
+      },
+      {
+        "besedilo_sl": "S sprejetjem akta o ustanovitvi.",
+        "prevod_sr": "Donošenjem akta o osnivanju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odlučan je upis akta o osnivanju u sudski registar (ZZ, 12. člen)."
+      },
+      {
+        "besedilo_sl": "Z začetkom opravljanja dejavnosti.",
+        "prevod_sr": "Početkom obavljanja delatnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ZZ, 12. člen – pravna sposobnost se stiče upisom akta o osnivanju u sudski registar."
+      },
+      {
+        "besedilo_sl": "Z imenovanjem direktorja.",
+        "prevod_sr": "Imenovanjem direktora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravna sposobnost stiče se upisom u sudski registar (ZZ, 12. člen)."
+      },
+      {
+        "besedilo_sl": "Z vpisom akta o ustanovitvi v sodni register.",
+        "prevod_sr": "Upisom akta o osnivanju u sudski registar.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZZ, 12. člen. Slično zadruga upisom akta o osnivanju u registar stiče pravnu i poslovnu sposobnost (ZZad, 7. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zavod",
+      "akt o ustanovitvi",
+      "sodni register",
+      "pravna sposobnost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZZ, 12. člen; ZZad, 7. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO10 ; https://pisrs.si/pregledPredpisa?id=ZAKO217"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-026",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Poslovna sposobnost in sklepanje pogodb",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Oseba z omejeno poslovno sposobnostjo sklene brez dovoljenja zakonitega zastopnika pogodbo, ki je po zakonu ne sme sklepati sama. Kaj velja po Obligacijskem zakoniku?",
+    "prevod_sr": "Lice sa ograničenom poslovnom sposobnošću zaključi bez dozvole zakonskog zastupnika ugovor koji po zakonu ne sme samo da zaključuje. Šta važi prema Obligacionom zakoniku?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če se zakoniti zastopnik na poziv sopogodbenika v tridesetih dneh ne izreče, da pogodbo odobrava, se šteje, da je odobritev zavrnil.",
+        "prevod_sr": "Ako se zakonski zastupnik na poziv saugovarača u roku od trideset dana ne izjasni da odobrava ugovor, smatra se da je odobrenje odbio.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 43. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Pogodba je nična in je zakoniti zastopnik ne more odobriti.",
+        "prevod_sr": "Ugovor je ništav i zakonski zastupnik ga ne može odobriti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: takav ugovor je rušljiv („izpodbojen“), ne ništav, i može ostati na snazi uz naknadno odobrenje (OZ, 41. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodba je izpodbojna.",
+        "prevod_sr": "Ugovor je rušljiv.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 41. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Če se zakoniti zastopnik na poziv sopogodbenika v tridesetih dneh ne izreče, se šteje, da je pogodbo odobril.",
+        "prevod_sr": "Ako se zakonski zastupnik na poziv saugovarača u roku od trideset dana ne izjasni, smatra se da je ugovor odobrio.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ćutanje znači da je odobrenje odbijeno (OZ, 43. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodba lahko ostane v veljavi, če jo zakoniti zastopnik pozneje odobri.",
+        "prevod_sr": "Ugovor može ostati na snazi ako ga zakonski zastupnik naknadno odobri.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 41. člen, 3. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "omejena poslovna sposobnost",
+      "zakoniti zastopnik",
+      "izpodbojna pogodba",
+      "odobritev"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 41. člen; 43. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-027",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Deliktna sposobnost",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o odgovornosti mladoletnika za škodo po Obligacijskem zakoniku NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o odgovornosti maloletnika za štetu prema Obligacionom zakoniku NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Mladoletnik od dopolnjenega sedmega do dopolnjenega štirinajstega leta vedno odgovarja za škodo.",
+        "prevod_sr": "Maloletnik od navršene sedme do navršene četrnaeste godine uvek odgovara za štetu.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: u tom uzrastu ne odgovara, osim ako se dokaže da je bio sposoban za rasuđivanje (OZ, 137. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Mladoletnik začne odgovarjati po splošnih pravilih o odgovornosti za škodo šele s polnoletnostjo.",
+        "prevod_sr": "Maloletnik počinje da odgovara po opštim pravilima o odgovornosti za štetu tek punoletstvom.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: po opštim pravilima odgovara već sa navršenih četrnaest godina (OZ, 137. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Mladoletnik z dopolnjenimi štirinajstimi leti odgovarja po splošnih pravilih o odgovornosti za škodo.",
+        "prevod_sr": "Maloletnik sa navršenih četrnaest godina odgovara po opštim pravilima o odgovornosti za štetu.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (OZ, 137. člen, 3. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Mladoletnik do dopolnjenega sedmega leta ne odgovarja za škodo, ki jo povzroči.",
+        "prevod_sr": "Maloletnik do navršene sedme godine ne odgovara za štetu koju prouzrokuje.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (OZ, 137. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Mladoletnik od dopolnjenega sedmega do dopolnjenega štirinajstega leta ne odgovarja za škodo, razen če se dokaže, da je bil pri povzročitvi škode zmožen razsojati.",
+        "prevod_sr": "Maloletnik od navršene sedme do navršene četrnaeste godine ne odgovara za štetu, osim ako se dokaže da je pri prouzrokovanju štete bio sposoban za rasuđivanje.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (OZ, 137. člen, 2. odst.), pa se ne označava."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "mladoletnik",
+      "odgovornost za škodo",
+      "zmožnost razsojanja"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "OZ, 137. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-028",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Vrste sodišč",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katera sodišča so po 97. in 98. členu Zakona o sodiščih sodišča s splošno pristojnostjo?",
+    "prevod_sr": "Koji sudovi su prema članovima 97. i 98. Zakona o sudovima sudovi opšte nadležnosti?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Okrožna sodišča.",
+        "prevod_sr": "Okružni sudovi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZS, 98. člen, 1. odst., 2. tačka."
+      },
+      {
+        "besedilo_sl": "Ustavno sodišče.",
+        "prevod_sr": "Ustavni sud.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: Ustavni sud nije naveden u 98. členu ZS; odredbe prvog dela ZS ne važe za Ustavni sud (ZS, 1. člen, 2. odst.), uređuje ga URS, 160.–167. člen."
+      },
+      {
+        "besedilo_sl": "Vrhovno sodišče Republike Slovenije.",
+        "prevod_sr": "Vrhovni sud Republike Slovenije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZS, 98. člen, 1. odst., 4. tačka."
+      },
+      {
+        "besedilo_sl": "Višja sodišča.",
+        "prevod_sr": "Viši sudovi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZS, 98. člen, 1. odst., 3. tačka."
+      },
+      {
+        "besedilo_sl": "Okrajna sodišča.",
+        "prevod_sr": "Okrajni sudovi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZS, 98. člen, 1. odst., 1. tačka (u vezi sa 97. členom, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "sodišča s splošno pristojnostjo",
+      "okrajno sodišče",
+      "okrožno sodišče",
+      "višje sodišče",
+      "Vrhovno sodišče"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZS, 1. člen, 2. odst.; 97. člen, 1. odst.; 98. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO332"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-029",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Stvarna pristojnost okrajnih in okrožnih sodišč",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "V katerih sporih so po Zakonu o pravdnem postopku za sojenje pristojna okrajna sodišča?",
+    "prevod_sr": "U kojim sporovima su prema Zakonu o parničnom postupku za suđenje nadležni okrajni sudovi?",
+    "odgovori": [
+      {
+        "besedilo_sl": "V sporih o premoženjskopravnih zahtevkih, če vrednost spornega predmeta ne presega 20.000 eurov.",
+        "prevod_sr": "U sporovima o imovinskopravnim zahtevima, ako vrednost predmeta spora ne prelazi 20.000 evra.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZPP, 30. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "V gospodarskih sporih, če vrednost spornega predmeta ne presega 20.000 eurov.",
+        "prevod_sr": "U privrednim sporovima, ako vrednost predmeta spora ne prelazi 20.000 evra.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u privrednim sporovima su bez obzira na vrednost nadležni okružni sudovi (ZPP, 32. člen, 2. odst., 7. tačka)."
+      },
+      {
+        "besedilo_sl": "V sporih iz najemnih in zakupnih razmerij, ne glede na vrednost spornega predmeta.",
+        "prevod_sr": "U sporovima iz odnosa najma i zakupa, bez obzira na vrednost predmeta spora.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZPP, 30. člen, 2. odst., 3. tačka."
+      },
+      {
+        "besedilo_sl": "V sporih zaradi motenja posesti, ne glede na vrednost spornega predmeta.",
+        "prevod_sr": "U sporovima zbog smetanja poseda, bez obzira na vrednost predmeta spora.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZPP, 30. člen, 2. odst., 1. tačka."
+      },
+      {
+        "besedilo_sl": "V sporih iz avtorske pravice.",
+        "prevod_sr": "U sporovima iz autorskog prava.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u sporovima iz autorskog prava nadležni su okružni sudovi bez obzira na vrednost (ZPP, 32. člen, 2. odst., 6. tačka)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "stvarna pristojnost",
+      "vrednost spornega predmeta",
+      "motenje posesti",
+      "premoženjskopravni zahtevek"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZPP, 30. člen; 32. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1212"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-030",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Stvarna pristojnost okrajnih in okrožnih sodišč",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Okrožna sodišča so po Zakonu o pravdnem postopku ne glede na vrednost spornega predmeta pristojna za sojenje v vseh navedenih sporih, RAZEN:",
+    "prevod_sr": "Okružni sudovi su prema Zakonu o parničnom postupku bez obzira na vrednost predmeta spora nadležni za suđenje u svim navedenim sporovima, OSIM:",
+    "odgovori": [
+      {
+        "besedilo_sl": "v sporih zaradi motenja posesti.",
+        "prevod_sr": "u sporovima zbog smetanja poseda.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: za smetanje poseda su bez obzira na vrednost nadležni okrajni sudovi (ZPP, 30. člen, 2. odst., 1. tačka)."
+      },
+      {
+        "besedilo_sl": "v sporih o zakonitem preživljanju.",
+        "prevod_sr": "u sporovima o zakonskom izdržavanju.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: to je nadležnost okružnih sudova (ZPP, 32. člen, 2. odst., 3. tačka)."
+      },
+      {
+        "besedilo_sl": "v gospodarskih sporih.",
+        "prevod_sr": "u privrednim sporovima.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: privredni sporovi jesu u nadležnosti okružnih sudova bez obzira na vrednost (ZPP, 32. člen, 2. odst., 7. tačka)."
+      },
+      {
+        "besedilo_sl": "v sporih, ki nastanejo v zvezi s stečajnim postopkom.",
+        "prevod_sr": "u sporovima koji nastanu u vezi sa stečajnim postupkom.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: to je nadležnost okružnih sudova (ZPP, 32. člen, 2. odst., 8. tačka)."
+      },
+      {
+        "besedilo_sl": "v sporih o služnostih in realnih bremenih.",
+        "prevod_sr": "u sporovima o službenostima i realnim teretima.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: za te sporove su bez obzira na vrednost nadležni okrajni sudovi (ZPP, 30. člen, 2. odst., 2. tačka)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "okrožno sodišče",
+      "gospodarski spor",
+      "služnost",
+      "stečajni postopek"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZPP, 30. člen, 2. odst.; 32. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1212"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-031",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Gospodarski spori",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Družba A d.o.o. toži družbo B d.d. na plačilo 8.000 eurov kupnine iz prodajne pogodbe. Kaj velja po Zakonu o pravdnem postopku?",
+    "prevod_sr": "Društvo A d.o.o. tuži društvo B d.d. radi isplate 8.000 evra kupoprodajne cene iz ugovora o prodaji. Šta važi prema Zakonu o parničnom postupku?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Za sojenje na prvi stopnji je pristojno okrajno sodišče, ker vrednost spornega predmeta ne presega 20.000 eurov.",
+        "prevod_sr": "Za suđenje u prvom stepenu nadležan je okrajni sud jer vrednost predmeta spora ne prelazi 20.000 evra.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: vrednosna granica od 20.000 evra (ZPP, 30. člen) ne važi za privredne sporove – tu je uvek nadležan okružni sud (32. člen, 2. odst., 7. tačka)."
+      },
+      {
+        "besedilo_sl": "Spor se obravnava kot spor majhne vrednosti.",
+        "prevod_sr": "Spor se vodi kao spor male vrednosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u privrednim sporovima spor male vrednosti je onaj gde novčano potraživanje ne prelazi 4.000 evra (ZPP, 495. člen, 1. odst.); 8.000 je iznad toga."
+      },
+      {
+        "besedilo_sl": "Na prvi stopnji sodi višje sodišče.",
+        "prevod_sr": "U prvom stepenu sudi viši sud.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: viši sudovi odlučuju o žalbama protiv odluka okrajnih i okružnih sudova (ZPP, 35. člen), ne u prvom stepenu."
+      },
+      {
+        "besedilo_sl": "Za sojenje na prvi stopnji je pristojno okrožno sodišče.",
+        "prevod_sr": "Za suđenje u prvom stepenu nadležan je okružni sud.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: spor između dva privredna društva je privredni spor (ZPP, 481. člen, 1. odst., 1. tačka), a u privrednim sporovima su bez obzira na vrednost nadležni okružni sudovi (32. člen, 2. odst., 7. tačka)."
+      },
+      {
+        "besedilo_sl": "Uporabijo se pravila o postopku v gospodarskih sporih.",
+        "prevod_sr": "Primenjuju se pravila o postupku u privrednim sporovima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: svaka od stranaka je privredno društvo (ZPP, 481. člen, 1. odst., 1. tačka)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "gospodarski spor",
+      "okrožno sodišče",
+      "spor majhne vrednosti",
+      "gospodarska družba"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZPP, 30. člen; 32. člen, 2. odst., 7. tč.; 35. člen; 481. člen, 1. odst.; 495. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1212"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-032",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Stvarna pristojnost okrajnih in okrožnih sodišč",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Fizična oseba A toži fizično osebo B na vračilo posojila v znesku 25.000 eurov. Katero sodišče je po Zakonu o pravdnem postopku stvarno pristojno za sojenje na prvi stopnji?",
+    "prevod_sr": "Fizičko lice A tuži fizičko lice B radi vraćanja zajma u iznosu od 25.000 evra. Koji sud je prema Zakonu o parničnom postupku stvarno nadležan za suđenje u prvom stepenu?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Okrožno sodišče.",
+        "prevod_sr": "Okružni sud.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: okružni sudovi su nadležni za imovinskopravne zahteve ako vrednost predmeta spora prelazi 20.000 evra (ZPP, 32. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Višje sodišče.",
+        "prevod_sr": "Viši sud.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: viši sudovi odlučuju o žalbama (ZPP, 35. člen), ne u prvom stepenu."
+      },
+      {
+        "besedilo_sl": "Vrhovno sodišče.",
+        "prevod_sr": "Vrhovni sud.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: Vrhovni sud u parnici odlučuje o žalbama protiv odluka viših sudova, o reviziji i zahtevu za zaštitu zakonitosti (ZPP, 37. člen)."
+      },
+      {
+        "besedilo_sl": "Okrajno sodišče.",
+        "prevod_sr": "Okrajni sud.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: okrajni sud je nadležan samo ako vrednost ne prelazi 20.000 evra (ZPP, 30. člen, 1. odst.); ovde je 25.000."
+      },
+      {
+        "besedilo_sl": "Okrajno sodišče, ker okrožna sodišča sodijo samo v gospodarskih sporih.",
+        "prevod_sr": "Okrajni sud, jer okružni sudovi sude samo u privrednim sporovima.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: okružni sudovi sude i u svim imovinskopravnim sporovima čija vrednost prelazi 20.000 evra (ZPP, 32. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "stvarna pristojnost",
+      "vrednost spornega predmeta",
+      "okrožno sodišče"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZPP, 30. člen, 1. odst.; 32. člen, 1. odst.; 35. člen; 37. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1212"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-033",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Gospodarski spori",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "V katerih od navedenih sporov veljajo po Zakonu o pravdnem postopku pravila o postopku v gospodarskih sporih?",
+    "prevod_sr": "U kojim od navedenih sporova prema Zakonu o parničnom postupku važe pravila o postupku u privrednim sporovima?",
+    "odgovori": [
+      {
+        "besedilo_sl": "V sporu med dvema samostojnima podjetnikoma posameznikoma, ki izvira iz njune pridobitne dejavnosti.",
+        "prevod_sr": "U sporu između dva samostalna preduzetnika koji proizlazi iz njihove privredne (dobitne) delatnosti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZPP, 481. člen, 1. odst., 2. tačka."
+      },
+      {
+        "besedilo_sl": "V sporu med dvema gospodarskima družbama zaradi motenja posesti.",
+        "prevod_sr": "U sporu između dva privredna društva zbog smetanja poseda.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravila privrednih sporova ne primenjuju se u sporovima zbog smetanja poseda (ZPP, 481. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "V sporu med delniško družbo in zadrugo iz pogodbe o dobavi blaga.",
+        "prevod_sr": "U sporu između akcionarskog društva i zadruge iz ugovora o isporuci robe.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: svaka od stranaka je privredno društvo, ustanova, zadruga, država ili samoupravna lokalna zajednica (ZPP, 481. člen, 1. odst., 1. tačka)."
+      },
+      {
+        "besedilo_sl": "V sporu med družbenikom in družbo, za katerega je treba uporabiti pravo gospodarskih družb.",
+        "prevod_sr": "U sporu između člana društva i društva na koji treba primeniti pravo privrednih društava.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZPP, 482. člen, 1. odst., 1. tačka."
+      },
+      {
+        "besedilo_sl": "V sporu med dvema družbama z omejeno odgovornostjo o lastninski pravici na nepremičnini.",
+        "prevod_sr": "U sporu između dva društva sa ograničenom odgovornošću o pravu svojine na nepokretnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravila privrednih sporova ne primenjuju se u sporovima o stvarnim pravima na nepokretnostima i pokretnim stvarima (ZPP, 481. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "gospodarski spor",
+      "samostojni podjetnik posameznik",
+      "zadruga",
+      "stvarne pravice"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZPP, 481. člen; 482. člen, 1. odst., 1. tč.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1212"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-034",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Spori majhne vrednosti",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere trditve o sporih majhne vrednosti po Zakonu o pravdnem postopku so pravilne?",
+    "prevod_sr": "Koje tvrdnje o sporovima male vrednosti prema Zakonu o parničnom postupku su tačne?",
+    "odgovori": [
+      {
+        "besedilo_sl": "V postopku v gospodarskih sporih je meja za spor majhne vrednosti 2.000 eurov.",
+        "prevod_sr": "U postupku u privrednim sporovima granica za spor male vrednosti je 2.000 evra.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u privrednim sporovima granica je 4.000 evra (ZPP, 495. člen); 2.000 važi u opštem postupku (443. člen)."
+      },
+      {
+        "besedilo_sl": "V postopku v gospodarskih sporih je to spor, v katerem se tožbeni zahtevek nanaša na denarno terjatev, ki ne presega 4.000 eurov.",
+        "prevod_sr": "U postupku u privrednim sporovima to je spor u kome se tužbeni zahtev odnosi na novčano potraživanje koje ne prelazi 4.000 evra.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZPP, 495. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "V splošnem pravdnem postopku je to spor, v katerem se tožbeni zahtevek nanaša na denarno terjatev, ki ne presega 2.000 eurov.",
+        "prevod_sr": "U opštem parničnom postupku to je spor u kome se tužbeni zahtev odnosi na novčano potraživanje koje ne prelazi 2.000 evra.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZPP, 443. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "V splošnem pravdnem postopku je meja za spor majhne vrednosti 20.000 eurov.",
+        "prevod_sr": "U opštem parničnom postupku granica za spor male vrednosti je 20.000 evra.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: 20.000 evra je granica stvarne nadležnosti između okrajnih i okružnih sudova (ZPP, 30. i 32. člen); spor male vrednosti je do 2.000 evra (443. člen)."
+      },
+      {
+        "besedilo_sl": "V sporih majhne vrednosti je revizija vedno dovoljena.",
+        "prevod_sr": "U sporovima male vrednosti revizija je uvek dozvoljena.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u sporovima male vrednosti nema revizije (ZPP, 458. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "spor majhne vrednosti",
+      "denarna terjatev",
+      "revizija"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZPP, 443. člen, 1. odst.; 458. člen; 495. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1212"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-035",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Višja sodišča in Vrhovno sodišče",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Za kaj so po Zakonu o sodiščih pristojna višja sodišča?",
+    "prevod_sr": "Za šta su prema Zakonu o sudovima nadležni viši sudovi?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Za odločanje o skladnosti zakonov z ustavo.",
+        "prevod_sr": "Za odlučivanje o usklađenosti zakona sa ustavom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je nadležnost Ustavnog suda (URS, 160. člen)."
+      },
+      {
+        "besedilo_sl": "Za odločanje o izrednih pravnih sredstvih zoper odločbe sodišč.",
+        "prevod_sr": "Za odlučivanje o vanrednim pravnim lekovima protiv odluka sudova.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je nadležnost Vrhovnog suda (ZS, 106. člen, 1. odst., 4. tačka)."
+      },
+      {
+        "besedilo_sl": "Za sojenje oziroma odločanje na drugi stopnji o pritožbah zoper odločbe okrajnih in okrožnih sodišč s svojega območja.",
+        "prevod_sr": "Za suđenje odnosno odlučivanje u drugom stepenu o žalbama protiv odluka okrajnih i okružnih sudova sa svog područja.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZS, 104. člen, 1. tačka; isto ZPP, 35. člen."
+      },
+      {
+        "besedilo_sl": "Za sojenje na prvi stopnji v gospodarskih sporih.",
+        "prevod_sr": "Za suđenje u prvom stepenu u privrednim sporovima.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u privrednim sporovima u prvom stepenu sude okružni sudovi (ZPP, 32. člen, 2. odst., 7. tačka)."
+      },
+      {
+        "besedilo_sl": "Za vodenje sodnega registra.",
+        "prevod_sr": "Za vođenje sudskog registra.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sudski registar vode okružni sudovi (ZS, 101. člen, III. tačka)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "višje sodišče",
+      "pritožba",
+      "druga stopnja"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZS, 101. člen; 104. člen; 106. člen; ZPP, 32. in 35. člen; URS, 160. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO332 ; https://pisrs.si/pregledPredpisa?id=ZAKO1212 ; https://pisrs.si/pregledPredpisa?id=USTA1"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-036",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Višja sodišča in Vrhovno sodišče",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za Vrhovno sodišče Republike Slovenije?",
+    "prevod_sr": "Šta važi za Vrhovni sud Republike Slovenije?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Odloča o ustavnih pritožbah zaradi kršitev človekovih pravic.",
+        "prevod_sr": "Odlučuje o ustavnim žalbama zbog povreda ljudskih prava.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: o ustavnim žalbama odlučuje Ustavni sud (URS, 160. člen, 1. odst., 6. alineja)."
+      },
+      {
+        "besedilo_sl": "Njegova občna seja sprejema načelna pravna mnenja o vprašanjih, ki so pomembna za enotno uporabo zakonov.",
+        "prevod_sr": "Njegova opšta sednica donosi načelna pravna mišljenja o pitanjima važnim za jedinstvenu primenu zakona.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZS, 110. člen, 1. odst., 1. tačka."
+      },
+      {
+        "besedilo_sl": "Odloča o izrednih pravnih sredstvih zoper odločbe sodišč, razen kadar je za to pristojno drugo sodišče.",
+        "prevod_sr": "Odlučuje o vanrednim pravnim lekovima protiv odluka sudova, osim kada je za to nadležan drugi sud.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZS, 106. člen, 1. odst., 4. tačka."
+      },
+      {
+        "besedilo_sl": "Skrbi za enotno sodno prakso.",
+        "prevod_sr": "Stara se o jedinstvenoj sudskoj praksi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZS, 109. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Je najvišje sodišče v državi.",
+        "prevod_sr": "Najviši je sud u državi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: URS, 127. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "Vrhovno sodišče",
+      "izredna pravna sredstva",
+      "enotna sodna praksa",
+      "občna seja"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "URS, 127. člen; 160. člen; ZS, 106. člen; 109. člen; 110. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=USTA1 ; https://pisrs.si/pregledPredpisa?id=ZAKO332"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-037",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Vrste sodišč",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kdo po Zakonu o sodiščih vodi postopek in sodi oziroma odloča pri okrajnem sodišču?",
+    "prevod_sr": "Ko prema Zakonu o sudovima vodi postupak i sudi odnosno odlučuje u okrajnom sudu?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Senat petih sodnikov.",
+        "prevod_sr": "Veće od pet sudija.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u veću od pet sudija odlučuje Vrhovni sud kada zakon tako određuje (ZS, 107. člen); u okrajnom sudu sudi sudija pojedinac (100. člen)."
+      },
+      {
+        "besedilo_sl": "Občna seja sodišča.",
+        "prevod_sr": "Opšta sednica suda.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: opšta sednica je telo Vrhovnog suda koje donosi načelna pravna mišljenja (ZS, 110. člen)."
+      },
+      {
+        "besedilo_sl": "Senat, ki ga sestavljajo sodnik kot predsednik senata in dva sodnika porotnika.",
+        "prevod_sr": "Veće koje čine sudija kao predsednik veća i dvoje sudija porotnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: takvo veće sudi u okružnom sudu kada zakon određuje da sudi veće (ZS, 102. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Senat treh sodnikov.",
+        "prevod_sr": "Veće od troje sudija.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u veću od troje sudija po pravilu odlučuje viši sud (ZS, 105. člen; ZPP, 36. člen); u okrajnom sudu sudi sudija pojedinac (ZS, 100. člen)."
+      },
+      {
+        "besedilo_sl": "Sodnik posameznik.",
+        "prevod_sr": "Sudija pojedinac.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZS, 100. člen."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "okrajno sodišče",
+      "sodnik posameznik",
+      "senat",
+      "sodnik porotnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZS, 100. člen; 102. člen; 105. člen; 107. člen; 110. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO332"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-038",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Arbitraža",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja po Zakonu o arbitraži za arbitražni sporazum?",
+    "prevod_sr": "Šta prema Zakonu o arbitraži važi za arbitražni sporazum?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Sklenjen mora biti pisno.",
+        "prevod_sr": "Mora biti zaključen u pisanom obliku.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZArbit, 10. člen, 2. odst. (pisanim se smatra i razmena pisama, telefaksa, elektronske pošte i sl.)."
+      },
+      {
+        "besedilo_sl": "Lahko je v obliki arbitražne klavzule v pogodbi ali v obliki samostojnega sporazuma.",
+        "prevod_sr": "Može biti u obliku arbitražne klauzule u ugovoru ili u obliku samostalnog sporazuma.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZArbit, 10. člen, 1. odst., druga rečenica."
+      },
+      {
+        "besedilo_sl": "Je sporazum strank, da predložijo arbitraži v reševanje spore, ki so med njimi že nastali ali ki utegnejo nastati v zvezi z določenim pravnim razmerjem.",
+        "prevod_sr": "To je sporazum stranaka da arbitraži poveravaju na rešavanje sporove koji su među njima već nastali ili koji mogu nastati u vezi sa određenim pravnim odnosom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZArbit, 10. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Nanaša se lahko samo na spore iz pogodbenih pravnih razmerij.",
+        "prevod_sr": "Može se odnositi samo na sporove iz ugovornih pravnih odnosa.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odnosi se na sporove iz ugovornog ili vanugovornog pravnog odnosa (ZArbit, 10. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Veljaven je le, če je sklenjen v obliki notarskega zapisa.",
+        "prevod_sr": "Punovažan je samo ako je zaključen u obliku notarskog zapisa.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: traži se pisani oblik, ne notarski zapis (ZArbit, 10. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "arbitražni sporazum",
+      "arbitražna klavzula",
+      "pisna oblika",
+      "arbitraža"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZArbit, 10. člen, 1. in 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5288"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-039",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Arbitraža",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj je lahko po Zakonu o arbitraži predmet arbitražnega sporazuma (arbitrabilnost)?",
+    "prevod_sr": "Šta prema Zakonu o arbitraži može biti predmet arbitražnog sporazuma (arbitrabilnost)?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Samo premoženjskopravni zahtevki, katerih vrednost ne presega 20.000 eurov.",
+        "prevod_sr": "Samo imovinskopravni zahtevi čija vrednost ne prelazi 20.000 evra.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ZArbit, 4. člen ne postavlja vrednosnu granicu; 20.000 evra je granica stvarne nadležnosti sudova (ZPP, 30. člen)."
+      },
+      {
+        "besedilo_sl": "Samo nepremoženjski zahtevki.",
+        "prevod_sr": "Samo neimovinski zahtevi.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pre svega svaki imovinskopravni zahtev (ZArbit, 4. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Vsak zahtevek, tudi tak, glede katerega se stranke ne morejo poravnati.",
+        "prevod_sr": "Svaki zahtev, pa i onaj o kome se stranke ne mogu poravnati.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: neimovinski zahtevi mogu biti predmet arbitraže samo ako se stranke o njima mogu poravnati (ZArbit, 4. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Vsak premoženjskopravni zahtevek, drugi zahtevki pa samo, če se stranke glede zahtevka lahko poravnajo.",
+        "prevod_sr": "Svaki imovinskopravni zahtev, a drugi zahtevi samo ako se stranke o zahtevu mogu poravnati.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZArbit, 4. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Samo zahtevki iz gospodarskih pogodb med gospodarskimi družbami.",
+        "prevod_sr": "Samo zahtevi iz privrednih ugovora između privrednih društava.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: predmet može biti svaki imovinskopravni zahtev, a arbitražni sporazum može zaključiti svako fizičko ili pravno lice (ZArbit, 4. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "arbitrabilnost",
+      "premoženjskopravni zahtevek",
+      "poravnava"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZArbit, 4. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5288"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-040",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Arbitraža",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o arbitražni odločbi po Zakonu o arbitraži NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o arbitražnoj odluci prema Zakonu o arbitraži NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Arbitražna odločba ima med strankami učinek pravnomočne sodbe.",
+        "prevod_sr": "Arbitražna odluka ima među strankama dejstvo pravosnažne presude.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (ZArbit, 38. člen), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Domača arbitražna odločba se lahko izvrši, ko jo sodišče razglasi za izvršljivo.",
+        "prevod_sr": "Domaća arbitražna odluka može se izvršiti kada je sud proglasi izvršnom.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (ZArbit, 41. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Stranke se lahko pravici do tožbe za razveljavitev arbitražne odločbe vnaprej odpovejo.",
+        "prevod_sr": "Stranke se mogu unapred odreći prava na tužbu za poništaj arbitražne odluke.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: stranke se tog prava ne mogu unapred odreći (ZArbit, 40. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Zoper arbitražno odločbo je dovoljena pritožba na višje sodišče.",
+        "prevod_sr": "Protiv arbitražne odluke dozvoljena je žalba višem sudu.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: arbitražna odluka se pred sudom može pobijati samo tužbom za poništaj („razveljavitev“) (ZArbit, 40. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Tožba za razveljavitev arbitražne odločbe se lahko vloži v 30 dneh od dneva, ko je stranka prejela odločbo.",
+        "prevod_sr": "Tužba za poništaj arbitražne odluke može se podneti u roku od 30 dana od dana kada je stranka primila odluku.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: rok je tri meseca od dana prijema arbitražne odluke (ZArbit, 40. člen, 3. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "arbitražna odločba",
+      "pravnomočna sodba",
+      "tožba za razveljavitev",
+      "izvršljivost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZArbit, 38. člen; 40. člen, 1. in 3. odst.; 41. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5288"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-041",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Arbitraža",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Stranki sta v pogodbi veljavno dogovorili arbitražno klavzulo, ki jo je mogoče izpolniti. Kljub temu ena stranka vloži tožbo pri sodišču, tožena stranka pa v odgovoru na tožbo ugovarja, da je za spor dogovorjena arbitraža. Kako ravna sodišče po Zakonu o arbitraži?",
+    "prevod_sr": "Stranke su u ugovoru punovažno ugovorile arbitražnu klauzulu koju je moguće ispuniti. Uprkos tome jedna stranka podnese tužbu sudu, a tužena stranka u odgovoru na tužbu prigovori da je za spor ugovorena arbitraža. Kako postupa sud prema Zakonu o arbitraži?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Za nepristojno se izreče po uradni dolžnosti, tudi če tožena stranka ne ugovarja.",
+        "prevod_sr": "Oglašava se nenadležnim po službenoj dužnosti, čak i ako tužena stranka ne prigovori.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sud se oglašava nenadležnim na prigovor tužene stranke (ZArbit, 11. člen, 1. odst.), ne po službenoj dužnosti."
+      },
+      {
+        "besedilo_sl": "Postopek prekine do izdaje arbitražne odločbe.",
+        "prevod_sr": "Prekida postupak do donošenja arbitražne odluke.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon predviđa odbacivanje tužbe, ne prekid postupka (ZArbit, 11. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Tožbeni zahtevek zavrne kot neutemeljen.",
+        "prevod_sr": "Odbija tužbeni zahtev kao neosnovan.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sud ne odlučuje o osnovanosti, već odbacuje („zavrže“) tužbu (ZArbit, 11. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Nadaljuje postopek, ker arbitražni sporazum ne more izključiti pristojnosti sodišča.",
+        "prevod_sr": "Nastavlja postupak jer arbitražni sporazum ne može isključiti nadležnost suda.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: kod punovažnog arbitražnog sporazuma sud se na prigovor oglašava nenadležnim (ZArbit, 11. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Na ugovor tožene stranke se izreče za nepristojno, razveljavi v postopku opravljena dejanja in zavrže tožbo.",
+        "prevod_sr": "Na prigovor tužene stranke oglašava se nenadležnim, ukida radnje sprovedene u postupku i odbacuje tužbu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZArbit, 11. člen, 1. odst.; prigovor se može dati najkasnije u odgovoru na tužbu (2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "arbitražna klavzula",
+      "ugovor tožene stranke",
+      "zavrženje tožbe",
+      "nepristojnost sodišča"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZArbit, 11. člen, 1. in 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5288"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-042",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Arbitraža",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o arbitražnem postopku po Zakonu o arbitraži NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o arbitražnom postupku prema Zakonu o arbitraži NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če stranke ne določijo števila arbitrov, odloča arbiter posameznik.",
+        "prevod_sr": "Ako stranke ne odrede broj arbitara, odlučuje arbitar pojedinac.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: ako stranke ne odrede broj, arbitara je troje (ZArbit, 13. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Arbitražna klavzula, vsebovana v pogodbi, šteje za neodvisen del te pogodbe.",
+        "prevod_sr": "Arbitražna klauzula sadržana u ugovoru smatra se nezavisnim delom tog ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (ZArbit, 19. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Arbitražni senat mora arbitražno odločbo vedno sprejeti soglasno.",
+        "prevod_sr": "Arbitražno veće mora arbitražnu odluku uvek doneti jednoglasno.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: odluka se donosi većinom glasova članova veća, ako se stranke nisu drugačije sporazumele (ZArbit, 33. člen)."
+      },
+      {
+        "besedilo_sl": "Število arbitrov določijo stranke.",
+        "prevod_sr": "Broj arbitara određuju stranke.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (ZArbit, 13. člen, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Arbitražni senat lahko vedno odloči po pravičnosti (ex aequo et bono).",
+        "prevod_sr": "Arbitražno veće može uvek odlučiti po pravičnosti (ex aequo et bono).",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: po pravičnosti može odlučiti samo na osnovu izričitog ovlašćenja stranaka (ZArbit, 32. člen, 3. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "arbitražni senat",
+      "arbiter",
+      "odločanje po pravičnosti",
+      "arbitražna klavzula"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZArbit, 13. člen; 19. člen, 1. odst.; 32. člen, 3. odst.; 33. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5288"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-043",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Mediacija",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za mediacijo po Zakonu o mediaciji v civilnih in gospodarskih zadevah?",
+    "prevod_sr": "Šta važi za medijaciju prema Zakonu o medijaciji u građanskim i privrednim stvarima?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Mediator o sporu izda odločbo, ki stranki zavezuje.",
+        "prevod_sr": "Medijator o sporu donosi odluku koja obavezuje stranke.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: medijator ne odlučuje; može davati predloge, koji stranke ne obavezuju (ZMCGZ, 8. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Rešitev, ki jo predlaga mediator, strank ne zavezuje.",
+        "prevod_sr": "Rešenje koje predloži medijator ne obavezuje stranke.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZMCGZ, 8. člen, 4. odst."
+      },
+      {
+        "besedilo_sl": "Mediator je lahko samo sodnik ali odvetnik.",
+        "prevod_sr": "Medijator može biti samo sudija ili advokat.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: medijator je svako treće lice zamoljeno da vodi medijaciju, bez obzira na zvanje ili zanimanje (ZMCGZ, 3. člen, 1. odst., tačka b)."
+      },
+      {
+        "besedilo_sl": "V postopku lahko vedno sodeluje samo en mediator.",
+        "prevod_sr": "U postupku uvek može učestvovati samo jedan medijator.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u postupku može učestvovati jedan ili više medijatora (ZMCGZ, 3. člen, 1. odst., tačka b)."
+      },
+      {
+        "besedilo_sl": "Je postopek, v katerem stranke prostovoljno s pomočjo nevtralne tretje osebe (mediatorja) skušajo doseči mirno rešitev spora.",
+        "prevod_sr": "To je postupak u kome stranke dobrovoljno, uz pomoć neutralnog trećeg lica (medijatora), nastoje da postignu mirno rešenje spora.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZMCGZ, 3. člen, 1. odst., tačka a)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "mediacija",
+      "mediator",
+      "mirna rešitev spora",
+      "prostovoljnost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZMCGZ, 3. člen, 1. odst.; 8. člen, 4. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5289"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-044",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Mediacija",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o zaupnosti v mediaciji po Zakonu o mediaciji v civilnih in gospodarskih zadevah NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o poverljivosti u medijaciji prema Zakonu o medijaciji u građanskim i privrednim stvarima NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Dokaz, ki je sicer dopusten v sodnem postopku, postane nedopusten že zato, ker je bil uporabljen v mediaciji.",
+        "prevod_sr": "Dokaz koji je inače dopušten u sudskom postupku postaje nedopušten već zato što je korišćen u medijaciji.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: inače dopušteni dokazi ne postaju nedopušteni samo zato što su korišćeni u medijaciji (ZMCGZ, 12. člen, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Vsi podatki, ki izvirajo iz mediacije ali so z njo povezani, so zaupni, razen če so se stranke sporazumele drugače.",
+        "prevod_sr": "Svi podaci koji potiču iz medijacije ili su sa njom povezani poverljivi su, osim ako su se stranke drugačije sporazumele.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (ZMCGZ, 11. člen), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Mediator sme podatke, ki mu jih je stranka razkrila pod izrecnim pogojem, da ostanejo zaupni, razkriti drugi stranki.",
+        "prevod_sr": "Medijator sme podatke koje mu je stranka otkrila pod izričitim uslovom da ostanu poverljivi otkriti drugoj stranci.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: takve podatke medijator ne sme otkriti drugim strankama (ZMCGZ, 10. člen)."
+      },
+      {
+        "besedilo_sl": "Podatki se smejo razkriti, če je to potrebno za izpolnitev ali prisilno izvršitev sporazuma o rešitvi spora.",
+        "prevod_sr": "Podaci se smeju otkriti ako je to potrebno za ispunjenje ili prinudno izvršenje sporazuma o rešenju spora.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (ZMCGZ, 11. člen), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Stranka se sme v poznejši pravdi kot na dokaz sklicevati na priznanje dejstev, ki ga je nasprotna stranka dala med mediacijo.",
+        "prevod_sr": "Stranka se u kasnijoj parnici sme kao na dokaz pozvati na priznanje činjenica koje je suprotna stranka dala tokom medijacije.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: na izjave ili priznanja činjenica data tokom medijacije stranke se ne smeju pozivati niti ih predlagati kao dokaz (ZMCGZ, 12. člen, 1. odst., tačka c)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zaupnost",
+      "mediacija",
+      "dopustnost dokazov",
+      "sporazum o rešitvi spora"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZMCGZ, 10. člen; 11. člen; 12. člen, 1. in 5. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5289"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-045",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Mediacija",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kako mediacija po Zakonu o mediaciji v civilnih in gospodarskih zadevah vpliva na zastaranje zahtevka, ki je predmet mediacije?",
+    "prevod_sr": "Kako medijacija prema Zakonu o medijaciji u građanskim i privrednim stvarima utiče na zastarelost zahteva koji je predmet medijacije?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zastaranje ne teče le, če mediacijo vodi sodnik.",
+        "prevod_sr": "Zastarelost ne teče samo ako medijaciju vodi sudija.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ZMCGZ, 17. člen ne postavlja takav uslov; zastarelost ne teče tokom svake medijacije o tom zahtevu."
+      },
+      {
+        "besedilo_sl": "Zastaranje med trajanjem mediacije ne teče.",
+        "prevod_sr": "Zastarelost tokom trajanja medijacije ne teče.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZMCGZ, 17. člen, 1. odst. (zastoj zastarelosti)."
+      },
+      {
+        "besedilo_sl": "Mediacija na tek zastaranja nima vpliva.",
+        "prevod_sr": "Medijacija nema uticaja na tok zastarelosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: tokom medijacije zastarelost ne teče (ZMCGZ, 17. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Zastaranje se z začetkom mediacije pretrga in po njenem koncu začne teči znova.",
+        "prevod_sr": "Zastarelost se početkom medijacije prekida i po njenom okončanju počinje da teče iznova.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zastarelost ne teče (zastoj), a posle neuspele medijacije se nastavlja; vreme proteklo pre početka medijacije uračunava se u rok (ZMCGZ, 17. člen, 1. i 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Če se mediacija konča brez sporazuma, se čas, ki je pretekel pred začetkom mediacije, ne všteje v zastaralni rok.",
+        "prevod_sr": "Ako se medijacija okonča bez sporazuma, vreme proteklo pre početka medijacije ne uračunava se u rok zastarelosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: vreme proteklo pre početka medijacije uračunava se u zakonski rok zastarelosti (ZMCGZ, 17. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zastaranje",
+      "mediacija",
+      "zastaralni rok"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZMCGZ, 17. člen, 1. in 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5289"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-046",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Mediacija",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "V mediaciji med dvema strankama ena stranka pisno izjavi drugi stranki in mediatorju, da je postopek zaključen. Kaj velja po Zakonu o mediaciji v civilnih in gospodarskih zadevah?",
+    "prevod_sr": "U medijaciji između dve stranke jedna stranka pismeno izjavi drugoj stranci i medijatoru da je postupak završen. Šta važi prema Zakonu o medijaciji u građanskim i privrednim stvarima?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Izjava nima učinka, ker morata stranki v mediaciji vztrajati do sklenitve sporazuma.",
+        "prevod_sr": "Izjava nema dejstvo jer stranke moraju istrajati u medijaciji do zaključenja sporazuma.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: medijacija je dobrovoljna (ZMCGZ, 3. člen, 1. odst., tačka a; 4. člen, 2. odst.) i okončava se izjavom stranke (13. člen, tačka e)."
+      },
+      {
+        "besedilo_sl": "Mediacija se nadaljuje, dokler se z zaključkom ne strinja tudi druga stranka.",
+        "prevod_sr": "Medijacija se nastavlja dok se sa završetkom ne saglasi i druga stranka.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dovoljna je pisana izjava jedne stranke drugim strankama i medijatoru (ZMCGZ, 13. člen, tačka e)."
+      },
+      {
+        "besedilo_sl": "Mediacija se konča z dnem te izjave.",
+        "prevod_sr": "Medijacija se okončava danom te izjave.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZMCGZ, 13. člen, tačka e)."
+      },
+      {
+        "besedilo_sl": "Mediacija se konča šele, ko mediator izda sklep o ustavitvi postopka.",
+        "prevod_sr": "Medijacija se okončava tek kada medijator donese rešenje o obustavi postupka.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ZMCGZ, 13. člen ne predviđa rešenje medijatora; medijacija se okončava danom izjave stranke."
+      },
+      {
+        "besedilo_sl": "Mediacija se konča po izteku 30 dni od te izjave.",
+        "prevod_sr": "Medijacija se okončava po isteku 30 dana od te izjave.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: okončava se danom izjave (ZMCGZ, 13. člen, tačka e); rok od 30 dana odnosi se na nesporazum o imenovanju medijatora (tačka b)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "konec mediacije",
+      "pisna izjava",
+      "prostovoljno sodelovanje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZMCGZ, 3. člen; 4. člen, 2. odst.; 13. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO5289"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-047",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Pravni akti Evropske unije",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katere akte sprejemajo institucije Unije za izvajanje pristojnosti Unije po 288. členu PDEU?",
+    "prevod_sr": "Koje akte donose institucije Unije radi vršenja nadležnosti Unije prema članu 288. UFEU?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Ustavne zakone.",
+        "prevod_sr": "Ustavne zakone.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: PDEU, člen 288 navodi uredbe, direktive, odluke, preporuke i mišljenja; ustavni zakon je akt slovenačkog prava."
+      },
+      {
+        "besedilo_sl": "Direktive.",
+        "prevod_sr": "Direktive.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PDEU, člen 288, 1. odst."
+      },
+      {
+        "besedilo_sl": "Uredbe.",
+        "prevod_sr": "Uredbe.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PDEU, člen 288, 1. odst."
+      },
+      {
+        "besedilo_sl": "Priporočila in mnenja.",
+        "prevod_sr": "Preporuke i mišljenja.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PDEU, člen 288, 1. odst.; preporuke i mišljenja nisu obavezujući (5. odst.)."
+      },
+      {
+        "besedilo_sl": "Sklepe.",
+        "prevod_sr": "Odluke.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PDEU, člen 288, 1. odst. („sklep“ = odluka)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "uredba",
+      "direktiva",
+      "sklep",
+      "priporočilo",
+      "mnenje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "PDEU, člen 288",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016E/TXT"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-048",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Pravni akti Evropske unije",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za uredbo po 288. členu PDEU?",
+    "prevod_sr": "Šta važi za uredbu prema članu 288. UFEU?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Splošno se uporablja in je zavezujoča v celoti.",
+        "prevod_sr": "Ima opštu primenu i obavezujuća je u celini.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PDEU, člen 288, 2. odst."
+      },
+      {
+        "besedilo_sl": "Zavezujoča je samo za tiste, na katere je naslovljena.",
+        "prevod_sr": "Obavezujuća je samo za one kojima je upućena.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to važi za odluku („sklep“) koja određuje adresate (PDEU, člen 288, 4. odst.); uredba ima opštu primenu."
+      },
+      {
+        "besedilo_sl": "Zavezujoča je le glede cilja, izbiro oblike in metod pa prepušča nacionalnim organom.",
+        "prevod_sr": "Obavezujuća je samo u pogledu cilja, a izbor oblika i metoda prepušta nacionalnim organima.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je opis direktive (PDEU, člen 288, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Ni zavezujoča.",
+        "prevod_sr": "Nije obavezujuća.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: neobavezujući su preporuke i mišljenja (PDEU, člen 288, 5. odst.); uredba je obavezujuća u celini."
+      },
+      {
+        "besedilo_sl": "Neposredno se uporablja v vseh državah članicah.",
+        "prevod_sr": "Neposredno se primenjuje u svim državama članicama.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PDEU, člen 288, 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "uredba",
+      "neposredna uporaba",
+      "država članica",
+      "zavezujoč"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "PDEU, člen 288, 2.–5. odst.",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016E/TXT"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-049",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Pravni akti Evropske unije",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za direktivo po 288. členu PDEU?",
+    "prevod_sr": "Šta važi za direktivu prema članu 288. UFEU?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Nacionalnim organom prepušča izbiro oblike in metod.",
+        "prevod_sr": "Nacionalnim organima prepušta izbor oblika i metoda.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PDEU, člen 288, 3. odst."
+      },
+      {
+        "besedilo_sl": "Ni zavezujoča, državam članicam le priporoča določeno ravnanje.",
+        "prevod_sr": "Nije obavezujuća, državama članicama samo preporučuje određeno postupanje.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: direktiva je obavezujuća u pogledu cilja (PDEU, člen 288, 3. odst.); neobavezujuće su preporuke i mišljenja (5. odst.)."
+      },
+      {
+        "besedilo_sl": "Državam članicam natančno predpiše tudi obliko in metode za dosego cilja.",
+        "prevod_sr": "Državama članicama tačno propisuje i oblik i metode za postizanje cilja.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: izbor oblika i metoda prepušten je nacionalnim organima (PDEU, člen 288, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Za vsako državo članico, na katero je naslovljena, je zavezujoča glede cilja, ki ga je treba doseči.",
+        "prevod_sr": "Za svaku državu članicu kojoj je upućena obavezujuća je u pogledu cilja koji treba postići.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PDEU, člen 288, 3. odst."
+      },
+      {
+        "besedilo_sl": "Zavezujoča je v celoti in se neposredno uporablja v vseh državah članicah.",
+        "prevod_sr": "Obavezujuća je u celini i neposredno se primenjuje u svim državama članicama.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je opis uredbe (PDEU, člen 288, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "direktiva",
+      "cilj",
+      "oblika in metode",
+      "nacionalni organi"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "PDEU, člen 288, 2., 3. in 5. odst.",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016E/TXT"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-050",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Pravni akti Evropske unije",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kateri od navedenih aktov Unije po 288. členu PDEU NISO zavezujoči?",
+    "prevod_sr": "Koji od navedenih akata Unije prema članu 288. UFEU NISU obavezujući?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Direktive.",
+        "prevod_sr": "Direktive.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: direktiva je obavezujuća u pogledu cilja (PDEU, člen 288, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Priporočila.",
+        "prevod_sr": "Preporuke.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: preporuke nisu obavezujuće (PDEU, člen 288, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Sklepi.",
+        "prevod_sr": "Odluke.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: odluka („sklep“) je u celini obavezujuća (PDEU, člen 288, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Mnenja.",
+        "prevod_sr": "Mišljenja.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se: mišljenja nisu obavezujuća (PDEU, člen 288, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Uredbe.",
+        "prevod_sr": "Uredbe.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označava se: uredba je obavezujuća u celini (PDEU, člen 288, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "priporočilo",
+      "mnenje",
+      "zavezujoč akt"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "PDEU, člen 288",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016E/TXT"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-051",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Pravni akti Evropske unije",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Evropski parlament in Svet želita sprejeti pravilo, ki bo v celoti zavezujoče in se bo neposredno uporabljalo v vseh državah članicah. Kateri akt iz 288. člena PDEU ustreza temu opisu?",
+    "prevod_sr": "Evropski parlament i Savet žele da donesu pravilo koje će biti u celini obavezujuće i neposredno se primenjivati u svim državama članicama. Koji akt iz člana 288. UFEU odgovara tom opisu?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Priporočilo.",
+        "prevod_sr": "Preporuka.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: preporuka nije obavezujuća (PDEU, člen 288, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Direktiva.",
+        "prevod_sr": "Direktiva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: direktiva obavezuje samo u pogledu cilja, a oblik i metode prepušta nacionalnim organima (PDEU, člen 288, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Mnenje.",
+        "prevod_sr": "Mišljenje.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: mišljenje nije obavezujuće (PDEU, člen 288, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Sklep, naslovljen na eno državo članico.",
+        "prevod_sr": "Odluka upućena jednoj državi članici.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odluka koja određuje adresate obavezuje samo njih (PDEU, člen 288, 4. odst.), ne sve države članice."
+      },
+      {
+        "besedilo_sl": "Uredba.",
+        "prevod_sr": "Uredba.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: uredba ima opštu primenu, obavezujuća je u celini i neposredno se primenjuje u svim državama članicama (PDEU, člen 288, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "uredba",
+      "neposredna uporaba",
+      "sklep",
+      "direktiva"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "PDEU, člen 288",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016E/TXT"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-052",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Institucije Evropske unije",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katere od navedenih so po 13. členu PEU institucije Unije?",
+    "prevod_sr": "Koje od navedenih su prema članu 13. UEU institucije Unije?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Evropska centralna banka.",
+        "prevod_sr": "Evropska centralna banka.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PEU, člen 13, 1. odst."
+      },
+      {
+        "besedilo_sl": "Evropski svet.",
+        "prevod_sr": "Evropski savet.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PEU, člen 13, 1. odst. (Evropski svet ≠ Svet)."
+      },
+      {
+        "besedilo_sl": "Sodišče Evropske unije.",
+        "prevod_sr": "Sud Evropske unije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PEU, člen 13, 1. odst."
+      },
+      {
+        "besedilo_sl": "Odbor regij.",
+        "prevod_sr": "Komitet regiona.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: Komitet regiona (kao i Ekonomsko-socijalni komitet) samo pomaže Parlamentu, Savetu i Komisiji i ima savetodavnu funkciju (PEU, člen 13, 4. odst.); nije na listi institucija."
+      },
+      {
+        "besedilo_sl": "Evropski parlament.",
+        "prevod_sr": "Evropski parlament.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PEU, člen 13, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "institucije Unije",
+      "Evropski parlament",
+      "Evropski svet",
+      "Sodišče Evropske unije",
+      "Odbor regij"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "PEU, člen 13, 1. in 4. odst.",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016M/TXT"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-053",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Načela delitve pristojnosti v EU",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere trditve o pristojnostih Unije so po 5. členu PEU pravilne?",
+    "prevod_sr": "Koje tvrdnje o nadležnostima Unije su prema članu 5. UEU tačne?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Za razmejitev pristojnosti Unije velja načelo prenosa pristojnosti.",
+        "prevod_sr": "Za razgraničenje nadležnosti Unije važi načelo prenosa (dodeljivanja) nadležnosti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PEU, člen 5, 1. odst."
+      },
+      {
+        "besedilo_sl": "Načelo subsidiarnosti velja na področjih, ki so v izključni pristojnosti Unije.",
+        "prevod_sr": "Načelo supsidijarnosti važi u oblastima koje su u isključivoj nadležnosti Unije.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: supsidijarnost važi u oblastima koje nisu u isključivoj nadležnosti Unije (PEU, člen 5, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Unija lahko deluje na vseh področjih, razen če ji Pogodbi to izrecno prepovedujeta.",
+        "prevod_sr": "Unija može delovati u svim oblastima, osim ako joj Ugovori to izričito zabranjuju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obrnuto – Unija deluje samo u granicama nadležnosti koje su joj Ugovorima prenele države članice (PEU, člen 5, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Za izvajanje pristojnosti Unije veljata načeli subsidiarnosti in sorazmernosti.",
+        "prevod_sr": "Za vršenje nadležnosti Unije važe načela supsidijarnosti i srazmernosti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PEU, člen 5, 1. odst."
+      },
+      {
+        "besedilo_sl": "Države članice ohranijo vse pristojnosti, ki niso s Pogodbama dodeljene Uniji.",
+        "prevod_sr": "Države članice zadržavaju sve nadležnosti koje Ugovorima nisu dodeljene Uniji.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PEU, člen 5, 2. odst.; isto člen 4, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "načelo prenosa pristojnosti",
+      "načelo subsidiarnosti",
+      "načelo sorazmernosti",
+      "izključna pristojnost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "PEU, člen 4, 1. odst.; člen 5",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016M/TXT"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-054",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Institucije Evropske unije",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o institucijah Unije po PEU NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o institucijama Unije prema UEU NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Evropski svet sestavljajo ministri držav članic.",
+        "prevod_sr": "Evropski savet čine ministri država članica.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: Evropski savet čine šefovi država ili vlada država članica, njegov predsednik i predsednik Komisije (PEU, člen 15, 2. odst.); ministri čine Savet (člen 16, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Svet sestavlja po en predstavnik vsake države članice na ministrski ravni.",
+        "prevod_sr": "Savet čini po jedan predstavnik svake države članice na ministarskom nivou.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (PEU, člen 16, 2. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Mandat Komisije je štiri leta.",
+        "prevod_sr": "Mandat Komisije je četiri godine.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: mandat Komisije je pet godina (PEU, člen 17, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Evropski parlament skupaj s Svetom opravlja zakonodajno in proračunsko funkcijo.",
+        "prevod_sr": "Evropski parlament zajedno sa Savetom vrši zakonodavnu i budžetsku funkciju.",
+        "pravilno": false,
+        "razlaga_sr": "Ova tvrdnja je tačna (PEU, člen 14, 1. odst.; člen 16, 1. odst.), pa se ne označava."
+      },
+      {
+        "besedilo_sl": "Evropski svet opravlja zakonodajno funkcijo.",
+        "prevod_sr": "Evropski savet vrši zakonodavnu funkciju.",
+        "pravilno": true,
+        "razlaga_sr": "Označava se jer je netačna: Evropski savet ne vrši zakonodavnu funkciju (PEU, člen 15, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "Evropski svet",
+      "Svet",
+      "Komisija",
+      "zakonodajna funkcija"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "PEU, člen 14, 1. odst.; člen 15, 1. in 2. odst.; člen 16, 1. in 2. odst.; člen 17, 3. odst.",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016M/TXT"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T1-055",
+    "tema": "1 Temeljni pravni pojmi in pravni sistem",
+    "podtema": "Sodišče Evropske unije – predhodno odločanje",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Slovensko sodišče v pravdi dvomi, kako je treba razlagati določbo uredbe Unije, od katere je odvisna njegova odločitev. Kaj velja po 267. členu PDEU?",
+    "prevod_sr": "Slovenački sud u parnici ima dilemu kako treba tumačiti odredbu uredbe Unije od koje zavisi njegova odluka. Šta važi prema članu 267. UFEU?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Vprašanje lahko predloži v predhodno odločanje Sodišču.",
+        "prevod_sr": "Može uputiti pitanje Sudu radi odlučivanja o prethodnom pitanju.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: sud države članice može uputiti pitanje ako smatra da je odluka o njemu potrebna da bi mogao presuditi (PDEU, člen 267, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Vprašanje razlage uredbe mora predložiti ustavnemu sodišču Republike Slovenije.",
+        "prevod_sr": "Pitanje tumačenja uredbe mora uputiti Ustavnom sudu Republike Slovenije.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: za prethodno odlučivanje o tumačenju akata institucija Unije nadležan je Sud Evropske unije (PDEU, člen 267, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Sodišče Evropske unije je pristojno le za razlago Pogodb, ne pa tudi aktov institucij Unije.",
+        "prevod_sr": "Sud Evropske unije nadležan je samo za tumačenje Ugovora, ali ne i akata institucija Unije.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nadležan je i za valjanost i tumačenje akata institucija, organa, kancelarija ili agencija Unije (PDEU, člen 267, 1. odst., tačka b)."
+      },
+      {
+        "besedilo_sl": "Vprašanje lahko Sodišču v predhodno odločanje neposredno predložita stranki sami.",
+        "prevod_sr": "Pitanje mogu Sudu radi prethodnog odlučivanja neposredno uputiti same stranke.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pitanje upućuje sud države članice (PDEU, člen 267, 2. odst.; PEU, člen 19, 3. odst., tačka b)."
+      },
+      {
+        "besedilo_sl": "Če zoper njegovo odločitev po nacionalnem pravu ni pravnega sredstva, je zadevo dolžno predložiti Sodišču.",
+        "prevod_sr": "Ako protiv njegove odluke po nacionalnom pravu nema pravnog leka, dužan je da predmet uputi Sudu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: PDEU, člen 267, 3. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "predhodno odločanje",
+      "Sodišče Evropske unije",
+      "razlaga prava Unije",
+      "nacionalno sodišče"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "PDEU, člen 267; PEU, člen 19, 3. odst.",
+      "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016E/TXT ; https://eur-lex.europa.eu/legal-content/SL/TXT/HTML/?uri=CELEX:12016M/TXT"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  }
+]

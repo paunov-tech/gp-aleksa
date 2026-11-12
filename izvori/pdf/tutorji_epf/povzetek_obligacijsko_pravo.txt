@@ -1,0 +1,1453 @@
+ZNAČILNOSTI OBLIGACIJSKIH RAZMERIJ
+RAZMERJE MED UPNIKOM IN DOLŽNIKOM
+ Obligacijsko razmerje je razmerje med določenimi osebami – strankami obligacijskega
+razmerja, od katerih ima ena stranka položaj upnika, druga pa položaj dolžnika. Vsebina
+obligacijskega razmerja so torej pravice in obveznosti strank: upnik ima pravico zahtevati
+(terjati) izpolnitev, dolžnik pa ima obveznost opraviti (dati) izpolnitev. Predmet dolžnikove
+obveznosti je določena dajatev, storitev,opustitev ali dopustitev.
+RELATIVNO RAZMERJE
+Obligacijsko razmerje je relativno razmerje, kar pomeni, da razmerje učinkuje samo med
+strankama, med upnikom in dolžnikom, ne pa zunaj tega razmerja.
+Obligacijska pravica je zato relativna pravica, v primerjavi s stvarno pravico, ki je
+absolutna, ker učinkuje proti vsem
+Lastnik stvari ima absolutno pravico in je upravičen svojo stvar uporabljati, uživati in z njo
+razpolagati. Lastnik je v pravnem razmerju do vseh drugih oseb. Vse druge osebe se morajo
+vzdržati dejanj, s katerimi bi kršile lastnikova upravičenja.
+PRAVNO VAROVANO RAZMERJE
+Obligacijsko razmerje je pravno razmerje, ki je pravno varovano, saj upnik lahko uveljavi
+svojo pravico pri sodišču, če dolžnik prostovoljno ne izpolni obveznosti. Upnik mora svojo
+pravico v določenem roku uveljaviti, sicer mu ta zastara.
+VIRI OBLIGACIJSKEGA PRAVA
+Najpomembnejši formalni pravni viri obveznostnega prava so zakoni, pa tudi podzakonski
+predpisi, kot npr. uredbe, odloki, pravilniki itd.
+OBLIGACIJSKI ZAKONIK (OZ) je najpomembnejši formalni pravni vir. Razdeljen na dva
+vsebinska dela:
+  -splošni del (temeljna načela in splošna pravila za obligacijska razmerja, o nastanku,
+učinkih, vrstah in prenehanju obveznosti, spremembi upnika in dolžnika itd.);
+  -posebni del (pogodbena in druga obligacijska razmerja na področju prometa blaga in
+storitev, predvsem pravila o posameznih pogodbah in pravnih poslih).
+UZANCE IN POSLOVNI OBIČAJI so poleg zakonov in podzakonskih predpisov pravni vir za
+urejanje določenih obligacijskih razmerij, če so izpolnjeni pogoji za njihovo uporabo
+Po OZ se uzance in poslovni običaji uporabljajo tudi brez dogovora, a le
+med gospodarskimi subjekti in le za presojo potrebnih ravnanj in njihovih učinkov.
+1. ZAKAJ SO POMEMBNA TEMELJNA NAČELA OBLIGACIJSKEGA PRAVA IN KATERA
+POZNATE?
+-Služijo kot okvir pogodbene svobode, kot usmeritve za razlago nejasnih zakonskih določb,
+kot usmeritev za razlago nejasnih pogodbenih določb. Uporabljajo se posredno preko
+ostalih določb, uporabljajo pa jih pogodbene stranke, 3. osebe(imajo interes vendar niso
+stranke) in osebe ki odločajo o sporu.
+TEMELJNA NAČELA:
+       Dispozitivna narava zakonskih določb
+       prosto urejanje obligacijskih razmerij
+       enakopravnost udeležencev v obligacijskih razmerjih(pravna enakopravnost)
+       načelo vestnosti in poštenja (v skladu z dobrimi poslovnimi običaji)
+       skrbnost (kot v lastnih stvareh; dobrega gospodarja; dobrega gospodarstvenika;
+dobrega strokovnjaka)
+       prepoved zlorabe pravic
+       načelo enake vrednosti dajatev
+
+                                                                                             1
+        dolžnost izpolnitve obveznosti
+        prepoved povzročanja škode
+        mirno reševanje sporov
+POJASNITE VSEBINO TEMELJNEGA NAČELA AVTONOMIJE POGODBENIH STRANK!
+Udeleženci v pravnem prometu prosto urejajo obligacijska razmerja. Ne morejo jih urejati v
+nasprotju:
+(1) z ustavo,
+(2) s prisilnim predpisi,
+(3) z moralnimi načeli.
+Prosto urejanje v teh okvirih pomeni, da subjekti obligacijskih razmerij:
+● sami odločajo, ali bodo sploh sklenili obligacijsko razmerje;
+● si sami izberejo sopogodbenika;
+● sami določijo vsebino obligacijskega razmerja (o.r.).
+Omejitve načela avtonomije volje strank:
+(1) pogodbe, ki jih je po zakonu treba nujno skleniti – pravni sistem sili udeležence v
+sklepanje določenih o.r. tudi proti njihovi volji (npr. avtomobilsko zavarovanje);
+(2) pogodbe, ki jih je po zakonu treba skleniti z določenim udeležencem – npr. predkupna
+pravica;
+(3) ničnost pogodb, če:
+1)        je predmet obveznosti nemogoč, nedopusten, nedoločen ali nedoločljiv;
+2)        pogodba nima kavze (podlage) ali je kavza nedopustna;
+3)        je razvezni ali odložni pogoj v nasprotju z ustavnimi načeli, prisilnimi predpisi ali
+moralo.
+(4) zakonsko obvezne sestavine pogodb – posamezne pogodbe morajo vsebovati sestavine,
+ki jih določa zakon;
+(5) obvezna oblika pogodbe – zakon za posamezne pogodbe določa, da morajo biti
+sklenjene v določeni obliki: pisno ali v obliki notarskega zapisa;
+(6) omejitve v korist ostalih načel obligacijskega prava.
+Posledica kršitve načela avtonomije volje strank je NIČNOST pogodbe.
+Načelo dispozitivnosti, pravilo in primer pomeni, da OZ udeležencem obveznostnih
+razmerij dopušča, da svoje razmerje uredijo tudi drugače, kot je določeno v zakonu, če iz
+posamezne določbe OZ ali iz njenega smisla ne izhaja kaj drugega.
+ Razlikujemo dve vrsti pravnih norm:
+  -dispozitivne ali neprisilne (ius dispositivum) ter
+  -kogentne ali prisilne (ius strictum, ius cogens)
+Določbe OZ so praviloma dispozitivne narave, obstaja pa nekaj razmeroma redkih
+kogentnih določb. Razmerij, ki so urejena s prisilnimi normami, udeleženci ne morejo
+urediti drugače, kot določa zakon.
+Načelo enakopravnosti, pravilo in primer, da so vsi udeleženci v obveznostnih razmerjih
+enakopravni, naj zagotavlja pravno enakost strank in pomeni naj noben udeleženec
+obligacijskih razmerij nima močnejšega pravnega položaja.
+Načelo enake vrednosti dajatev, pravilo in primer velja le pri odplačnih pogodbah velja
+načelo, da je vrednost dajatve enega udeleženca enaka plačilu, ki ga da drugi udeleženec;
+enakovrednost dajatev se presoja običajno po njihovi uporabni vrednosti oz. tržni
+vrednosti.
+Ne smemo je razumeti kot matematično enakovrednost, temveč tako, da med vrednostjo
+obeh dajatev ni očitnega nesorazmerja; zato moramo načelo enake vrednosti dajatev
+
+                                                                                              2
+ugotavljati v smislu načela poštenega prometa in šteti, da manjša odstopanja v vrednosti
+obeh dajatev ne pomenijo kršitve tega načela. Pač pa pomeni kršitev tega načela:
+  -oderuška pogodba (119. č. OZ) in
+  -čezmerno prikrajšanje (118. č. OZ).
+Vrste obligacijskih razmerij po več kriterijih Obveznosti oziroma obveznostna razmerja je
+mogoče razvrstiti po njihovi pravni naravi, po vsebini, po pravnem temelju, po času
+trajanja itd.:
+  GLEDE NA NJIHOV NASTANEK
+• poslovne (npr. pogodbene) in
+• neposlovne (npr. odškodninske) obveznosti;
+  PO NAČINU RAVNANJA
+• pozitivne (če je obveznost v dajatvi ali storitvi) in
+• negativne (če je obveznost v dopustitvi ali opustitvi);
+  PO PREDMETU OBVEZNOSTI
+• alternativne obveznosti - v obveznosti sta dva ali več predmetov, tako da ima dolžnik
+pravico izbirati, katero stvar oziroma predmet bo dal (če da eno stvar, je prost obveznosti),
+in
+• fakultativne - predmet obveznosti je le ena stvar, toda dolžniku je dopuščeno, da se
+oprosti obveznosti tudi z izročitvijo kakšne druge stvari, upnik lahko zahteva le predmet
+obveznosti, ne pa tudi drug predmet;
+  GLEDE NA (NE)DELJIVOST IZPOLNITVE
+• deljive obveznosti, pri katerih se predmet izpolnitve lahko razdeli in je zato možna
+izpolnitev v delih, ne da bi se predmetu izpolnitve zmanjšala vrednosti (npr. denarne
+obveznosti);
+• nedeljive so tiste obveznosti, pri katerih predmet izpolnitve po naravi ni deljiv (vozilo,
+žival, slika). Če je pri delitvi obveznosti več dolžnikov, se obveznost lahko med njimi razdeli
+tako, da vsak izpolni svoj del. Pri nedeljivi obveznosti lahko izpolni več dolžnikov obveznost
+samo skupno;
+• solidarne obveznosti - predmet izpolnitve je po naravi sicer deljiv, vendar je zaradi
+dogovora med strankami ali zaradi pravnih predpisov obveznost nerazdelna (solidarna),
+tako da ima upnik pravico zahtevati izpolnitev celotne obveznosti od katerega koli dolžnika
+(odgovornost več oseb za škodo);
+• trenutne obveznosti so tiste, pri katerih dolžnik izpolni obveznost z enkratno izpolnitvijo,
+medtem ko pri trajnih obveznostih izpolnjevanje traja daljši čas nepretrgoma ali v časovnih
+razmikih (postopno).
+Pravni temelji za nastanek obligacijskega razmerja, našteti in kratko opredeliti
+Pravni temelj za nastanek obligacijskih razmerij je pravno dejstvo (ravnanje subjektov
+prava ali dogodek), eno ali več hkrati, na podlagi katerega nastane obveznostno razmerje.
+Ob upoštevanju stališč OZ in stališč teorije so pravni temelji za nastanek obveznostnih
+razmerij naslednji:
+ 1. pogodbene obveznosti -pogodba kot dvostranski pravni posel je najpogostejši pravni
+temelj za nastanek obveznosti, sodijo med poslovne obveznosti;
+ 2. enostranski pravni posel, in sicer takšen, s katerimi se oseba z enostransko izjavo volje
+zavezuje za dol. ravnanje:
+-javna obljuba nagrade, javni razpis(207.č.OZ),
+-izdaja vrednostnega papirja,
+-ponudba;
+
+                                                                                              3
+(te obveznosti tudi sodijo v poslovne obveznosti);
+3. odškodninske obveznosti - nastanek oziroma povzročitev škode je pravni temelj, na
+podlagi katerega ima ena stranka – oškodovanec pravico zahtevati povrnitev škode –
+odškodnino od osebe, ki je za nastanek škode odgovorna; škodo lahko povzroči kršitev
+pogodbe, kakšno drugo ravnanje pravnih subjektov ali dogodki;
+ 4. neupravičena pridobitev; kadar nekdo brez veljavnega pravnega temelja (npr.
+pogodbe) pridobi premoženjsko korist, govorimo o neupravičeni pridobitvi; tisti, ki je
+neupravičeno pridobil korist, je zavezan osebi, ki je bila s tem prikrajšana, vrniti
+neupravičeno pridobljeno korist
+KAJ SO NEPOSLOVNE OBLIGACIJE, KAKO NASTANEJO IN KATERE SO? Obveznost je pravna
+zaveza ene stranke (dolžnik) drugi stranki (upnik), da ji nekaj da, zanjo nekaj stori oz. opusti
+ali dopusti kako dajanje (vsebina obveznosti). Upnik je upravičen zahtevati izpolnitev te
+obveznosti. Obveznost je iztožljiva, se pravi, je njeno prisilno izvršitev mogoče doseči pred
+sodiščem. Obveznost je zapadla ali zapada, ko je moč zahtevati izpolnitev po vsebini
+obligacije. Pravna teorija je nato razdelitev razdelila na obveznosti poslovne in neposlovne
+narave.
+
+      Poslovne obligacije imenujemo tiste, ki nastanejo s pravnim poslom, bodisi z
+dvostranskim pravnim poslom (pogodbo), ali pa s katerim od enostranskih pravnih poslov.
+      Neposlovne obveznosti pa so posledice nekaterih pravnih dejstev, ki jih zakon
+določa kot odločilna za izvor obveznosti. To so zlasti nedopustna in krivdna dejanja (delikti),
+nedopustna dejanja ne glede na krivdo (kvazidelikti) in neopravičene obogatitve na škodo
+druge stranke (kondikcije in verzije).
+      -odškodninske-neopravičena obogatitev-poslovodstvo brez naročila
+
+KATERE SO PREDPOSTAVKE ZA ODŠKODNINSKO ODGOVORNOST?                           NEDOPUSTNO
+ŠKODLJIVO DEJSTVO škodljivo dejstvo je bodisi ravnanje subjekta prava (oškodovalca), ki je
+lahko aktivno (storitev) ali je pasivno (opustitev), mora pa biti pravno nedopustno (v
+nasprotju s pravnimi pravili, pravili stroke ali moralo), škodni dogodek pravno dopustna so
+škodljiva ravnanja le izjemoma: v silobranu (kdor v silobranu povzroči škodo je ni dolžan
+povrniti, razen pri prekoračitvi silobrana),v stiski (če nekdo povzroči škodo v stiski, lahko
+oškodovanec zahteva odškodnino od tistega, ki je odgovoren za nastanek škodne
+nevarnosti), pri privolitvi oškodovanca (kdor v svojo škodo dovoli drugemu, da ta nekaj stori,
+ne more zahtevati od njega povračilo škode, ki mu jo je s tem povzročil, vendar pa je nična
+izjava, s katero oškodovanec privoli, da mu nekdo stori škodo z dejanjem, ki je po zakonu
+prepovedano). Škoda je izguba ali prikrajšanje pravno zavarovanih dobrin ali interesov,
+zaradi škodljivega dejstva utegne utrpeti oškodovanec premoženjsko (gmotno) navadna
+škoda (zmanjšanje premoženja) in izgubljeni dobiček (preprečitev povečanja premoženja),
+nepremoženjsko (negmotno) škodo zaradi TELESNIH BOLEČIN ,STRAHU,DUŠEVNIH BOLEČIN
+ZARADI:
+
+• zmanjšanja življenjskih aktivnosti,• skaženosti (odškodnina zaradi skaženosti igralke),•
+razžalitve dobrega imena in časti (Marjan Podobnik vs.
+Mladina),• okrnitve svobode (neutemeljeno odvzeta prostost zaradi pripora)• pravice
+osebnosti (Ranc vs. RS – poseg v pravico zasebnosti,filmska zgodba kot poseg v pravico do
+intimnosti družinskega življenja)• smrti ali posebne težke invalidnosti bližnjega (materi in
+trem hčeram vaski po 2 milijona SIT zaradi duševnih bolečin zaradi izgube moža in očeta).
+
+                                                                                               4
+  Vzročna zveza med škodljivim dejstvom in škodo mora obstajati vzročna zveza, vzročna
+zveza obstaja, kadar je škodljivo dejstvo vzrok, škoda pa posledica tega vzroka, škodljivo
+dejstvo mora biti torej pogoj, brez katerega ne bi bilo škodljive posledice, pravno
+upoštevana vzročna zveza je ožja od naravne vzročnosti (Adam in Eva), naravna vzročnost v
+pravu ne pride v poštev.
+KAJ JE KRIVDA IN ZAKAJ JE POMEMBNA?
+Krivda je subjektiven odnos storilca do dejanja
+STOPNJE KRIVDE:
+        NAKLEP-direkten (želim da se škoda zgodi)
+                  -eventualen(namenoma nekaj počneš vendar misliš da škoda ne bo storjena)
+        MALOMARNOST (nekaj počneš namenoma,a do škode ne pride ali pa se ne zavedaš
+da do škode lahko pride)
+               -huda
+               -lahka
+               -zelo lahka
+Za naklep smo odškodninsko vedno odgovorni,pri malomarnosti pa smo objektivno
+odgovorni.
+KAJ JE KRIVDNA IN KAJ OBJEKTIVNA ODGOVORNOST?
+Odgovornost
+čeprav je nastalo škodljivo dejstvo, škoda, in obstaja vzročna zveza, ne nastane
+odškodninska obveznost, če ni odškodninske odgovornosti, oseba, ki ji je mogoče pripisati
+škodljivo ravnanje oz. oseba, pri kateri (v katere delovanju, obratovanju) je nastal dogodek,
+mora biti za svoje ravnanje ali za nastali dogodek po pravnih normah odškodninsko
+odgovorna. v našem pravu temelji odškodninska odgovornost na dveh pravnih temeljih:
+  1. na krivdi oškodovalca (subjektivna odgovornost);
+  2. na vzročnosti, na povezavi med škodljivim dejstvom in določeno dejavnostjo ali stvarjo
+(objektivna odgovornost).
+Subjektivna odgovornost temelji na krivdi osebe: oseba je odgovorna, če je kriva za
+škodljivo ravnanje, oseba pri izpolnjevanju svojih dolžnosti ne ravna s skrbnostjo, ki jo
+zahteva pravni red, pravni red loči stopnje krivde:
+naklep (dolus) je najhujša stopnja krivde (dejanje je storjeno z namenom, če je storilec
+vedel za posledico, ki bo nastala iz njegovega dejanja, pa jo je kljub temu
+hotel),malomarnost je lažja oblika krivde (presoja se po skrbnosti, ki se zahteva v
+poslovnem prometu; vsak udeleženec obligacijskega razmerja mora pri izpolnjevanju svojih
+obveznosti ravnati s skrbnostjo dobrega gospodarja, tisti, ki izpolnjuje obveznosti iz poklicne
+dejavnosti, pa s skrbnostjo dobrega strokovnjaka.
+Objektivna odgovornost
+ zaradi napredka tehnike se vse pogosteje dogaja, da škoda nastane, ne da bi človek mogel
+to predvideti in preprečiti, torej za nastanek škode ni mogoče nikomur očitati krivde,če gre
+za naprave, stvari ali določeno obratovanje, iz katerih izvira nevarnost nastanka škodnih
+primerov zaradi nepredvidljivih in neprepričljivih dogodkov, bi ob vsakem takem škodnem
+dogodku oškodovanci ostali brez odškodnine, če bi bila predpisana krivdna odgovornost,
+objektivna odgovornost nalaga pravnim subjektom odgovornost za škodne dogodke, ki
+izvirajo iz njihove stvari, njihove dejavnosti oz. ki nastanejo v njihovem področju delovanja,
+ne glede na njihovo krivdo.
+KATERE OBLIKE OBJEKTIVNE ODGOVORNOSTI POZNATE?
+
+
+                                                                                              5
+Odgovornost staršev,odgovornost skrbnikov, odgovornost iz pravičnosti, odgovornost
+delodajalca, odgovornost države, odgovornost za škodo od nevarne stvari ali nevarne
+dejavnosti (vozila, proizvajalec, druge oblike)
+Objektivna odgovornost je predpisana v posebej določenih primerih: odgovornost za
+nevarne stvari in nevarno dejavnost (150.č.OZ). Imetnik nevarne stvari in tisti, ki se
+ukvarjajo z nevarno dejavnostjo, odgovarjajo za škodne primere, ki so v zvezi z nevarno
+stvarjo in nevarno dejavnostjo (nevarna dejavnost je npr. obratovanje motornega vozila).
+odgovornost staršev za otroke, stare do 7 let. Starši odgovarjajo za škodo, ki jo povzroči
+drugemu njihov otrok do dopolnjenega 7 leta, ne glede na njihovo krivdo; odgovornosti so
+prosti, če so podani razlogi za izključitev odgovornosti po pravilih za objektivno
+odgovornost.
+odgovornost prevoznika za škodo, ki nastane zaradi izgube ali poškodovanja stvari med
+prevozom, in za škodo zaradi zamude pri izročitvi (689.č.OZ),
+odgovornost delodajalca za škodo, ki jo povzroči delavec, odgovornost pravne osebe za
+škodo, ki jo povzroči njen organ; odgovornost države za škodo zaradi terorističnih dejanj.
+POJASNITE RAZLIKO MED GMOTO IN NEGMOTNO ŠKODO! KAKO SE POVRAČATA?
+Gmotna škoda je premoženjska škoda in se pri naklepu povrača subjektivno pri ostali krivdi
+pa po realni vrednosti. Pri gmotni škodi ločimo restitucijo (povrnitev škode,škoda je že
+nastala) in institucijo (povrnitev škodnega stanja,če bi do škode prišlo). Negmotna škoda pa
+so telesne in duševne bolečine. Duševne delimo na primarni strah (nezavedni strah, 1. šok)
+in sekundarni strah (zavedni strah,občutimo kasneje). Gmotna škoda je lažje dokazljiva kot
+negmotna.
+15. KAJ JE ŠKODA?
+škoda je izguba ali prikrajšanje pravno zavarovanih dobrin ali interesov, zaradi škodljivega
+dejstva utegne utrpeti oškodovanec premoženjsko (gmotno) navadna škoda (zmanjšanje
+premoženja) in izgubljeni dobiček (preprečitev povečanja premoženja), nepremoženjsko
+(negmotno) škodo zaradi TELESNIH BOLEČIN STRAHU (primarni in sekundarni, , DUŠEVNIH
+BOLEČIN ZARADI• zmanjšanja življenjskih aktivnosti,• skaženosti,• razžalitve dobrega imena
+in časti,• okrnitve svobode • pravice osebnosti • smrti ali posebne težke invalidnosti
+bližnjega;
+Ločimo : *NAVADNA ŠKODA (zmanjšanje premoženja)
+        *IZGUBLJENI DOBIČEK (preprečitev povečanja premoženja)
+        *NAGMOTNA ŠKODA (telesne in duševne –primarni in sekundarni strah- bolečine)
+16. KAJ JE POSLOVODSTVO BREZ NAROČILA? KAKŠNE PRAVICE IN OBVEZNOSTI IMA
+POSLOVODJA BREZ NAROČILA?
+O poslovodstvu brez naročila govorimo takrat, kadar se nekdo nepoklicano loti tujega posla.
+Pri tem gre lahko: za opravljanje nekega fizičnega ali pravnega posla, za opravljanje tujega
+posla v tujem ali v svojem interesu, za opravljanje posla brez naročila.
+Poslovodstvo brez naročila je temelj za nastanek obveznostnega razmerja med poslovodjo
+brez naročila in tistim, čigar posla se je lotil. Pravice in obveznosti strank so odvisne od vrste
+poslovodstva brez naročila. Po OZ so možne naslednje vrste poslovodstva brez naročila:
+a) NUJNO POSLOVODSTVO, pri katerem se je nekdo nepoklican lotil tujega posla zato, ker
+ga ni bilo mogoče odložiti, ker bi sicer nastala škoda (npr. nekdo vdre v skladišče podjetja
+zato, da bi ob poplavi pred vdorom vode zavaroval za vlago občutljive izdelke)
+• poslovodja ima v tem primeru pravico do povrnitve stroškov,ki jih je imel. Vendar bo dobil
+povrnjen največ tolikšen znesek, kolikor znaša dosežena korist;
+
+
+
+                                                                                                 6
+  b) KORISTNO POSLOVODSTVO brez naročila je takšno nepoklicano opravljanje tujih poslov,
+ki se ga je poslovodja lotil zato, ker bi bila brez tega za drugega – torej za poslovnega
+gospodarja –zamujena očitna korist (pri ugotavljanju in presoji koristi moramo upoštevati,
+kaj so terjale okoliščine, ter dejanski ali verjetni nameni in potrebe tistega, za katerega je bil
+posel opravljen in ali je poslovodja ravnal kot dober gospodar)
+  Obveznosti poslovodje brez naročila
+• o svojem ravnanju mora čim prej obvestiti gospodarja ter hkrati nadaljevati nujni ali
+koristni posel, ki se ga je lotil brez naročila, dotlej, dokler gospodar ne more
+prevzeti skrbi zanj;
+• po končanem poslu mora dati račun in
+• prepustiti gospodarju vse, kar si je z njim pridobil.
+  Pravice poslovodje brez naročila
+• zahteva, da ga gospodar oprosti vseh obveznosti, ki jih je prevzel nase zaradi posla ali v
+zvezi z njim;
+• do povrnitve vseh potrebnih in koristnih izdatkov;
+• do odškodnine za škodo, ki jo je imel, celo če pričakovani uspeh ni bil dosežen;
+• do primernega plačila za trud v primerih, če je odvrnil škodo ali če je gospodarju pridobil
+korist, ki v vsem ustreza njegovim namenom in potrebam;
+  c) NEDOPUSTNO POSLOVODSTVO - če kdo opravlja tuj posel kljub gospodarjevi prepovedi.
+V 204. č. OZ sta za tako ravnanje predvideni sankciji:
+• tisti, ki je za prepoved vedel ali bi moral vedeti, pri opravljanju tujega posla nima pravic, ki
+jih sicer ima poslovodja brez naročila;
+• hkrati pa je tudi odgovoren za škodo, ki jo je povzročil z vmešavanjem v tuje posle, celo
+tedaj, če je nastala brez njegove krivde;
+  d) NEPRISTNO POSLOVODSTVO - če kdo vede opravlja tuj posel, vendar to ne dela v
+gospodarjevo korist ali zato, da bi preprečil škodo – marveč zato, da bi obdržal korist zase.
+Izvajalec takega posla mora po 205. č. OZ na zahtevo tistega, čigar posle je opravljal:
+• dati podatke o stroških in koristih ter izročiti vse dosežene koristi oz.
+• vrniti stvari v prejšnje stanje in povrniti škodo.
+17. KAJ JE NEUPRAVIČENA OBOGATITEV?
+kadar neka oseba pridobi premoženje na breme druge osebe brez pravne osnove ali na
+podlagi pravne osnove, ki kasneje odpade, je zanjo nastala neupravičena korist, za drugo
+osebo pa prikrajšanje.
+•         Kdor je bil brez pravnega temelja obogaten na škodo drugega, je prejeto dolžan
+vrniti, če je to mogoče, sicer pa nadomestiti vrednost dosežene koristi.
+•         Z obogatitvijo je mišljena tudi pridobitev koristi s storitvijo.
+•         Obveznost vrnitve oz. nadomestitve vrednosti nastane tudi, če kdo nekaj prejme
+glede na podlago, ki se ni uresničila ali je pozneje odpadla
+KAJ SE VRAČA?
+•         Ne vrača se zavestno plačilo, moralna oz. naturalna zaveza
+•         Vrača se tisto kar je bilo pridobljeno ter plodove
+•         Pridobitelj ima pravico do povračila potrebnih in koristnih stroškov
+•         Povrnitev izdatkov pri nujni gestiji.
+18.KAJ JE POGODBA (POJEM IN ZNAČILNOSTI) IN KAJ GOSPODARSKA POGODBA
+RAZVRSTITEV POGODB PO VEČ KRITERIJIH
+Pogodba je dvostranski pravni posel, ki ga stranki skleneta z namenom, da se ustanovi,
+spremeni ali preneha določeno razmerje; pogodba kot najpomembnejši temelj
+
+                                                                                                 7
+obveznostnih razmerij nastane praviloma s svobodno izjavljeno sporazumno voljo obeh
+strank.
+Stranki sta svobodni:
+-       pri odločitvi ali bosta sklenili pogodbo in tako pridobili pravice in obveznosti,
+-       pri določanju vsebine pogodbenih pravic in obveznosti,
+-       pri spremembi in prenehanju pogodbenih pravic in obveznosti,
+Pogodbena svoboda je posledica pretežno dispozitivne narave pogodbenega prava. Prisilne
+norme le izjemoma določajo dolžnost sklepanja pogodbe, obliko pogodbe ter njeno vsebino.
+Gospodarske pogodbe so tiste pogodbe, ki jih med seboj sklepajo gospodarski subjekti
+(pogodba o prodaji pohištva med Rutar d.o.o. in Janezom Novakom ni gospodarska
+pogodba)
+VRSTE POGODB :
+ Enostranske in dvostranske pogodbe
+ -enostransko obveznostne pogodbe so takšne pogodbe, pri katerih je ena stranka samo
+dolžnik, druga pa samo upnik. Z njimi nastane obveznost samo za eno stranko (npr. darilna
+pogodba).
+ -dvostransko obveznostne pogodbe pa so tiste, pri katerih sta obe stranki sočasno v vlogi
+dolžnika in upnika. Obe stranki imata tako pravice kot obveznosti (npr. prodajna pogodba).
+ Odplačne in neodplačne pogodbe
+ pri odplačnih pogodbah mora ena stranka drugi stranki plačati oziroma dati protivrednost
+za to, kar je kot dajatev, storitev ali npr. opustitev prejela od druge stranke
+ pri neodplačnih pogodbah za izpolnitev ene stranke ni potrebna protivrednost druge
+stranke; pri teh pogodbah se praviloma ne uporabljajo pravila o jamčevalnih zahtevkih
+Konsenzualne in realne pogodbe
+ konsenzualne so tiste pogodbe, ki nastanejo že s samim sporazumom oz. konsenzom
+strank o bistvenih sestavinah pogodbe.
+ realne pa so tiste pogodbe, pri katerih je poleg soglasja strank o bistvenih sestavnih delih
+potrebno še, da ena stranka izroči stvar, ki je predmet pogodbe. Po OZ je večina pogodb
+konsenzualna.
+Formalne in neformalne pogodbe
+ formalne so pogodbe, za katerih veljavnost zahtevata zakonodaja ali pogodbeni stranki
+določeno obliko, medtem ko so
+ neformalne pogodbe, pri katerih se ne zahteva posebna oblika; v našem pravu pogodbe
+praviloma neformalne.
+Glavne in stranske pogodbe
+ Pri nekaterih pogodbah je hkrati z glavno obveznostjo strank določena še stranska
+obveznost, tako da govorimo o glavni pogodbi in o stranski pogodbi. Če stranki ne bi sklenili
+glavne pogodbe, tudi stranske pogodbe ne bi bilo (npr. posojilna pogodba kot glavna in
+zastavna pogodba kot stranska). Značilnost stranske pogodbe je, da deli usodo glavne
+pogodbe, medtem ko glavna pogodba ni odvisna od stranske pogodbe.
+19. KATERE SO NUJNE PREDPOSTAVKE ZA NASTANEK POSLOVNE OBLIGACIJE?
+Vzpostavljeno je razmerje med dvema, ki izrazita voljo in soglasje,da pravni posel nastane.
+PREDPOSTAVKE: najmanj 2 subjekta, obstajati mora predmet (pravica) ,obstajati mora
+causa, na strani obeh subjektov morata biti pravna sposobnost in poslovna sposobnost,
+subjekti lahko nastopajo samostojno ali imajo substitute, tudi substitut mora imeti poslovno
+in pravno sposobnost.
+20. KAKŠNA JE RAZLIKA MED PONUDBO TER KATALOGOM?
+
+                                                                                            8
+Katalog je le vabilo k ponudbi pod objavljenimi pogoji in ni ponudba.
+21. KAJ MORA VSEBOVATI PONUDBA?
+Ponudba je lahko enostranska ali dvostranska. Vključuje bistvene sestavine pogodbe. da bi
+bila pogodba sklenjena, mora ena od bodočih pogodbenih strank ponuditi drugi sklenitev
+pogodbe – mora ji dati ponudbo;
+Ponudba je enostranska izjava volje (enostranski pravni posel), ki obvezuje samo
+ponudnika in vsebuje predlog za sklenitev pogodbe določeni osebi z navedbo bistvenih
+sestavnih delov pogodbe, tako da bi se z njenim sprejemom pogodba lahko sklenila.
+VRSTE PONUDBE:
+- ponudba določeni osebi – najbolj tipična oblika ponudbe določeni osebi dan predlog za
+sklenitev pogodbe
+- razstavljanje blaga z označitvijo cene - velja za ponudbo, razen če iz okoliščin primera ali
+običajev ne izhaja kaj drugega (23. č. OZ).
+ Kaj ne šteje kot ponudba (kdaj =vabilo k dajanju ponudb)?
+- predlog nedoločenemu številu oseb – po OZ je predlog dan nedoločenemu številu oseb,
+ki vsebuje bistvene sestavine pogodbe, le vabilo tem osebam, naj one dajo ponudbo;-
+poslani katalogi, ceniki, tarife, oglasi in druga obvestila - so le vabila k ponudbi pod
+objavljenimi pogoji in ne ponudba, vendar pošiljatelj takih vabil odgovarja za škodo, ki jo
+ima ponudnik, če brez utemeljenega razloga ne sprejme njegove ponudbe.
+21. ALI PONUDBA PONUDNIKA VEŽE IN KOLIKO ČASA?
+Ponudba veže ponudnika, razen če je izključil svojo obveznost, da ostane pri ponudbi, ali
+če ta izključitev izhaja iz okoliščin posla; to pomeni, da ponudnik dane ponudbe ne more
+umakniti, razen če prispe umik k naslovniku, preden je ta prejel ponudbo, ali sočasno z njo.
+PONUDBA Z DOLOČENIM ROKOM: datumsko določen rok – ponudba veže do izteka tega
+roka; rok, določen v dnevih, tednih, mesecih ali letih:
+- ponudba dana po pošti – oddajna teorija; ponudba z neposrednimi sredstvi sporočanja –
+prejemna teorija,
+PONUDBA BREZ DOLOČENEGA ROKA; ponudba odsotni osebi – veže ponudnika toliko časa,
+kot je običajno potrebno, da pride do te osebe, da jo ta prouči, se o njej odloči in da
+odgovor o sprejemu prispe do ponudnika ustna ponudba – se šteje za zavrnjeno, če ni
+sprejeta takoj
+ZAVRNITEV PONUDBE; ponudba preneha veljati, ko k ponudniku prispe izjava o njeni
+zavrnitvi (četudi še ni potekel rok, določen za sprejem)
+22. GLEDE ČESA MORA OBSTAJATI SOGLASJE VOLJE POGODBENIH STRANK, DA NASTANE
+POSLOVNA OBLIGACIJA?
+Soglasje mora biti glede cause, volja in soglasje obeh strank je pogoj da pravni posel
+nastane. Ujemati se mora o nastanku pravnega posla (soglasje caus), ujemati se mora o
+vrsti pravnega posla, soglasje volj glede predmeta (pravice), soglasje volj glede vseh
+dodatnih sestavin pravnega posla.
+23. KAJ JE PISMO O NAMERI IN ALI VEŽE?
+Pismo o nameri lahko nadomešča pogodbo in je zaveza obeh strank da se tekom pogajanj
+ne bosta vzporedno pogajali še z drugimi strankami ( konkurenco ). Je torej zaveza obeh
+strank, de se bosta zadržali vzporednih pogajanj z drugimi strankami. Funkcija: dokazana ali
+izkazana ( podpisano pismo o nameri je dokaz, ki nam pove da bo do sklenitve pogodbe
+skoraj 100 % prišlo ). Povzročena škoda je izgubljen posel. Zato pride do večje resnosti pri
+pogajanjih ( večja zainteresiranost za posel ).
+24. KAJ JE PREDPOGODBA?
+
+                                                                                             9
+Včasih stranki pred sklenitvijo glavne pogodbe skleneta predpogodbo; to je pogodba, s
+katero se stranki obvežeta, da bo pozneje sklenjena druga, glavna pogodba; predpogodba
+pogodbeni stranki zavezuje, če vsebuje bistvene sestavine glavne pogodbe.
+Če katera od strank noče skleniti glavne pogodbe, lahko druga stranka od sodišča zahteva,
+da naloži sklenitev pogodbe v določenem roku. Vendar mora zainteresirana stranka
+zahtevati sklenitev pogodbe v 6 mesecih od izteka roka, določenega za sklenitev pogodbe;
+če rok za sklenitev pogodbe ni bil določen, pa od dneva, ko bi po naravi posla ali okoliščinah
+pogodba morala biti sklenjena.
+Predpogodba pa strank ne veže, če so se okoliščine od njene sklenitve tako spremenile, da
+niti predpogodba ne bi bila sklenjena, če bi bile okoliščine že takrat takšne .
+25. ALI POGAJANJA ZAVEZUJEJO?
+Mnogokrat se pogodbeni stranki pred sklenitvijo pogodbe dogovarjata vsebini bodoče
+pogodbe: govorimo o pogajanjih.
+
+
+
+
+                                                                                            10
+Razlika med pogajanji in sklenitvijo pogodbe? Pogajanja pred sklenitvijo pogodbe ne
+zavezujejo in jih lahko vsaka stranka prekine, kadarkoli hoče.(2) Vendar odgovarja stranka,
+ki se je pogajala, ne da bi imela namen skleniti pogodbo, za škodo, ki jo je povzročila drugi
+stranki.(3) Za škodo odgovarja tudi stranka, ki se je pogajala z namenom skleniti pogodbo,
+pa je ta namen brez utemeljenega razloga opustila in tako drugi stranki povzročila škodo.(4)
+Če se stranki drugače ne sporazumeta, trpi vsaka stranka svoje stroške s pripravami za
+sklenitev pogodbe, skupne stroške pa trpita v enakih delih                                KAJ JE
+POGOJ IN KATERE VRSTE POGOJEV POZNATE? Pogoj je določeno negotovo dejstvo, od
+katerega obstoja ali neobstoja je po volji strank odvisen nastanek ali prenehanje učinkov
+pogodbe. Bistveno za pogoj je, da gre za dogodek, ki je strankam pogodbe negotov,
+nepoznan. Pogodba je sklenjena z določenim pogojem, je veljavna od vsega začetka, do
+izpolnitve ali neizpolnitve pogoja so odvisni le učinki. Odložni pogoj je tisti, pri katerem
+učinki pogodbe nastanejo šele po izpolnitvi oz. neizpolnitvi pogoja ( odlaga učinke pogodbe
+). O razveznem pogoju pa govorimo takrat, kadar pogodba ne učinkuje takoj, ti učinki pa
+naknadno prenehajo, ko se razvezni pogoj izpolni. Oba pogoja morata biti dopustna, sicer je
+pogodba nična. Nedopusten pogoj je v nasprotju z ustavo (npr. dam ti avto, če zaneteš
+požar v sosedovi hiši ). Nemogoč pogoj se objektivno ne more izpolniti ali se po naravi stvari
+mora izpolniti.                                                        KAKŠNA JE RAZLIKA MED
+NIČNOSTJO IN IZPODBOJNOSTJO?                        Nične pogodbe - nična je tista pogodba, ki
+nasprotuje ustavnim načelom, prisilnim predpisom ali morali; posebni primeri ničnosti:
+ničnost je predvidena kot sankcija pri simuliranem poslu, pri pomanjkanju potrebne oblike,
+pri nedopustni podlagi itd.nična pogodba nima pravnega učinka, zato stranki s tako
+pogodbo ne pridobita niti pravic niti obveznosti in tudi zahtevki iz take pogodbe niso
+utemeljeni.če pa sta stranki kar koli sprejeli na podlagi nične pogodbe, morata druga drugi
+vrniti vse; če to ni več mogoče ali če narava tistega, kar je bilo izpolnjeno,nasprotuje vrnitvi,
+pa morata dati ustrezno denarno nadomestilo na ničnost pazi sodišče po uradni dolžnosti,
+nanjo pa se lahko sklicuje vsaka zainteresirana oseba (92.č.OZ). ničnost se lahko uveljavlja
+ne glede na to, koliko časa je poteklo od sklenitve pogodbe, ker pravica do uveljavljanja
+ničnosti ne ugasne.                    Izpodbojne pogodbe izpodbojnost pogodbe je namreč
+določena predvsem v interesu pogodbenih strank, na izpodbojnost pogodbe sodišče ne
+pazi po uradni dolžnosti, temveč samo na ugovor strank, s sodno odločbo se izpodbojna
+pogodba razveljavi, dokler izpodbojna pogodba ni razveljavljena, jo je treba izpolniti, če
+sodišče izpodbojno pogodbo razveljavi, je pogodba neveljavna od začetka, to je od
+sklenitve dalje.PRIMERI IZPODBOJNIH POGODB PO OZ:če je pogodbo sklenila stranka, ki je
+poslovno omejeno sposobna, če so bile pri sklenitvi pogodbe napake glede volje strank kot
+tudi vdrugih primerih, ki jih določa OZ ali drug predpis (94.č.OZ). drugače kot pri ničnosti
+pogodbe je treba zahtevati razveljavitev izpodbojne pogodbe v določenem roku: tožbo za
+razveljavitev je treba vložiti v enem letu od dneva, ko se je zvedelo za razlog izpodbojnosti,
+oz. od prenehanja grožnje (če je bilata vzrok), sicer pravica zahtevati razveljavitev preneha;
+v vsakem primeru pa pravica preneha po preteku treh let od dneva sklenitve pogodbe .
+KAJ SO SPREMENJENE OKOLIŠČINE IN KAJ VIŠJA SILA?Spremenjene okoliščine so vse
+okoliščine, ki so vezane na posel (samo objektivne okoliščine)Višja sila pomeni vse,kar
+stranki določita v naprej,kaj se šteje za višjo silo, lahko tudi stečaj (tako subjektivne kot
+objektivne okoliščine)                                                              KATERA SO
+PRAVILA RAZLAGE POGODBENIH DOLOČIL?Pravila so: 1) pogodbe je treba tolmačiti tako
+kot se glasijo. 2 ) pri nejasnih pogodbenih določbah je treba izhajati iz namena strank. 3 ) v
+primeru pristopnih athezijskih pogodb se vse nejasne zadeve določijo v korist druge osebe (
+
+                                                                                              11
+tiste ki je samo podpisala pogodbo ). 4 ) vse nejasne določbe se tolmačijo v korist dolžnika.
+KAJ JE ARA? KAKŠEN JE NJEN POMEN?              ara je denarni znesek ali neka količina drugih
+nadomestnih stvari, ki jih ob sklenitvi pogodbe da ena stranka drugi v znamenje, da je
+pogodba sklenjena, in kot varščino, da bo pogodba izpolnjena .ara ima utrjevalno naravo,
+sočasno pa je dokaz, da je pogodba sklenjena, po OZ velja, da je pogodba sklenjena, ko je
+ara dana, če ni dogovorjeno kaj drugega,utrjevalna narava are se kaže v tem, da gre ara v
+korist stranke, ki je pogodbi zvesta; če je pogodba izpolnjena, se ara vračuna v izpolnitev
+obveznosti ali se vrne,če pa pogodba ni izpolnjena in je za neizpolnitev odgovorna stranka,
+ki je aro dala, sme druga stranka bodisi (1) zahtevati izpolnitev pogodbe (če je to še mogoče)
+in povrnitev škode, aro pa všteti v odškodnino ali vrniti bodisi (2) se zadovolji s prejeto aro in
+je za neizpolnitev odgovorna stranka, ki je prejela aro, sme druga stranka zahtevati bodisi
+(1) izpolnitev pogodbe (če je to še mogoče) bodisi (2) povrnitev škode in vrnitev are bodisi (3)
+pa vrnitev dvojne are; o posledicah neizpolnitve obveznosti torej vedno odloča pogodbi
+zvesta stranka.                                                                            KAJ JE
+POGODBENA KAZEN? KAKŠNE SO PRAVICE PRI POGODBENI KAZNI? pogodbena kazen je s
+pogodbo določen denarni znesek ali druga premoženjska korist, ki jo je dolžnik dolžan
+plačati upniku, če ne izpolni svoje obveznosti ali če zamudi z njeno izpolnitvijo,če iz pogodbe
+ne izhaja kaj drugega, se šteje, da je pogodbena kazen dogovorjena za primer zamude,
+pogodbena kazen ne more biti dogovorjena za denarne obveznosti,o pogodbeni kazni se
+morata stranki dogovoriti v obliki, ki je predpisana za pogodbo, ki jo s pogodbeno kaznijo
+utrjujeta; sporazum o pogodbeni kazni ima tudi sicer pravno usodo obveznosti, na katere se
+zavarovanje nanaša,pogodbeni stranki lahko poljubno določita višino kazni ali v skupnem
+znesku, v odstotku ali kako drugače (248/1 č.OZ), vendar na zahtevo dolžnika lahko sodišče
+zniža nesorazmerno visoko pogodbeno kazen; pravice upnika so odvisne od tega, za kateri
+primer kršitve obveznosti je pogodbena kazen dogovorjena:če je dogovorjena pogodbena
+kazen za primer neizpolnitve obveznosti, ima upnik pravico zahtevati bodisi izpolnitev
+bodisi pogodbeno kazen; če je zahteval plačilo pogodbene kazni, izgubi pravico zahtevati
+izpolnitev obveznosti; pravico izbire ima samo upnik; dolžnik nima pravice plačati
+pogodbeno kazen in odstopiti od pogodbe; kadar je kazen dogovorjena za primer, če dolžnik
+zamudi z izpolnitvijo, ima upnik pravico zahtevati tako izpolnitev obveznosti kot pogodbeno
+kazen; upnik pa ne more zahtevati pogodbene kazni zaradi zamude, če je sprejel izpolnitev,
+pa ni nemudoma sporočil dolžniku, da si pridržuje pravico do pogodbene kazni. upnik ima
+pravico zahtevati pogodbeno kazen tudi v primeru, če ta presega škodo, ki jo je imel, in celo,
+če ni imel nobene škode; če pa je škoda, ki jo je upnik imel, večja od pogodbene kazni, ima
+upnik pravico zahtevati razliko do popolne odškodnine, upnik pa ne more zahtevati
+pogodbene kazni, če je prišlo do neizpolnitve ali zamude iz vzroka, za katerega dolžnik ne
+odgovarja; pogosto tudi zakon za kršitev obveznosti določa odškodnino pod različnimi
+imeni, kot npr. penali, pogodbena kazen, odškodnina ali z drugim imenom;
+KAJ JE PREDUJEM? predujem je denarni znesek, ki ga ena stranka da drugi ob sklenitvi
+pogodbe ali med njenim izvajanjem,predujem pomeni že delno izpolnitev obveznosti, kar
+pomeni, da z njim utrdimo in olajšamo njeno izpolnitev, tako se npr. po 498.č. OZ pri
+zaporednih dobavah v okviru prodajne pogodbe prve dobave zaračunajo iz
+predujma,predujem se lahko uporabi npr. tudi za plačilo stroškov, ki jih pri špediterski
+pogodbi terja izpolnitev naročila o odpravi stvari                                       KAKŠNA
+JE RAZLIKA MED POBOTOM IN PORAVNAVO? pobotanje je način prenehanja obveznosti s
+tem, da se terjatev, ki jo ima upnik do dolžnika, pobota s tem, kar upnik dolguje dolžniku.
+gospodarski pomen pobotanja je v tem, da se z njim izognemo nepotrebni dvojni izpolnitvi,
+
+                                                                                                12
+za veljavnost in dopustnost prenehanja nasprotnih terjatev med istima strankama morajo
+biti izpolnjeni določeni pogoji; tako morata biti terjatvi pri prisilnem pobotu:
+
+  1. vzajemni, kar pomeni, da sta isti stranki druga drugi upnika in dolžnika;
+  2. istovrstni; pobot se lahko opravi, če se obe terjatvi glasita na denar ali na druge
+nadomestne stvari iste vrste in enake kakovosti;
+  3. zapadli (dospeli); tako ne moremo pobotati dospele terjatve z nedospelo terjatvijo;
+  4. iztožljivi; zato ne moremo pobotati zastaranih terjatev.
+Poravnava je pogodba, s katero se negotovo ali sporno razmerje spremeni tako, da se
+negotovost odpravi. ( Stranki se dogovorita za nekaj novega oz. drugačnega v razmerju. Ko
+je razmerje urejeno/popravljeno s poravnavo, v delu ki je urejeno, preneha prejšnje
+razmerje, v ostalem delu pa ostane prejšnje razmerje nespremenjeno.Če se poravnava
+razveljavi spet oživi prejšnje razmerje.
+Negotovost oz. spornost, ki se s poravnavo želi odpraviti pomeni subjektivno negotovost.
+Namesto da bi stranki resnico o zmoti ugotovili v sodnem postopku, najdeta rešitev sami.
+Predmet poravnave je lahko dopustna obveznost, stvarnopravno upravičenje, vsi njuni posli
+ki so jih predvideli.
+KAKŠNE SO PRAVICE IN OBVEZNOSTI KUPCA/PRODAJALCA V PRODAJNI POGODBI?
+OBVEZNOSTI KUPCA
+Kupec ima le 2 obveznosti:
+● plačilo kupnine;
+● prevzem stvari.
+(1)            PLAČILO KUPNINE
+Kdaj, kje, kako – načeloma velja absolutna dispozitivnost strank.
+(2)            PREVZEM STVARI – sestavljajo ga:
+Odstop od pogodbe zaradi neprevzema – če kupec brez utemeljenega razloga noče
+prevzeti v izročitev pravočasno in pravilno ponujenih stvari, lahko prodajalec odstopi od
+pogodbe, če utemeljeno dvomi v plačilo kupnine.
+OBVEZNOSTI PRODAJALCA
+IZROČITEV STVARI
+Glavna obveznost je izročiti stvar/ pravico tako, da bo kupec dobil na stvari lastninsko
+pravico oz. lahko izvrševal pravico:
+ODGOVORNOST ZA STVARNE NAPAKE
+Odgovornost ≠ garancija
+Jamstvo = poroštvo
+Obveznost prodajalca, da izroči določeno stvar brez stvarnih napak.
+Ta pravila se uporabljajo za druge dvostransko obvezne pogodbe
+ODGOVORNOST ZA PRAVNE NAPAKE
+Pravna napaka je dejstvo, da ima 3. oseba na prodani stvari pravico, ki izključuje,
+zmanjšuje ali omejuje pravico kupca. Prodajalec odgovarja za pravno napako pod dvema
+pogojema:
+I. kupec o pravni napaki ni bil obveščen; in
+II. kupec ni privolil v nakup stvari, obremenjene s pravno napako.
+Če kupec ve za napako in kljub temu privoli v pogodbo, se šteje, da se strinja z napako,
+prodajalec pa ne odgovarja.
+KATERE SO ZNAČILNOSTI POSREDNIŠKE POGODBE IN KATERE SO OBVEZNOSTI IN PRAVICE
+POSREDNIKA/NAROČNIKA?
+
+
+                                                                                       13
+posrednik se zaveže, da si bo prizadeval najti in spraviti v stik z naročiteljem, osebo, ki bo z
+njim sklenila pog.
+=naročitelj pa se zaveže, da mu bo dal plačilo, če bo pog. sklenjena (če je tak dogovor, dobi
+provizijo, tudi, če pog. ni sklenjena.
+Posrednik lahko sprejme izpolnitev, samo, če ima posebno PISMENO POOBLASTILO.
+PREKLIC: naročitelj lahko naročilo prekliče kadarkoli: -če se temu ni odpovedal
+-če ni v nasprotju s poštenjem
+OBVEZNOSTI POSREDNIKA:
+1. iskati priložnosti kot dober gospodarstvenik, ter opozoriti naročitelja na to
+2. posredovanje pri pogajanjih
+3. dolžnost obveščanja o vseh pomembnih okoliščinah
+ODGOVORNOST POSREDNIKA:
+ odgovarja za škodo, ki nastane, ker je posredoval za:
+ poslovno nesposobno osebo (pa je povzročil stroške drugemu pogajalcu)
+ osebo, za katero je vedel oz. bi moral vedeti, da ne bo mogla izpolniti obveznosti
+ odgovarja za škodo, če je brez dovoljenja naročitelja 3. os. obvestil o vsebini naročila
+PRAVICE POSREDNIKA:
+ dobiti plačilo, ko je pog. sklenjena (če ni dogovorjeno kaj drugega)
+ nima pravice do povračila stroškov (razen, če ni bilo to dogovorjeno)
+ če je dobil naročilo za posredovanje od obeh strank, lahko od vsake zahteva le polovico
+plačila (ne sme zahtevati dvojne provizije)
+OBVEZNOSTI IN PRAVICE NAROČITELJA
+Naročitelj mora posredniku: - plačati provizijo (glej zgoraj!)
+
+Naročitelj lahko prekliče naročilo za posredovanje kadarkoli, če se ni temu odpovedal in če
+preklic ni v nasprotju s poštenjem. Naročitelj ni dolžan skelniti pogodbe, niti se ni dolžan
+spustiti v pogajanja za sklenitev pogodbe. Če je pri tem ravnal nepošteno, odgovarja za
+škodo pogodbenega partnerja - posrednika.
+KATERE SO ZNAČILNOSTI KOMISIJSKE POGODBE IN KATERE SO OBVEZNOSTI IN PRAVICE
+KOMISIONARJA/KOMITENTA?
+Komisionar se s komisijsko pogodbo zaveže, da bo za provizijo v svojem imenu in na račun
+komitenta opravil enega ali več poslov, ki mu jih je zaupal komitent.
+PRAVNA NARAVA: komisionar ni nosilec rizika za uspeh posla, temveč jamči le za pravilno
+opravljanje posla > komitent nima pravice od komisionarja zahtevati odškodnine.
+OBVEZNOSTI KOMISIONARJA:
+ hraniti mora blago kot dober gospodarstvenik (če prekrši to obveznost mora povrniti
+škodo KT)
+ zavarovanje blaga, le če je dobil tako naročilo od KT > sicer odgovarja za naključno
+uničenje in poškodovanje blaga
+ obvestiti mora KT o stanju prevzetega blaga od prevoznika
+ KR je dolžan blago prodati, če je to v interesu KT (npr. grozeča nevarnost)
+ dolžan je sporočiti KT ime sopogodbenika (kar ni nujno, če gre za posle sklenjene v
+komisijskih prodajalnah)
+ obračun o opravljenem poslu
+ KR mora izročiti KT vse kar je dobil iz posla, ki ga je opravil (terjatve in pravice, ki jih je
+pridobil nasproti 3. os.)
+ odgovarja tudi za uspeh posla, če je tako dogovorjeno
+
+
+                                                                                               14
+ ker gre za del credere odgovornost, im pravico do DEL CREDERE PROVIZIJE
+ ravnati mora v okviru naročila KT (limitirajoče, demonstrativno!, fakultativno naročilo)
+ povrniti razliko in povzročeno škodo, če je sklenil posel pod neugodnejšimi pogoji, kot mu
+je določil KT
+ KT lahko v takem primeru odkloni sprejem sklenjenga posla, če o tem takoj obvesti KR
+ če pa je KR sklenil pog. pod ugodnejšimi pogoji, mora celotno korist odstopiti KT (v tem se
+KP razlikuje od starinarske pog.)
+ odgovarja komitentu za nastalo škodo, če je posel sklenil s prezadolženo osebo, pa je za
+to vedel ali bi moral vedeti
+OBVEZNOSTI KOMITENTA:
+ plačilo provizije, potem, ko je posel izvršen
+    -če do izvršitve posla ne pride iz vzroka, za katerega ne odgovarja ne KR, ne KT, potem
+ima KR pravico do ustreznega plačila za svoj trud
+    -na KT zahtevo lahko sodišče zniža plačilo na pravičen znesek
+ povrnitev stroškov potrebnih za izvršitev naročila + obresti (to je IZJEMA, da se to ne šteje
+v provizijo)
+ KT ni dolžan dati predujma komisionarju (razen, če ni v pog. določeno drugače)
+ZASTAVNA IN PREDNOSTNA PRAVICA KOMISIONARJA:
+= KR ima zastavno pravico na stvareh, ki so pri njem; ta pravica mu omogoča, da se pred
+drugimi U poplača iz njihove vrednosti, če mu ni plačana provizija in stroški.
+= KR ima pravico, da se pred ostalimi U poplača iz tistih terjatev, ki jih je pridobil za KT, ko je
+izpolnjeval njegovo naročilo;
+Razlika: ZP se realizira iz prodaje stvari
+         PP pa se realizira iz izterjave terjatve
+PRAVICA KOMISIONARJA, DA STOPI V p.p.:
+KR lahko v svojem imenu in za svoj račun kupi ali proda blago, ki mu ga je zaupal komitent
+Pogoji za tak p.p.: - blago mora kotirati na borzi ali trgu
+- komitent se mora s tem strinjati
+- blago se plača po ceni, ki velja ib izvršitvi posla
+V takem primeru nastane med komisionarjem in komitentom prodajno razmerje. Če se
+borzna cena in cena, ki jo določi komitent ne prekrivata, mora komisionar plačati višjo ceno
+oz. ponuditi nižjo ceno, če blago proda.
+PRAVNA RAZMERJA S 3.OS.:
+Razmerje med KT in 3. os. nastane šele takrat, ko KR prenese na KT vse terjatve, ki izvirajo iz
+pogodbe > CESSIO NECESSARIA.
+KT ima na stvareh, ki jih je izročil LP oz. pravico razpolaganja. Če pride do stečaja KR ima KT
+izločitveno pravico na teh stvareh.
+KATERE SO ZNAČILNOSTI POGODBE O TRGOVSKEM ZASTOPANJU IN KATERE SO PRAVICE
+IN OBVEZNOSTI ZASTOPNIKA/PRINCIPALA?
+S to pogodbo se zastopnik zavezuje, da bo ves čas skrbel za to, a bodo 3 osebe sklepale
+pogodbe z njegovim naročiteljem in da bo v tem smislu posredoval med njimi in naročiteljem
+ter da bo po dobljenem posojilu v imenu in na račun naročitelja sklepal z njimi pogodbe, ta
+pa se zavezuje, da mu bo za vsako sklenjeno pogodbo dal določeno plačilo ( provizijo). OZ
+pojmuje pogodbo kot trajno razmerje med naročiteljem in zastopnikom. Zastopnik je lahko
+fizična ali pravna oseba, ki opravlja zastopanje kot registrirano dejavnost. Ima pa tudi trajno
+skrb za to, da bodo tretje osebe sklepale pogodbo z naročiteljem in lahko na podlagi
+pooblastila sklene pogodbo v imenu in na račun naročitelja s tretjo osebo. Zastopnik
+
+                                                                                                 15
+nastopa v imenu in na račun naročitelja, to razmerje je trajno, zastopnik pa varuje interese
+svojega naročitelja in med njima se ustvarja zaupno razmerje, ki zahteva medsebojno
+sodelovanje, varovanje tajnosti in poročanje o stanju na področju poslovanja. Ta pogodba je
+lahko ni pa nujno sklenjena v pisni obliki – odvisno od dogovora.
+Zastopnikove obveznosti: ravnati mora pošteno, skrbeti mora za naročiteljeve interese ter
+mora pri vseh poslih ravnati kot dober gospodarstvenik. Naročitelja mora obveščati o
+položaju na trgu ter o tem kaj je pomembno za sklenitev posla, mora mu redno poročati o
+svojem delu in o tretjih osebah ki bi rade sklenile posle, ter o pogodbah ki jih je sklenil v
+njegovem imenu. Varovati mora tudi poslovno skrivnost naročitelja. Po prenehanju pogodbe
+mora vrniti naročitelju vse njegove stvari ki jih je imel v rabi.
+Obveznosti naročitelja: dati mora zastopniku poleg navodil na razpolago tudi: gradiva in
+dokumentacijo, vzorce, načrte, cenike, reklamno gradivo, splošne pogoje poslovanja,…
+Naročitelj mora nemudoma obvestiti zastopnika o svoji odločitvi ali je sprejel ali zavrnil
+sklenitevpogodbe. Obvestiti mora tudi zastopnika o zmanjšanju obsega dela, ter mu dati
+provizijo od pogodbe.
+KAJ JE DISTRIBUCIJSKA POGODBA IN KAJ SO NJENE ZNAČILNOSTI?
+Definicija pogodbe o distribuciji: to je pogodba, s katero ena stranka (proizvajalec,
+dobavitelj) enemu ali večim distributerjem podeli pravico prodaje proizvodov, ki jih proizvaja
+ali dobavlja v njihovem lastnem imenu in za njihov lasten račun.
+Proizvajalec, ki želi prodreti na tržišče (predvsem tuje države) s svojim proizvodom, lahko
+načeloma izbira med več alternativami:
+ vzpostavi lastno prodajno strukturo - v tej državi ustanovi lastno podjetje za
+organiziranje distribucije,
+ skupaj z lokalnim partnerjem v obliki “joint-venture” (pogodbene ali statusne narave),
+ (trajna) pogodba z lokalnim partnerjem (pogodba o posredovanju, zastopanju, komisiji
+in distributerska pogodba) - gre torej za različne pogodbe, ki se med seboj razlikujejo
+predvsem glede pooblastila za sklepanje poslov, v poslovnem pogledu pa glede obsega
+angažiranja lokalnega partnerja.
+Distributer ni posrednik, temveč trgovec, ki kupuje proizvode, da bi jih naprej prodal v
+lastnem imenu in za lasten račun.
+ formalni pogled: distributerska je okvirna pogodba, ki sama po sebi ne ureja posamičnih
+dobav blaga (kar je značilno za prodajno)
+ vsebinski pogled: distributer ni le preprodajalec, ki deluje kot grosist, temveč ga vežejo
+na proizvajalca tesnejše vezi:
+a) kot prodajalec se distributer ukvarja s pospeševanjem in organiziranjem distribucije na
+določenem območju
+b) proizvajalec zaupa distributerju prednostni položaj na tem območju (pogosto izključna -
+ekskluzivna distribucija)
+c) razmerje je trajnejše narave
+d) pogodba ustvarja med strankama tesno vez zaupnosti (“lojalnosti”) - distribucija
+proizvajalčevih proizvodov ponavadi pomeni tudi omejitev distributerjeve svobode
+(predvsem prepoved konkuriranja)
+e) skoraj vedno gre za distribucijo proizvodov z blagovno znamko
+KAJ JE LEASING IN KATERE SO NJEGOVE ZNAČILNOST? KATERE OBLIKE LEASINGA
+POZNATE?
+Leasing je gospodarski posel financiranja investicije. Vse države ga urejajo davčno pravno,
+da se ugotovi, kdo je zavezan za plačilo davka od stvari.
+
+                                                                                            16
+Dajalec leasinga obdrži na stvari LP; jemalec leasinga pa plačuje obroke kot najem
+(elementi najemne pog). V večini pog. je na koncu klavzula o opciji odkupa (elementi
+prodajne pog.).
+Vsebuje ELEMENTE:
+ prodajne pog.
+ najemne pog.
+ prodaje na obroke: le da je za to značilno, da stvar preide še pred popolnim plačilom v
+last in posest K, pri leasingu pa ne
+ rabokupne pog: JL kupi rabo predmeta
+ najemno- prodajne pog.
+ posojilne, kreditne pog.
+ klavzula o pridržku LP, ki si jo pridrži P, dokler niso plačani vsi obroki
+VRSTE LEASINGA:
+1. INDIREKTNI L.: (pravi); med: -proizvajalcem
+                                  -DL (posreduje med obema in zagotavlja finančna sredstva)
+                                  -JL
+  DIREKTNI L.: (nepravi); je dvostranski leasing med DL(ima stvar na zalogi) in JL
+2. KRATKOROČNI / SREDNJEROČNI / DOLGOROČNI L. (ponavadi traja 5 let)
+3. NEPREMIČNINE / POTROŠNE DOBRINE / REVOLTING L. : npr.: rent-a-car: JL s
+proizvajalcem sklene NE PP ampak pog. o leasingu. JL se
+  zaveže, da bo vsake 2 leti zamenjal celotni vozni park. Proizvajalec ve, da bo lahko lansiral
+novo
+  količino vozil na trg; s tem JL reklamira proizvajalca in ima zato določene ugodnosti
+4. FINANČNI L.: -je najbolj razširjen
+                  -najmanj 3 stranke
+                  -traja vso pričakovano življensko dobo predmeta; ni pog. dogovorjenega
+roka
+                  -stranki določita fiksno obdobje v katerem od pog. ne moreta odstopiti
+                  -seštevek obrokov (nabavne cene, kar omogoča DL zaslužek in povrnitev
+stroškov)
+                  -JL ima ob prenehanju možnost uveljaviti opcijo odkupa
+  OPERATIVNI L.: -dogovorjen je za fiksno obdobje, ki pa je krajše (kratkoročne pog.)
+                     -lahko pride do preklica pog. (odpovedni rok)
+                     -čas trajanja ni odvisen od vrednosti stvari
+                     -obroki so višji, ker lahko pride do odpovedi
+                     -JL se zanj odloči, kadar gre za predmete, ki hitro tehnološko zastarajo
+KATERE SO ZNAČILNOSTI NAJEMNE POGODBE IN KATERE SO PRAVICE IN OBVEZNOSTI
+NAJEMODAJALCA/NAJEMNIKA?
+Z zakupno (najemno) pogodbo s zakupodajalec (najemodajalec) zavezuje, da bo zakupniku
+(najemniku) izročil določeno stvar v rabo, ta pa se zavezuje, da mu bo za to plačeval
+določeno zakupnino (najemnino).
+Raba obsega tudi uživanje stvari (pobiranje plodov), če ni drugače dogovorjeno ali
+drugačnega običaja.
+Gre za:
+               realno pogodbo;
+               pogodbo s katero se prenašata posest in raba;
+               odplačno pogodbo.
+
+                                                                                             17
+Zakupodajalec mora izročiti zakupniku zakupljeno stvar skupaj z njenimi pritiklinami.
+Zakupodajalec mora med zakupom stvar vzdrževati in jo zato po potrebi popravljati.
+Zakupniku mora povrniti stroške z vzdrževanjem stvari, ki jih je ta plačal namesto
+njega.Stroški za drobna popravila, ki jih je povzročila običajna raba stvari, ter stroški same
+rabe gredo v breme zakupnika.
+Zakupnik mora o potrebnih popravilih obvestiti zakupodajalca Če potrebna popravila v
+zakup vzete stvari v precejšnji meri in daljši čas ovirajo njeno rabo, lahko zakupnik odstopi
+od pogodbe. V tem primeru ima pravico do znižanja zakupnine, v sorazmerju s tem, koliko je
+bila zaradi takih popravil raba stvari omejena.
+Med trajanjem zakupa zakupodajalec brez privolitve zakupnika ne sme delati sprememb na
+stvari, ki jo je dal v zakup, če bi to oviralo njeno rabo (manjša zakupnina če gre za
+zmanjšanje uporabnosti).
+Zakupnik je dolžan uporabljati stvar kot dober gospodarstvenik oziroma dober gospodar.
+Uporabljati jo sme le tako, kot to določa pogodba ali kakršen je namen stvari.
+Zakupnik je odgovoren za škodo, ki nastane zato, ker je v zakup vzeto stvar uporabljal v
+nasprotju s pogodbo ali z njenim namenom, ne glede na to, ali jo je uporabljal sam ali
+nekdo, ki je delal po njegovem naročilu, podzakupnik ali kdo drug, ki mu je on omogočil
+rabo stvari
+Če zakupnik tudi po zakupodajalčevem opominu še naprej krši svoje obveznosti in je
+nevarno, da bo nastala za zakupodajalca precejšnja škoda, lahko ta pogodbo odpove brez
+odpovednega roka.
+Zakupnik je dolžan plačevati zakupnino v rokih, ki jih določa pogodba ali zakon, sicer pa v
+rokih, ki so običajni v kraju, kjer mu je bila stvar izročena. Če ni dogovora ali običaja v kraju
+izročitve in je stvar dana v zakup za eno ali več let, se plačuje zakupnina polletno; če je dana
+v zakup za krajši čas, pa po izteku tega časa.
+Zakupodajalec lahko odpove zakupno pogodbo, če zakupnik ne plača zakupnine niti v 15
+dneh, odkar je zakupodajalec to zahteval. Vendar ostane pogodba v veljavi, če plača
+zakupnik dolžno zakupnino, preden mu je sporočena odpoved.
+Zakupnik je dolžan varovati v zakup vzeto stvar in jo po prenehanju zakupa vrniti
+nepoškodovano. Stvar vrne v kraju, v katerem mu je bila izročena.
+Zakupnik ne odgovarja za obrabljenost stvari zaradi običajne rabe in tudi ne za poškodbe,
+nastale zaradi tega, ker je stvar doslužila.
+Če je med zakupom izvršil na stvari kakšne spremembe, jo je dolžan vrniti v stanju, v
+kakršnem je bila, ko jo je dobil v zakup. Vzeti sme dodatke, ki jih je dodal stvari, če se dajo
+ločiti, ne da bi se stvar poškodovala, vendar jih zakupodajalec lahko obdrži, če mu
+nadomesti njihovo vrednost ob vrnitvi
+KAJ UREJA STATUSNO PRAVO IN KATERE VRSTE SUBJEKTOV POZNATE?
+Gospodarsko statusno pravo (GSP) je celokupnost (vsota) pravnih norm, ki urejajo status
+(položaj) gospodarskih subjektov (subjekti v sistemu so fizične in pravne osebe).
+Gospodarsko statusno pravo je panoga, ki ureja status gospodarskih družb in samostojnih
+podjetnikov.
+Status je položaj pravnega subjekta v družbi in državi in z njim skušamo vrednotiti nek
+položaj. Pravni subjekti so fizične in pravne osebe, ki nastanejo z ustanovitvijo in so nosilci
+določenih pravic in obveznosti, ki jih pravni red daje. Razvrščamo jih glede na dejavnost s
+pravnimi normami:
+ Združba – lahko več družb in tu ni nobene formalne pravne oblike, je množica nekih
+elementov
+
+                                                                                               18
+ Družba – pomeni organizacijsko obliko združevanja ljudi, ustanovljena pa je v skladu s
+pravnimi predpisi
+ZDRUŽBA + PRAVNI PREDPISI = DRUŽBA
+KAKŠNA JE RAZLIKA MED USTANOVAMI IN KORPORACIJAMI?
+Vrste pravnih oseb
+- pravna teorija razlikuje med korporacijami in ustanovami.
+1. Korporacija
+–               značilna po tem, da se združi več oseb tako, da nastane nova oseba,
+praviloma različna od tistih, ki so se vanjo združevale. Korporacija ostane kot oseba naprej,
+ne glede na to, da se spreminjajo njeni ustanovitelji, t.j. osebe, ki so se vanjo združile.
+–               korporacija je torej članska združba. Osebe, ki korporacijo ustanovijo, so njeni
+člani, ki oblikujejo in izražajo poslovno voljo korporacije kot osebe z lastno pravno
+sposobnostjo,
+–               je pravna oseba, ki jo sestavlja več oseb (članov) in ima lahko določeno
+premoženje, vendar to ni nujno,
+–               zasebnopravne korporacije kot so društva, gospodarske družbe, zadruge ter
+javnopravne korporacije kot so država, občina, druge lokalne skupnosti.
+2. Ustanove
+–               značilne po premoženju, ki ima določen namen (personificirano
+premoženje), in po tem, da ustanovitelji nimajo vloge članov, ki bi upravljali namensko
+vezano premoženje. S premoženjem ustanove gospodari uprava v skladu z določenim
+namenom in ne ustanovitelji po članskem načelu.
+–               nimajo članov oz. družbenikov, ampak le upravo in morebitne druge organe
+upravljanja in poslovodenje ter destinatarje,
+–               ustanove bi lahko razvrstili tudi po namenu, zaradi katerega so ustanovljene,
+in sicer na družinske ustanove (upravičenci so le krog družine), cerkvene ustanove
+(cerkveni nameni), splošno koristne ustanove (kulturni, znanstveni itd. nameni), socialne
+ustanove (različni dobrodelni nameni) ter podjetniške ustanove.
+KAJ JE PRAVNA OSEBA IN KAJ SO NJENE ZNAČILNOSTI?
+Pravna osebnost
+gospodarska družba je pravna oseba, kar pomeni, da:
+–               je lahko lastnik premičnin in nepremičnin,
+–               lahko pridobiva pravice in obveznosti, pri čemer je bistvo pravne osebnosti je
+v sposobnosti pravne osebe biti nosilec pravic in obveznosti v pravnih razmerjih
+–               lahko toži ali je tožena,
+–               lastnost pravne osebe pridobi z vpisom v register (pred vpisom v register
+veljajo za razmerja med družbeniki pravila o civilnopravni družbeni pogodbi; velja, da so
+osebe, ki pred vpisom družbe v register nastopajo v imenu gospodarske družbe, odgovorne
+osebno z osebnim premoženjem, vsi družbeniki so solidarno odgovorni za obveznosti take
+družbe),
+–               vse gospodarske družbe so torej pravne osebe po samem zakonu; med
+gospodarske družbe ZGD uvršča tudi tiho družbo, ki pa ni pravna oseba; podjetnik
+posameznik prav tako nima samostojne pravne osebnosti
+KAJ JE FIRMA IN KAKO JE VAROVANA?
+firma je ime, s katerim družba posluje, je distinktivni, razlikovalni element v pravnem
+prometu, zato se ob trajno uspešnem gospodarskem poslovanju firma družbe spremeni v
+samostojno poslovno kategorijo, ki ima svojo materialno vrednost,
+
+                                                                                              19
+Firma se zavaruje z vpisom v sodni register, kjer se zaščiti svojim imenom. Firmo
+zavarujemo z naslednjimi mehanizmi:
+ - javnopravno varstvo - ob vpisu nove družbe v sodni register sodišče po uradni dolžnosti
+pazi na to, da firma ustreza zakonu; prednost ima družba, ki je prva vložila predlog)
+- civilnopravno varstvo - varstvo mora biti dano tudi vsaki družbi, ki je prej vpisana v
+register in misli, da se kasneje vpisana firma ne razlikuje bistveno od njene; v 3 letih po
+vpisu sporne firme v register lahko s tožbo zahteva izbris iz sodnega registra in odškodnino,
+če ji je nastala škoda
+-        konkorenčnopravno varstvo - zaradi zamenljivosti so oškodovani potrošnik
+KAJ JE PRAVNA IN KAJ POSLOVNA SPOSOBNOST? KDAJ PRAVNA OSEBA PRIDOBI
+PRAVNO/POSLOVNO SPOSOBNOST?
+Pravna sposobnost je sposobnost biti nosilec pravic in obveznosti.
+Poslovna sposobnost je sposobnost z lastnimi ravnanji veljavno sprejemati pravice in
+obveznosti.
+Fizične osebe pravno sposobnost pridobijo jo ob rojstvu in jo izgubijo s smrtjo,popolna
+poslovna sposobnost - fizična oseba jo pridobi s polnoletnostjo, torej z 18 leti; omejeno
+poslovno sposoben je mladoletnik, ki je dopolnil 15 let, saj lahko po našem pravu sklene
+delovno razmerje in razpolaga z osebnim dohodkom; fizično osebo, ki nima poslovne
+sposobnosti, mora v pravnem prometu zastopati zakoniti zastopnik (roditelj) ali skrbnik.
+STATUSNE ZNAČILNOSTI GOSPODARSKIH DRUŽB
+Ločimo dve vrsti gospodarskih družb (glede na status družabnikov):
+1. OSEBNE DRUŽBE – družbeniki odgovarjajo za obveznosti z vsem svojim premoženjem,
+vodijo družbo. Zanje je značilna tesnejša povezanost družbenikov. Pri teh družbah je v
+ospredje postavljeno osebno zaupanje in osebno sodelovanje. Družbeniki so navzven
+odgovorni osebno. Med osebne družbe uvrščamo d.n.o., k.d. in tiho družbo.
+2. KAPITALSKE DRUŽBE - te opredeljuje manjša osebna povezanost družbenikov in večji
+pomen kapitala, ki je v njih združen. Poudarek je na kapitalu. Pravo priznava družbeno
+samostojnost zaradi družbenega kapitala. Pri združevanju v to družbo pa osebno zaupanje
+in osebno sodelovanje nista bistvena, pa tudi družbeniki navzven niso osebno odgovorni.
+Neposredni pravni in ekonomski nosilec podjetja in odgovornosti je namreč kot pravna oseba
+priznani in organizirani kapital sam. Med te družbe uvrščamo: d.o.o., d.d. in k.d.d.
+Med statusno pravne značilnosti gospodarskih družb štejemo v pravni teoriji tiste sestavine,
+po katerih se gospodarske družbe ločijo od drugih pravnih subjektov in ki imajo za pravni
+položaj družbe poseben pomen.
+Statusno pravne značilnosti gospodarskih družb so:
+1. Opravljanje dejavnosti
+2. Pravna osebnost in odgovornost za obveznosti
+3. Firma in sedež
+4. Zastopanje
+5. Registracija v sodnem registru
+6. Poslovna evidenca
+7. Sodelovanje delavcev pri upravljanju
+8. Poslovna skrivnost
+DEJAVNOST GOSPODARSKE DRUŽBE
+- družbe smejo kot dejavnost opravljati vse posle, razen tistih, ki se po zakonu ne smejo
+opravljati kot gospodarski posli,
+
+
+                                                                                           20
+•                        ZGD izhaja iz načela, da je dovoljeno vse, kar ni prepovedano oz. da je
+ustanovitelj družbe pri izbiri dejavnosti avtonomen. Družba namreč sme opravljati vse
+posle, razen tistih, ki se po zakonu ne smejo opravljati kot gospodarski posli.
+- v pojem dejavnosti sicer sodijo vse tiste poslovne dejavnosti, ki jih gospodarska družba
+opravlja, da uresniči namen, zaradi katerega je ustanovljena:
+–               kot pridobitna dejavnost se šteje vsaka dejavnost, ki se izvaja na trgu zaradi
+pridobivanja dobička. Praviloma bo dejavnost gospodarskih družb pridobitna;
+–               lahko pa se oblika gospodarske družbe uporabi tudi za opravljanje
+nepridobitne dejavnosti;
+- dejavnost so posli, ki jih trajno in sistematično opravlja gospodarska družba zaradi
+uresničevanja svojega namena;
+z zakonom se lahko določi, da določene gospodarske posle lahko opravljajo:
+–               le družbe, določene z zakonom, ali
+–               le določene vrste družb (tako npr. velja, da bančne posle lahko opravljajo le
+banke kot delniške družbe, katerih značilnosti oz. posebnosti ureja zakon posebej) ali
+–               le druge organizacije (zakon torej lahko predpiše, da določene gospodarske
+posle opravljajo le organizacije, katerih status in organizacijo sam določi in pri tem ne gre za
+oblike gospodarskih družb).
+- družbe smejo opravljati gospodarske posle:
+–               le v okviru dejavnosti, ki je vpisana v register (glavna dejavnost),
+–               tudi vse druge posle, ki so potrebni za njen obstoj in za opravljanje
+dejavnosti, ne pomenijo pa neposrednega opravljanja dejavnosti (pomožni ali stranski
+posli).
+ODGOVORNOST ZA OBVEZNOSTI IN SPREGLED PRAVNE OSEBNOSTI
+•       z vsem svojim premoženjem so odgovorni za obveznosti:
+–               podjetnik posameznik,
+–               družbe,
+–               podjetnik posameznik ali družba za obveznosti, ki so nastale iz poslovanja
+tihe družbe.
+•       družbeniki so odgovorni za obveznosti družbe s svojim premoženjem v:
+–               družbi z neomejeno odgovornostjo
+–               komplementarji v k.d. in k.d.d..
+•       družbeniki, ki niso odgovorni za obveznosti družbe, so:
+–               delničarji v d.d.,
+–               družbeniki v d.o.o.,
+–               komanditisti v k.d. oz. k.d.d.
+VRSTE IN OPREDELITEV ZASTOPNIKOV GOSPODARSKE DRUŽBE
+•       čeprav je zastopanje posebej urejeno pri vsaki družbi posebej, ZGD vsebuje tudi
+nekatere skupne določbe glede zastopanja družb; v skupnih določbah o zastopanju,
+veljavnih za vse družbe, ZGD pozna zakonskega in statutarnega zastopnika ter ureja
+prokuro. O pooblaščencu v ZGD ni ureditve, saj se glede tega uporabljajo predpisi
+obligacijskega prava.
+•       družbo zastopajo osebe, ki
+–               so navedene v zakonu (zakonski zastopnik - izvirno pooblastilo):
+•                        d.n.o. - vsak družbenik, če ni z družbeno pogodbo izvzet,
+•                        k.d. in k.d.d. - komplementar, komanditist je izrecno izključen iz z.,
+
+                                                                                              21
+•                       t.d. - nosilec tihe družbe,
+•                       d.d. - uprava,
+•                       d.o.o. - poslovodja, eden ali več (direktor)
+–               osebe, ki so navedene v aktu o ustanovitvi družbe (statutarni zastopnik -
+izvirno pooblastilo), ni jih potrebno imenovati osebno, dovolj po funkciji, ki jo opravljajo, ter
+–               osebe, ki jih zastopnik v okviru svojih pooblastil pisno pooblasti
+(pooblaščenec - izvedeno pooblastilo)
+KAKŠNA JE RAZLIKA MED PODJETNIKOM POSAMEZNIKOM, OBRTNIKOM IN IZVAJALCEM
+POKLICA?
+Samostojni podjetnik posameznik je fizična oseba, ki na trgu opravlja pridobitno dejavnost
+kot svojo izključno dejavnost. Torej samostojni podjetnik posameznik je pravna forma
+preko katere lahko posameznik kot fizična oseba opravlja pridobitno dejavnost. Podjetnik
+sklepa pravne posle, je nosilec pravic in obveznosti in za obveznosti odgovarja z vsem
+svojim premoženjem.
+Obrt je gospodarska dejavnost, ki je manjša kot podjetja, izvajajo jo obrtniki. Obrtnik je
+lahko fizična oseba, ki pa se mora vpisat v obrtni register, da lahko opravlja svojo
+dejavnost.
+Izvajalec je oseba oz. družba , ki sprejme delo in ga po vnaprej določeni pogodbi tudi
+izvede. Za delo prejme plačilo, ki je vnaprej dogovorjeno. Izvajalec je dolžan izvesti vse
+dogovorjene obveznosti za katere se je obvezal z ponudbo.
+V ČEM SE RAZLIKUJEJO OSEBNE IN KAPITALSKE DRUŽBE?
+KAPITALSKE DRUŽBE
+Namenjene zbiranju večjega kapitala
+Gre za tipe družb, ki omogočajo izpeljavo rasti posamezni družbi
+Kapital se lahko pridobiva od:
+•               posameznikov;
+•               institucionalnih investitorjev;
+•               skladov rizičnega kapitala.
+Kapitalske družbe so namenjene:
+•               proizvodnji/storitvam;
+•               nadaljnjemu investiranju.
+ ZNAČILNOSTI
+•                       Ločitev lastnikov in družbe
+•                       Omejena odgovornost lastnikov
+•                       Prenos odgovornosti na upravo/direktorja(e)
+•                       Kapitalski interesi pred cilji družbe
+•                       Za majhne vlagatelje oblika naložb
+•                       Pomembnejši kapital kot osebni prispevek
+(+) Družba jamči s svojim premoženjem, družbeniki osebno ne jamčijo (le izjemoma, v
+primerih, določenih z zakonom)
+(-) Zahteva se visok osnovni kapital (d.d. – 6 mio sit, d.o.o. – 2.100.000 sit)
+(-) Zahtevnejši formalnopravni postopki glede ureditve statusa (d.d. - statut v obliki
+notarskega zapisa)
+(-) Bolj zapleteno upravljanje (več obveznih organov)
+(-) Dražja ustanovitev in večji stroški pri delovanju družbe
+
+
+
+                                                                                               22
+OSEBNE DRUŽBE
+(-) Za obveznosti družbe jamčijo družbeniki neomejeno z vsem svojim premoženjem;
+upnikom je torej odgovoren vsak družbenik, ki ga izbere upnik in sicer za celotni znesek
+obveznosti (visoka boniteta)
+(+) Po zakonu ni obvezen minimalni osnovni kapital
+(+) Manj zahtevni formalnopravni postopki glede statusa (ne zahteva se notarska oblika)
+(+) Poenostavljeno upravljanje (manj obveznih organov)
+(+) Cenejša ustanovitev in manj stroškov pri poslovanju
+KATERE SO TEMELJNE ZNAČILNOSTI DRUŽBE Z NEOMEJENO ODGOVORNOSTJO? KAKŠNA
+SO NOTRANJA IN ZUNANJA RAZMERJA V TAKŠNI DRUŽBI?
+Je družba dveh ali več oseb, ki odgovarjajo z vsem svojim premoženjem. Ustanovitev je
+treba vpisat v sodni register, saj družba šele z vpisom pridobi lastnost pravne osebe.
+Vsebovati mora priimek vsaj enega družbenika. Ustanovi se z pogodbo, sklenjeno med vsaj
+dvema fizičnima ali pravnima osebama.
+Družbeniki lahko svojo notranjo razmerje uredijo povsem svobodno.
+Zakon loči dve razmerji: med samimi imetniki istega poslovnega sistema ( notranje
+razmerje) in med imetniki in družbo ( zunanje razmerje).
+(+) Vsi družbeniki imajo možnost popolnega nadzora
+(+) Možen dogovor o delitvi dela
+(+) Možnosti financiranja so večje kot pri samostojnem podjetniku
+(-) Močna vezanost družbenikov na družbo (možna konkurenčna prepoved)
+(-) Neomejena in solidarna odgovornost
+KATERE SO TEMELJNE ZNAČILNOSTI KOMANDITNE DRUŽBE? KAKŠNA SO NOTRANJA IN
+ZUNANJA RAZMERJA V TAKŠNI DRUŽBI?
+Uvršča se med osebne družbe. V njej sta udeleženi dve vrsti družbenikov in sicer
+komplementar in komanditist, v kateri najmanj en družbenik odgovarja z vsem svojim
+premoženjem medtem ko en družbenik ne odgovarja. Prijava za vpis v sodni register mora
+poleg podatkov še vsebovati podatke o komanditistih. V družbi se združujeta delo in
+kapital. Razmerja med družbeniki so urejena dispozitivno. Medtem ko za razmerja med
+družbeniki velja pogodbena svoboda, so razmerja družbenikov do tretjih urejena prisilno.
+(+) Na račun vloge komanditista se povečuje lastni kapital, ne da bi bilo treba deliti
+poslovodstvo z drugimi družbeniki
+(-) Močno je vezan na družbo
+(-) Jamči neomejeno osebno in solidarno
+
+ za komanditista: Kljub udeležbi ni odgovoren z osebnim premoženjem. Le omejeno
+lahko nadzoruje poslovanje družbe, v katero je vložil svoj kapital. Ni mu potrebno sodelovati
+pri poslovodstvu.
+
+KAJ JE DVOJNA DRUŽBA IN ZAKAJ JO ZAKON POSEBEJ OBRAVNAVA?Dvojna družba je po
+zakonski opredelitvi k.d., v kateri je edini komplementar družba in v kateri ni osebno
+odgovornih družbenikov, oz. so vsi komplementarji kapitalske družbe. Dvojna družba je
+praktična rešitev potrebe, da se v okviru osebnih družb oblikuje medsebojna povezava
+kapitalskih in osebnih družb. Ta družba je lahko ustanovljena za določen ali nedoločen
+čas.Dvojna družba je v bistvu osebna družba, v kateri je komplementar pravna oseba v obliki
+kapitalske družbe. V praksi se najbolj pogosto ustanavljajo dvojne družbe tako, da v vlogi
+komplementarja nastopa d.o.o., ki sklene pogodbo o ustanovitvi k.d. s komanditistom, ki je
+
+                                                                                           23
+tudi družbenik d.o.o.Razlogi za ustanavljanje so v davčni sferi, saj so osebne družbe manj
+obremenjene z davki.Dvojna družba se torej imenuje zato, ker je sama družba v kateri se
+pojavlja še ena družba kot komplementar (d.o.o., d.d.).D.d., d.o.o in k.d.d. se po zakonu ne
+smejo preoblikovati v dvojno družbo.Dvojna družba ne sme biti komplementar v k.d.
+KATERE SO TEMELJNE ZNAČILNOSTI TIHE DRUŽBE?Tiha družba nastane s pogodbo, na
+podlagi katere tihi družbenik s premoženjskim vložkom v podjetje koga drugega (nosilec
+tihe družbe) pridobi pravico do udeležbe pri njegovem dobičku. Nosilec tihe družbe in
+eden ali več tihih družbenikov se o svojih razmerjih svobodno dogovarjajo in morajo pri
+njihovem uresničevanju ravnati s tisto skrbnostjo, ki jo uporabljajo v lastnih zadevah. Če
+delež tihega družbenika pri dobičku ali pri izgubi družbe ni določen, ga v sporu glede na
+vložena sredstva in druge okoliščine določi sodišče. Na koncu vsakega poslovnega leta
+mora nosilec tihe družbe izračunati dobiček oziroma izgubo in tihemu družbeniku izplačati
+dobiček, ki mu pripada na podlagi njegovega vložka. Tihi družbenik ima pravico od nosilca
+tihe družbe zahtevati prepis letnega poročila in vpogled v poslovne knjige in knjigovodske
+listine. S pogodbo se pravice tihemu družbeniku ne morejo niti izključiti niti omejiti. Ime
+tihega družbenika ne sme biti v firmi nosilca tihe družbe, sicer je tihi družbenik, ki je za to
+vedel ali bi moral vedeti, odgovoren upnikom za obveznosti nosilca tihe družbe solidarno z
+vsem svojim premoženjem. (+) Udeležba brez obveznosti sodelovanja (+) Omejitev
+jamstva (+) Udeležba je lahko trajna (-)Majhna možnost kontrole (-) Pri povečanju
+vrednosti družbe ni udeležen.
+
+KAJ JE DELNIŠKA DRUŽBA IN KATERE SO NJENE TEMELJNE ZNAČILNOSTI?
+•                     Najbolj razvita in najbolj urejena kapitalska družba
+•                     Namen – za večje kapitalske podvige
+•                     Najstarejša družba – NL 16. stoletje
+•                     Sodobne d.d. – D 1822
+•                     Delniška družba je družba, ki ima osnovni kapital (osnovno glavnico)
+razdeljen na delnice
+•                     Najnižji znesek osnovnega kapitala je 25.000 eurov.
+SKUPINE V D.D.
+-delničarji
+-delavci
+-uprava
+-upniki, investitorji
+KAKŠNA JE RAZLIKA MED SUKCESIVNO IN SIMULTANO USTANOVITVIJO DELNIŠKE
+DRUŽBE?
+ SOČASNA ALI SIMULTANA USTANOVITEV D.D.
+a) POJEM
+D.d. se lahko ustanovi tako, da vsi ustanovitelji sprejmejo in podpišejo statut ter imajo
+dovolj kapitala da sami prevzamejo vse delnice.
+b) USTANOVITEV DRUŽBE
+Družba je ustanovljena, ko ustanovitelji prevzamejo vse delnice.
+c) VPLAČILO DELNIC
+
+
+
+
+                                                                                             24
+Delnice se ob izdaji ne smejo prodajati pod svojo nominalno vrednostjo. Delnice se lahko
+vplačajo v denarju ali s stvarnimi vložki. Vsaj 1/3 osnovnega kapitala morajo tvoriti
+delnice, ki se vplačajo v denarju. Družba mora zagotoviti vsaj 1.100.000 SIT v gotovini
+d) IMENOVANJE ORGANOV
+e) USTANOVITVENO POROČILO
+Ustanovitelji morajo sestaviti pisno poročilo o poteku ustanovitve družbe (ustanovitveno
+poročilo). Ustanovitelji imenujejo prvi nadzorni svet družbe in finančnega revizorja za prvo
+polno ali delno poslovno leto.
+f) USTANOVITVENA REVIZIJA
+Člani uprave in nadzornega sveta morajo preveriti potek ustanovitve družbe. Poleg tega
+mora pregledati ustanovitev eden ali več ustanovitvenih revizorjev:
+POSTOPNA ALI SUKCESIVNA USTANOVITEV D.D.
+a) POJEM
+Družbo se lahko ustanovi tudi tako, da se delnice vpisujejo na podlagi oglasa z vabilom k
+javnemu vpisu delnic (prospekt), če zakon ne določa drugače.
+Ustanovitelji sprejmejo statut, objavijo prospekt, ki mora biti sestavljen v skladu s
+posebnimi predpisi, in prevzamejo del delnic.
+b) VPIS IN VPLAČILO DELNIC
+Vpisovanje delnic in denarna vplačila zanje se opravljajo samo pri bankah in pri bankah
+mora biti vpisnikom na vpogled: statut, poročilo ustanoviteljev in revizorjev ter prospekt.
+c) VPISNICA
+Vsak vpisnik mora podpisati tri izvode izjave o vpisu delnic (vpisnica), enega zase, druga
+dva za družbo. Če vpis delnic opravlja pooblaščenec, je treba vpisnicam, ki ostanejo družbi,
+priložiti pooblastilo.
+d) NEUSPEL VPIS
+Rok za vpisovanje in vplačilo delnic ne sme biti daljši od treh mesecev, od dne, določenega
+za začetek vpisovanja.
+e) SKLIC USTANOVNE SKUPŠČINE
+Ustanovna skupščina se mora opraviti najpozneje v dveh mesecih po preteku s prospektom
+določenega roka za vpisovanje delnic. Ustanovitelji jo morajo sklicati z oglasom, ki se mora
+objaviti na enak način kot prospekt in to tako, da preteče med dnem zadnje objave
+prospekta in ustanovno skupščino najmanj 15 dni.
+KATERE NAČINE UPRAVLJANJA DELNIŠKE DRUŽBE POZNATE IN KAJ SO NJIHOVE
+ZNAČILNOSTI?
+Organi vodenja ali nadzora so uprava, upravni odbor in nadzorni svet.
+Družba lahko izbere dvotirni sistem upravljanja družbe z upravo in nadzornim svetom ali
+enotirni sistem upravljanja družbe z upravnim odborom. Upravljanje delniške družbe v
+Sloveniji ureja predvsem ZGD in podrobnejša določila vsebujejo splošni akti posameznih
+družb (statuti, poslovniki, pravilniki. Najpomembnejši avtonomni vir je prav gotovo Kodeks
+upravljanja javnih delniških družb.
+
+                                                                                          25
+KATERE VRSTE DELNIC POZNATE IN KATERE SO NJIHOVE ZNAČILNOSTI?
+DELNICE
+Vrednostni papir
+Najnižji znesek 1 €
+Ločimo:
+•                 delnice z nominalnim zneskom;
+•                 kosovne delnice (vrednost izračunana).
+Glede načina prenosa ločimo:
+•                 prenosniške
+•                 imenske.
+Glede na pravice ločimo:
+                        Navadne delnice morajo zagotavljati tako pravico do udeležbe pri
+upravljanju družbe kot pravico do dela dobička in do dela preostalega premoženja po
+likvidaciji ali stečaju.
+                        Prednostne delnice pa so lahko zbirne (kumulativne) in udeležbe
+(participativne). Poleg zakonsko naštetih možnosti (prednost pri izplačilu vnaprej določenih
+zneskov ali odstotkov nominalne vrednosti delnic ali od dobička, prednost pri izplačilu ob
+likvidaciji družbe) se lahko kot prednost določijo tudi druge pravice, ki jih predvideva statut
+družbe.
+KAJ ZAJEMA POJEM KORPORACIJSKO UPRAVLJANJE IN ZAKAJ SE JE RAZVIL?
+Korporacijsko upravljanje se ukvarja predvsem s proučevanjem interesov lastnikov,
+delničarjev in ostalih udeležencev v podjetju. Korporacija je skupnost oseb, ki so njeni člani.
+Za korporacijo je značilno, da se združi več oseb tako, da nastane nova oseba, praviloma
+različna od tistih, ki so se vanjo združevale. Korporacija ostane kot oseba naprej, ne glede na
+to, da se spreminjajo njeni ustanovitelji, osebe, ki so se vanjo združile. Korporacija je članska
+združba. Osebe, ki korporacijo ustanovijo, so člani, ki oblikujejo in izražajo poslovno voljo
+korporacije kot osebe z lastno pravno sposobnostjo.
+ORGANI POSLOVODSTVA IN NADZORA
+Skupščina delniške družbe
+Skupščina je organ družbe, v katerem se oblikuje in izraža volja delničarjev tako, da le-ta
+postane volja delniške družbe. Hierarhično je skupščina najvišji organ delniške družbe, saj
+prav v njej delničarji uresničujejo svoje pravice v zadevah družbe. Iz tega ne izhaja splošna
+pristojnost skupščine, ker imajo tudi drugi organi, npr. uprava in nadzorni svet, izbirne
+pristojnosti, saj so le-te določene z zakonom in jim jih ne določa skupščina delniške
+družbe.
+Glede skupščine delničarjev predlagana peta direktiva določa, da mora biti sklicana vsaj
+enkrat letno oz. kadar koli organ, ki vodi posle, to oceni kot potrebno.
+Nadalje direktiva ureja podrobnosti v zvezi s postopkom sklica skupščine, roki, vsebino
+obvestila, manjšinski pravicami v zvezi s sklicem skupščine ter posebej z vključevanjem
+novih točk na dnevni red ter pravicami delničarjev in njihovih zastopnikov na sami seji
+skupščine.
+Sklep skupščine je potreben za vsako spremembo ustanovitvenega akta, razen če gre za
+spremembe, glede katerih je skupščina že odločila, ali pa za spremembe, ki se morajo
+opraviti na podlagi oblastvenih odločitev.
+Dvotirni način upravljanja
+Pri dvotirnem sistemu pride do razmejitve med sprejemanjem in uresničevanjem poslovne
+politike na eni strani in nadzorom, ki ga opravlja personalno ločen organ. Pri dvotirnem
+
+                                                                                               26
+sistemu je postavljeno pravilo, da družbo vodi poslovodni organ, ki ga nadzira nadzorstveni
+organ, ter da slednji tudi imenuje prvega. Člane poslovodnega organa pa lahko ustanovitelji
+določijo v aktu o ustanovitvi. Prav tako so prvi člani nadzorstvenega organa lahko določeni
+v ustanovitvenem aktu.
+Enotirni način upravljanja
+Enotirni sistem vodenja pomeni, da enemu organu po zakonu pripada kompletna funkcija
+poslovodenja, s tem, da ta organ izvršilno funkcijo praviloma prenese na svoje posamezne
+člane, ki nato oblikujejo izvršni organ (izvršni odbor). Delniško družbo v enotirnem sistemu
+vodi administrativno telo, ki sestoji iz izvršilnih in neizvršilnih članov. Neizvršilni člani
+opravljajo nadzor nad delom izvršilnih članov administrativnega telesa.
+KATERE OBLIKE POVEČANJA OSNOVNEGA KAPITALA POZNATE IN KAJ SO NJIHOVE
+ZNAČILNOSTI?
+Povečanje osnovnega kapitala z vložki se lahko izvede samo z izdajo novih delnic. O
+povečanju osnovnega kapitala z vložki se odloča z večino najmanj treh četrtin pri sklepanju
+zastopanega osnovnega kapitala, če s statutom ni določena drugačna kapitalska večina.
+Če se vlagajo stvarni vložki, je treba v sklepu o povečanju osnovnega kapitala določiti
+predmet vložka, osebo, od katere družba pridobi predmet in nominalni znesek delnic, ki jih
+je treba zagotoviti za stvarni vložek.
+KATERE OBLIKE ZMANJŠANJA OSNOVNEGA KAPITALA POZNATE IN KAJ SO NJIHOVE
+ZNAČILNOSTI?
+ZGD ureja tri vrste zmanjšanja osnovnega kapitala, in sicer:
+-        redno zmanjšanje osnovnega kapitala
+-        poenostavljano zmanjšanje osnovnega kapitala
+-        zmanjšanje osnovnega kapitala z umikom delni
+KAJ JE KOMANDITNA DELNIŠKA DRUŽBA IN KATERE SO NJENE ZNAČILNOSTI?
+Komanditna delniška družba je družba vsaj petih družabnikov, pri kateri najmanj en
+družbenik odgovarja za obveznosti družbe z vse svojim premoženjem (komplementar),
+komanditni delničarji, ki imajo delež v osnovnem kapitalu, pa za obveznosti družbe do
+upnikov ne odgovarjajo.
+Za to družbo se smiselno uporabljajo določbe zakona o komanditni družbi. Uporablja pa se
+tudi zakon o delniški družbi. Je zelo redka kapitalska družba.
+Statut k.d.d. mora sprejeti najmanj 5 oseb. V njem se navede osnovni kapital družbe,
+emisijski znesek delnic in, če obstaja več razredov delnic, tudi razrede delnic, ki jih
+prevzamejo komanditni delničarji. Pri sprejemu statuta morajo sodelovati vsi
+komplementarji in tisti komanditni delničarji, ki pri ustanovitvi prevzamejo delnice.
+Družbeniki, ki sprejmejo statut, so ustanovitelji družbe. Statut mora podpisati vsaj en
+komplementar in vsaj štirje komanditni družbeniki. K.d.d. je možno ustanoviti le na
+simultani način, s tem da ustanovitelji prevzamejo vse delnice. Ustanovitveni kapital je
+lahko razdeljen na delniški kapital in na drug kapital ki ga vlaga komplementar.
+KAJ JE DRUŽBA Z OMEJENO ODGOVORNOSTJO IN KATERE SO NJENE TEMELJNE
+ZNAČILNOSTI?
+Družba z omejeno odgovornostjo je družba, katere osnovni kapital sestavljajo osnovni
+vložki družbenikov. Vrednost vložkov je lahko različna. Družbo lahko ustanovi ena ali več
+fizičnih oziroma pravnih oseb, ki postanejo z ustanovitvijo družbe družbeniki. Družba ima
+lahko največ 50 družbenikov. Lahko jih ima tudi več kot 50, vendar tedaj potrebuje
+dovoljenje ministra, pristojnega za gospodarstvo. Družba odgovarja za obveznosti z vsem
+svojim premoženjem medtem, ko družbeniki odgovarjajo do višine ustanovnega deleža v
+
+                                                                                           27
+kapitalu družbe. Družba se ustanovi s pogodbo, ki je lahko sklenjena v obliki notarskega
+zapisa, kadar jo ustanavlja več družbenikov. Družbeno pogodbo podpišejo jo vsi družbeniki.
+Osnovni kapital (osnovna glavnica) mora znašati vsaj 7500 eurov, vsak osnovni vložek pa
+najmanj 50 eurov. Osnovni vložek je lahko zagotovljen v denarju ali kot stvarni vložek ali
+stvarni prevzem. Družbo z omejeno odgovornostjo lahko ustanovi samo ena oseba
+(ustanovitelj), ki sprejme akt o ustanovitvi, za katerega ni potrebno, da je v obliki notarskega
+zapisa. Če ustanovitelj pred prijavo družbe za vpis v register ni v celoti vplačal denarnega
+dela osnovnega vložka, mora za manjkajoči del zagotoviti družbi ustrezno varščino.
+Ustanovitelj mora listino o varščini predložiti sodišču ob prijavi za vpis v register. Pravni
+posli, ki jih sklene edini družbenik v imenu družbe s samim seboj kot drugo pogodbeno
+stranko, morajo biti v pisni obliki, pri čemer kolizijski zastopnik družbe ni potreben. Vse
+odločitve, o katerih sicer odloča skupščina, sprejema edini družbenik samostojno, pri
+čemer mora vse odločitve vpisovati v knjigo sklepov, ki jo potrdi notar najpozneje do vpisa
+družbe v register, sicer ti sklepi nimajo pravnega učinka.
+KAKŠNE SO PRAVICE IN OBVEZNOSTI DRUŽBENIKOV V DRUŽBI Z OMEJENO
+ODGOVORNOSTJO?
+Družbena pogodba mora vsebovati:
+
+       navedbo imena in priimka ter prebivališča ali firme in sedeža vsakega družbenika
+     firmo, sedež in dejavnost družbe,
+       navedbo zneska osnovnega kapitala in vsakega osnovnega vložka posebej, navedbo
+družbenika za vsak osnovni vložek in njegov poslovni delež,
+     čas delovanja družbe, če je ustanovljena za določen čas,
+     morebitne obveznosti, ki jih imajo družbeniki do družbe poleg vplačila osnovnega
+vložka, in morebitne obveznosti družbe do družbenikov,
+       če se osnovni kapital ali njegov del izroči kot stvarni vložek, se morajo v pogodbi ali
+prilogi, ki je sestavni del pogodbe, navesti predmet vsakega stvarnega vložka posebej,
+znesek osnovnega vložka, za katerega se daje stvarni vložek in družbenik, ki je stvarni vložek
+prispeval,
+       pogodba lahko poleg teh, vsebuje še druge sestavine.
+
+Če družbeno pogodbo za katerega od družbenikov podpiše pooblaščenec, mora biti
+priloženo družbenikovo pooblastilo. Če je družbena pogodba sklenjena v notarski obliki,
+mora družbenikovo pooblastilo potrditi notar.                                          KAJ JE
+DRUŽBA Z OMEJENO ODGOVORNOSTJO ENEGA? KATERE SO NJENE POSEBNOSTI?Družba z
+enim družbenikom je posebna zvrst družbe z omejeno odgovornostjo. Tako za družbo z
+enim družbenikom veljajo vsa pravila, določena sicer za družbo z omejeno odgovornostjo,
+razen tistih, ki so drugače oz. posebej urejena prav za družbo z enim družbenikom.
+Temeljna značilnost družbe z enim družbenikom je v tem, da družbo z omejeno
+odgovornostjo ustanovi ena sama oseba. Prav zaradi tega, ker je ustanovitelj ena sama
+osebe, se družba ne ustanovi s pogodbo, ampak z ustanovitvenim aktom, v obliki
+notarskega zapisa. Posebnosti pri upravljanju družbe z enim družbenikom je v položaju
+ustanovitelja oz. edinega družbenika. Ta samostojno odloča o vprašanjih, o katerih sicer
+odločajo družbeniki sami, tako kot to predvideva družbena pogodba. Za edinega
+ustanovitelja v zvezi z upravljanjem družbe je vodenje knjige sklepov obvezno; poslovodja
+mora vsako odločitev, ki jo sprejme v zvezi z upravljanjem družbe, vpisati v knjigo sklepov,
+ki jo mora potrditi notar. Sklep, ki je bil sprejet, pa ni vpisan v knjigo, pravno ne obstaja
+
+                                                                                              28
+oz. nima pravnega učinka.                                                      KATERE OBLIKE
+POVEZAVE DRUŽB POZNATE IN KATERE SO NJIHOVE ZNAČILNOSTI? Družbe se povezujejo
+zaradi preživetja, za zadovoljitev potreb. Govorimo o več vrstah in ciljih povezav oziroma
+integracij. Bistvo povezovanja družbe še naprej ostanejo pravno samostojne. Družbe zaradi
+povezave izgubijo sicer nekaj svoje upravljavske in ekonomske samostojnosti. Gre za
+horizontalne, vertikalne in integralne integracije. Horizontalno povezovanje; Gre za
+povezave med družbami, ki v osnovi proizvajajo enake vrste proizvodov in opravljajo iste
+vrste storitev. Kaže se v delitvi dela. Namesto, da bi vsaka imela isto proizvodnjo, se
+dogovorijo, da bodo delo delile. Prednosti – specializacija (proizvodnjo usmerijo na ožje
+področje), povečanje proizvodnje, nižje cene, večji dobiček, manjši proizvodni stroški.
+Slabosti – zmanjša se konkurencaVertikalno povezovanje; Gre za povezave med družbami
+z različnimi proizvodi, vendar so med sabo povezane v proizvodno verigo (povezava od
+surovin do končnega izdelka). Razlog za združevanje je v skupnem planiranju in
+proizvodnji. Pomembno je zaradi tega da ni več negotovosti, saj so družbe povezane v
+verigo in skupno planirajo tudi proizvodnjo zaradi trga.Diagonalno povezovanje
+(konglomeratne povezave); Vsa podjetja se med seboj povezana. Drug od drugega
+kupujejo delnice in s tem pride tudi do globalizacije gospodarstva. Gospodarstvo zaradi
+tega deluje bolj celovito.Zakon je določil, da družba, ki doseže 25% delež v drugi družbi,
+mora to drugi družbi sporočiti (notofikacija). Če ne sporoči, gre za sovražen prevzem družbe.
+Da bi to preprečili je bil sprejet Zakon o prevzemu, ki določa, da če pri 25% deležu ne
+obvesti, se njihov glas na skupščini ne šteje. Drugič se obvesti, ko družba doseže 50% delež v
+drugi družbi (drugo notifikacija)
+
+KAJ SO PREVZEMI IN KAKŠNO JE NJIHOVO PRAVNO VARSTVO?Združitve in delitve ter
+preoblikovanje gospodarskih družb, opredelitev pojmovZdružitev ali fuzija se nanaša
+izrecno na delniške družbe, ne pa na druge oblike, niti kapitalske, niti osebne družbe.
+Izhodišče ureditev je zavarovanje interesov na eni strani delničarjev, na drugi strani pa
+tretjih (upnikov), če pride do takšne vrste statusnih sprememb pri podjetjih, ki jih lahko
+uvrstimo v pojem fuzije. Ureditev v direktivi opredeljuje združitev s prevzemom takole: ena
+ali več družb preneha obstajati, ne da bi šla v likvidacijo in prenese na drugo družbo vsa
+svoja sredstva in obveznosti v zameno za izdajo delnic prevzemne družbe, ki jih prejmejo
+delničarji družb, ki so prenehale obstajati, z možnostjo plačila v denarju, ki pa ne sme
+presegati 10 % nominalne vrednosti tako izdanih delnic.Direktiva opredeljuje tudi pojem
+združitev z ustanovitvijo nove družbe. Določa, da gre pri tovrstnem preoblikovanju za
+prenehanje ene ali več družb, ki prav tako ne gredo v likvidacijo, ampak prenesejo vse svoje
+premoženje, to se pravi sredstva in obveznosti, na novo družbo, ki jo v ta namen
+ustanovijo.Pri prvem dejanju gre torej za dejansko pripojitev ene ali več družb k že obstoječi
+družbi, v drugem primeru pa za pripojitev k družbi, ki je v ta namen na novo ustanovljena.Pri
+delitvi delniške družbe poznamo delitev s prevzemom in delitev z ustanovitvijo novih
+družb.Delitev s prevzemom po opredelitvi pojma direktive pomeni postopek, v okviru
+katerega družba, ki preneha obstajati, ne gre pa v likvidacijo, prenese svoja sredstva in
+obveznosti na več kot eno družbo, v zameno za to pa delničarji družbe, ki se deli, dobijo
+delnice družb, na katere se prenese premoženje družbe, ki je predmet delitve.Delitev z
+ustanovitvijo novih družb je po opredelitvi pojma direktive postopek, v okviru katerega
+družba, ki preneha (ne gre pa za likvidacijo), prenese na več kot eno novoustanovljeno
+družbo vsa svoja sredstva in obveznosti, v zameno za to pa delničarji družbe, ki se deli,
+dobijo delnice novo ustanovljenih družb.Preoblikovanje (konverzija) je sprememba
+
+                                                                                            29
+pravnoorganizacijske oblike, pomeni torej, da družba obstaja še naprej, vendar v drugi
+obliki.                                                                          Vrste
+preoblikovanj:
+
+-       preoblikovanje delniške družbe v komanditno delniško družbo
+-       preoblikovanje komanditne delniške družbe v delniško družbo
+-       preoblikovanje delniške družbe v družbo z omejeno odgovornostjo
+-       preoblikovanje družbe z omejeno odgovornostjo v delniško družbo
+-       preoblikovanje komanditne delniške družbe v družbo z omejeno odgovornostjo
+-       preoblikovanje družbe z omejeno odgovornostjo v komanditno delniško družbo
+-       preoblikovanje zadruge v delniško družbo
+PRENEHANJE GOSPODARSKIH DRUŽB, NAČINI IN VRSTE POSTOPKOV
+7.1. REDNO PRENEHANJE
+Razlogi za prenehanje družbe so lahko raznovrstni in številni. Mednje uvrščamo:
+1. Potek časa
+2. Sklep skupščine
+3. Opustitev delovanja
+4. Odločitev sodišča
+5. Zmanjšanje osnovnega kapitala pod zakonski minimum
+6. Stečaj družbe
+LIKVIDACIJA - pri likvidaciji se predpostavlja, da ima družba dovolj premoženja za
+poplačanje vseh dolgov, ostanek pa se razdeli med družbenike. Likvidacijo vodijo organi
+družbe (likvidacijski upravitelji), lahko pa jo odredi sodišče.
+7.2. PRISILNA PORAVNAVA IN STEČAJ DRUŽBE
+7.2.1. PRISILNA PORAVNAVA
+Je poseben sodni postopek, ki na predlog prezadolženega dolžnika poteče pred sodiščem, z
+namenom da se odpravi prezadolženost dolžnika. Torej iz ekonomskih razlogov, zaradi
+katerih preti nevarnost začetka stečajnega postopka, ki se uvede, če je stečajni dolžnik dalj
+časa plačilno nesposoben. Prezadolženost dolžnika naj bi bila odpravljena z odložitvijo oz.
+zmanjšanjem dolgov dolžnika in z njegovo reorganizacijo, ki naj mu zagotovi normalno
+gospodarsko poslovanje.
+Načini odplačevanja so:
+1. poplačamo 50% terjatev v roku 1 leta, ostalo pa po enem letu
+2. poplačamo 60% v dveh letih, ostalo kasneje
+3. poplačamo 100% v treh letih
+Organi prisilne poravnave so:
+1. PORAVNALNI SENAT - senat 3 sodnikov, vodi postopek prisilne poravnave, lahko določi
+tudi upravitelja prisilne poravnave. Razpiše glavni narok kjer upniki odločajo (mora biti
+večina vseh katerih terjatve presegajo ½ terjatev)
+2. UPNIŠKI ODBOR - 5 članov ali vedno liho št. članov, pregledajo poslovanje in finančno
+stanje dolžnika, sodeluje pri oblikovanju načrta finančne reorganizacije, predlaga postavitev
+ali odstavitev upravitelja prisilne poravnave.
+3. UPRAVITELJ PRISILNE PORAVNAVE – pripravi seznam upnikov in dolžnikov
+Poznamo tudi sanacijo podjetja, vendar te zakon ne obravnava. O sanaciji odločajo lastniki.
+Z njo ozdravijo podjetje. Izvedejo jo tako, da pokrijejo izgubo podjetja. Če se lastniki ne
+odločijo za sanacijo pa se lahko za prisilno poravnavo.
+7.2.2. STEČAJ DRUŽBE
+
+                                                                                           30
+Pri stečaju družba nima dovolj premoženja za poplačilo dolgov in prisilna poravnava ne
+uspe, zato ob stečaju družbeniki ostanejo praznih rok. Stečajni postopek teče na sodišču,
+poleg tega pa je zanj obvezen sodni postopek. Predlagatelji so ponavadi upniki ali pa
+podjetje samo ali pa obvezno uprava podjetja kadar to določa ZGD.
+V stečajnem postopku so prisotni naslednji organi:
+* STEČAJNI SENAT - sestavljajo ga trije sodniki, eden od njih je predsednik. Ta senat odloča o
+delitvi stečajne mase. Predsednik senata je tisti, ki izvršuje stečajni postopek.
+* STEČAJNI UPRAVITELJ - je tisti, ki pripelje družbo do konca (izpelje začete posle). Z uvedbo
+stečajnega postopka preneha delovno razmerje, zapadejo terjatve. Izterja dolgove, skrbi da
+se premoženje ohranja …
+* UPNIŠKI ODBOR - v ta odbor so organizirani upniki, ki predlagajo stečajnega upravitelja.
+Najprej se poplačajo stroški tečajnega postopka, potem minimalni osebni dohodki delavcev,
+vrnejo se tudi predmeti kateri niso v lasti podjetja.
+
+
+
+
+                                                                                            31
+32
+

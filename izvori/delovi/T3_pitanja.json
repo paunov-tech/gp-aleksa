@@ -1,0 +1,3535 @@
+[
+ {
+  "id": "T3-001",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – pojem",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o družbi z neomejeno odgovornostjo (d.n.o.) so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o društvu sa neograničenom odgovornošću (d.n.o.) tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Ustanovi se s pogodbo med družbeniki.",
+    "prevod_sr": "Osniva se ugovorom između članova društva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: društvo se osniva ugovorom između članova (76. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Je družba dveh ali več oseb, ki za obveznosti družbe odgovarjajo z vsem svojim premoženjem.",
+    "prevod_sr": "To je društvo dva ili više lica koja za obaveze društva odgovaraju celokupnom svojom imovinom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: to je zakonska definicija d.n.o. (ZGD-1, 76. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Ustanovi jo lahko tudi ena sama oseba z aktom o ustanovitvi.",
+    "prevod_sr": "Može je osnovati i jedno jedino lice aktom o osnivanju.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: d.n.o. je društvo dva ili više lica (76. člen, 1. odst.); akt o osnivanju jednog osnivača važi za jednočlanu d.o.o. (523. člen)."
+   },
+   {
+    "besedilo_sl": "Zakon zanjo predpisuje najnižji osnovni kapital 7.500 eurov.",
+    "prevod_sr": "Zakon za nju propisuje najniži osnovni kapital od 7.500 evra.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 7.500 EUR je minimalni osnovni kapital d.o.o. (475. člen, 1. odst.); odredbe o d.n.o. (76.–134. člen) ne propisuju osnovni kapital."
+   },
+   {
+    "besedilo_sl": "Družbeniki odgovarjajo za obveznosti družbe le do višine svojih vložkov.",
+    "prevod_sr": "Članovi odgovaraju za obaveze društva samo do visine svojih uloga.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: članovi d.n.o. odgovaraju celokupnom svojom imovinom (76. člen, 1. odst.; 100. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "družba z neomejeno odgovornostjo",
+   "družbenik",
+   "družbena pogodba",
+   "odgovornost z vsem premoženjem"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 76. člen; 100. člen, 1. odst.; 475. člen, 1. odst.; 523. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-002",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – vložki",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o vložkih družbenikov v d.n.o. NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o ulozima članova u d.n.o. NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Vrednost nedenarnega vložka morajo družbeniki sporazumno oceniti v denarju.",
+    "prevod_sr": "Vrednost nenovčanog uloga članovi moraju sporazumno proceniti u novcu.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (80. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Če ni drugače dogovorjeno, morajo družbeniki vplačati enake vložke.",
+    "prevod_sr": "Ako nije drugačije ugovoreno, članovi moraju uplatiti jednake uloge.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (ZGD-1, 80. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbenik lahko v družbo vloži tudi storitve.",
+    "prevod_sr": "Član može u društvo uložiti i usluge.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna – ulog može biti novac, stvari, prava ili usluge (80. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbenik mora dopolniti vložek, ki se je zmanjšal zaradi izgube.",
+    "prevod_sr": "Član mora dopuniti ulog koji se smanjio zbog gubitka.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): član nije dužan da poveća ugovoreni ulog niti da dopuni ulog smanjen gubitkom (80. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Vrednost nedenarnega vložka mora oceniti revizor.",
+    "prevod_sr": "Vrednost nenovčanog uloga mora proceniti revizor.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): vrednost nenovčanog uloga članovi sporazumno procenjuju u novcu (80. člen, 2. odst.); revizor se ne traži."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "vložek",
+   "nedenarni vložek",
+   "storitve",
+   "izguba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 80. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-003",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – vodenje poslov",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kdo vodi posle družbe z neomejeno odgovornostjo?",
+  "prevod_sr": "Ko vodi poslove društva sa neograničenom odgovornošću?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če je z družbeno pogodbo vodenje poslov preneseno na enega ali več družbenikov, drugi družbeniki ne smejo voditi poslov.",
+    "prevod_sr": "Ako je društvenim ugovorom vođenje poslova preneto na jednog ili više članova, ostali članovi ne smeju voditi poslove.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 85. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Posle vodi le tisti družbenik, ki je vplačal največji vložek.",
+    "prevod_sr": "Poslove vodi samo onaj član koji je uplatio najveći ulog.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: poslove vode svi članovi, nezavisno od visine uloga (85. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Posle vodi uprava, ki jo imenuje nadzorni svet.",
+    "prevod_sr": "Poslove vodi uprava koju imenuje nadzorni odbor.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: uprava koju imenuje nadzorni svet je organ d.d. (265. i 268. člen); u d.n.o. poslove vode članovi (85. člen)."
+   },
+   {
+    "besedilo_sl": "Družbenik lahko upravičenje za vodenje poslov vedno prosto prenese na tretjo osebo.",
+    "prevod_sr": "Član može ovlašćenje za vođenje poslova uvek slobodno preneti na treće lice.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prenos na trećeg nije dozvoljen ako to ne dopušta društveni ugovor ili ostali članovi (86. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Posle družbe so upravičeni in dolžni voditi vsi družbeniki.",
+    "prevod_sr": "Poslove društva ovlašćeni su i dužni da vode svi članovi.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: to je zakonsko pravilo (ZGD-1, 85. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "vodenje poslov",
+   "družbenik",
+   "družbena pogodba",
+   "upravičenje"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 85. člen; 86. člen, 1. odst.; 265. člen; 268. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-004",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – več družbenikov, ki vodijo posle",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "V d.n.o. sta za vodenje poslov upravičena družbenika Ana in Bor; družbena pogodba ne določa, da smeta poslovati samo skupno. Ana želi skleniti posel, ki spada v redno dejavnost družbe, Bor pa izvedbi posla nasprotuje. Kaj velja?",
+  "prevod_sr": "U d.n.o. za vođenje poslova ovlašćeni su članovi Ana i Bor; društveni ugovor ne određuje da smeju poslovati samo zajedno. Ana želi da zaključi posao iz redovne delatnosti društva, a Bor se izvršenju posla protivi. Šta važi?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Posel se lahko opravi, če ga odobri prokurist.",
+    "prevod_sr": "Posao se može obaviti ako ga odobri prokurista.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prokurista ne može nadomestiti saglasnost člana; važi pravo protivljenja iz 87. člena, 1. odst."
+   },
+   {
+    "besedilo_sl": "O poslu odloči sodišče na Anin predlog.",
+    "prevod_sr": "O poslu odlučuje sud na Anin predlog.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakon ne predviđa odluku suda; zbog protivljenja se posao ne sme obaviti (87. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Posel se ne sme opraviti.",
+    "prevod_sr": "Posao se ne sme obaviti.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ako se drugi član ovlašćen za vođenje poslova protivi izvršenju posla, taj posao se ne sme obaviti (87. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Odloči družbenik, ki ima večji kapitalski delež.",
+    "prevod_sr": "Odlučuje član koji ima veći kapitalski udeo.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pravo protivljenja ne zavisi od visine udela (87. člen, 1. odst.); i većina se u sumnji računa po broju članova (93. člen)."
+   },
+   {
+    "besedilo_sl": "Ana lahko posel opravi, ker je vsak družbenik upravičen sam poslovati.",
+    "prevod_sr": "Ana može obaviti posao jer je svaki član ovlašćen da sam posluje.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: svaki je doduše ovlašćen da sam posluje, ali ako se drugi ovlašćeni član protivi, posao se ne sme obaviti (ZGD-1, 87. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "vodenje poslov",
+   "nasprotovanje",
+   "posel",
+   "družbenik"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 87. člen, 1. odst.; 93. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-005",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – zastopanje",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o zastopanju družbe z neomejeno odgovornostjo so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o zastupanju društva sa neograničenom odgovornošću tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Družbenik je za zastopanje upravičen le, če mu drugi družbeniki podelijo prokuro.",
+    "prevod_sr": "Član je ovlašćen za zastupanje samo ako mu ostali članovi dodele prokuru.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: član je ovlašćen za zastupanje po samom zakonu (98. člen, 1. odst.); prokura je bitna za komanditistu u k.d. (144. člen)."
+   },
+   {
+    "besedilo_sl": "Za zastopanje družbe je upravičen vsak družbenik, če ni z družbeno pogodbo izvzet od zastopanja.",
+    "prevod_sr": "Za zastupanje društva ovlašćen je svaki član, ako društvenim ugovorom nije izuzet od zastupanja.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 98. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Upravičenje za zastopanje družbeniku iz utemeljenega razloga odvzame registrski organ po uradni dolžnosti.",
+    "prevod_sr": "Ovlašćenje za zastupanje članu iz opravdanog razloga oduzima registarski organ po službenoj dužnosti.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: ovlašćenje za zastupanje oduzima sud na predlog ostalih članova (99. člen)."
+   },
+   {
+    "besedilo_sl": "Družbena pogodba lahko določi, da so vsi ali nekateri družbeniki upravičeni zastopati družbo samo skupno.",
+    "prevod_sr": "Društveni ugovor može odrediti da su svi ili neki članovi ovlašćeni da zastupaju društvo samo zajedno.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: skupno zastupanje se može ugovoriti (98. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Izvzetje družbenika od zastopanja morajo za vpis v register prijaviti vsi družbeniki.",
+    "prevod_sr": "Izuzeće člana od zastupanja moraju za upis u registar prijaviti svi članovi.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 98. člen, 4. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "zastopanje",
+   "skupno zastopanje",
+   "register",
+   "sodišče"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 98. člen; 99. člen; 144. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-006",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – odgovornost družbenikov",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o odgovornosti družbenikov d.n.o. za obveznosti družbe NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o odgovornosti članova d.n.o. za obaveze društva NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Družbenik, čigar članstvo preneha, ne odgovarja več za nobeno obveznost družbe.",
+    "prevod_sr": "Član čije članstvo prestane više ne odgovara ni za jednu obavezu društva.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): takav član odgovara za obaveze nastale do objave upisa prestanka članstva (100. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Če družba upniku na njegovo pisno zahtevo ne izpolni obveznosti, so vsi družbeniki odgovorni solidarno.",
+    "prevod_sr": "Ako društvo poveriocu na njegov pisani zahtev ne ispuni obavezu, svi članovi odgovaraju solidarno.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (100. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Dogovor družbenikov, da upnikom odgovarjajo le do višine vložkov, učinkuje tudi proti tretjim osebam.",
+    "prevod_sr": "Dogovor članova da poveriocima odgovaraju samo do visine uloga deluje i prema trećim licima.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): drugačiji dogovor o odgovornosti prema trećim licima je bez pravnog dejstva (100. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbeniki so upnikom odgovorni subsidiarno z vsem svojim premoženjem.",
+    "prevod_sr": "Članovi su poveriocima odgovorni supsidijarno celokupnom svojom imovinom.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (ZGD-1, 100. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbenik lahko proti upniku uveljavlja osebne ugovore in ugovore, ki bi jih lahko uveljavljala družba.",
+    "prevod_sr": "Član može prema poveriocu isticati lične prigovore i prigovore koje bi moglo isticati društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (101. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "osebna odgovornost",
+   "subsidiarno",
+   "solidarno",
+   "upnik",
+   "ugovor"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 100. člen; 101. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-007",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – odgovornost novega družbenika",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Cene 1. marca vstopi v že obstoječo d.n.o. Upnik zahteva plačilo obveznosti, ki jo je družba prevzela januarja istega leta. Družbeniki so se dogovorili, da Cene za »stare« obveznosti ne odgovarja. Kaj velja?",
+  "prevod_sr": "Cene 1. marta pristupa već postojećem d.n.o. Poverilac zahteva plaćanje obaveze koju je društvo preuzelo u januaru iste godine. Članovi su se dogovorili da Cene za „stare” obaveze ne odgovara. Šta važi?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Cene odgovarja tako kot drugi družbeniki; dogovor družbenikov je proti upniku brez pravnega učinka.",
+    "prevod_sr": "Cene odgovara kao i ostali članovi; dogovor članova je prema poveriocu bez pravnog dejstva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 103. člen, 1. i 2. odst. – drugačiji dogovor o odgovornosti novog člana nema dejstvo prema trećim licima."
+   },
+   {
+    "besedilo_sl": "Cene ne odgovarja, ker je bila obveznost prevzeta pred njegovim pristopom.",
+    "prevod_sr": "Cene ne odgovara jer je obaveza preuzeta pre njegovog pristupanja.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: novi član odgovara kao i ostali i za obaveze preuzete pre pristupanja (ZGD-1, 103. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Cene odgovarja le, če je bila ob njegovem vstopu spremenjena firma družbe.",
+    "prevod_sr": "Cene odgovara samo ako je pri njegovom ulasku promenjena firma društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: odgovara bez obzira na to da li je firma promenjena ili ne (103. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Cene ne odgovarja, ker dogovor družbenikov veže tudi upnike družbe.",
+    "prevod_sr": "Cene ne odgovara jer dogovor članova obavezuje i poverioce društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: takav dogovor je prema trećim licima bez pravnog dejstva (103. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Cene odgovarja le do višine svojega vložka.",
+    "prevod_sr": "Cene odgovara samo do visine svog uloga.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: odgovara kao ostali članovi, dakle celokupnom imovinom (103. člen, 1. odst.; 100. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "novi družbenik",
+   "pristop",
+   "obveznosti družbe",
+   "brez pravnega učinka"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 103. člen; 100. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-008",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – razlogi za prenehanje",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "V katerih primerih družba z neomejeno odgovornostjo po zakonu preneha?",
+  "prevod_sr": "U kojim slučajevima društvo sa neograničenom odgovornošću po zakonu prestaje?",
+  "odgovori": [
+   {
+    "besedilo_sl": "S smrtjo ali prenehanjem družbenika, če družbena pogodba ne določa drugače.",
+    "prevod_sr": "Smrću ili prestankom člana, ako društveni ugovor ne određuje drugačije.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 105. člen, 4. alineja."
+   },
+   {
+    "besedilo_sl": "S potekom časa, za katerega je bila ustanovljena.",
+    "prevod_sr": "Istekom vremena na koje je osnovano.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 105. člen, 1. alineja."
+   },
+   {
+    "besedilo_sl": "S stečajem.",
+    "prevod_sr": "Stečajem.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 105. člen, 3. alineja."
+   },
+   {
+    "besedilo_sl": "Če se število družbenikov zmanjša pod tri.",
+    "prevod_sr": "Ako se broj članova smanji ispod tri.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: društvo prestaje ako se broj članova smanji ispod dva, osim u slučaju iz 115. člena (105. člen, 7. alineja)."
+   },
+   {
+    "besedilo_sl": "Z odpovedjo.",
+    "prevod_sr": "Otkazom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 105. člen, 5. alineja (otkaz člana uređuje 106. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "prenehanje družbe",
+   "stečaj",
+   "odpoved",
+   "smrt družbenika"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 105. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-009",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – odpoved družbenika",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Gal je družbenik d.n.o., ki je ustanovljena za nedoločen čas; poslovno leto družbe je enako koledarskemu. Gal želi odpovedati družbeno pogodbo. Katera trditev je pravilna?",
+  "prevod_sr": "Gal je član d.n.o. koje je osnovano na neodređeno vreme; poslovna godina društva jednaka je kalendarskoj. Gal želi da otkaže društveni ugovor. Koja je tvrdnja tačna?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pogodbo lahko odpove kadarkoli z učinkom v 30 dneh od odpovedi.",
+    "prevod_sr": "Ugovor može otkazati bilo kada sa dejstvom u roku od 30 dana od otkaza.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: otkaz je moguć na kraju poslovne godine uz pisano obaveštenje najmanje šest meseci ranije (ZGD-1, 106. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Odpoved je mogoča le s soglasjem vseh drugih družbenikov.",
+    "prevod_sr": "Otkaz je moguć samo uz saglasnost svih ostalih članova.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pravo otkaza pripada članu samom; dogovor koji bi to pravo isključio ili otežao je ništav (106. člen, 1. i 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Pogodbo lahko odpove na koncu poslovnega leta, če odpoved pisno sporoči drugim družbenikom vsaj tri mesece pred tem dnem.",
+    "prevod_sr": "Ugovor može otkazati na kraju poslovne godine ako otkaz pisano saopšti ostalim članovima najmanje tri meseca pre tog dana.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakonski rok je najmanje šest meseci (106. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Pogodbo lahko odpove na koncu poslovnega leta, če odpoved pisno sporoči drugim družbenikom vsaj šest mesecev pred tem dnem.",
+    "prevod_sr": "Ugovor može otkazati na kraju poslovne godine ako otkaz pisano saopšti ostalim članovima najmanje šest meseci pre tog dana.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 106. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Pravica do odpovedi je z družbeno pogodbo lahko veljavno izključena.",
+    "prevod_sr": "Pravo na otkaz može se društvenim ugovorom punovažno isključiti.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: svaki dogovor koji isključuje pravo na otkaz ili ga otežava (osim produženja otkaznog roka) je ništav (106. člen, 2. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "odpoved",
+   "nedoločen čas",
+   "poslovno leto",
+   "odpovedni rok"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 106. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-010",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – nadaljevanje z enim družbenikom",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "V d.n.o. iz kateregakoli razloga ostane en sam družbenik. Katere možnosti mu daje zakon?",
+  "prevod_sr": "U d.n.o. iz bilo kog razloga ostane jedan jedini član. Koje mogućnosti mu daje zakon?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Družba se po zakonu samodejno preoblikuje v enoosebno d.o.o.",
+    "prevod_sr": "Društvo se po zakonu automatski preoblikuje u jednočlano d.o.o.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakon ne predviđa automatsko preoblikovanje; član mora sam prilagoditi društvo ili nastaviti kao preduzetnik (115. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Družba preneha takoj, ko ostane en sam družbenik.",
+    "prevod_sr": "Društvo prestaje odmah kada ostane jedan jedini član.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prestaje tek ako član u roku od jedne godine ne prijavi upis promene u registar (115. člen, 2. odst.; 105. člen, 7. alineja)."
+   },
+   {
+    "besedilo_sl": "Dejavnost lahko nadaljuje kot podjetnik.",
+    "prevod_sr": "Delatnost može nastaviti kao preduzetnik.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 115. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "V enem letu lahko ukrene vse potrebno, da družbo prilagodi pogojem zakona.",
+    "prevod_sr": "U roku od jedne godine može preduzeti sve potrebno da društvo uskladi sa uslovima zakona.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 115. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Rok za prilagoditev družbe pogojem zakona je šest mesecev.",
+    "prevod_sr": "Rok za usklađivanje društva sa uslovima zakona je šest meseci.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: rok je jedna godina (115. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "en družbenik",
+   "podjetnik",
+   "prilagoditev",
+   "eno leto"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 115. člen; 105. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-011",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z neomejeno odgovornostjo – delitev dobička in izgube",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Družbenica d.n.o. ima kapitalski delež 20.000 eurov. Družba je v poslovnem letu ustvarila dovolj dobička, družbeniki pa niso sklenili, da se dobiček deli drugače kot po zakonu. Kaj velja?",
+  "prevod_sr": "Članica d.n.o. ima kapitalski udeo od 20.000 evra. Društvo je u poslovnoj godini ostvarilo dovoljno dobiti, a članovi nisu odlučili da se dobit deli drugačije nego po zakonu. Šta važi?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Izgubo v poslovnem letu nosi samo družbenik z največjim kapitalskim deležem.",
+    "prevod_sr": "Gubitak u poslovnoj godini snosi samo član sa najvećim kapitalskim udelom.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: gubitak se deli među članove na jednake delove (95. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Od dobička ji najprej pripada 1.000 eurov, to je 5 % njenega kapitalskega deleža.",
+    "prevod_sr": "Od dobiti joj najpre pripada 1.000 evra, to jest 5 % njenog kapitalskog udela.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: svakom članu najpre pripada udeo u visini 5 % njegovog kapitalskog udela (ZGD-1, 95. člen, 1. odst.); 5 % od 20.000 = 1.000."
+   },
+   {
+    "besedilo_sl": "Od dobička ji najprej pripada 2.000 eurov, to je 10 % njenega kapitalskega deleža.",
+    "prevod_sr": "Od dobiti joj najpre pripada 2.000 evra, to jest 10 % njenog kapitalskog udela.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakonska stopa je 5 %, ne 10 % (95. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Dobiček, ki presega tako izračunane deleže, se razdeli med družbenike po enakih delih.",
+    "prevod_sr": "Dobit koja prelazi tako izračunate udele deli se među članove na jednake delove.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 95. člen, 3. odst."
+   },
+   {
+    "besedilo_sl": "Dobiček, ki presega tako izračunane deleže, se razdeli sorazmerno s kapitalskimi deleži.",
+    "prevod_sr": "Dobit koja prelazi tako izračunate udele deli se srazmerno kapitalskim udelima.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: ostatak dobiti (i gubitak) deli se na jednake delove (95. člen, 3. odst.); srazmerno udelima deli se u k.d. (142. člen, 2. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "dobiček",
+   "izguba",
+   "kapitalski delež",
+   "po enakih delih"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 95. člen; 142. člen, 2. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-012",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Komanditna družba – pojem",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o komanditni družbi (k.d.) so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o komanditnom društvu (k.d.) tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Po opredelitvi iz 135. člena ZGD-1 je v komanditni družbi najmanj en družbenik (komanditist), ki ni odgovoren za obveznosti družbe.",
+    "prevod_sr": "Po definiciji iz 135. člana ZGD-1 u komanditnom društvu postoji najmanje jedan član (komanditista) koji nije odgovoran za obaveze društva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: tako doslovno glasi zakonska definicija (135. člen, 1. odst.). Napomena: poveriocima komanditista ipak odgovara do visine neuplaćenog iznosa uloga koji bi morao uplatiti po ugovoru (145. člen)."
+   },
+   {
+    "besedilo_sl": "Družba mora imeti najmanj dva komplementarja.",
+    "prevod_sr": "Društvo mora imati najmanje dva komplementara.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: dovoljan je najmanje jedan komplementar i najmanje jedan komanditista (135. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Najmanj en družbenik (komplementar) odgovarja za obveznosti družbe z vsem svojim premoženjem.",
+    "prevod_sr": "Najmanje jedan član (komplementar) odgovara za obaveze društva celokupnom svojom imovinom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 135. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Določbe o družbi z neomejeno odgovornostjo se za komanditno družbo ne uporabljajo.",
+    "prevod_sr": "Odredbe o društvu sa neograničenom odgovornošću se na komanditno društvo ne primenjuju.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: ako nije drugačije određeno, na k.d. se shodno primenjuju odredbe o d.n.o. (135. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Komanditna družba je kapitalska družba.",
+    "prevod_sr": "Komanditno društvo je društvo kapitala.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: k.d. je osebna družba (društvo lica) – 3. člen, 3. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "komanditna družba",
+   "komplementar",
+   "komanditist",
+   "osebna družba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 135. člen; 3. člen, 3. odst.; 145. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-013",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Komanditna družba – položaj komanditista",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Kaj od navedenega za komanditista v komanditni družbi NE velja?",
+  "prevod_sr": "Šta od navedenog za komanditistu u komanditnom društvu NE važi?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Ne more se mu podeliti prokura.",
+    "prevod_sr": "Ne može mu se dodeliti prokura.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (ne važi): komanditista nije ovlašćen da zastupa društvo, ali mu se može dodeliti prokura ili posebno punomoćje (144. člen)."
+   },
+   {
+    "besedilo_sl": "Vedno sme nasprotovati poslovanju komplementarjev, tudi če to ne presega običajnega obsega dejavnosti družbe.",
+    "prevod_sr": "Uvek sme da se protivi poslovanju komplementara, čak i ako ono ne prelazi uobičajeni obim delatnosti društva.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (ne važi): komanditista ne sme da se protivi poslovanju komplementara ako ono ne prelazi uobičajeni obim delatnosti (138. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Ni upravičen zastopati družbe.",
+    "prevod_sr": "Nije ovlašćen da zastupa društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to važi (144. člen)."
+   },
+   {
+    "besedilo_sl": "Ima pravico zahtevati prepis letnega poročila.",
+    "prevod_sr": "Ima pravo da zahteva prepis godišnjeg izveštaja.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to važi – pravo nadzora komanditiste (140. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Ni upravičen voditi poslov družbe.",
+    "prevod_sr": "Nije ovlašćen da vodi poslove društva.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to važi (ZGD-1, 138. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "komanditist",
+   "prokura",
+   "vodenje poslov",
+   "zastopanje",
+   "pravica nadzora"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 138. člen; 140. člen; 144. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-014",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Komanditna družba – komanditist, ki vodi posle",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Komanditist Dare kljub zakonski določbi, da komanditist ni upravičen voditi poslov, dejansko vodi posle komanditne družbe. Kakšna je posledica glede njegove odgovornosti?",
+  "prevod_sr": "Komanditista Dare, uprkos zakonskoj odredbi da komanditista nije ovlašćen da vodi poslove, stvarno vodi poslove komanditnog društva. Kakva je posledica u pogledu njegove odgovornosti?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Odgovoren je kot komplementar.",
+    "prevod_sr": "Odgovoran je kao komplementar.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: komanditista koji postupa suprotno zabrani vođenja poslova odgovara kao komplementar (138. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Ne odgovarja, ker komanditist ni odgovoren za obveznosti družbe.",
+    "prevod_sr": "Ne odgovara jer komanditista nije odgovoran za obaveze društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zbog kršenja zabrane vođenja poslova odgovara kao komplementar (138. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Po zakonu izgubi položaj družbenika.",
+    "prevod_sr": "Po zakonu gubi položaj člana društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakon kao posledicu predviđa odgovornost kao komplementar, ne gubitak članstva (138. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Odgovarja le do višine neplačanega zneska vložka.",
+    "prevod_sr": "Odgovara samo do visine neuplaćenog iznosa uloga.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: to je redovno pravilo (145. člen), ali ako komanditista vodi poslove, odgovara kao komplementar (ZGD-1, 138. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Odgovarja le za škodo, ki jo je družbi povzročil namenoma.",
+    "prevod_sr": "Odgovara samo za štetu koju je društvu prouzrokovao namerno.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 138. člen, 3. odst. predviđa odgovornost kao komplementar, dakle celokupnom imovinom za obaveze društva."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "komanditist",
+   "komplementar",
+   "vodenje poslov",
+   "odgovornost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 138. člen; 145. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-015",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Komanditna družba – odgovornost komanditista upnikom",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o odgovornosti komanditista upnikom družbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o odgovornosti komanditiste poveriocima društva tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če se komanditistu vložek vrne, velja v razmerju do upnikov še naprej za plačanega.",
+    "prevod_sr": "Ako se komanditisti ulog vrati, on se u odnosu prema poveriocima i dalje smatra uplaćenim.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: vraćeni ulog se u odnosu prema poveriocima smatra neuplaćenim (146. člen, 4. odst.)."
+   },
+   {
+    "besedilo_sl": "Dogovor družbenikov, s katerim se komanditistu plačilo vložka odpusti ali odloži, je proti upnikom brez pravnega učinka.",
+    "prevod_sr": "Dogovor članova kojim se komanditisti uplata uloga oprašta ili odlaže je prema poveriocima bez pravnog dejstva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 146. člen, 3. odst."
+   },
+   {
+    "besedilo_sl": "Po vpisu družbe v register velja v razmerju do upnikov za komanditistov vložek tisti, ki je vpisan v register.",
+    "prevod_sr": "Posle upisa društva u registar u odnosu prema poveriocima kao komanditistov ulog važi onaj koji je upisan u registar.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 146. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Zmanjšanje komanditistovega vložka učinkuje proti upnikom že s sklepom družbenikov.",
+    "prevod_sr": "Smanjenje komanditistovog uloga deluje prema poveriocima već odlukom članova.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: smanjenje uloga je prema poveriocima bez dejstva dok nije upisano u registar (148. člen)."
+   },
+   {
+    "besedilo_sl": "Komanditist je upnikom odgovoren do višine neplačanega zneska, ki bi ga moral vplačati po pogodbi.",
+    "prevod_sr": "Komanditista je poveriocima odgovoran do visine neuplaćenog iznosa koji bi morao uplatiti po ugovoru.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 145. člen."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "komanditistov vložek",
+   "upnik",
+   "register",
+   "neplačani znesek"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 145. člen; 146. člen; 148. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-016",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Komanditna družba – odgovornost pred vpisom v register",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Komanditna družba začne poslovati pred vpisom v register; komanditistka Eva je z začetkom poslovanja soglašala. Upnik uveljavlja terjatev, ki je nastala pred vpisom. Kaj velja?",
+  "prevod_sr": "Komanditno društvo počne da posluje pre upisa u registar; komanditistkinja Eva se saglasila sa početkom poslovanja. Poverilac ističe potraživanje nastalo pre upisa. Šta važi?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Eva ne jamči, ker komanditist nikoli ne odgovarja za obveznosti družbe.",
+    "prevod_sr": "Eva ne jemči jer komanditista nikada ne odgovara za obaveze društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 150. člen izričito predviđa jemstvo komanditiste koji se saglasio sa početkom poslovanja pre upisa."
+   },
+   {
+    "besedilo_sl": "Eva jamči le, če je sama vodila posle družbe.",
+    "prevod_sr": "Eva jemči samo ako je sama vodila poslove društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: uslov iz 150. člena je saglasnost sa početkom poslovanja, ne vođenje poslova (to je poseban slučaj iz 138. člena, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Eva jamči le do višine vložka, ki bo pozneje vpisan v register.",
+    "prevod_sr": "Eva jemči samo do visine uloga koji će kasnije biti upisan u registar.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: za obaveze nastale pre upisa jemči kao komplementar (ZGD-1, 150. člen); ograničenje na upisani ulog važi tek posle upisa (146. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Eva jamči enako kot komplementar tudi, če je bila upniku njena komanditna udeležba znana.",
+    "prevod_sr": "Eva jemči isto kao komplementar i ako je poveriocu njeno komanditno učešće bilo poznato.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: ako je poveriocu bilo poznato komanditno učešće, ovo jemstvo ne nastaje (150. člen)."
+   },
+   {
+    "besedilo_sl": "Eva za to obveznost jamči enako kot komplementar, razen če je bila upniku znana njena komanditna udeležba.",
+    "prevod_sr": "Eva za tu obavezu jemči isto kao komplementar, osim ako je poveriocu bilo poznato njeno komanditno učešće.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 150. člen."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "komanditist",
+   "vpis v register",
+   "jamstvo",
+   "komanditna udeležba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 150. člen; 146. člen, 1. odst.; 138. člen, 3. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-017",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Komanditna družba – dobiček, izguba in smrt komanditista",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o komanditistu so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o komanditisti tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Komanditist sme tako kot družbenik d.n.o. v lastno breme dvigniti denar iz blagajne družbe do 5 % svojega kapitalskega deleža.",
+    "prevod_sr": "Komanditista sme, kao član d.n.o., na svoj teret podići novac iz blagajne društva do 5 % svog kapitalskog udela.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: za komanditistu ne važi 96. člen, 1. odst. (143. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Komanditist mora prejeti dobiček vrniti zaradi poznejših izgub družbe.",
+    "prevod_sr": "Komanditista mora primljenu dobit vratiti zbog kasnijih gubitaka društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: komanditista nije dužan da vrati primljenu dobit zbog kasnijih gubitaka (ZGD-1, 143. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Zaradi komanditistove smrti družba ne preneha.",
+    "prevod_sr": "Zbog smrti komanditiste društvo ne prestaje.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 151. člen."
+   },
+   {
+    "besedilo_sl": "Za komanditista veljajo določbe o posledicah kršitve konkurenčne prepovedi enako kot za komplementarja, tudi če družbena pogodba o tem ničesar ne določa.",
+    "prevod_sr": "Za komanditistu važe odredbe o posledicama kršenja zabrane konkurencije isto kao za komplementara, čak i ako društveni ugovor o tome ništa ne određuje.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: za komanditiste odredbe 84. člena ne važe, osim ako društveni ugovor određuje drugačije (139. člen)."
+   },
+   {
+    "besedilo_sl": "Pri izgubi sodeluje komanditist le do zneska svojega kapitalskega deleža in svojega še neplačanega vložka.",
+    "prevod_sr": "U gubitku komanditista učestvuje samo do iznosa svog kapitalskog udela i svog još neuplaćenog uloga.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 141. člen, 2. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "komanditist",
+   "dobiček",
+   "izguba",
+   "smrt",
+   "prepoved konkurence"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 139. člen; 141. člen; 143. člen; 151. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-018",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Komanditna družba – dvojna družba",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o dvojni družbi so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o „dvojnom društvu” (dvojna družba) tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Dvojna družba je komanditna družba, v kateri je edini komplementar družba, pri kateri ni osebno odgovornih družbenikov.",
+    "prevod_sr": "Dvojno društvo je komanditno društvo u kojem je jedini komplementar društvo u kojem nema lično odgovornih članova.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 152. člen (isto važi ako su svi komplementari takva društva)."
+   },
+   {
+    "besedilo_sl": "Delniška družba se sme preoblikovati v dvojno družbo.",
+    "prevod_sr": "Akcionarsko društvo sme da se preoblikuje u dvojno društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: d.d., d.o.o. i k.d.d. ne smeju se preoblikovati u dvojno društvo (154. člen)."
+   },
+   {
+    "besedilo_sl": "Družba se lahko ustanovi tudi samo zato, da se kot komplementar vključi v dvojno družbo.",
+    "prevod_sr": "Društvo se može osnovati i samo radi uključivanja kao komplementar u dvojno društvo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 153. člen."
+   },
+   {
+    "besedilo_sl": "Dvojna družba je delniška družba, ki ima hkrati upravo in nadzorni svet.",
+    "prevod_sr": "Dvojno društvo je akcionarsko društvo koje istovremeno ima upravu i nadzorni odbor.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: to je dvotirni sistem upravljanja d.d. (253. člen, 2. odst.); dvojna družba je posebna k.d. (152. člen)."
+   },
+   {
+    "besedilo_sl": "Dvojna družba ne sme biti komplementar v komanditni družbi.",
+    "prevod_sr": "Dvojno društvo ne sme biti komplementar u komanditnom društvu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 155. člen."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "dvojna družba",
+   "komplementar",
+   "komanditna družba",
+   "preoblikovanje"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 152.–155. člen; 253. člen, 2. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-019",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Oblike družb – osebne in kapitalske družbe",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere od navedenih družb so po ZGD-1 kapitalske družbe?",
+  "prevod_sr": "Koja su od navedenih društava po ZGD-1 društva kapitala?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Delniška družba.",
+    "prevod_sr": "Akcionarsko društvo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: d.d. je kapitalska družba (3. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Evropska delniška družba (SE).",
+    "prevod_sr": "Evropsko akcionarsko društvo (SE).",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: SE je kapitalska družba (3. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Komanditna delniška družba.",
+    "prevod_sr": "Komanditno akcionarsko društvo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: k.d.d. je kapitalska družba (3. člen, 3. odst.), iako ima komplementara."
+   },
+   {
+    "besedilo_sl": "Družba z omejeno odgovornostjo.",
+    "prevod_sr": "Društvo sa ograničenom odgovornošću.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: d.o.o. je kapitalska družba (ZGD-1, 3. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Komanditna družba.",
+    "prevod_sr": "Komanditno društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: k.d. je, kao i d.n.o., osebna družba (3. člen, 3. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "kapitalska družba",
+   "osebna družba",
+   "gospodarska družba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 3. člen, 3. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-020",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – pojem in odgovornost",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o delniški družbi (d.d.) so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o akcionarskom društvu (d.d.) tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Delničarji odgovarjajo upnikom subsidiarno do višine nominalnega zneska svojih delnic.",
+    "prevod_sr": "Akcionari odgovaraju poveriocima supsidijarno do visine nominalnog iznosa svojih akcija.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: akcionari uopšte ne odgovaraju poveriocima za obaveze društva (168. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Družba je upnikom odgovorna za svoje obveznosti z vsem svojim premoženjem.",
+    "prevod_sr": "Društvo je poveriocima odgovorno za svoje obaveze celokupnom svojom imovinom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 168. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Osnovni kapital sestavljajo osnovni vložki družbenikov, na podlagi katerih ti pridobijo poslovne deleže.",
+    "prevod_sr": "Osnovni kapital čine osnovni ulozi članova na osnovu kojih oni stiču poslovne udele.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: to je obeležje d.o.o. (471. člen); kapital d.d. je podeljen na akcije (168. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Delničarji niso odgovorni upnikom za obveznosti družbe.",
+    "prevod_sr": "Akcionari nisu odgovorni poveriocima za obaveze društva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 168. člen, 3. odst."
+   },
+   {
+    "besedilo_sl": "Osnovni kapital delniške družbe je razdeljen na delnice.",
+    "prevod_sr": "Osnovni kapital akcionarskog društva podeljen je na akcije.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 168. člen, 1. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "delniška družba",
+   "delnica",
+   "osnovni kapital",
+   "delničar"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 168. člen; 471. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-021",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – osnovni kapital in ustanovitelji",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o ustanovitvi in osnovnem kapitalu delniške družbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o osnivanju i osnovnom kapitalu akcionarskog društva tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Delnice so vrednostni papirji.",
+    "prevod_sr": "Akcije su hartije od vrednosti.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 174. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Osnovni kapital se glasi na nominalni znesek v eurih.",
+    "prevod_sr": "Osnovni kapital glasi na nominalni iznos u evrima.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 170. člen."
+   },
+   {
+    "besedilo_sl": "Delniško družbo mora ustanoviti najmanj pet oseb.",
+    "prevod_sr": "Akcionarsko društvo mora osnovati najmanje pet lica.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: d.d. može osnovati i jedno lice (169. člen); najmanje pet lica mora usvojiti statut k.d.d. (465. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Najnižji znesek osnovnega kapitala je 25.000 eurov.",
+    "prevod_sr": "Najniži iznos osnovnog kapitala je 25.000 evra.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 171. člen."
+   },
+   {
+    "besedilo_sl": "Delniško družbo lahko ustanovi ena ali več fizičnih ali pravnih oseb, ki sprejmejo statut.",
+    "prevod_sr": "Akcionarsko društvo može osnovati jedno ili više fizičkih ili pravnih lica koja usvoje statut.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 169. člen."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "osnovni kapital",
+   "ustanovitelj",
+   "statut",
+   "vrednostni papir"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 169.–171. člen; 174. člen; 465. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-022",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – delnice z nominalnim zneskom in kosovne delnice",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o obliki delnic so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o obliku akcija tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Kosovne delnice se glasijo na nominalni znesek najmanj 1 euro.",
+    "prevod_sr": "Komadne akcije glase na nominalni iznos od najmanje 1 evra.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: komadne akcije ne glase na nominalni iznos; samo njihov pripadajući iznos u kapitalu ne sme biti niži od 1 evra (172. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Družba ne sme imeti hkrati obeh oblik delnic.",
+    "prevod_sr": "Društvo ne sme istovremeno imati oba oblika akcija.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 172. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Delnice so lahko oblikovane kot delnice z nominalnim zneskom ali kot kosovne delnice.",
+    "prevod_sr": "Akcije mogu biti oblikovane kao akcije sa nominalnim iznosom ili kao komadne akcije (bez nominalne vrednosti).",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 172. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Posamezne kosovne delnice iste družbe imajo lahko različne deleže v osnovnem kapitalu.",
+    "prevod_sr": "Pojedine komadne akcije istog društva mogu imati različite udele u osnovnom kapitalu.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: svaka komadna akcija ima jednak udeo i pripadajući iznos u osnovnom kapitalu (172. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Delnice z nominalnim zneskom se morajo glasiti najmanj na 1 euro ali njegov večkratnik.",
+    "prevod_sr": "Akcije sa nominalnim iznosom moraju glasiti najmanje na 1 evro ili njegov višekratnik.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 172. člen, 2. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "delnica z nominalnim zneskom",
+   "kosovna delnica",
+   "pripadajoč znesek",
+   "osnovni kapital"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 172. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-023",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – navadne in prednostne delnice",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o vrstah in razredih delnic so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o vrstama i klasama akcija tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Delnice z enako pravico sestavljajo en razred.",
+    "prevod_sr": "Akcije sa jednakim pravom čine jednu klasu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 177. člen."
+   },
+   {
+    "besedilo_sl": "Navadne delnice dajejo imetnikom pravico do udeležbe pri upravljanju družbe.",
+    "prevod_sr": "Obične akcije daju imaocima pravo učešća u upravljanju društvom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 176. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Navadne delnice dajejo imetnikom pravico do dela dobička (dividende).",
+    "prevod_sr": "Obične akcije daju imaocima pravo na deo dobiti (dividendu).",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 176. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Prednostne delnice dajejo le prednostne pravice, ne pa tudi pravic iz navadnih delnic.",
+    "prevod_sr": "Prioritetne akcije daju samo prioritetna prava, a ne i prava iz običnih akcija.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prioritetne akcije daju prioritetna prava pored prava iz običnih akcija (176. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Pravice iz delnic so deljive.",
+    "prevod_sr": "Prava iz akcija su deljiva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prava iz akcija su nedeljiva (176. člen, 6. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "navadna delnica",
+   "prednostna delnica",
+   "razred delnic",
+   "dividenda"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 176. člen; 177. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-024",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – glasovalna pravica, imenske in prinosniške delnice",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o delnicah so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o akcijama tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Družba ne sme imeti več kot polovice delnic brez glasovalne pravice v sestavi osnovnega kapitala.",
+    "prevod_sr": "Društvo ne sme imati više od polovine akcija bez prava glasa u sastavu osnovnog kapitala.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 178. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Začasnice se lahko glasijo na prinosnika.",
+    "prevod_sr": "Privremenice mogu glasiti na donosioca.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: privremenice glase na ime; privremenice na donosioca su ništave (175. člen, 3. i 4. odst.)."
+   },
+   {
+    "besedilo_sl": "Po 178. členu ZGD-1 se brez glasovalne pravice lahko izdajo samo prednostne delnice.",
+    "prevod_sr": "Po 178. članu ZGD-1 bez prava glasa mogu se izdati samo prioritetne akcije.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 178. člen, 2. odst. (317. člen dopušta da poseban zakon odredi drugačije za obične akcije)."
+   },
+   {
+    "besedilo_sl": "Delnica se sme izdati za znesek, ki je nižji od njenega nominalnega zneska, če tako sklene skupščina.",
+    "prevod_sr": "Akcija se sme izdati za iznos niži od njenog nominalnog iznosa ako tako odluči skupština.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: akcija se ne sme izdati ispod nominalnog odnosno pripadajućeg iznosa (najmanji emisioni iznos); dozvoljen je samo viši iznos (173. člen)."
+   },
+   {
+    "besedilo_sl": "Delnice, izdane pred celotnim plačilom emisijskega zneska, se morajo glasiti na prinosnika.",
+    "prevod_sr": "Akcije izdate pre potpune uplate emisionog iznosa moraju glasiti na donosioca.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: takve akcije moraju glasiti na ime (175. člen, 2. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "glasovalna pravica",
+   "prednostna delnica",
+   "začasnica",
+   "imenska delnica",
+   "emisijski znesek"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 173. člen; 175. člen; 178. člen; 317. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-025",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – statut",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o statutu delniške družbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o statutu akcionarskog društva tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Statut mora določati sistem upravljanja (enotirni ali dvotirni).",
+    "prevod_sr": "Statut mora određivati sistem upravljanja (jednodomni ili dvodomni).",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 183. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Statut mora določati znesek osnovnega kapitala.",
+    "prevod_sr": "Statut mora određivati iznos osnovnog kapitala.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 183. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Statut mora biti sestavljen v obliki notarskega zapisa.",
+    "prevod_sr": "Statut mora biti sačinjen u obliku notarskog zapisa.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 183. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Statut lahko vsako vprašanje, ki ga ureja zakon, uredi drugače.",
+    "prevod_sr": "Statut može svako pitanje koje uređuje zakon urediti drugačije.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: statut može odstupiti od zakona samo ako zakon to izričito dopušta (183. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Statut sprejme nadzorni svet po vpisu družbe v register.",
+    "prevod_sr": "Statut usvaja nadzorni odbor posle upisa društva u registar.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: statut usvajaju osnivači (169. člen; 189. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "statut",
+   "notarski zapis",
+   "sistem upravljanja",
+   "ustanovitelj"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 183. člen; 169. člen; 189. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-026",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – organi vodenja ali nadzora",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o organih vodenja ali nadzora delniške družbe NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o organima vođenja ili nadzora akcionarskog društva NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "V enotirnem sistemu ima družba upravo in upravni odbor.",
+    "prevod_sr": "U jednodomnom sistemu društvo ima upravu i upravni odbor.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): jednodomni sistem ima samo upravni odbor; uprava i nadzorni svet su organi dvodomnog sistema (253. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Ista oseba je lahko hkrati članica uprave in nadzornega sveta iste družbe.",
+    "prevod_sr": "Isto lice može istovremeno biti član uprave i nadzornog odbora istog društva.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): član organa ne može biti lice koje je već član drugog organa vođenja ili nadzora tog društva (255. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Družba lahko izbere dvotirni sistem upravljanja z upravo in nadzornim svetom ali enotirni sistem z upravnim odborom.",
+    "prevod_sr": "Društvo može izabrati dvodomni sistem upravljanja sa upravom i nadzornim odborom ili jednodomni sistem sa upravnim odborom.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (ZGD-1, 253. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Člani organov vodenja ali nadzora so imenovani za obdobje, ki ni daljše od šestih let, z možnostjo ponovnega imenovanja.",
+    "prevod_sr": "Članovi organa vođenja ili nadzora imenuju se na period koji nije duži od šest godina, uz mogućnost ponovnog imenovanja.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (255. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Organ vodenja ali nadzora je sklepčen, če je pri sklepanju navzoča vsaj polovica njegovih članov, če statut ne določa drugače.",
+    "prevod_sr": "Organ vođenja ili nadzora ima kvorum ako je pri odlučivanju prisutna najmanje polovina njegovih članova, ako statut ne određuje drugačije.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (257. člen, 3. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "dvotirni sistem",
+   "enotirni sistem",
+   "uprava",
+   "nadzorni svet",
+   "upravni odbor",
+   "mandatna doba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 253. člen; 255. člen; 257. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-027",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – uprava",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o upravi delniške družbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o upravi akcionarskog društva tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če ima uprava več članov, zastopa družbo vsak član posamično, če statut ne določa drugače.",
+    "prevod_sr": "Ako uprava ima više članova, društvo zastupa svaki član pojedinačno, ako statut ne određuje drugačije.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakonsko pravilo je zajedničko (skupno) zastupanje, ako statut ne određuje drugačije (266. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Uprava mora imeti najmanj tri člane.",
+    "prevod_sr": "Uprava mora imati najmanje tri člana.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: uprava može imati jednog ili više članova (direktora) – ZGD-1, 265. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Če ima uprava več članov, sprejemajo odločitve z navadno večino, če statut ne določa drugače.",
+    "prevod_sr": "Ako uprava ima više članova, odluke donose običnom većinom, ako statut ne određuje drugačije.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakonsko pravilo je jednoglasno odlučivanje, ako statut ne određuje drugačije (265. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Uprava zastopa in predstavlja družbo.",
+    "prevod_sr": "Uprava zastupa i predstavlja društvo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 266. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Uprava vodi posle družbe samostojno in na lastno odgovornost.",
+    "prevod_sr": "Uprava vodi poslove društva samostalno i na sopstvenu odgovornost.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 265. člen, 1. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "uprava",
+   "vodenje poslov",
+   "zastopanje",
+   "soglasno",
+   "skupno zastopanje"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 265. člen; 266. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-028",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – odpoklic člana uprave",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Nadzorni svet lahko odpokliče člana uprave v vseh navedenih primerih, RAZEN:",
+  "prevod_sr": "Nadzorni odbor može opozvati člana uprave u svim navedenim slučajevima, OSIM:",
+  "odgovori": [
+   {
+    "besedilo_sl": "kadarkoli, brez kateregakoli razloga.",
+    "prevod_sr": "bilo kada, bez ikakvog razloga.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: 268. člen, 2. odst. vezuje opoziv člana uprave za navedene razloge; opoziv bilo kada važi npr. za izvršnog direktora (290. člen, 8. odst.) i poslovodju d.o.o. (515. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "če mu skupščina izreče nezaupnico, ki ni izrečena iz očitno neutemeljenih razlogov.",
+    "prevod_sr": "ako mu skupština izglasa nepoverenje koje nije izrečeno iz očigledno neosnovanih razloga.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je zakonski razlog za opoziv (268. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "iz drugih ekonomsko-poslovnih razlogov, na primer zaradi pomembnejših sprememb v strukturi delničarjev.",
+    "prevod_sr": "iz drugih ekonomsko-poslovnih razloga, na primer zbog značajnijih promena u strukturi akcionara.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je zakonski razlog za opoziv (268. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "če član uprave ni sposoben voditi poslov.",
+    "prevod_sr": "ako član uprave nije sposoban da vodi poslove.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je zakonski razlog za opoziv (268. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "če član uprave huje krši obveznosti.",
+    "prevod_sr": "ako član uprave teže krši obaveze.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je zakonski razlog za opoziv (ZGD-1, 268. člen, 2. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "odpoklic",
+   "uprava",
+   "nadzorni svet",
+   "nezaupnica"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 268. člen; 290. člen, 8. odst.; 515. člen, 3. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-029",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – nadzorni svet",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o nadzornem svetu delniške družbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o nadzornom odboru (nadzorni svet) akcionarskog društva tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Član nadzornega sveta je lahko oseba, ki je že član nadzornega sveta ali upravnega odbora v petih družbah.",
+    "prevod_sr": "Član nadzornog odbora može biti lice koje je već član nadzornog ili upravnog odbora u pet društava.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: član ne može biti lice koje je član nadzornog sveta ili upravnog odbora već u tri društva (273. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Člane nadzornega sveta imenuje uprava.",
+    "prevod_sr": "Članove nadzornog odbora imenuje uprava.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: bira ih skupština (274. člen, 1. odst.); obrnuto – nadzorni svet imenuje upravu (268. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Član nadzornega sveta ne more biti prokurist te družbe.",
+    "prevod_sr": "Član nadzornog odbora ne može biti prokurista tog društva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 273. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Člane nadzornega sveta, ki zastopajo interese delničarjev, voli skupščina.",
+    "prevod_sr": "Članove nadzornog odbora koji zastupaju interese akcionara bira skupština.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 274. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Za sklep skupščine o odpoklicu člana nadzornega sveta je potrebna najmanj tričetrtinska večina oddanih glasov.",
+    "prevod_sr": "Za odluku skupštine o opozivu člana nadzornog odbora potrebna je najmanje tročetvrtinska većina datih glasova.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 275. člen, 1. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "nadzorni svet",
+   "skupščina",
+   "odpoklic",
+   "prokurist"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 273. člen; 274. člen; 275. člen; 268. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-030",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – soglasje nadzornega sveta k poslom",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Statut delniške družbe določa, da sme uprava nepremičnine družbe prodajati le s soglasjem nadzornega sveta. Nadzorni svet soglasje zavrne. Kaj lahko stori uprava?",
+  "prevod_sr": "Statut akcionarskog društva određuje da uprava sme prodavati nepokretnosti društva samo uz saglasnost nadzornog odbora. Nadzorni odbor odbije saglasnost. Šta može učiniti uprava?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Zahteva lahko, da o soglasju odloči skupščina; za sklep je potrebna večina najmanj treh četrtin oddanih glasov.",
+    "prevod_sr": "Može zahtevati da o saglasnosti odluči skupština; za odluku je potrebna većina od najmanje tri četvrtine datih glasova.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 281. člen, 5. odst."
+   },
+   {
+    "besedilo_sl": "Statutarna določba je brez učinka, ker statut ne more zahtevati soglasja nadzornega sveta za posamezne vrste poslov.",
+    "prevod_sr": "Statutarna odredba je bez dejstva jer statut ne može zahtevati saglasnost nadzornog odbora za pojedine vrste poslova.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: statut ili nadzorni svet mogu odrediti da se pojedine vrste poslova smeju obavljati samo uz njegovu saglasnost (281. člen, 5. odst.)."
+   },
+   {
+    "besedilo_sl": "Zahteva lahko, da o soglasju odloči skupščina, ki o tem sklepa z navadno večino oddanih glasov.",
+    "prevod_sr": "Može zahtevati da o saglasnosti odluči skupština, koja o tome odlučuje običnom većinom datih glasova.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: za odluku skupštine potrebna je većina od najmanje tri četvrtine datih glasova (ZGD-1, 281. člen, 5. odst.)."
+   },
+   {
+    "besedilo_sl": "Vodenje tega posla se prenese na nadzorni svet.",
+    "prevod_sr": "Vođenje tog posla prenosi se na nadzorni odbor.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: vođenje poslova ne može se preneti na nadzorni svet (281. člen, 5. odst.)."
+   },
+   {
+    "besedilo_sl": "Zahteva lahko, da o soglasju odloči sodišče.",
+    "prevod_sr": "Može zahtevati da o saglasnosti odluči sud.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakon predviđa odluku skupštine, ne suda (281. člen, 5. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "nadzorni svet",
+   "soglasje",
+   "uprava",
+   "skupščina",
+   "tri četrtine"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 281. člen, 5. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-031",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – upravni odbor in izvršni direktorji",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o enotirnem sistemu upravljanja delniške družbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o jednodomnom sistemu upravljanja akcionarskim društvom tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Člani upravnega odbora ne smejo biti imenovani za izvršne direktorje.",
+    "prevod_sr": "Članovi upravnog odbora ne smeju biti imenovani za izvršne direktore.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: članovi upravnog odbora mogu biti imenovani za izvršne direktore (290. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Upravni odbor lahko kadarkoli odpokliče izvršnega direktorja.",
+    "prevod_sr": "Upravni odbor može bilo kada opozvati izvršnog direktora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 290. člen, 8. odst."
+   },
+   {
+    "besedilo_sl": "Upravni odbor lahko imenuje enega ali več izvršnih direktorjev.",
+    "prevod_sr": "Upravni odbor može imenovati jednog ili više izvršnih direktora.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 290. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Izvršne direktorje voli skupščina.",
+    "prevod_sr": "Izvršne direktore bira skupština.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: izvršne direktore imenuje upravni odbor (290. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Upravni odbor vodi družbo in nadzoruje izvajanje njenih poslov.",
+    "prevod_sr": "Upravni odbor vodi društvo i nadzire izvršavanje njegovih poslova.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 285. člen, 1. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "upravni odbor",
+   "izvršni direktor",
+   "enotirni sistem",
+   "odpoklic"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 285. člen; 290. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-032",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – pristojnosti skupščine",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "O čem skupščina delniške družbe z dvotirnim sistemom upravljanja NE odloča?",
+  "prevod_sr": "O čemu skupština akcionarskog društva sa dvodomnim sistemom upravljanja NE odlučuje?",
+  "odgovori": [
+   {
+    "besedilo_sl": "O imenovanju revizorja.",
+    "prevod_sr": "O imenovanju revizora.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je nadležnost skupštine (293. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "O imenovanju in odpoklicu članov uprave.",
+    "prevod_sr": "O imenovanju i opozivu članova uprave.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: članove uprave imenuje i opoziva nadzorni svet (268. člen), a ne skupština; 293. člen, 1. odst. to ne navodi."
+   },
+   {
+    "besedilo_sl": "O spremembah statuta.",
+    "prevod_sr": "O izmenama statuta.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je nadležnost skupštine (293. člen, 1. odst.; 329. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "O imenovanju in odpoklicu članov nadzornega sveta.",
+    "prevod_sr": "O imenovanju i opozivu članova nadzornog odbora.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je nadležnost skupštine (293. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "O uporabi bilančnega dobička.",
+    "prevod_sr": "O upotrebi bilansne dobiti.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je nadležnost skupštine (ZGD-1, 293. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "skupščina",
+   "bilančni dobiček",
+   "statut",
+   "uprava",
+   "revizor"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 293. člen, 1. odst.; 268. člen; 329. člen, 1. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-033",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – večine na skupščini",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o odločanju skupščine delniške družbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o odlučivanju skupštine akcionarskog društva tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Glasovalna pravica delničarjev se uresničuje glede na njihov delež delnic v osnovnem kapitalu.",
+    "prevod_sr": "Pravo glasa akcionara ostvaruje se prema njihovom udelu akcija u osnovnom kapitalu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 308. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Za sprejetje skupščinskih sklepov je potrebna večina oddanih glasov (navadna večina), razen če zakon ali statut ne določata višje večine ali drugih zahtev.",
+    "prevod_sr": "Za donošenje skupštinskih odluka potrebna je većina datih glasova (obična većina), osim ako zakon ili statut ne određuju višu većinu ili druge zahteve.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 307. člen."
+   },
+   {
+    "besedilo_sl": "Za sklep o spremembi statuta je po zakonu potrebna večina najmanj treh četrtin pri sklepanju zastopanega osnovnega kapitala.",
+    "prevod_sr": "Za odluku o izmeni statuta po zakonu je potrebna većina od najmanje tri četvrtine osnovnog kapitala zastupljenog pri odlučivanju.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 329. člen, 2. odst. (statut može u zakonskim granicama odrediti drugačiju kapitalsku većinu)."
+   },
+   {
+    "besedilo_sl": "Sklep skupščine o prenehanju družbe se sprejme z navadno večino oddanih glasov.",
+    "prevod_sr": "Odluka skupštine o prestanku društva donosi se običnom većinom datih glasova.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: potrebna je najmanje tročetvrtinska većina zastupljenog osnovnog kapitala (402. člen, 1. odst., 2. alineja)."
+   },
+   {
+    "besedilo_sl": "Za spremembo statuta zadošča sklep uprave s soglasjem nadzornega sveta.",
+    "prevod_sr": "Za izmenu statuta dovoljna je odluka uprave uz saglasnost nadzornog odbora.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: za svaku izmenu statuta potrebna je odluka skupštine (329. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "navadna večina",
+   "kapitalska večina",
+   "sprememba statuta",
+   "glasovalna pravica"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 307. člen; 308. člen; 329. člen; 402. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-034",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – povečanje osnovnega kapitala z vložki",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o povečanju osnovnega kapitala delniške družbe z vložki so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o povećanju osnovnog kapitala akcionarskog društva ulozima tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Osnovni kapital je mogoče povečati tudi, če pretežni del dosedanjih vložkov še ni plačan.",
+    "prevod_sr": "Osnovni kapital se može povećati i ako pretežni deo dosadašnjih uloga još nije uplaćen.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kapital se ne može povećati dok dosadašnji ulozi nisu u celini uplaćeni, osim ako je ostao neuplaćen samo neznatan iznos (333. člen, 5. odst.)."
+   },
+   {
+    "besedilo_sl": "Osnovni kapital se lahko poveča samo z izdajo novih delnic.",
+    "prevod_sr": "Osnovni kapital se može povećati samo izdavanjem novih akcija.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 333. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Dosedanji delničarji imajo v sorazmerju s svojimi deleži v osnovnem kapitalu prednostno pravico do vpisa novih delnic.",
+    "prevod_sr": "Dosadašnji akcionari imaju, srazmerno svojim udelima u osnovnom kapitalu, pravo prečeg upisa novih akcija.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 337. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "O povečanju se odloča z navadno večino oddanih glasov, če statut ne določa drugače.",
+    "prevod_sr": "O povećanju se odlučuje običnom većinom datih glasova, ako statut ne određuje drugačije.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakonsko pravilo je većina od najmanje tri četvrtine zastupljenog osnovnog kapitala (333. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Rok za uveljavitev prednostne pravice do novih delnic je najmanj 14 dni.",
+    "prevod_sr": "Rok za ostvarivanje prava prečeg upisa novih akcija je najmanje 14 dana.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 337. člen, 1. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "povečanje osnovnega kapitala",
+   "nove delnice",
+   "prednostna pravica",
+   "kapitalska večina"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 333. člen; 337. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-035",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – razlogi prenehanja",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kaj od navedenega NI zakonski razlog za prenehanje delniške družbe?",
+  "prevod_sr": "Šta od navedenog NIJE zakonski razlog za prestanak akcionarskog društva?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Vse delnice pridobi en sam delničar.",
+    "prevod_sr": "Sve akcije stekne jedan jedini akcionar.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: društvo sa jednim akcionarom je dopušteno i to se samo upisuje u registar (206. člen); razlog prestanka je tek ako društvo nema akcionara ili ima samo sopstvene akcije (402. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Stečaj.",
+    "prevod_sr": "Stečaj.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: stečaj je razlog prestanka (ZGD-1, 402. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Združitev v kakšno drugo družbo.",
+    "prevod_sr": "Pripajanje/spajanje u neko drugo društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je razlog prestanka (402. člen, 1. odst., 7. alineja)."
+   },
+   {
+    "besedilo_sl": "Smrt delničarja.",
+    "prevod_sr": "Smrt akcionara.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: smrt akcionara nije među razlozima iz 402. člena; smrt člana je razlog prestanka kod d.n.o. (105. člen)."
+   },
+   {
+    "besedilo_sl": "Poslovodstvo ne deluje več kot šest mesecev.",
+    "prevod_sr": "Poslovodstvo ne deluje duže od šest meseci.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je razlog prestanka (402. člen, 1. odst., 3. alineja)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "prenehanje družbe",
+   "stečaj",
+   "združitev",
+   "poslovodstvo",
+   "en delničar"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 402. člen; 206. člen; 105. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-036",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delniška družba – likvidacija in skrajšani postopek",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o likvidaciji in prenehanju delniške družbe po skrajšanem postopku so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o likvidaciji i prestanku akcionarskog društva po skraćenom postupku tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Premoženja ni mogoče razdeliti med delničarje, dokler ne preteče šest mesecev od zadnje objave sklepa o likvidaciji.",
+    "prevod_sr": "Imovina se ne može podeliti akcionarima dok ne protekne šest meseci od poslednje objave odluke o likvidaciji.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 421. člen, 1. odst. (objava po 405. členu)."
+   },
+   {
+    "besedilo_sl": "Po vpisu začetka likvidacijskega postopka v register mora družba v firmi uporabljati pristavek »v likvidaciji«.",
+    "prevod_sr": "Posle upisa početka postupka likvidacije u registar društvo mora u firmi koristiti dodatak „v likvidaciji”.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 407. člen."
+   },
+   {
+    "besedilo_sl": "Pri prenehanju po skrajšanem postopku delničarji za morebitne preostale obveznosti družbe ne odgovarjajo.",
+    "prevod_sr": "Pri prestanku po skraćenom postupku akcionari ne odgovaraju za eventualne preostale obaveze društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: akcionari preuzimaju obavezu plaćanja preostalih obaveza i odgovaraju solidarno celokupnom svojom imovinom; poverioci mogu potraživanja isticati dve godine po objavi brisanja (425. člen, 1.–3. odst.)."
+   },
+   {
+    "besedilo_sl": "Prenehanje po skrajšanem postopku brez likvidacije lahko registrskemu organu predlaga že večina delničarjev.",
+    "prevod_sr": "Prestanak po skraćenom postupku bez likvidacije registarskom organu može predložiti već većina akcionara.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: brisanje bez likvidacije moraju predložiti svi akcionari (425. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Likvidacijski upravitelji so člani poslovodstva, če statut, skupščina ali sklep o likvidaciji ne določajo drugače.",
+    "prevod_sr": "Likvidacioni upravnici su članovi poslovodstva, ako statut, skupština ili odluka o likvidaciji ne određuju drugačije.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 408. člen, 2. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "likvidacija",
+   "likvidacijski upravitelj",
+   "skrajšani postopek",
+   "izbris iz registra"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 407. člen; 408. člen; 421. člen; 425. člen; 405. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-037",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Komanditna delniška družba",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o komanditni delniški družbi (k.d.d.) so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o komanditnom akcionarskom društvu (k.d.d.) tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Komanditna delniška družba je osebna družba.",
+    "prevod_sr": "Komanditno akcionarsko društvo je društvo lica.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: k.d.d. je kapitalska družba (3. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Najmanj en družbenik (komplementar) odgovarja za obveznosti družbe z vsem svojim premoženjem.",
+    "prevod_sr": "Najmanje jedan član (komplementar) odgovara za obaveze društva celokupnom svojom imovinom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 464. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Komanditni delničarji za obveznosti družbe upnikom niso odgovorni.",
+    "prevod_sr": "Komanditni akcionari poveriocima ne odgovaraju za obaveze društva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 464. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Statut komanditne delniške družbe mora sprejeti najmanj pet oseb.",
+    "prevod_sr": "Statut komanditnog akcionarskog društva mora usvojiti najmanje pet lica.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 465. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Komplementarji so lahko člani odbora komanditnih delničarjev.",
+    "prevod_sr": "Komplementari mogu biti članovi odbora komanditnih akcionara.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: komplementari ne mogu biti članovi odbora komanditnih akcionara (469. člen, 3. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "komanditna delniška družba",
+   "komplementar",
+   "komanditni delničar",
+   "statut"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 464. člen; 465. člen; 469. člen; 3. člen, 3. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-038",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Evropska delniška družba (SE)",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o evropski delniški družbi (SE) so po ZGD-1 pravilne?",
+  "prevod_sr": "Koje su tvrdnje o evropskom akcionarskom društvu (SE) po ZGD-1 tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "SE je osebna družba.",
+    "prevod_sr": "SE je društvo lica.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: SE je kapitalska družba (3. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Poglavje ZGD-1 o SE je namenjeno izvajanju Uredbe 2157/2001/ES.",
+    "prevod_sr": "Poglavlje ZGD-1 o SE namenjeno je sprovođenju Uredbe 2157/2001/ES.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 430. člen."
+   },
+   {
+    "besedilo_sl": "SE s sedežem v Sloveniji se ne vpisuje v slovenski register.",
+    "prevod_sr": "SE sa sedištem u Sloveniji ne upisuje se u slovenački registar.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: SE se upisuje u registar (431. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "SE se vpiše v register; za prijavo se uporabljajo določbe o vpisu delniške družbe v register.",
+    "prevod_sr": "SE se upisuje u registar; za prijavu se primenjuju odredbe o upisu akcionarskog društva u registar.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 431. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Poglavje ZGD-1 o SE je namenjeno izvajanju Uredbe 2137/85/EGS.",
+    "prevod_sr": "Poglavlje ZGD-1 o SE namenjeno je sprovođenju Uredbe 2137/85/EGS.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: Uredba 2137/85/EGS uređuje evropsko gospodarsko interesno združenje (577. člen); za SE je to Uredba 2157/2001/ES (430. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "evropska delniška družba",
+   "SE",
+   "register",
+   "uredba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 430. člen; 431. člen; 577. člen; 3. člen, 3. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-039",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – pojem",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o družbi z omejeno odgovornostjo (d.o.o.) so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o društvu sa ograničenom odgovornošću (d.o.o.) tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Za obveznosti družbe družbeniki niso odgovorni.",
+    "prevod_sr": "Za obaveze društva članovi nisu odgovorni.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 472. člen."
+   },
+   {
+    "besedilo_sl": "Za poslovne deleže se lahko izdajo vrednostni papirji.",
+    "prevod_sr": "Za poslovne udele mogu se izdati hartije od vrednosti.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: za poslovne udele nije moguće izdati hartije od vrednosti; društvo može izdati samo potvrdu (471. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Vsak družbenik lahko ob ustanovitvi prispeva več osnovnih vložkov in ima več poslovnih deležev.",
+    "prevod_sr": "Svaki član može pri osnivanju uneti više osnovnih uloga i imati više poslovnih udela.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pri osnivanju svaki član može uneti samo jedan osnovni ulog i ima samo jedan poslovni udeo (471. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Vrednost osnovnih vložkov je lahko različna.",
+    "prevod_sr": "Vrednost osnovnih uloga može biti različita.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 471. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Osnovni kapital sestavljajo osnovni vložki družbenikov.",
+    "prevod_sr": "Osnovni kapital čine osnovni ulozi članova.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 471. člen, 1. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "družba z omejeno odgovornostjo",
+   "osnovni vložek",
+   "poslovni delež",
+   "osnovni kapital"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 471. člen; 472. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-040",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – osnovni kapital, vložki in število družbenikov",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o d.o.o. so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o d.o.o. tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Osnovni kapital mora znašati vsaj 7.500 eurov.",
+    "prevod_sr": "Osnovni kapital mora iznositi najmanje 7.500 evra.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 475. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Vsak osnovni vložek mora znašati najmanj 50 eurov.",
+    "prevod_sr": "Svaki osnovni ulog mora iznositi najmanje 50 evra.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 475. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Osnovni vložek je lahko zagotovljen v denarju ali kot stvarni vložek ali stvarni prevzem.",
+    "prevod_sr": "Osnovni ulog može biti obezbeđen u novcu ili kao stvarni (nenovčani) ulog ili stvarno preuzimanje.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 475. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Družba ima lahko največ 50 družbenikov; več le z dovoljenjem ministra, pristojnega za gospodarstvo.",
+    "prevod_sr": "Društvo može imati najviše 50 članova; više samo uz dozvolu ministra nadležnog za privredu.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 473. člen, 2. i 3. odst."
+   },
+   {
+    "besedilo_sl": "Osnovni kapital mora znašati vsaj 25.000 eurov.",
+    "prevod_sr": "Osnovni kapital mora iznositi najmanje 25.000 evra.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: 25.000 EUR je minimum za d.d. (171. člen); za d.o.o. je 7.500 EUR (475. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "osnovni kapital",
+   "osnovni vložek",
+   "stvarni vložek",
+   "družbenik"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 473. člen; 475. člen; 171. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-041",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – vplačilo vložkov pred vpisom",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Tina in Uroš ustanavljata d.o.o. z osnovnim kapitalom 10.000 eurov; vsak prevzame denarni osnovni vložek 5.000 eurov. Kaj mora biti zagotovljeno pred prijavo za vpis v register?",
+  "prevod_sr": "Tina i Uroš osnivaju d.o.o. sa osnovnim kapitalom od 10.000 evra; svako preuzima novčani osnovni ulog od 5.000 evra. Šta mora biti obezbeđeno pre prijave za upis u registar?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Zadošča, da Tina vplača 7.500 eurov, Uroš pa pred prijavo ne vplača ničesar.",
+    "prevod_sr": "Dovoljno je da Tina uplati 7.500 evra, a Uroš pre prijave ne uplati ništa.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: svaki član mora obezbediti najmanje četvrtinu svog osnovnog uloga (475. člen, 4. odst.)."
+   },
+   {
+    "besedilo_sl": "Zadošča, da vsak vplača četrtino svojega vložka, torej skupaj 2.500 eurov.",
+    "prevod_sr": "Dovoljno je da svako uplati četvrtinu svog uloga, dakle ukupno 2.500 evra.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pored četvrtine svakog uloga vrednost svih obezbeđenih uloga mora iznositi najmanje 7.500 EUR (ZGD-1, 475. člen, 4. odst.)."
+   },
+   {
+    "besedilo_sl": "Vsak mora vplačati najmanj polovico svojega vložka, skupaj torej 5.000 eurov.",
+    "prevod_sr": "Svako mora uplatiti najmanje polovinu svog uloga, dakle ukupno 5.000 evra.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakon ne poznaje pravilo polovine; važi četvrtina svakog uloga i ukupno najmanje 7.500 EUR (475. člen, 4. odst.)."
+   },
+   {
+    "besedilo_sl": "Vplačan mora biti celoten osnovni kapital 10.000 eurov.",
+    "prevod_sr": "Mora biti uplaćen celokupan osnovni kapital od 10.000 evra.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakon traži najmanje četvrtinu svakog uloga i ukupno najmanje 7.500 EUR (475. člen, 4. odst.); u celini se pre prijave moraju predati samo stvarni ulozi (5. odst.)."
+   },
+   {
+    "besedilo_sl": "Vsak mora zagotoviti vsaj četrtino svojega osnovnega vložka, vrednost vseh zagotovljenih vložkov pa mora znašati najmanj 7.500 eurov.",
+    "prevod_sr": "Svako mora obezbediti najmanje četvrtinu svog osnovnog uloga, a vrednost svih obezbeđenih uloga mora iznositi najmanje 7.500 evra.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 475. člen, 4. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "vplačilo",
+   "osnovni vložek",
+   "prijava za vpis",
+   "četrtina"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 475. člen, 4. in 5. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-042",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – oblika družbene pogodbe",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o obliki ustanovitvenega akta d.o.o. so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o obliku osnivačkog akta d.o.o. tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če je družbena pogodba sklenjena na posebnem obrazcu, morajo biti podpisi družbenikov overjeni.",
+    "prevod_sr": "Ako je društveni ugovor zaključen na posebnom obrascu, potpisi članova moraju biti overeni.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 474. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Družbena pogodba je lahko sklenjena v obliki notarskega zapisa ali na posebnem obrazcu, v fizični ali elektronski obliki.",
+    "prevod_sr": "Društveni ugovor može biti zaključen u obliku notarskog zapisa ili na posebnom obrascu, u fizičkom ili elektronskom obliku.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 474. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Družbeno pogodbo podpiše le poslovodja.",
+    "prevod_sr": "Društveni ugovor potpisuje samo poslovodja.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: društveni ugovor potpisuju svi članovi (474. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Akt o ustanovitvi enoosebne d.o.o. mora biti vedno v obliki notarskega zapisa.",
+    "prevod_sr": "Akt o osnivanju jednočlane d.o.o. mora uvek biti u obliku notarskog zapisa.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: za akt o osnivanju nije potrebno da bude u obliku notarskog zapisa (523. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbena pogodba je veljavna izključno v obliki notarskega zapisa.",
+    "prevod_sr": "Društveni ugovor je punovažan isključivo u obliku notarskog zapisa.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: dopušten je i poseban obrazac (474. člen, 1. odst.) – česta zamka, jer je notarski zapis obavezan za statut d.d. (183. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "družbena pogodba",
+   "notarski zapis",
+   "posebni obrazec",
+   "akt o ustanovitvi"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 474. člen; 523. člen; 183. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-043",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – prenos poslovnega deleža",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o poslovnem deležu v d.o.o. so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o poslovnom udelu u d.o.o. tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če z družbeno pogodbo ni določeno drugače, imajo družbeniki pod enakimi pogoji pri nakupu poslovnega deleža prednost pred drugimi osebami.",
+    "prevod_sr": "Ako društvenim ugovorom nije određeno drugačije, članovi pod jednakim uslovima imaju pri kupovini poslovnog udela prednost pred drugim licima.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 481. člen, 4. odst. (zakonsko pravo preče kupovine)."
+   },
+   {
+    "besedilo_sl": "Za pridobitelja poslovnega deleža se šteje le tisti, ki je vpisan v register.",
+    "prevod_sr": "Sticaocem poslovnog udela smatra se samo onaj ko je upisan u registar.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 482. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Poslovni deleži se lahko odsvojijo in dedujejo.",
+    "prevod_sr": "Poslovni udeli se mogu otuđiti i naslediti.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 481. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Za odsvojitev poslovnega deleža je potrebna pogodba v obliki notarskega zapisa.",
+    "prevod_sr": "Za otuđenje poslovnog udela potreban je ugovor u obliku notarskog zapisa.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 481. člen, 3. odst."
+   },
+   {
+    "besedilo_sl": "Če družbenik k svojemu poslovnemu deležu pridobi še en delež, se deleža združita v enega.",
+    "prevod_sr": "Ako član uz svoj poslovni udeo stekne još jedan udeo, udeli se spajaju u jedan.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: svi udeli zadržavaju svoju samostalnost (481. člen, 2. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "poslovni delež",
+   "odsvojitev",
+   "notarski zapis",
+   "predkupna pravica",
+   "pridobitelj"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 481. člen; 482. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-044",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – prodaja deleža tretji osebi",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Družbenik Vid namerava prodati svoj poslovni delež osebi, ki ni družbenik. Družbena pogodba za tako odsvojitev zahteva soglasje vseh družbenikov. Kaj velja?",
+  "prevod_sr": "Član Vid namerava da proda svoj poslovni udeo licu koje nije član. Društveni ugovor za takvo otuđenje zahteva saglasnost svih članova. Šta važi?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če je delež pripravljenih kupiti več družbenikov, ga pridobi tisti z največjim poslovnim deležem.",
+    "prevod_sr": "Ako je više članova spremno da kupi udeo, stiče ga onaj sa najvećim poslovnim udelom.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: imaoci prodatog udela postaju svi kupci zajedno (481. člen, 6. odst.)."
+   },
+   {
+    "besedilo_sl": "Če nobeden od družbenikov ni pripravljen kupiti deleža in družbeniki ne dajo soglasja za prodajo tretji osebi, lahko Vid izstopi iz družbe.",
+    "prevod_sr": "Ako nijedan član nije spreman da kupi udeo, a članovi ne daju saglasnost za prodaju trećem licu, Vid može istupiti iz društva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 481. člen, 8. odst."
+   },
+   {
+    "besedilo_sl": "Družbeniki morajo pripravljenost za nakup sporočiti v osmih dneh od prejema obvestila.",
+    "prevod_sr": "Članovi moraju spremnost na kupovinu saopštiti u roku od osam dana od prijema obaveštenja.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: rok je jedan mesec od prijema obaveštenja (481. člen, 5. odst.)."
+   },
+   {
+    "besedilo_sl": "Taka določba družbene pogodbe je nična, ker je poslovni delež vedno prosto prenosljiv.",
+    "prevod_sr": "Takva odredba društvenog ugovora je ništava jer je poslovni udeo uvek slobodno prenosiv.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: društveni ugovor može za otuđenje licima koja nisu članovi zahtevati saglasnost većine ili svih članova (481. člen, 7. odst.)."
+   },
+   {
+    "besedilo_sl": "Vid mora druge družbenike pisno obvestiti o nameravani prodaji in pogojih prodaje.",
+    "prevod_sr": "Vid mora ostale članove pisano obavestiti o nameravanoj prodaji i uslovima prodaje.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 481. člen, 5. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "poslovni delež",
+   "soglasje družbenikov",
+   "izstop",
+   "obvestilo o prodaji"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 481. člen, 5.–8. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-045",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – izstop in izključitev družbenika",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o izstopu in izključitvi družbenika d.o.o. NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o istupanju i isključenju člana d.o.o. NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Vsak družbenik sme s tožbo zahtevati izključitev drugega družbenika, če obstajajo utemeljeni razlogi.",
+    "prevod_sr": "Svaki član sme tužbom zahtevati isključenje drugog člana ako postoje opravdani razlozi.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (501. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Z izstopom ali izključitvijo družbenika preneha njegov poslovni delež.",
+    "prevod_sr": "Istupanjem ili isključenjem člana prestaje njegov poslovni udeo.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (502. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbeniku, ki je izstopil, mora družba ocenjeno vrednost poslovnega deleža izplačati najpozneje v šestih letih od dneva izstopa.",
+    "prevod_sr": "Članu koji je istupio društvo mora procenjenu vrednost poslovnog udela isplatiti najkasnije u roku od šest godina od dana istupanja.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): članu koji je istupio isplaćuje se najkasnije u tri godine (502. člen, 5. odst.); šest godina važi za isključenog člana (502. člen, 6. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbena pogodba lahko določi, da sme družbenik iz družbe izstopiti ali da je lahko izključen.",
+    "prevod_sr": "Društveni ugovor može odrediti da član sme istupiti iz društva ili da može biti isključen.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (ZGD-1, 501. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbenik se lahko pravici, da s tožbo zahteva izstop iz utemeljenih razlogov, vnaprej odpove.",
+    "prevod_sr": "Član se može unapred odreći prava da tužbom zahteva istupanje iz opravdanih razloga.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): tog prava se član ne može unapred odreći (501. člen, 4. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "izstop",
+   "izključitev",
+   "poslovni delež",
+   "ocenjena vrednost",
+   "tožba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 501. člen; 502. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-046",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – odločanje družbenikov in glasovalna pravica",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o odločanju družbenikov d.o.o. so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o odlučivanju članova d.o.o. tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Vsak družbenik ima na skupščini en glas ne glede na višino osnovnega vložka.",
+    "prevod_sr": "Svaki član ima na skupštini jedan glas bez obzira na visinu osnovnog uloga.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: svakih navršenih 50 EUR osnovnog uloga daje jedan glas (506. člen, 1. odst.); „jedan član – jedan glas” je pravilo zadruge (ZZad, 18. člen)."
+   },
+   {
+    "besedilo_sl": "Družbeniki odločajo o sprejetju letnega poročila in uporabi bilančnega dobička.",
+    "prevod_sr": "Članovi odlučuju o usvajanju godišnjeg izveštaja i upotrebi bilansne dobiti.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 505. člen, 1. alineja."
+   },
+   {
+    "besedilo_sl": "Družba lahko uresničuje glasovalne pravice iz lastnih poslovnih deležev.",
+    "prevod_sr": "Društvo može ostvarivati pravo glasa iz sopstvenih poslovnih udela.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: društvo ne može ostvarivati prava iz sopstvenih udela (506. člen, 4. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbeniki odločajo o postavitvi prokurista in poslovnega pooblaščenca.",
+    "prevod_sr": "Članovi odlučuju o postavljanju prokuriste i poslovnog punomoćnika.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 505. člen, 7. alineja."
+   },
+   {
+    "besedilo_sl": "Družbeniki odločajo o postavitvi in odpoklicu poslovodij.",
+    "prevod_sr": "Članovi odlučuju o postavljanju i opozivu poslovodja.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 505. člen, 5. alineja."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "odločanje družbenikov",
+   "glasovalna pravica",
+   "poslovodja",
+   "prokurist",
+   "lastni delež"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 505. člen; 506. člen; ZZad, 18. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-047",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – skupščina",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katera trditev o skupščini družbenikov d.o.o. je pravilna?",
+  "prevod_sr": "Koja je tvrdnja o skupštini članova d.o.o. tačna?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če zakon ali družbena pogodba ne določata drugače, odločajo družbeniki na skupščini s tričetrtinsko večino oddanih glasov.",
+    "prevod_sr": "Ako zakon ili društveni ugovor ne određuju drugačije, članovi na skupštini odlučuju tročetvrtinskom većinom datih glasova.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: opšte pravilo je većina datih glasova (510. člen, 2. odst.); tri četvrtine glasova svih članova traži se npr. za izmenu društvenog ugovora (516. člen)."
+   },
+   {
+    "besedilo_sl": "Sklic skupščine smejo zahtevati družbeniki, katerih poslovni deleži predstavljajo najmanj desetino osnovnega kapitala.",
+    "prevod_sr": "Sazivanje skupštine smeju zahtevati članovi čiji poslovni udeli predstavljaju najmanje desetinu osnovnog kapitala.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 511. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Skupščino skliče nadzorni svet; poslovodja te pristojnosti nima.",
+    "prevod_sr": "Skupštinu saziva nadzorni odbor; poslovodja nema tu nadležnost.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: skupštinu saziva poslovodja (508. člen)."
+   },
+   {
+    "besedilo_sl": "Sklic skupščine smejo zahtevati le družbeniki, katerih poslovni deleži predstavljajo najmanj četrtino osnovnega kapitala.",
+    "prevod_sr": "Sazivanje skupštine smeju zahtevati samo članovi čiji poslovni udeli predstavljaju najmanje četvrtinu osnovnog kapitala.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: dovoljna je desetina osnovnog kapitala (511. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Skupščina se skliče najmanj 30 dni pred dnem zasedanja.",
+    "prevod_sr": "Skupština se saziva najmanje 30 dana pre dana zasedanja.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: u d.o.o. se saziva najmanje 25 dana pre zasedanja (ZGD-1, 509. člen, 1. odst.); 30 dana važi za d.d. (297. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "skupščina družbenikov",
+   "sklic",
+   "manjšinski družbeniki",
+   "večina oddanih glasov"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 508.–511. člen; 297. člen; 516. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-048",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – poslovodja",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Kaj od navedenega za poslovodjo d.o.o. NE velja?",
+  "prevod_sr": "Šta od navedenog za poslovodju d.o.o. NE važi?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Če ima družba nadzorni svet, poslovodjo imenuje in odpokliče ta svet.",
+    "prevod_sr": "Ako društvo ima nadzorni odbor, poslovodju imenuje i opoziva taj odbor.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to važi (515. člen, 4. odst.)."
+   },
+   {
+    "besedilo_sl": "Na lastno odgovornost vodi posle družbe in jo zastopa.",
+    "prevod_sr": "Na sopstvenu odgovornost vodi poslove društva i zastupa ga.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to važi (ZGD-1, 515. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Ista oseba je lahko za poslovodjo ponovno imenovana.",
+    "prevod_sr": "Isto lice može biti ponovo imenovano za poslovodju.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to važi (515. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Družba ima lahko več poslovodij.",
+    "prevod_sr": "Društvo može imati više poslovodja.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to važi (515. člen, 1. i 5. odst.)."
+   },
+   {
+    "besedilo_sl": "Če je imenovan za določen čas, ta čas ne sme biti daljši od dveh let.",
+    "prevod_sr": "Ako je imenovan na određeno vreme, to vreme ne sme biti duže od dve godine.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (ne važi): određeno vreme ne sme biti kraće od dve godine (515. člen, 2. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "poslovodja",
+   "direktor",
+   "nadzorni svet",
+   "določen čas"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 515. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-049",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – sprememba družbene pogodbe",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katera trditev o spremembi družbene pogodbe d.o.o. je pravilna?",
+  "prevod_sr": "Koja je tvrdnja o izmeni društvenog ugovora d.o.o. tačna?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Sklep, s katerim se povečajo obveznosti družbenikov do družbe, se – razen pri povečanju osnovnega kapitala – sprejme z večino oddanih glasov.",
+    "prevod_sr": "Odluka kojom se povećavaju obaveze članova prema društvu donosi se – osim pri povećanju osnovnog kapitala – većinom datih glasova.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: takvu odluku moraju doneti svi članovi (516. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "O spremembi odločajo družbeniki na skupščini s tričetrtinsko večino glasov vseh družbenikov.",
+    "prevod_sr": "O izmeni odlučuju članovi na skupštini tročetvrtinskom većinom glasova svih članova.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 516. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Sprememba začne veljati z dnem, ko sklep potrdi notar.",
+    "prevod_sr": "Izmena počinje da važi danom kada odluku potvrdi notar.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: izmena počinje da važi upisom u registar (516. člen, 6. odst.)."
+   },
+   {
+    "besedilo_sl": "Sklep o spremembi sedeža družbe mora vedno potrditi notar.",
+    "prevod_sr": "Odluku o promeni sedišta društva uvek mora potvrditi notar.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: notar potvrđuje odluku o izmeni, osim pri promeni sedišta, firme ili delatnosti (516. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "O spremembi odločajo družbeniki na skupščini z navadno večino oddanih glasov.",
+    "prevod_sr": "O izmeni odlučuju članovi na skupštini običnom većinom datih glasova.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: potrebna je tročetvrtinska većina glasova svih članova (ZGD-1, 516. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "sprememba družbene pogodbe",
+   "tričetrtinska večina",
+   "notar",
+   "vpis v register"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 516. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-050",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – družba z enim družbenikom",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o d.o.o. z enim družbenikom so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o d.o.o. sa jednim članom tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pravila o d.o.o. se za družbo z enim družbenikom ne uporabljajo.",
+    "prevod_sr": "Pravila o d.o.o. se na društvo sa jednim članom ne primenjuju.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: primenjuju se pravila o d.o.o., ako u posebnom odeljku nije drugačije određeno (523. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Odločitve o vprašanjih iz 505. člena ZGD-1 (o katerih sicer odločajo družbeniki) mora ustanovitelj vpisovati v knjigo sklepov.",
+    "prevod_sr": "Odluke o pitanjima iz 505. člana ZGD-1 (o kojima inače odlučuju članovi) osnivač mora upisivati u knjigu odluka.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 526. člen, 2. odst. – odluke koje nisu upisane nemaju pravno dejstvo."
+   },
+   {
+    "besedilo_sl": "Ustanovitelj samostojno odloča o vprašanjih, o katerih sicer odločajo družbeniki.",
+    "prevod_sr": "Osnivač samostalno odlučuje o pitanjima o kojima inače odlučuju članovi.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 526. člen, 1. odst. (pitanja iz 505. člena)."
+   },
+   {
+    "besedilo_sl": "Pravni posli, ki jih edini družbenik v imenu družbe sklene s samim seboj, morajo biti vedno v obliki notarskega zapisa.",
+    "prevod_sr": "Pravni poslovi koje jedini član u ime društva zaključi sam sa sobom moraju uvek biti u obliku notarskog zapisa.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: moraju biti u pisanom obliku (525. člen, 1. odst.), a to ne važi za poslove iz redovnog poslovanja (2. odst.)."
+   },
+   {
+    "besedilo_sl": "Ustanovitelj sprejme akt o ustanovitvi.",
+    "prevod_sr": "Osnivač donosi akt o osnivanju.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 523. člen, 1. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "enoosebna družba",
+   "ustanovitelj",
+   "akt o ustanovitvi",
+   "knjiga sklepov"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 523. člen; 525. člen; 526. člen; 505. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-051",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Družba z omejeno odgovornostjo – prenehanje na podlagi tožbe",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Družbenica Zala ima v d.o.o. poslovni delež, ki znaša 12 % osnovnega kapitala. Meni, da ciljev družbe ni več mogoče v zadostni meri doseči. Kaj lahko stori?",
+  "prevod_sr": "Članica Zala ima u d.o.o. poslovni udeo koji iznosi 12 % osnovnog kapitala. Smatra da ciljeve društva više nije moguće u dovoljnoj meri postići. Šta može učiniti?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Tožbo lahko vloži le skupaj z družbeniki, ki imajo večino glasov.",
+    "prevod_sr": "Tužbu može podneti samo zajedno sa članovima koji imaju većinu glasova.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: tužbu može podneti svaki član sa najmanje desetinom osnovnog kapitala sam (521. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "S tožbo lahko zahteva, da sodišče odloči o prenehanju družbe.",
+    "prevod_sr": "Može tužbom zahtevati da sud odluči o prestanku društva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: to pravo ima svaki član čiji udeo iznosi najmanje desetinu osnovnog kapitala (521. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Družbeno pogodbo lahko odpove na koncu poslovnega leta s šestmesečnim odpovednim rokom, zaradi česar družba preneha.",
+    "prevod_sr": "Može otkazati društveni ugovor na kraju poslovne godine uz šestomesečni otkazni rok, usled čega društvo prestaje.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: otkaz sa šest meseci je institut d.n.o. (105. i 106. člen); među razlozima prestanka d.o.o. (521. člen) otkaza nema."
+   },
+   {
+    "besedilo_sl": "Tožbe ne more vložiti, ker je za to potreben poslovni delež najmanj 25 % osnovnega kapitala.",
+    "prevod_sr": "Ne može podneti tužbu jer je za to potreban poslovni udeo od najmanje 25 % osnovnog kapitala.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: dovoljan je udeo od najmanje jedne desetine osnovnog kapitala (ZGD-1, 521. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "O prenehanju družbe lahko odloči sama s pisno izjavo poslovodji.",
+    "prevod_sr": "O prestanku društva može odlučiti sama pisanom izjavom poslovodji.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: za odluku članova o prestanku potrebna je najmanje tročetvrtinska većina glasova svih članova (521. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "prenehanje družbe",
+   "tožba",
+   "desetina osnovnega kapitala",
+   "sodna odločba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 521. člen; 105. člen; 106. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-052",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Gospodarsko interesno združenje",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o gospodarskem interesnem združenju (GIZ) so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o privrednom interesnom udruženju (GIZ) tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Člani so za obveznosti združenja odgovorni z vsem svojim premoženjem.",
+    "prevod_sr": "Članovi su za obaveze udruženja odgovorni celokupnom svojom imovinom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 566. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Lastnost pravne osebe pridobi s sklenitvijo pogodbe o ustanovitvi.",
+    "prevod_sr": "Svojstvo pravnog lica stiče zaključenjem ugovora o osnivanju.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: svojstvo pravnog lica stiče upisom u registar (565. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Ustanovita ga lahko vsaj dve družbi oziroma podjetnika.",
+    "prevod_sr": "Mogu ga osnovati najmanje dva društva odnosno preduzetnika.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 563. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Cilj združenja je ustvarjati lasten dobiček.",
+    "prevod_sr": "Cilj udruženja je stvaranje sopstvene dobiti.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: cilj je olakšavati i unapređivati dobitnu delatnost članova, a ne stvarati sopstvenu dobit (563. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Združenje se lahko ustanovi brez osnovnega kapitala.",
+    "prevod_sr": "Udruženje se može osnovati bez osnovnog kapitala.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 564. člen, 1. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "gospodarsko interesno združenje",
+   "GIZ",
+   "član",
+   "pravna oseba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 563.–566. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-053",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Povezane družbe – vrste",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere družbe se po ZGD-1 NE štejejo za povezane družbe?",
+  "prevod_sr": "Koja se društva po ZGD-1 NE smatraju povezanim društvima?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Odvisna in obvladujoča družba.",
+    "prevod_sr": "Zavisno i vladajuće (kontrolno) društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je vrsta povezanih društava (527. člen, 2. alineja)."
+   },
+   {
+    "besedilo_sl": "Družba v večinski lasti in družba z večinskim deležem.",
+    "prevod_sr": "Društvo u većinskom vlasništvu i društvo sa većinskim udelom.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je vrsta povezanih društava (ZGD-1, 527. člen, 1. alineja)."
+   },
+   {
+    "besedilo_sl": "Družbe, povezane s podjetniškimi pogodbami.",
+    "prevod_sr": "Društva povezana preduzetničkim ugovorima.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je vrsta povezanih društava (527. člen, 5. alineja)."
+   },
+   {
+    "besedilo_sl": "Družbe, ki imajo sedež v istem kraju in opravljajo enako dejavnost.",
+    "prevod_sr": "Društva koja imaju sedište u istom mestu i obavljaju istu delatnost.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se: 527. člen navodi pet vrsta povezanosti (većinski udeo, zavisnost, koncern, uzajamno kapitalsko učešće, preduzetnički ugovori); isto sedište i delatnost nisu među njima."
+   },
+   {
+    "besedilo_sl": "Vzajemno kapitalsko udeleženi družbi.",
+    "prevod_sr": "Društva sa uzajamnim kapitalskim učešćem.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: to je vrsta povezanih društava (527. člen, 4. alineja)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "povezane družbe",
+   "koncern",
+   "odvisna družba",
+   "obvladujoča družba",
+   "podjetniška pogodba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 527. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-054",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Povezane družbe – odvisna družba, koncern, pogodba o obvladovanju",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o povezanih družbah so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o povezanim društvima tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Vzajemno kapitalsko udeleženi sta kapitalski družbi, če vsaki pripada več kot desetina deležev druge družbe.",
+    "prevod_sr": "Uzajamno kapitalsko učešće postoji ako svakom društvu kapitala pripada više od desetine udela drugog društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prag je više od četvrtine udela drugog društva (531. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Odvisna družba je pravno samostojna družba, ki jo neposredno ali posredno obvladuje druga družba.",
+    "prevod_sr": "Zavisno društvo je pravno samostalno društvo koje neposredno ili posredno kontroliše drugo društvo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 529. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Pogodba, s katero družba podredi vodenje družbe drugi družbi, je pogodba o obvladovanju.",
+    "prevod_sr": "Ugovor kojim društvo podređuje vođenje društva drugom društvu je ugovor o kontroli (pogodba o obvladovanju).",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 533. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Domneva se, da je družba v večinski lasti odvisna od družbe, ki ima v njej večinski delež.",
+    "prevod_sr": "Pretpostavlja se da je društvo u većinskom vlasništvu zavisno od društva koje u njemu ima većinski udeo.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 529. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Dejanski koncern sestavljajo družbe, ki so povezane s pogodbo o obvladovanju.",
+    "prevod_sr": "Faktički koncern čine društva povezana ugovorom o kontroli (pogodba o obvladovanju).",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: to je ugovorni (pogodbeni) koncern; faktički koncern čine vladajuće i zavisna društva pod jedinstvenim vođstvom vladajućeg društva (530. člen, 1. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "odvisna družba",
+   "obvladujoča družba",
+   "dejanski koncern",
+   "pogodbeni koncern",
+   "pogodba o obvladovanju"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 529. člen; 530. člen; 531. člen; 533. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-055",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Statusno preoblikovanje – oblike",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Na katere načine se družba po ZGD-1 lahko statusno preoblikuje?",
+  "prevod_sr": "Na koje načine se društvo po ZGD-1 može statusno preoblikovati?",
+  "odgovori": [
+   {
+    "besedilo_sl": "S spremembo firme ali sedeža.",
+    "prevod_sr": "Promenom firme ili sedišta.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: promena firme ili sedišta nije statusno preoblikovanje; 579. člen navodi samo združitev, delitev, prenos premoženja i promenu pravnoorganizacione forme."
+   },
+   {
+    "besedilo_sl": "S spremembo pravnoorganizacijske oblike.",
+    "prevod_sr": "Promenom pravnoorganizacione forme.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 579. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Z delitvijo.",
+    "prevod_sr": "Podelom.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 579. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Z združitvijo.",
+    "prevod_sr": "Spajanjem/pripajanjem (združitev).",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 579. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "S prenosom premoženja.",
+    "prevod_sr": "Prenosom imovine.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 579. člen, 1. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "statusno preoblikovanje",
+   "združitev",
+   "delitev",
+   "prenos premoženja",
+   "sprememba pravnoorganizacijske oblike"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 579. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-056",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Združitev – pripojitev in spojitev",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o združitvi delniških družb so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o združitvi (statusnom spajanju) akcionarskih društava tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pri spojitvi ena od družb, ki se spajajo, obstaja naprej kot prevzemna družba.",
+    "prevod_sr": "Pri spajanju jedno od društava koja se spajaju nastavlja da postoji kao društvo preuzimalac.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: kao preuzimalac važi novoosnovano društvo, a društva koja su se spojila prestaju (616. člen, 1. i 7. odst.)."
+   },
+   {
+    "besedilo_sl": "Pri pripojitvi preneha prevzemna družba.",
+    "prevod_sr": "Pri pripajanju prestaje društvo preuzimalac.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prestaju preuzeta društva (580. člen, 4. odst.; 591. člen, 3. odst.)."
+   },
+   {
+    "besedilo_sl": "Spojitev se opravi z ustanovitvijo nove družbe, na katero se prenese celotno premoženje družb, ki se spajajo.",
+    "prevod_sr": "Spajanje se vrši osnivanjem novog društva na koje se prenosi celokupna imovina društava koja se spajaju.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 580. člen, 3. odst."
+   },
+   {
+    "besedilo_sl": "Pripojitev se opravi s prenosom celotnega premoženja ene ali več družb (prevzeta družba) na drugo družbo (prevzemna družba).",
+    "prevod_sr": "Pripajanje se vrši prenosom celokupne imovine jednog ili više društava (preuzeto društvo) na drugo društvo (društvo preuzimalac).",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 580. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Prevzete družbe prenehajo šele po opravljeni likvidaciji.",
+    "prevod_sr": "Preuzeta društva prestaju tek posle sprovedene likvidacije.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: preuzeta društva prestaju bez prethodne likvidacije (580. člen, 4. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "pripojitev",
+   "spojitev",
+   "prevzeta družba",
+   "prevzemna družba",
+   "likvidacija"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 580. člen; 591. člen; 616. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-057",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Združitev – pogodba, soglasje skupščine in pravne posledice",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o združitvi delniških družb NISO pravilne?",
+  "prevod_sr": "Koje tvrdnje o združitvi akcionarskih društava NISU tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Sklep skupščine o soglasju za pripojitev je veljavno sprejet že z navadno večino oddanih glasov.",
+    "prevod_sr": "Odluka skupštine o saglasnosti za pripajanje punovažno je doneta već običnom većinom datih glasova.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): potrebno je najmanje tri četvrtine osnovnog kapitala zastupljenog pri odlučivanju (585. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "O spojitvi se sme sklepati, če je vsaka od družb, ki se spajajo, vpisana v registru najmanj dve leti.",
+    "prevod_sr": "O spajanju se sme odlučivati ako je svako od društava koja se spajaju upisano u registar najmanje dve godine.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (616. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Pogodba o pripojitvi mora biti sklenjena v obliki notarskega zapisa.",
+    "prevod_sr": "Ugovor o pripajanju mora biti zaključen u obliku notarskog zapisa.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (587. člen)."
+   },
+   {
+    "besedilo_sl": "Prevzemna družba kot univerzalni pravni naslednik vstopi v vsa pravna razmerja, katerih subjekt je bila prevzeta družba.",
+    "prevod_sr": "Društvo preuzimalac kao univerzalni pravni sledbenik stupa u sve pravne odnose čiji je subjekt bilo preuzeto društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (ZGD-1, 580. člen, 6. odst.)."
+   },
+   {
+    "besedilo_sl": "Delničarjem prevzetih družb se delnice prevzemne družbe ne zagotovijo; izplača se jim le denarna odpravnina.",
+    "prevod_sr": "Akcionarima preuzetih društava ne obezbeđuju se akcije društva preuzimaoca; isplaćuje im se samo novčana otpremnina.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): akcionarima preuzetih društava obezbeđuju se akcije društva preuzimaoca (580. člen, 4. odst.); novčana doplata je samo dopunska i ograničena (5. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "pogodba o pripojitvi",
+   "soglasje skupščine",
+   "univerzalni pravni naslednik",
+   "notarski zapis"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 580. člen; 585. člen; 587. člen; 616. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-058",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delitev – razdelitev, oddelitev, izčlenitev",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o delitvi kapitalske družbe so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o podeli društva kapitala tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Pri oddelitvi se deleži nove ali prevzemne družbe zagotovijo prenosni družbi.",
+    "prevod_sr": "Pri oddelitvi (izdvajanju) udeli novog ili društva preuzimaoca obezbeđuju se društvu prenosiocu.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pri razdelitvi i oddelitvi udeli se obezbeđuju članovima/akcionarima društva prenosioca; društvu prenosiocu se obezbeđuju pri izčlenitvi (623. člen, 7. odst.)."
+   },
+   {
+    "besedilo_sl": "Pri izčlenitvi prenosna družba ne preneha.",
+    "prevod_sr": "Pri izčlenitvi društvo prenosilac ne prestaje.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 623. člen, 3. odst."
+   },
+   {
+    "besedilo_sl": "Pri oddelitvi prenosna družba ne preneha.",
+    "prevod_sr": "Pri oddelitvi društvo prenosilac ne prestaje.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 623. člen, 4. odst."
+   },
+   {
+    "besedilo_sl": "Z razdelitvijo, oddelitvijo ali izčlenitvijo se po 623. členu lahko deli le delniška družba.",
+    "prevod_sr": "Razdelitvom, oddelitvom ili izčlenitvom se po 623. članu može deliti samo akcionarsko društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: deliti se može kapitalska družba, dakle i d.o.o. (623. člen, 1. odst.)."
+   },
+   {
+    "besedilo_sl": "Pri razdelitvi prenosna družba preneha, ne da bi bila opravljena njena likvidacija.",
+    "prevod_sr": "Pri razdelitvi (podeli uz prestanak) društvo prenosilac prestaje bez sprovođenja likvidacije.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 623. člen, 2. odst."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "delitev",
+   "razdelitev",
+   "oddelitev",
+   "izčlenitev",
+   "prenosna družba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 623. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-059",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Delitev – prepoznavanje oblike delitve",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Družba Alfa d.o.o. prenese del svojega premoženja na novo družbo Beta d.o.o., ki se ustanovi zaradi tega prenosa. Poslovni delež v družbi Beta se zagotovi družbi Alfa sami, Alfa pa obstaja naprej. Za katero statusno preoblikovanje gre?",
+  "prevod_sr": "Društvo Alfa d.o.o. prenese deo svoje imovine na novo društvo Beta d.o.o., koje se osniva radi tog prenosa. Poslovni udeo u društvu Beta obezbeđuje se samom društvu Alfa, a Alfa nastavlja da postoji. O kom statusnom preoblikovanju je reč?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Za oddelitev z ustanovitvijo nove družbe.",
+    "prevod_sr": "O oddelitvi sa osnivanjem novog društva.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pri oddelitvi se udeli novog društva obezbeđuju članovima društva prenosioca, ne samom društvu (ZGD-1, 623. člen, 7. odst.)."
+   },
+   {
+    "besedilo_sl": "Za razdelitev z ustanovitvijo novih družb.",
+    "prevod_sr": "O razdelitvi sa osnivanjem novih društava.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pri razdelitvi društvo prenosilac prestaje (623. člen, 2. odst.), a Alfa nastavlja da postoji."
+   },
+   {
+    "besedilo_sl": "Za pripojitev.",
+    "prevod_sr": "O pripajanju.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: pri pripajanju se prenosi celokupna imovina preuzetog društva, koje prestaje (580. člen, 2. i 4. odst.)."
+   },
+   {
+    "besedilo_sl": "Za izčlenitev z ustanovitvijo nove družbe.",
+    "prevod_sr": "O izčlenitvi sa osnivanjem novog društva.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: pri izčlenitvi društvo prenosilac ne prestaje, a udeli novog društva obezbeđuju se društvu prenosiocu (623. člen, 3. i 7. odst.)."
+   },
+   {
+    "besedilo_sl": "Za spojitev.",
+    "prevod_sr": "O spajanju.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: spajanje je oblik združitve u kojem društva koja se spajaju prestaju i nastaje novo društvo (580. člen, 3. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "izčlenitev",
+   "oddelitev",
+   "razdelitev",
+   "prenosna družba",
+   "nova družba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 623. člen; 580. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-060",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Sprememba pravnoorganizacijske oblike – d.d. v d.o.o.",
+  "tezina": 3,
+  "tip": "multi",
+  "vprasanje_sl": "Delniška družba s 30 delničarji se želi preoblikovati v družbo z omejeno odgovornostjo. Kaj velja?",
+  "prevod_sr": "Akcionarsko društvo sa 30 akcionara želi da se preoblikuje u društvo sa ograničenom odgovornošću. Šta važi?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Preoblikovanje je mogoče na podlagi sklepa skupščine, ker ima družba manj kot 50 delničarjev, če izpolnjuje vse pogoje za ustanovitev d.o.o.",
+    "prevod_sr": "Preoblikovanje je moguće na osnovu odluke skupštine jer društvo ima manje od 50 akcionara, ako ispunjava sve uslove za osnivanje d.o.o.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 648. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Sklep o preoblikovanju mora sprejeti večina, ki vključuje najmanj devet desetin osnovnega kapitala.",
+    "prevod_sr": "Odluku o preoblikovanju mora doneti većina koja uključuje najmanje devet desetina osnovnog kapitala.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 648. člen, 2. odst."
+   },
+   {
+    "besedilo_sl": "Za sklep o preoblikovanju zadošča večina treh četrtin pri sklepanju zastopanega osnovnega kapitala.",
+    "prevod_sr": "Za odluku o preoblikovanju dovoljna je većina od tri četvrtine zastupljenog osnovnog kapitala.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: odluku mora doneti većina koja uključuje najmanje devet desetina osnovnog kapitala (648. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Preoblikovanje ni mogoče, ker se delniška družba sme preoblikovati le v komanditno delniško družbo.",
+    "prevod_sr": "Preoblikovanje nije moguće jer se akcionarsko društvo sme preoblikovati samo u komanditno akcionarsko društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zakon uređuje i preoblikovanje d.d. u k.d.d. (642. člen) i u d.o.o. (648. člen)."
+   },
+   {
+    "besedilo_sl": "Z vpisom preoblikovanja delnice prenehajo brez nadomestila.",
+    "prevod_sr": "Upisom preoblikovanja akcije prestaju bez naknade.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: akcije postaju poslovni udeli (650. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "preoblikovanje",
+   "delniška družba",
+   "družba z omejeno odgovornostjo",
+   "devet desetin",
+   "poslovni delež"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 642. člen; 648. člen; 650. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-061",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Prenos premoženja in statusno preoblikovanje podjetnika",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o prenosu premoženja in o statusnem preoblikovanju podjetnika so po ZGD-1 pravilne?",
+  "prevod_sr": "Koje su tvrdnje o prenosu imovine i o statusnom preoblikovanju preduzetnika po ZGD-1 tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Družba, ki je prenesla premoženje, po vpisu prenosa premoženja v register obstaja naprej.",
+    "prevod_sr": "Društvo koje je prenelo imovinu posle upisa prenosa imovine u registar nastavlja da postoji.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: upisom prenosa imovine u registar to društvo prestaje da postoji (640. člen, 2. odst.)."
+   },
+   {
+    "besedilo_sl": "Prenos premoženja po 640. členu je prenos premoženja na katerokoli drugo gospodarsko družbo.",
+    "prevod_sr": "Prenos imovine po 640. članu je prenos imovine na bilo koje drugo privredno društvo.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: prenos imovine je moguć samo na Republiku Sloveniju ili samoupravnu lokalnu zajednicu (640. člen, 1. odst.); prenos na drugo društvo je pripajanje (580. člen)."
+   },
+   {
+    "besedilo_sl": "Podjetnik se lahko statusno preoblikuje v kapitalsko družbo.",
+    "prevod_sr": "Preduzetnik se može statusno preoblikovati u društvo kapitala.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: 579. člen, 2. odst.; 667. člen."
+   },
+   {
+    "besedilo_sl": "Pri prenosu premoženja lahko d.d., k.d.d. ali d.o.o. prenese svoje premoženje kot celoto na Republiko Slovenijo ali na samoupravno lokalno skupnost.",
+    "prevod_sr": "Pri prenosu imovine d.d., k.d.d. ili d.o.o. može preneti svoju imovinu kao celinu na Republiku Sloveniju ili na jedinicu lokalne samouprave.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZGD-1, 640. člen, 1. odst."
+   },
+   {
+    "besedilo_sl": "Podjetnik se statusno preoblikuje tako, da prenese podjetje na družbo z neomejeno odgovornostjo.",
+    "prevod_sr": "Preduzetnik se statusno preoblikuje tako što prenese preduzeće na društvo sa neograničenom odgovornošću.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: preduzetnik prenosi preduzeće na novu ili preuzimajuću kapitalsku družbu (667. člen, 1. odst.); d.n.o. je osebna družba (3. člen, 3. odst.)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "prenos premoženja",
+   "podjetnik",
+   "kapitalska družba",
+   "samoupravna lokalna skupnost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZGD-1, 640. člen; 579. člen, 2. odst.; 667. člen; 580. člen; 3. člen, 3. odst.",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-062",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Zadruga – pojem in ustanovitev",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o zadrugi so po Zakonu o zadrugah pravilne?",
+  "prevod_sr": "Koje su tvrdnje o zadruzi po Zakonu o zadrugama tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Za ustanovitev zadruge je potrebnih najmanj deset ustanoviteljev.",
+    "prevod_sr": "Za osnivanje zadruge potrebno je najmanje deset osnivača.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: dovoljna su tri osnivača (ZZad, 4. člen); broj deset je bitan za obavezu upravnog odbora (14. člen)."
+   },
+   {
+    "besedilo_sl": "Zadruga pridobi pravno in poslovno sposobnost s sprejetjem zadružnih pravil.",
+    "prevod_sr": "Zadruga stiče pravnu i poslovnu sposobnost usvajanjem zadružnih pravila.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: stiče je upisom akta o osnivanju u registar (ZZad, 7. člen)."
+   },
+   {
+    "besedilo_sl": "Ustanovitelji zadruge so lahko le fizične osebe.",
+    "prevod_sr": "Osnivači zadruge mogu biti samo fizička lica.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: osnivači mogu biti fizička odnosno pravna lica (ZZad, 4. člen)."
+   },
+   {
+    "besedilo_sl": "Zadruga je organizacija vnaprej nedoločenega števila članov.",
+    "prevod_sr": "Zadruga je organizacija unapred neodređenog broja članova.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZZad, 1. člen."
+   },
+   {
+    "besedilo_sl": "Zadrugo lahko ustanovijo najmanj trije ustanovitelji.",
+    "prevod_sr": "Zadrugu mogu osnovati najmanje tri osnivača.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZZad, 4. člen."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "zadruga",
+   "ustanovitelj",
+   "zadružna pravila",
+   "akt o ustanovitvi",
+   "register"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZZad, 1. člen; 4. člen; 7. člen; 14. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO217"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-063",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Zadruga – organi in odgovornost",
+  "tezina": 2,
+  "tip": "multi",
+  "vprasanje_sl": "Katera trditev o zadrugi NI pravilna?",
+  "prevod_sr": "Koja tvrdnja o zadruzi NIJE tačna?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Glasovalna pravica članov se po zakonu vedno ravna po višini vplačanih deležev.",
+    "prevod_sr": "Pravo glasa članova se po zakonu uvek ravna prema visini uplaćenih udela.",
+    "pravilno": true,
+    "razlaga_sr": "Označava se (tvrdnja je netačna): zakonsko pravilo je jedan član – jedan glas (ZZad, 18. člen); glasanje po visini uloga je pravilo d.o.o. (ZGD-1, 506. člen)."
+   },
+   {
+    "besedilo_sl": "Pri odločanju na občnem zboru ima vsak član en glas, če zadružna pravila ne določajo drugače.",
+    "prevod_sr": "Pri odlučivanju na skupštini svaki član ima jedan glas, ako zadružna pravila ne određuju drugačije.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (ZZad, 18. člen)."
+   },
+   {
+    "besedilo_sl": "Za svoje obveznosti odgovarja zadruga z vsem svojim premoženjem.",
+    "prevod_sr": "Za svoje obaveze zadruga odgovara celokupnom svojom imovinom.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (ZZad, 40. člen)."
+   },
+   {
+    "besedilo_sl": "Najvišji organ zadruge je občni zbor članov zadruge.",
+    "prevod_sr": "Najviši organ zadruge je skupština (občni zbor) članova zadruge.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (ZZad, 15. člen)."
+   },
+   {
+    "besedilo_sl": "Zadruga, ki ima deset oziroma več članov, ima tudi upravni odbor.",
+    "prevod_sr": "Zadruga koja ima deset odnosno više članova ima i upravni odbor.",
+    "pravilno": false,
+    "razlaga_sr": "Ne označava se: tvrdnja je tačna (ZZad, 14. člen)."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "zadruga",
+   "občni zbor",
+   "upravni odbor",
+   "en glas",
+   "odgovornost"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZZad, 14. člen; 15. člen; 18. člen; 40. člen; ZGD-1, 506. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO217"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-064",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Zavod – pojem in ustanovitev",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o zavodu so po Zakonu o zavodih pravilne?",
+  "prevod_sr": "Koje su tvrdnje o zavodu (ustanovi) po Zakonu o zavodima tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Javni zavodi se ustanovijo za opravljanje pridobitne dejavnosti na trgu.",
+    "prevod_sr": "Javni zavodi se osnivaju za obavljanje dobitne delatnosti na tržištu.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: javni zavodi se osnivaju za obavljanje javnih službi (ZZ, 3. člen)."
+   },
+   {
+    "besedilo_sl": "Zavod sme opravljati le eno samo dejavnost.",
+    "prevod_sr": "Zavod sme obavljati samo jednu jedinu delatnost.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zavod može obavljati jednu ili više delatnosti (ZZ, 18. člen)."
+   },
+   {
+    "besedilo_sl": "Zavode lahko ustanovijo le država in občine.",
+    "prevod_sr": "Zavode mogu osnovati samo država i opštine.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: zavode mogu osnovati domaća i strana fizička i pravna lica (ZZ, 2. člen); država i opštine osnivaju javne zavode (3. člen)."
+   },
+   {
+    "besedilo_sl": "Zavod se ustanovi za opravljanje dejavnosti, katerih cilj ni pridobivanje dobička.",
+    "prevod_sr": "Zavod se osniva za obavljanje delatnosti čiji cilj nije sticanje dobiti.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZZ, 1. člen."
+   },
+   {
+    "besedilo_sl": "Zavod pridobi pravno sposobnost z vpisom akta o ustanovitvi v sodni register.",
+    "prevod_sr": "Zavod stiče pravnu sposobnost upisom akta o osnivanju u sudski registar.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZZ, 12. člen."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "zavod",
+   "javni zavod",
+   "akt o ustanovitvi",
+   "sodni register",
+   "javna služba"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZZ, 1. člen; 2. člen; 3. člen; 12. člen; 18. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO10"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ },
+ {
+  "id": "T3-065",
+  "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+  "podtema": "Zavod – organi in odgovornost",
+  "tezina": 1,
+  "tip": "multi",
+  "vprasanje_sl": "Katere trditve o organih in odgovornosti zavoda so pravilne?",
+  "prevod_sr": "Koje su tvrdnje o organima i odgovornosti zavoda tačne?",
+  "odgovori": [
+   {
+    "besedilo_sl": "Ustanovitelj je odgovoren za obveznosti zavoda, če ni z zakonom ali aktom o ustanovitvi drugače določeno.",
+    "prevod_sr": "Osnivač je odgovoran za obaveze zavoda, ako zakonom ili aktom o osnivanju nije drugačije određeno.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZZ, 49. člen."
+   },
+   {
+    "besedilo_sl": "Zavod upravlja svet ali drug kolegijski organ upravljanja.",
+    "prevod_sr": "Zavodom upravlja savet ili drugi kolegijalni organ upravljanja.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZZ, 29. člen."
+   },
+   {
+    "besedilo_sl": "Presežek prihodkov nad odhodki se po zakonu razdeli ustanoviteljem kot dobiček.",
+    "prevod_sr": "Višak prihoda nad rashodima se po zakonu deli osnivačima kao dobit.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: višak sme zavod upotrebiti samo za obavljanje i razvoj delatnosti, ako aktom o osnivanju nije drugačije određeno (ZZ, 48. člen)."
+   },
+   {
+    "besedilo_sl": "Zavod vodi uprava, ki jo imenuje nadzorni svet.",
+    "prevod_sr": "Zavod vodi uprava koju imenuje nadzorni odbor.",
+    "pravilno": false,
+    "razlaga_sr": "Netačno: to je model d.d. (ZGD-1, 268. člen); zavod ima savet i direktora, a direktora imenuje osnivač ili savet zavoda (ZZ, 29., 31. i 32. člen)."
+   },
+   {
+    "besedilo_sl": "Poslovodni organ zavoda je direktor ali drug individualni organ.",
+    "prevod_sr": "Poslovodni organ zavoda je direktor ili drugi individualni organ.",
+    "pravilno": true,
+    "razlaga_sr": "Tačno: ZZ, 31. člen."
+   }
+  ],
+  "kljucne_besede_sl": [
+   "zavod",
+   "svet zavoda",
+   "direktor",
+   "ustanovitelj",
+   "presežek prihodkov nad odhodki"
+  ],
+  "vir": {
+   "literatura_str": "",
+   "zakon_clen": "ZZ, 29. člen; 31. člen; 32. člen; 48. člen; 49. člen; ZGD-1, 268. člen",
+   "url": "https://pisrs.si/pregledPredpisa?id=ZAKO10"
+  },
+  "poreklo": "generisano_po_gradivu",
+  "preverjeno": true
+ }
+]

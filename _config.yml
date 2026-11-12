@@ -1,0 +1,11 @@
+title: Gospodarsko pravo – priprema
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+exclude:
+  - .pw-profile

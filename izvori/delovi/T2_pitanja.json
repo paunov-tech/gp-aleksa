@@ -1,0 +1,3004 @@
+[
+  {
+    "id": "T2-001",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Pojem gospodarske družbe",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj je gospodarska družba po ZGD-1?",
+    "prevod_sr": "Šta je privredno društvo po ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Vsaka pravna oseba, ki je vpisana v sodni register.",
+        "prevod_sr": "Svako pravno lice koje je upisano u sudski registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u sudski registar se upisuju i zadruga, zavod i druga pravna lica (ZSReg, 3. člen); privredno društvo određuje definicija iz ZGD-1, 3. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pravna oseba, ki dejavnost opravlja izključno v javnem interesu in brez namena pridobivanja dobička.",
+        "prevod_sr": "Pravno lice koje delatnost obavlja isključivo u javnom interesu i bez namere sticanja dobiti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: društvo obavlja pridobitnu delatnost, tj. delatnost radi sticanja dobiti (ZGD-1, 3. člen, 1. i 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Skupnost oseb brez pravne osebnosti, ki opravlja pridobitno dejavnost.",
+        "prevod_sr": "Zajednica lica bez pravnog subjektiviteta koja obavlja profitnu delatnost.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sva društva su pravna lica (ZGD-1, 4. člen, 1. odst.; 3. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Pravna oseba, ki na trgu samostojno opravlja pridobitno dejavnost kot svojo izključno dejavnost.",
+        "prevod_sr": "Pravno lice koje na tržištu samostalno obavlja profitnu (pridobitnu) delatnost kao svoju isključivu delatnost.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: to je doslovna definicija iz ZGD-1, 3. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Fizična oseba, ki na trgu samostojno opravlja pridobitno dejavnost v okviru organiziranega podjetja.",
+        "prevod_sr": "Fizičko lice koje na tržištu samostalno obavlja profitnu delatnost u okviru organizovanog preduzeća.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je definicija preduzetnika (podjetnik), ne društva (ZGD-1, 3. člen, 6. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "gospodarska družba",
+      "pravna oseba",
+      "pridobitna dejavnost",
+      "trg"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 3. člen, 1., 2. in 6. odst.; 4. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-002",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Pridobitna dejavnost",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za pridobitno dejavnost po ZGD-1?",
+    "prevod_sr": "Šta važi za profitnu (pridobitnu) delatnost po ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Opravlja se zaradi pridobivanja dobička.",
+        "prevod_sr": "Obavlja se radi sticanja dobiti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: cilj sticanja dobiti je sastavni deo definicije (ZGD-1, 3. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Pridobitna je samo tista dejavnost, ki jo opravljajo kapitalske družbe.",
+        "prevod_sr": "Pridobitna je samo ona delatnost koju obavljaju društva kapitala.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: definicija kaže »vsaka dejavnost« na tržištu radi dobiti; obavljaju je i lična društva i preduzetnik (ZGD-1, 3. člen, 2., 3. i 6. odst.)."
+      },
+      {
+        "besedilo_sl": "Pridobitna dejavnost je dejavnost, ki se opravlja izključno za lastne potrebe in ne na trgu.",
+        "prevod_sr": "Pridobitna delatnost je delatnost koja se obavlja isključivo za sopstvene potrebe, a ne na tržištu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: bitno obeležje je upravo obavljanje na tržištu (ZGD-1, 3. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba, ki v skladu z zakonom deloma opravlja tudi nepridobitno dejavnost, se ne šteje več za gospodarsko družbo.",
+        "prevod_sr": "Društvo koje u skladu sa zakonom delimično obavlja i neprofitnu delatnost više se ne smatra privrednim društvom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: društva iz 3. odst. smatraju se privrednim društvima i ako u celini ili delimično obavljaju delatnost koja nije pridobitna (ZGD-1, 3. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Opravlja se na trgu.",
+        "prevod_sr": "Obavlja se na tržištu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: pridobitna delatnost je svaka delatnost koja se obavlja na tržištu radi sticanja dobiti (ZGD-1, 3. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pridobitna dejavnost",
+      "dobiček",
+      "trg"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 3. člen, 2., 3., 4. in 6. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-003",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Osebne in kapitalske družbe",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katere od navedenih družb so po ZGD-1 osebne družbe?",
+    "prevod_sr": "Koja od navedenih društava su po ZGD-1 lična društva (društva lica)?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Družba z omejeno odgovornostjo (d.o.o.).",
+        "prevod_sr": "Društvo sa ograničenom odgovornošću (d.o.o.).",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: d.o.o. je društvo kapitala (ZGD-1, 3. člen, 3. odst., 2. alineja)."
+      },
+      {
+        "besedilo_sl": "Komanditna delniška družba (k.d.d.).",
+        "prevod_sr": "Komanditno akcionarsko društvo (k.d.d.).",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: iako ima »komanditna« u nazivu, k.d.d. je društvo kapitala (ZGD-1, 3. člen, 3. odst., 2. alineja)."
+      },
+      {
+        "besedilo_sl": "Komanditna družba (k.d.).",
+        "prevod_sr": "Komanditno društvo (k.d.).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: k.d. je lično društvo (ZGD-1, 3. člen, 3. odst., 1. alineja)."
+      },
+      {
+        "besedilo_sl": "Evropska delniška družba (SE).",
+        "prevod_sr": "Evropsko akcionarsko društvo (SE).",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: evropsko akcionarsko društvo je društvo kapitala (ZGD-1, 3. člen, 3. odst., 2. alineja)."
+      },
+      {
+        "besedilo_sl": "Družba z neomejeno odgovornostjo (d.n.o.).",
+        "prevod_sr": "Društvo sa neograničenom odgovornošću (d.n.o.).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: lična društva su d.n.o. i komanditno društvo (ZGD-1, 3. člen, 3. odst., 1. alineja)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "osebna družba",
+      "d.n.o.",
+      "k.d.",
+      "kapitalska družba"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 3. člen, 3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-004",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Osebne in kapitalske družbe",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katera od navedenih družb NI kapitalska družba?",
+    "prevod_sr": "Koje od navedenih društava NIJE društvo kapitala?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Komanditna delniška družba.",
+        "prevod_sr": "Komanditno akcionarsko društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: k.d.d. je društvo kapitala (ZGD-1, 3. člen, 3. odst., 2. alineja)."
+      },
+      {
+        "besedilo_sl": "Družba z neomejeno odgovornostjo.",
+        "prevod_sr": "Društvo sa neograničenom odgovornošću.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti: d.n.o. je lično društvo (ZGD-1, 3. člen, 3. odst., 1. alineja)."
+      },
+      {
+        "besedilo_sl": "Delniška družba.",
+        "prevod_sr": "Akcionarsko društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: d.d. je društvo kapitala (ZGD-1, 3. člen, 3. odst., 2. alineja)."
+      },
+      {
+        "besedilo_sl": "Komanditna družba.",
+        "prevod_sr": "Komanditno društvo.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti: komanditno društvo je lično društvo (ZGD-1, 3. člen, 3. odst., 1. alineja)."
+      },
+      {
+        "besedilo_sl": "Družba z omejeno odgovornostjo.",
+        "prevod_sr": "Društvo sa ograničenom odgovornošću.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: d.o.o. je društvo kapitala (ZGD-1, 3. člen, 3. odst., 2. alineja)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "kapitalska družba",
+      "osebna družba",
+      "komanditna družba"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 3. člen, 3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-005",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Ustanovitelji",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za ustanovitelje družbe po splošnem delu ZGD-1?",
+    "prevod_sr": "Šta važi za osnivače društva po opštem delu ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Ustanovitelj družbe je lahko le fizična oseba.",
+        "prevod_sr": "Osnivač društva može biti samo fizičko lice.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: osnivač može biti i pravno lice (ZGD-1, 3. člen, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Omejitve ustanavljanja iz 10.a člena veljajo samo za ustanovitelje družb, ne pa tudi za podjetnike.",
+        "prevod_sr": "Ograničenja osnivanja iz 10.a člana važe samo za osnivače društava, a ne i za preduzetnike.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: 10.a člen izričito kaže »ustanovitelj, družbenik in podjetnik ne more postati oseba…« (ZGD-1, 10.a člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ustanovitelj ne more postati oseba, ki je bila pravnomočno obsojena na kazen zapora zaradi kaznivega dejanja zoper gospodarstvo.",
+        "prevod_sr": "Osnivač ne može postati lice koje je pravosnažno osuđeno na kaznu zatvora zbog krivičnog dela protiv privrede.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: to je jedno od ograničenja iz ZGD-1, 10.a člen, 1. odst., 1. točka; ograničenje prestaje brisanjem iz kaznene evidencije (10.a člen, 8. odst.)."
+      },
+      {
+        "besedilo_sl": "Omejitve iz prvega odstavka 10.a člena ne veljajo za osebo, ki je postala družbenik ali podjetnik na podlagi univerzalnega pravnega nasledstva.",
+        "prevod_sr": "Ograničenja iz prvog stava 10.a člana ne važe za lice koje je postalo član društva ili preduzetnik na osnovu univerzalnog pravnog sledbeništva.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 10.a člen, 2. odst. (npr. naslednik). Pažnja: izuzetak se odnosi samo na ograničenja iz 1. odst., ne i na ograničenje iz 5. odst. (osnivanje d.o.o. u poslednja tri meseca)."
+      },
+      {
+        "besedilo_sl": "Ustanovitelj družbe je lahko vsaka fizična ali pravna oseba, če zakon ne določa drugače.",
+        "prevod_sr": "Osnivač društva može biti svako fizičko ili pravno lice, ako zakon ne određuje drugačije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 3. člen, 5. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "ustanovitelj",
+      "družbenik",
+      "omejitve ustanavljanja",
+      "univerzalno pravno nasledstvo"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 3. člen, 5. odst.; 10.a člen, 1., 2., 5. in 8. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-006",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Pravna osebnost",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj družba pridobi lastnost pravne osebe?",
+    "prevod_sr": "Kada društvo stiče svojstvo pravnog lica?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Z dnem, ko začne opravljati dejavnost.",
+        "prevod_sr": "Danom kada počne da obavlja delatnost.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obrnuto – delatnost sme da počne tek kada je upisana u registar (ZGD-1, 6. člen, 6. odst.; 5. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Z vpisom v register.",
+        "prevod_sr": "Upisom u registar.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: društva stiču svojstvo pravnog lica upisom u registar (ZGD-1, 5. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "S sklenitvijo družbene pogodbe oziroma sprejetjem statuta.",
+        "prevod_sr": "Zaključenjem društvenog ugovora odnosno usvajanjem statuta.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pre upisa se na odnose među članovima primenjuju pravila o građanskopravnom ortakluku (civilnopravna družbena pogodba) – ZGD-1, 5. člen, 1. i 2. odst."
+      },
+      {
+        "besedilo_sl": "Z vplačilom osnovnega kapitala.",
+        "prevod_sr": "Uplatom osnovnog kapitala.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odlučujući je upis u registar (ZGD-1, 5. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Z objavo vpisa na spletnih straneh AJPES.",
+        "prevod_sr": "Objavom upisa na internet stranicama AJPES-a.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: objava je bitna za dejstvo prema trećima (ZGD-1, 3. člen, 7. odst.), a pravni subjektivitet nastaje samim upisom (5. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pravna oseba",
+      "vpis v register",
+      "pridobitev pravne osebnosti"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 5. člen, 1. in 2. odst.; 3. člen, 7. odst.; 6. člen, 6. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-007",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Družba pred vpisom v register",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Trije ustanovitelji so podpisali družbeno pogodbo d.o.o. Še pred vpisom družbe v register je eden od njih, Marko, v imenu družbe sklenil najemno pogodbo. Kaj velja?",
+    "prevod_sr": "Tri osnivača su potpisala društveni ugovor d.o.o. Još pre upisa društva u registar jedan od njih, Marko, u ime društva je zaključio ugovor o zakupu. Šta važi?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Marko je za to obveznost odgovoren osebno z vsem svojim premoženjem.",
+        "prevod_sr": "Marko za tu obavezu odgovara lično celokupnom svojom imovinom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ko pre upisa nastupa u ime društva, odgovara lično svom svojom imovinom (ZGD-1, 5. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Pravice, ki jih družbeniki pri takem nastopanju pridobijo, morajo po vpisu prenesti na družbo, razen če družba nasprotuje prevzemu.",
+        "prevod_sr": "Prava koja članovi pri takvom nastupanju steknu moraju posle upisa preneti na društvo, osim ako se društvo protivi preuzimanju.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 5. člen, 4. odst."
+      },
+      {
+        "besedilo_sl": "Za razmerja med družbeniki se do vpisa uporabljajo pravila o civilnopravni družbeni pogodbi.",
+        "prevod_sr": "Na odnose među članovima se do upisa primenjuju pravila o građanskopravnom ugovoru o ortakluku.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 5. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Marko odgovarja le do višine svojega osnovnega vložka.",
+        "prevod_sr": "Marko odgovara samo do visine svog osnovnog uloga.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odgovara lično celokupnom imovinom, bez ograničenja (ZGD-1, 5. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba je pravna oseba že od podpisa družbene pogodbe, zato odgovarja samo ona.",
+        "prevod_sr": "Društvo je pravno lice već od potpisivanja društvenog ugovora, pa odgovara samo ono.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: svojstvo pravnog lica stiče se tek upisom u registar (ZGD-1, 5. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "vpis v register",
+      "osebna odgovornost",
+      "civilnopravna družbena pogodba",
+      "družbenik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 5. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-008",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Dejavnost družbe",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj od navedenega o dejavnosti družbe NE velja?",
+    "prevod_sr": "Šta od navedenog o delatnosti društva NE važi?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Družbe smejo kot dejavnost opravljati vse posle, razen tistih, ki se po zakonu ne smejo opravljati kot gospodarski posli.",
+        "prevod_sr": "Društva smeju kao delatnost obavljati sve poslove, osim onih koji se po zakonu ne smeju obavljati kao privredni poslovi.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: ovo važi (ZGD-1, 6. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Družbe smejo opravljati gospodarske posle le v okviru dejavnosti, določene v statutu ali družbeni pogodbi.",
+        "prevod_sr": "Društva smeju obavljati privredne poslove samo u okviru delatnosti određene statutom ili društvenim ugovorom.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: ovo važi (ZGD-1, 6. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba lahko začne opravljati dejavnost že pred vpisom v register.",
+        "prevod_sr": "Društvo može početi da obavlja delatnost već pre upisa u registar.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (ne važi): društvo može početi da obavlja delatnost kada je upisano u registar (ZGD-1, 6. člen, 6. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba sme opravljati tudi vse druge posle, ki so potrebni za njen obstoj in opravljanje dejavnosti, ne pomenijo pa neposrednega opravljanja dejavnosti.",
+        "prevod_sr": "Društvo sme obavljati i sve druge poslove koji su potrebni za njegovo postojanje i obavljanje delatnosti, a ne znače neposredno obavljanje delatnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: ovo važi (ZGD-1, 6. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Pravni posel, s katerim družba prekorači dejavnost, določeno v statutu, je vedno ničen.",
+        "prevod_sr": "Pravni posao kojim društvo prekorači delatnost određenu statutom uvek je ništav.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (ne važi): takvi poslovi su punovažni, osim ako je treće lice znalo ili moralo znati za prekoračenje (ZGD-1, 6. člen, 5. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "dejavnost",
+      "gospodarski posli",
+      "statut",
+      "prekoračitev dejavnosti"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 6. člen, 1., 3., 4., 5. in 6. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-009",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Prekoračitev dejavnosti",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Družba ima v družbeni pogodbi kot dejavnost določeno trgovino na drobno. Poslovodja s tretjo osebo sklene pogodbo o opravljanju gradbenih del, ki ne spada v to dejavnost. Kaj velja za to pogodbo?",
+    "prevod_sr": "Društvo u društvenom ugovoru ima kao delatnost određenu trgovinu na malo. Direktor sa trećim licem zaključi ugovor o izvođenju građevinskih radova, koji ne spada u tu delatnost. Šta važi za taj ugovor?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pogodba je veljavna, razen če je tretja oseba vedela ali bi morala vedeti za prekoračitev.",
+        "prevod_sr": "Ugovor je punovažan, osim ako je treće lice znalo ili je moralo znati za prekoračenje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 6. člen, 5. odst., 1. stavek."
+      },
+      {
+        "besedilo_sl": "Pogodba je nična, ker je družba prekoračila svojo dejavnost.",
+        "prevod_sr": "Ugovor je ništav jer je društvo prekoračilo svoju delatnost.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon izričito kaže da su takvi poslovi punovažni (ZGD-1, 6. člen, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Zgolj navedba dejavnosti v družbeni pogodbi še ne pomeni, da je tretja oseba vedela ali bi morala vedeti za prekoračitev.",
+        "prevod_sr": "Samo navođenje delatnosti u društvenom ugovoru još ne znači da je treće lice znalo ili moralo znati za prekoračenje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 6. člen, 5. odst., 2. stavek."
+      },
+      {
+        "besedilo_sl": "Pogodba je veljavna samo, če je bila dejavnost pred tem vpisana v register.",
+        "prevod_sr": "Ugovor je punovažan samo ako je delatnost prethodno bila upisana u registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: punovažnost zavisi samo od toga da li je treće lice znalo ili moralo znati za prekoračenje (ZGD-1, 6. člen, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodba postane veljavna šele, ko jo naknadno odobri skupščina družbe.",
+        "prevod_sr": "Ugovor postaje punovažan tek kada ga naknadno odobri skupština društva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: posao je punovažan po samom zakonu, bez naknadnog odobrenja (ZGD-1, 6. člen, 5. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prekoračitev dejavnosti",
+      "tretja oseba",
+      "veljavnost",
+      "ničnost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 6. člen, 5. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-010",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Odgovornost za obveznosti",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kako po ZGD-1 odgovarjata družba in podjetnik za svoje obveznosti?",
+    "prevod_sr": "Kako po ZGD-1 društvo i preduzetnik odgovaraju za svoje obaveze?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Podjetnik odgovarja samo s premoženjem, ki ga je namenil za opravljanje dejavnosti.",
+        "prevod_sr": "Preduzetnik odgovara samo imovinom koju je namenio za obavljanje delatnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon ne razdvaja poslovnu i ličnu imovinu preduzetnika – odgovara svom svojom imovinom (ZGD-1, 7. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Podjetnik je za svoje obveznosti odgovoren z vsem svojim premoženjem.",
+        "prevod_sr": "Preduzetnik za svoje obaveze odgovara celokupnom svojom imovinom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 7. člen, 1. odst. – i preduzetnik odgovara svom svojom imovinom."
+      },
+      {
+        "besedilo_sl": "Poleg družbe so za njene obveznosti vedno odgovorni tudi vsi družbeniki.",
+        "prevod_sr": "Pored društva za njegove obaveze uvek odgovaraju i svi članovi.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon određuje kada i kako pored društva odgovaraju i članovi (ZGD-1, 7. člen, 2. odst.) – ne uvek."
+      },
+      {
+        "besedilo_sl": "Družba je za svoje obveznosti odgovorna z vsem svojim premoženjem.",
+        "prevod_sr": "Društvo za svoje obaveze odgovara celokupnom svojom imovinom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 7. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Družba odgovarja le do višine svojega osnovnega kapitala.",
+        "prevod_sr": "Društvo odgovara samo do visine svog osnovnog kapitala.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: društvo odgovara svom svojom imovinom, ne samo do iznosa osnovnog kapitala (ZGD-1, 7. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "odgovornost",
+      "obveznost",
+      "premoženje",
+      "podjetnik",
+      "družbenik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 7. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-011",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Spregled pravne osebnosti",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "V katerih primerih so po 8. členu ZGD-1 za obveznosti družbe odgovorni tudi njeni družbeniki (spregled pravne osebnosti)?",
+    "prevod_sr": "U kojim slučajevima po 8. članu ZGD-1 za obaveze društva odgovaraju i njegovi članovi (probijanje pravne ličnosti)?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če so družbo kot pravno osebo zlorabili za to, da bi dosegli cilj, ki je zanje kot posameznike prepovedan.",
+        "prevod_sr": "Ako su društvo kao pravno lice zloupotrebili da bi postigli cilj koji je njima kao pojedincima zabranjen.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 8. člen, 1. odst., 1. alineja."
+      },
+      {
+        "besedilo_sl": "Če so družbo kot pravno osebo zlorabili za oškodovanje svojih ali njenih upnikov.",
+        "prevod_sr": "Ako su društvo kao pravno lice zloupotrebili za oštećenje svojih ili njegovih poverilaca.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 8. člen, 1. odst., 2. alineja."
+      },
+      {
+        "besedilo_sl": "Če je družba dve zaporedni poslovni leti poslovala z izgubo.",
+        "prevod_sr": "Ako je društvo dve uzastopne poslovne godine poslovalo sa gubitkom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: gubitak sam po sebi nije razlog za probijanje pravne ličnosti; 8. člen navodi samo četiri slučaja zloupotrebe (ZGD-1, 8. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če so v nasprotju z zakonom ravnali s premoženjem družbe kot s svojim lastnim premoženjem.",
+        "prevod_sr": "Ako su protivno zakonu postupali sa imovinom društva kao sa svojom sopstvenom imovinom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 8. člen, 1. odst., 3. alineja."
+      },
+      {
+        "besedilo_sl": "Če so v svojo korist ali v korist druge osebe zmanjšali premoženje družbe, čeprav so vedeli ali bi morali vedeti, da ne bo sposobna poravnati svojih obveznosti tretjim osebam.",
+        "prevod_sr": "Ako su u svoju korist ili u korist drugog lica smanjili imovinu društva, iako su znali ili morali znati da ono neće biti sposobno da izmiri svoje obaveze prema trećim licima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 8. člen, 1. odst., 4. alineja."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "spregled pravne osebnosti",
+      "zloraba",
+      "upnik",
+      "družbenik",
+      "premoženje družbe"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 8. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-012",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Spregled pravne osebnosti",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Edini družbenik d.o.o. je denar z računa družbe prenesel na svoj osebni račun, čeprav je vedel, da družba zaradi tega ne bo mogla plačati dobaviteljev. Na kaj se lahko dobavitelji po ZGD-1 sklicujejo?",
+    "prevod_sr": "Jedini član d.o.o. je novac sa računa društva preneo na svoj lični račun, iako je znao da društvo zbog toga neće moći da plati dobavljače. Na šta se dobavljači po ZGD-1 mogu pozvati?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Na kršitev prepovedi konkurence.",
+        "prevod_sr": "Na povredu zabrane konkurencije.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zabrana konkurencije se odnosi na učešće u konkurentskom društvu ili delatnosti (ZGD-1, 41. člen), a ne na izvlačenje imovine."
+      },
+      {
+        "besedilo_sl": "Na varstvo firme.",
+        "prevod_sr": "Na zaštitu firme (poslovnog imena).",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zaštita firme se tiče razlikovanja poslovnih imena (ZGD-1, 23. člen), ne odgovornosti za dugove."
+      },
+      {
+        "besedilo_sl": "Na nič, ker družbenik d.o.o. za obveznosti družbe v nobenem primeru ne odgovarja.",
+        "prevod_sr": "Ni na šta, jer član d.o.o. za obaveze društva ni u kom slučaju ne odgovara.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: 8. člen važi »ne glede na prejšnji člen«, tj. uprkos pravilu da odgovara društvo (ZGD-1, 8. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Na pravilo, da je pred vpisom v register odgovoren tisti, ki nastopa v imenu družbe.",
+        "prevod_sr": "Na pravilo da pre upisa u registar odgovara onaj ko nastupa u ime društva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to pravilo (ZGD-1, 5. člen, 3. odst.) važi samo za nastupanje pre upisa društva; ovde je društvo već upisano."
+      },
+      {
+        "besedilo_sl": "Na spregled pravne osebnosti: za obveznosti družbe je odgovoren tudi družbenik.",
+        "prevod_sr": "Na probijanje pravne ličnosti: za obaveze društva odgovara i član.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: član je u svoju korist smanjio imovinu društva iako je znao da ono neće moći da izmiri obaveze (ZGD-1, 8. člen, 1. odst., 4. alineja)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "spregled pravne osebnosti",
+      "družbenik",
+      "upnik",
+      "zmanjšanje premoženja"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 8. člen, 1. odst., 4. alineja; 5. člen, 3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-013",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Firma – pojem",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za firmo družbe?",
+    "prevod_sr": "Šta važi za firmu (poslovno ime) društva?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Firma se lahko prenaša samostojno, brez podjetja.",
+        "prevod_sr": "Firma se može prenositi samostalno, bez preduzeća.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: firma se može prenositi samo zajedno sa preduzećem (ZGD-1, 24. člen)."
+      },
+      {
+        "besedilo_sl": "Družba sme pri poslovanju uporabljati firmo v poljubni obliki, ne glede na vpis v register.",
+        "prevod_sr": "Društvo sme u poslovanju da koristi firmu u proizvoljnom obliku, bez obzira na upis u registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: društvo mora koristiti firmu u obliku u kojem je upisana u registar (ZGD-1, 19. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Firma je kraj, ki je kot sedež družbe vpisan v register.",
+        "prevod_sr": "Firma je mesto koje je kao sedište društva upisano u registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je definicija sedišta (sedež), ne firme (ZGD-1, 29. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "V firmi mora biti oznaka, ki nakazuje dejavnost družbe.",
+        "prevod_sr": "U firmi mora biti oznaka koja ukazuje na delatnost društva.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 12. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Firma je ime, s katerim družba posluje.",
+        "prevod_sr": "Firma je ime pod kojim društvo posluje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 12. člen, 1. odst. Pažnja: »firma« u slovenačkom pravu je IME, ne preduzeće."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "firma",
+      "oznaka dejavnosti",
+      "prenos firme",
+      "podjetje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 12., 19., 24. in 29. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-014",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Firma – nedovoljene sestavine",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere omejitve glede sestavin firme določa ZGD-1?",
+    "prevod_sr": "Koja ograničenja u pogledu sastojaka firme određuje ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Firma ne sme vsebovati besed ali znakov, ki nasprotujejo zakonu ali morali.",
+        "prevod_sr": "Firma ne sme sadržati reči ili znakove koji su protivni zakonu ili moralu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 17. člen, 1. alineja."
+      },
+      {
+        "besedilo_sl": "Ime in priimek znamenite osebe je dovoljeno vnesti v firmo le z njenim dovoljenjem.",
+        "prevod_sr": "Ime i prezime znamenite ličnosti dozvoljeno je uneti u firmu samo uz njenu dozvolu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 16. člen (ako je umrla – uz dozvolu supružnika i srodnika do trećeg kolena u pravoj liniji te roditelja, ako su živi)."
+      },
+      {
+        "besedilo_sl": "Dovoljenje za uporabo besede Slovenija v firmi izda registrsko sodišče.",
+        "prevod_sr": "Dozvolu za upotrebu reči Slovenija u firmi izdaje registarski sud.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dozvolu daje vlada, po slobodnoj oceni (ZGD-1, 15. člen, 1. i 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Firma ne sme vsebovati imen ali znakov tujih držav ali mednarodnih organizacij.",
+        "prevod_sr": "Firma ne sme sadržati imena ili znakove stranih država ili međunarodnih organizacija.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 14. člen."
+      },
+      {
+        "besedilo_sl": "Besedo Slovenija je dovoljeno vnesti v firmo le z dovoljenjem Vlade Republike Slovenije.",
+        "prevod_sr": "Reč Slovenija dozvoljeno je uneti u firmu samo uz dozvolu Vlade Republike Slovenije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 15. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "firma",
+      "nedovoljene sestavine",
+      "dovoljenje vlade",
+      "beseda Slovenija"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 14., 15., 16. in 17. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-015",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Firma – načelo izključnosti",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj določa načelo izključnosti firme?",
+    "prevod_sr": "Šta određuje načelo isključivosti firme?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Firma družbe se mora jasno razlikovati od firm vseh drugih družb.",
+        "prevod_sr": "Firma društva mora se jasno razlikovati od firmi svih drugih društava.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 21. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Firma se mora razlikovati le od firm družb, ki imajo sedež v istem kraju.",
+        "prevod_sr": "Firma se mora razlikovati samo od firmi društava koja imaju sedište u istom mestu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: mora se jasno razlikovati od firmi SVIH drugih društava (ZGD-1, 21. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Firma se mora razlikovati le od firm družb, ki opravljajo enako dejavnost.",
+        "prevod_sr": "Firma se mora razlikovati samo od firmi društava koja obavljaju istu delatnost.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon ne ograničava isključivost na istu delatnost (ZGD-1, 21. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Povezane družbe morajo imeti popolnoma enako firmo.",
+        "prevod_sr": "Povezana društva moraju imati potpuno istu firmu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: mogu koristiti zajedničke sastojke, ali firma svakog društva mora se jasno razlikovati (ZGD-1, 21. člen, 1. i 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Povezane družbe lahko v firmi uporabljajo skupne sestavine.",
+        "prevod_sr": "Povezana društva mogu u firmi koristiti zajedničke sastojke.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 21. člen, 3. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "načelo izključnosti",
+      "firma",
+      "povezane družbe"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 21. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-016",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Nameravana firma",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za nameravano firmo?",
+    "prevod_sr": "Šta važi za nameravanu (rezervisanu) firmu?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Vsak lahko zahteva, da registrski organ vpiše firmo v register, ne da bi bila hkrati ustanovljena družba.",
+        "prevod_sr": "Svako može zahtevati da registarski organ upiše firmu u registar, a da pri tome nije istovremeno osnovano društvo.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 22. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Registrski organ jo po uradni dolžnosti izbriše, če prijavitelj v enem letu od vpisa ne prijavi vpisa ustanovitve družbe s tako firmo.",
+        "prevod_sr": "Registarski organ je po službenoj dužnosti briše ako prijavilac u roku od jedne godine od upisa ne prijavi upis osnivanja društva sa takvom firmom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: rok je jedna godina (ZGD-1, 22. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Nameravano firmo lahko prijavi le že vpisana gospodarska družba.",
+        "prevod_sr": "Nameravanu firmu može prijaviti samo već upisano privredno društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon kaže »vsak« (ZGD-1, 22. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Nameravana firma ostane vpisana tri leta, nato se izbriše.",
+        "prevod_sr": "Nameravana firma ostaje upisana tri godine, zatim se briše.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rok je jedna godina (ZGD-1, 22. člen, 3. odst.); tri godine je rok za tužbu radi zaštite firme (23. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Nameravana firma mora ustrezati določbam ZGD-1 o firmi.",
+        "prevod_sr": "Nameravana firma mora odgovarati odredbama ZGD-1 o firmi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 22. člen, 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "nameravana firma",
+      "registrski organ",
+      "izbris",
+      "po uradni dolžnosti"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 22. člen; 23. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-017",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Varstvo firme",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kako je po ZGD-1 zagotovljeno varstvo firme?",
+    "prevod_sr": "Kako je po ZGD-1 obezbeđena zaštita firme?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Družba lahko s tožbo zahteva opustitev uporabe firme druge družbe in njen izbris iz registra.",
+        "prevod_sr": "Društvo može tužbom zahtevati prestanak upotrebe firme drugog društva i njeno brisanje iz registra.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 23. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Tožbo je mogoče vložiti najpozneje v treh letih po vpisu firme druge družbe ali po vpisu nameravane firme.",
+        "prevod_sr": "Tužba se može podneti najkasnije u roku od tri godine od upisa firme drugog društva ili od upisa nameravane firme.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: rok je tri godine (ZGD-1, 23. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba lahko s tožbo zahteva tudi odškodnino.",
+        "prevod_sr": "Društvo može tužbom zahtevati i naknadu štete.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: tužbom se zahteva prestanak upotrebe, brisanje i naknada štete (ZGD-1, 23. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Varstvo firme lahko uveljavlja samo registrski organ po uradni dolžnosti, prizadeta družba pa ne.",
+        "prevod_sr": "Zaštitu firme može ostvarivati samo registarski organ po službenoj dužnosti, a pogođeno društvo ne.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pogođeno društvo ima pravo na tužbu (ZGD-1, 23. člen, 2. i 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Registrski organ zavrne predlog za vpis firme, ki se ne razlikuje jasno od že registriranih firm.",
+        "prevod_sr": "Registarski organ odbija predlog za upis firme koja se ne razlikuje jasno od već registrovanih firmi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 23. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "varstvo firme",
+      "tožba",
+      "odškodnina",
+      "izbris iz registra",
+      "opustitev uporabe"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 23. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-018",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Firma posameznih družb",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o firmi posameznih družb NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o firmi pojedinih društava NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Firma družbe z neomejeno odgovornostjo mora vsebovati priimke vseh družbenikov.",
+        "prevod_sr": "Firma društva sa neograničenom odgovornošću mora sadržati prezimena svih članova.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (netačna tvrdnja): dovoljan je prezime najmanje jednog člana uz navođenje da ima više članova i oznaku d.n.o. (ZGD-1, 27. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba z omejeno odgovornostjo mora imeti v firmi dodatno sestavino in oznako d.o.o.",
+        "prevod_sr": "Društvo sa ograničenom odgovornošću mora u firmi imati dodatni sastojak i oznaku d.o.o.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 27. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Firma delniške družbe mora vsebovati priimek vsaj enega delničarja.",
+        "prevod_sr": "Firma akcionarskog društva mora sadržati prezime najmanje jednog akcionara.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (netačna tvrdnja): d.d. mora imati dodatni sastojak iz 13. člana i oznaku d.d. (ZGD-1, 27. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Firma komanditne družbe mora vsebovati priimek vsaj enega komanditista.",
+        "prevod_sr": "Firma komanditnog društva mora sadržati prezime najmanje jednog komanditora.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (netačna tvrdnja): mora sadržati prezime najmanje jednog KOMPLEMENTARA; prezimena komanditora ne sme biti u firmi (ZGD-1, 27. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Firma komanditne delniške družbe mora imeti oznako k.d.d.",
+        "prevod_sr": "Firma komanditnog akcionarskog društva mora imati oznaku k.d.d.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 27. člen, 5. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "firma",
+      "d.n.o.",
+      "komplementar",
+      "komanditist",
+      "dodatna sestavina"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 27. člen; 13. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-019",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Firma d.n.o.",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Janez Hun in dva druga družbenika ustanavljajo družbo z neomejeno odgovornostjo, ki se bo ukvarjala z avtoprevozništvom. Katera firma ustreza zahtevam ZGD-1?",
+    "prevod_sr": "Janez Hun i još dva člana osnivaju društvo sa neograničenom odgovornošću koje će se baviti autoprevozom. Koja firma odgovara zahtevima ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Hun in drugi, avtoprevozništvo, Maribor",
+        "prevod_sr": "Hun in drugi, avtoprevozništvo, Maribor",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nedostaje oznaka d.n.o. (ZGD-1, 27. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Hun, avtoprevozništvo, d.n.o.",
+        "prevod_sr": "Hun, avtoprevozništvo, d.n.o.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nedostaje navod da ima više članova (ZGD-1, 27. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Avtoprevozništvo Maribor, d.n.o.",
+        "prevod_sr": "Avtoprevozništvo Maribor, d.n.o.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nedostaje prezime najmanje jednog člana (ZGD-1, 27. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Hun in drugi, avtoprevozništvo, d.n.o.",
+        "prevod_sr": "Hun in drugi, avtoprevozništvo, d.n.o.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: sadrži prezime najmanje jednog člana, navod da ima više članova, oznaku d.n.o. (ZGD-1, 27. člen, 1. odst.) i oznaku delatnosti (12. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Hun in drugi, d.n.o.",
+        "prevod_sr": "Hun in drugi, d.n.o.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u firmi mora biti i oznaka koja ukazuje na delatnost društva (ZGD-1, 12. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "firma",
+      "d.n.o.",
+      "priimek družbenika",
+      "oznaka dejavnosti"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: primer_testa_1.txt, vprašanje 36 (predelano)",
+      "zakon_clen": "ZGD-1, 27. člen, 1. odst.; 12. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-020",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Firma ob prenehanju družbeništva",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Iz družbe »Kovač in drugi, mizarstvo, d.n.o.« izstopi družbenik Kovač. Kaj velja glede firme?",
+    "prevod_sr": "Iz društva »Kovač in drugi, mizarstvo, d.n.o.« istupa član Kovač. Šta važi u pogledu firme?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Družba sme dosedanjo firmo vedno obdržati, ker je firma last družbe.",
+        "prevod_sr": "Društvo sme uvek zadržati dosadašnju firmu jer je firma svojina društva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: potrebna je izričita saglasnost bivšeg člana čije je prezime u firmi (ZGD-1, 25. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Iz firme mora biti razvidno, da je Kovač prenehal biti družbenik družbe.",
+        "prevod_sr": "Iz firme mora biti vidljivo da je Kovač prestao da bude član društva.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 25. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Če bi Kovač umrl, bi lahko njegovi dediči zahtevali izbris priimka iz firme v treh letih po pravnomočnosti sklepa o dedovanju.",
+        "prevod_sr": "Da je Kovač umro, njegovi naslednici bi mogli zahtevati brisanje prezimena iz firme u roku od tri godine od pravosnažnosti rešenja o nasleđivanju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rok je tri MESECA od pravosnažnosti rešenja o nasleđivanju (ZGD-1, 25. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba lahko nadaljuje poslovanje pod dosedanjo firmo le z njegovim izrecnim soglasjem.",
+        "prevod_sr": "Društvo može nastaviti poslovanje pod dosadašnjom firmom samo uz njegovu izričitu saglasnost.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 25. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Družba lahko firmo s Kovačevim priimkom proda drugi družbi tudi brez podjetja.",
+        "prevod_sr": "Društvo može firmu sa Kovačevim prezimenom prodati drugom društvu i bez preduzeća.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: firma se može prenositi samo zajedno sa preduzećem (ZGD-1, 24. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "firma",
+      "izrecno soglasje",
+      "družbenik",
+      "dedič",
+      "sklep o dedovanju"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 24. in 25. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-021",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Sedež in poslovni naslov",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za sedež in poslovni naslov družbe?",
+    "prevod_sr": "Šta važi za sedište i poslovnu adresu društva?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Poslovni naslov je lahko v drugem kraju kot sedež družbe.",
+        "prevod_sr": "Poslovna adresa može biti u drugom mestu nego sedište društva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: poslovna adresa se nalazi u mestu sedišta i sadrži mesto, ulicu i kućni broj (ZGD-1, 30. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Sedež družbe je kraj, ki je kot sedež družbe vpisan v register.",
+        "prevod_sr": "Sedište društva je mesto koje je kao sedište društva upisano u registar.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 29. člen, 1. odst. Pažnja: »kraj« = mesto (naselje), ne »kraj« kao završetak."
+      },
+      {
+        "besedilo_sl": "Za sedež je mogoče določiti kraj, kjer družba opravlja dejavnost, kraj, kjer se v glavnem vodijo njeni posli, ali kraj, kjer deluje poslovodstvo.",
+        "prevod_sr": "Za sedište se može odrediti mesto gde društvo obavlja delatnost, mesto gde se uglavnom vode njegovi poslovi ili mesto gde deluje poslovodstvo.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 30. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Poleg sedeža se v register vpiše tudi poslovni naslov družbe.",
+        "prevod_sr": "Pored sedišta u registar se upisuje i poslovna adresa društva.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 29. člen, 2. odst. Pažnja: »naslov« = adresa."
+      },
+      {
+        "besedilo_sl": "Sedež družbe je vedno kraj stalnega prebivališča večinskega družbenika.",
+        "prevod_sr": "Sedište društva je uvek mesto stalnog prebivališta većinskog člana.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prebivalište člana nije kriterijum; mogući kriterijumi su navedeni u ZGD-1, 30. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "sedež",
+      "poslovni naslov",
+      "kraj",
+      "poslovodstvo",
+      "register"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 29. in 30. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-022",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podružnica",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o podružnici družbe NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o ogranku (podružnici) društva NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Podružnice se ne vpišejo v register.",
+        "prevod_sr": "Ogranci se ne upisuju u registar.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (netačna tvrdnja): ogranci se upisuju u registar (ZGD-1, 31. člen, 1. odst.; ZSReg, 3. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Podružnica je pravna oseba.",
+        "prevod_sr": "Ogranak je pravno lice.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (netačna tvrdnja): ogranci nisu pravna lica (ZGD-1, 31. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba lahko imenuje prokurista tudi samo za podružnico.",
+        "prevod_sr": "Društvo može imenovati prokuristu i samo za ogranak.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna, ali to mora biti izričito označeno u registru i pri potpisu prokuriste (ZGD-1, 33. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Podružnice so ločene od sedeža družbe.",
+        "prevod_sr": "Ogranci su odvojeni od sedišta društva.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 31. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Podružnice smejo opravljati vse posle, ki jih sicer lahko opravlja družba.",
+        "prevod_sr": "Ogranci smeju obavljati sve poslove koje inače može obavljati društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 31. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "podružnica",
+      "pravna oseba",
+      "vpis v register",
+      "prokurist"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 31. člen; 33. člen, 2. odst.; ZSReg, 3. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291 ; https://pisrs.si/pregledPredpisa?id=ZAKO320"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-023",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Zastopanje družbe",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za zakonitega zastopnika družbe?",
+    "prevod_sr": "Šta važi za zakonskog zastupnika društva?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zastopnik lahko opravlja vsa pravna dejanja, ki spadajo v pravno sposobnost družbe.",
+        "prevod_sr": "Zastupnik može preduzimati sve pravne radnje koje spadaju u pravnu sposobnost društva.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 32. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Zastopnik lahko sklepa le posle, ki spadajo v redno poslovanje družbe.",
+        "prevod_sr": "Zastupnik može zaključivati samo poslove koji spadaju u redovno poslovanje društva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: može preduzimati SVE pravne radnje koje spadaju u pravnu sposobnost društva (ZGD-1, 32. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Družbo zastopajo osebe, ki so določene z zakonom ali z aktom o ustanovitvi družbe na podlagi zakona.",
+        "prevod_sr": "Društvo zastupaju lica koja su određena zakonom ili osnivačkim aktom društva na osnovu zakona.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: to je definicija zakonskog zastupnika (ZGD-1, 32. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Statutarna omejitev zastopnikovih upravičenj učinkuje proti tretjim osebam, če je vpisana v register.",
+        "prevod_sr": "Statutarno ograničenje zastupnikovih ovlašćenja deluje prema trećim licima ako je upisano u registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: statutarno ili drugo ograničenje nema pravno dejstvo prema trećim licima (ZGD-1, 32. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Zakonitega zastopnika družbi vedno imenuje registrsko sodišče.",
+        "prevod_sr": "Zakonskog zastupnika društvu uvek imenuje registarski sud.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zastupnike određuje zakon ili osnivački akt (ZGD-1, 32. člen, 1. odst.); sud u registar samo upisuje podatke o njima."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zakoniti zastopnik",
+      "zastopanje",
+      "pravna dejanja",
+      "statutarna omejitev",
+      "akt o ustanovitvi"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 32. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-024",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Omejitev zastopanja",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Statut družbe določa, da zastopnik za posle nad 50.000 eurov potrebuje soglasje nadzornega sveta. Zastopnik brez tega soglasja sklene s tretjo osebo pogodbo v vrednosti 80.000 eurov. Kaj po 32. členu ZGD-1 velja v razmerju do tretje osebe?",
+    "prevod_sr": "Statut društva određuje da zastupniku za poslove preko 50.000 evra treba saglasnost nadzornog odbora. Zastupnik bez te saglasnosti zaključi sa trećim licem ugovor u vrednosti 80.000 evra. Šta po 32. članu ZGD-1 važi u odnosu prema trećem licu?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Statutarna omejitev nima pravnega učinka proti tretji osebi.",
+        "prevod_sr": "Statutarno ograničenje nema pravno dejstvo prema trećem licu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Statutarna ali druga omejitev nima pravnega učinka proti tretjim osebam« (ZGD-1, 32. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodba je nična, ker je zastopnik prekoračil statut.",
+        "prevod_sr": "Ugovor je ništav jer je zastupnik prekoračio statut.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ograničenje iz statuta ne deluje prema trećim licima (ZGD-1, 32. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Tretja oseba bi morala pred sklenitvijo pogodbe sama pridobiti soglasje nadzornega sveta.",
+        "prevod_sr": "Treće lice bi pre zaključenja ugovora moralo samo da pribavi saglasnost nadzornog odbora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: takva obaveza trećeg lica ne postoji; ograničenje prema njemu nema dejstvo (ZGD-1, 32. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodba zavezuje družbo le do zneska 50.000 eurov.",
+        "prevod_sr": "Ugovor obavezuje društvo samo do iznosa od 50.000 evra.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zastupnik može preduzimati sve pravne radnje iz pravne sposobnosti društva; ograničenje nema dejstvo prema trećima (ZGD-1, 32. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Omejitev učinkuje proti tretji osebi, ker je statut javno dostopen v sodnem registru.",
+        "prevod_sr": "Ograničenje deluje prema trećem licu jer je statut javno dostupan u sudskom registru.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon ne pravi izuzetak za objavljeni statut – ograničenje nema dejstvo prema trećim licima (ZGD-1, 32. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zastopnik",
+      "statutarna omejitev",
+      "tretja oseba",
+      "pravni učinek",
+      "soglasje nadzornega sveta"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: primer_testa.txt, vprašanje 2 (predelano)",
+      "zakon_clen": "ZGD-1, 32. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-025",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Prokura – podelitev",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za podelitev prokure?",
+    "prevod_sr": "Šta važi za davanje prokure?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Prokuro podeli registrsko sodišče na predlog družbe.",
+        "prevod_sr": "Prokuru daje registarski sud na predlog društva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prokuru daje društvo; sud je samo upisuje u registar (ZGD-1, 33. člen, 1. odst.; 38. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Prokura se podeli po postopku, določenem v aktu o ustanovitvi.",
+        "prevod_sr": "Prokura se daje po postupku određenom u osnivačkom aktu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 33. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Družba ima lahko hkrati le enega prokurista.",
+        "prevod_sr": "Društvo može istovremeno imati samo jednog prokuristu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prokura se može dati jednom ili više lica (ZGD-1, 33. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Prokurista je mogoče imenovati tudi samo za podružnico, če je to izrecno označeno v registru in pri podpisu prokurista.",
+        "prevod_sr": "Prokurista se može imenovati i samo za ogranak, ako je to izričito označeno u registru i pri potpisu prokuriste.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: u suprotnom se smatra da se prokura odnosi na celo društvo (ZGD-1, 33. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba lahko podeli prokuro eni ali več osebam.",
+        "prevod_sr": "Društvo može dati prokuru jednom ili više lica.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 33. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prokura",
+      "prokurist",
+      "podelitev prokure",
+      "akt o ustanovitvi",
+      "podružnica"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 33. člen; 38. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-026",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Skupna prokura",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za skupno prokuro?",
+    "prevod_sr": "Šta važi za zajedničku prokuru?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Akt o ustanovitvi lahko določi, da prokurist zastopa družbo skupaj z enim ali več zakonitimi zastopniki.",
+        "prevod_sr": "Osnivački akt može odrediti da prokurista zastupa društvo zajedno sa jednim ili više zakonskih zastupnika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 34. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Tretja oseba mora izjavo volje vedno nasloviti na vse skupne prokuriste hkrati, sicer izjava ni veljavna.",
+        "prevod_sr": "Treće lice mora izjavu volje uvek uputiti svim zajedničkim prokuristima istovremeno, inače izjava nije punovažna.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dovoljna je izjava samo jednom od zajedničkih prokurista (ZGD-1, 34. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Prokura se lahko podeli dvema ali več osebam skupaj, tako da lahko le vse te osebe skupaj zastopajo družbo.",
+        "prevod_sr": "Prokura se može dati dvama ili više lica zajedno, tako da samo sva ta lica zajedno mogu zastupati društvo.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 34. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pri skupni prokuri lahko vsak prokurist sam zastopa družbo.",
+        "prevod_sr": "Kod zajedničke prokure svaki prokurista može sam zastupati društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: suština zajedničke prokure je da samo sva lica zajedno mogu zastupati društvo (ZGD-1, 34. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Tretje osebe lahko veljavno izjavijo voljo tudi samo enemu od skupnih prokuristov.",
+        "prevod_sr": "Treća lica mogu punovažno izjaviti volju i samo jednom od zajedničkih prokurista.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 34. člen, 2. odst. (tzv. pasivno zastupanje)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "skupna prokura",
+      "prokurist",
+      "izjava volje",
+      "zakoniti zastopnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 34. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-027",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Obseg prokure",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Česa prokurist ne more storiti brez posebnega pooblastila?",
+    "prevod_sr": "Šta prokurista ne može učiniti bez posebnog ovlašćenja?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Zastopati družbo pred sodiščem.",
+        "prevod_sr": "Zastupati društvo pred sudom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prokurista u granicama svojih ovlašćenja zastupa društvo pred sudovima i drugim organima (ZGD-1, 35. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Kupiti nepremičnino za družbo.",
+        "prevod_sr": "Kupiti nepokretnost za društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: izuzetak se odnosi samo na OTUĐENJE i OPTEREĆENJE nepokretnosti, ne na sticanje (ZGD-1, 35. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Kupiti večji paket delnic na borzi.",
+        "prevod_sr": "Kupiti veći paket akcija na berzi.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prokura ovlašćuje na sve pravne radnje iz pravne sposobnosti društva; izuzetak su samo otuđenje i opterećenje nepokretnosti (ZGD-1, 35. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Prodati nepremičnine družbe.",
+        "prevod_sr": "Prodati nepokretnosti društva.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: za otuđenje (odsvojitev) nepokretnosti prokurista mora biti posebno ovlašćen (ZGD-1, 35. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Obremeniti nepremičnino družbe s hipoteko.",
+        "prevod_sr": "Opteretiti nepokretnost društva hipotekom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: i za opterećenje (obremenitev) nepokretnosti treba posebno ovlašćenje (ZGD-1, 35. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prokurist",
+      "posebno pooblastilo",
+      "odsvojitev",
+      "obremenitev",
+      "nepremičnina"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: primer_testa.txt, vprašanje 1 (predelano)",
+      "zakon_clen": "ZGD-1, 35. člen, 1. in 3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-028",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Obseg prokure",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "S čim je določen obseg upravičenj prokurista?",
+    "prevod_sr": "Čime je određen obim ovlašćenja prokuriste?",
+    "odgovori": [
+      {
+        "besedilo_sl": "S statutom družbe, ki obseg prokure prosto določi z učinkom proti tretjim osebam.",
+        "prevod_sr": "Statutom društva, koji obim prokure slobodno određuje sa dejstvom prema trećim licima.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ograničenje prokure nema pravno dejstvo prema trećim licima (ZGD-1, 35. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Z dogovorom med prokuristom in tretjo osebo.",
+        "prevod_sr": "Dogovorom između prokuriste i trećeg lica.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obim prokure je određen zakonom (ZGD-1, 35. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "S sklepom registrskega sodišča ob vpisu prokure.",
+        "prevod_sr": "Rešenjem registarskog suda prilikom upisa prokure.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sud samo upisuje davanje i prestanak prokure (ZGD-1, 38. člen, 1. odst.); obim određuje zakon (35. člen)."
+      },
+      {
+        "besedilo_sl": "S pooblastilom direktorja, ki velja tudi proti tretjim osebam.",
+        "prevod_sr": "Ovlašćenjem direktora, koje važi i prema trećim licima.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obim je zakonski; interno ograničenje nema dejstvo prema trećim licima (ZGD-1, 35. člen, 1. i 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Z zakonom.",
+        "prevod_sr": "Zakonom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: obim prokure određuje sam zakon – sve pravne radnje iz pravne sposobnosti društva, osim otuđenja i opterećenja nepokretnosti (ZGD-1, 35. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "obseg prokure",
+      "prokurist",
+      "omejitev prokure",
+      "tretja oseba"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: primer_testa_1.txt, vprašanje 38 (predelano)",
+      "zakon_clen": "ZGD-1, 35. člen; 38. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-029",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Omejitev prokure",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Družba je prokuristu z internim navodilom prepovedala sklepati posle nad 10.000 eurov. Prokurist kljub temu s tretjo osebo sklene pogodbo o nakupu blaga za 30.000 eurov. Kaj velja?",
+    "prevod_sr": "Društvo je prokuristi internim uputstvom zabranilo da zaključuje poslove preko 10.000 evra. Prokurista uprkos tome sa trećim licem zaključi ugovor o kupovini robe za 30.000 evra. Šta važi?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Omejitev prokure nima pravnega učinka proti tretji osebi.",
+        "prevod_sr": "Ograničenje prokure nema pravno dejstvo prema trećem licu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 35. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Pogodba zavezuje družbo le do zneska 10.000 eurov.",
+        "prevod_sr": "Ugovor obavezuje društvo samo do iznosa od 10.000 evra.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ograničenje iznosa nema dejstvo prema trećim licima (ZGD-1, 35. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodba je nična, ker je prokurist prekoračil interno omejitev.",
+        "prevod_sr": "Ugovor je ništav jer je prokurista prekoračio interno ograničenje.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ograničenje ne deluje prema trećem licu (ZGD-1, 35. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Nakup blaga spada med pravna dejanja, za katera prokura upravičuje že po zakonu.",
+        "prevod_sr": "Kupovina robe spada u pravne radnje na koje prokura ovlašćuje već po zakonu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: prokura ovlašćuje na sve pravne radnje iz pravne sposobnosti društva, osim otuđenja i opterećenja nepokretnosti (ZGD-1, 35. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Za tak posel bi prokurist potreboval posebno pooblastilo.",
+        "prevod_sr": "Za takav posao prokuristi bi trebalo posebno ovlašćenje.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: posebno ovlašćenje treba samo za otuđenje i opterećenje nepokretnosti (ZGD-1, 35. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "omejitev prokure",
+      "tretja oseba",
+      "pravni učinek",
+      "posebno pooblastilo"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 35. člen, 1. in 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-030",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Prenehanje in vpis prokure",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj od navedenega za prokuro NE velja?",
+    "prevod_sr": "Šta od navedenog za prokuru NE važi?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Družba mora podelitev in prenehanje prokure prijaviti za vpis v register.",
+        "prevod_sr": "Društvo mora davanje i prestanak prokure prijaviti za upis u registar.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: ovo važi (ZGD-1, 38. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Prokurist mora pri podpisovanju družbe uporabljati podpis s pristavkom, da je to prokura.",
+        "prevod_sr": "Prokurista pri potpisivanju društva mora koristiti potpis sa dodatkom da je to prokura.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: ovo važi (ZGD-1, 38. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Prokuro je mogoče preklicati le iz utemeljenih razlogov.",
+        "prevod_sr": "Prokura se može opozvati samo iz opravdanih razloga.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (ne važi): prokura se može opozvati u svako doba (ZGD-1, 36. člen)."
+      },
+      {
+        "besedilo_sl": "Prokura se lahko vsak čas prekliče.",
+        "prevod_sr": "Prokura se može opozvati u svako doba.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: ovo važi (ZGD-1, 36. člen)."
+      },
+      {
+        "besedilo_sl": "Prokurist lahko prokuro s soglasjem poslovodstva prenese na drugo osebo.",
+        "prevod_sr": "Prokurista može prokuru uz saglasnost poslovodstva preneti na drugo lice.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (ne važi): prokurista prokuru ne može preneti na drugo lice (ZGD-1, 37. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "preklic prokure",
+      "prenos prokure",
+      "vpis prokure",
+      "pristavek"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 36., 37. in 38. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-031",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Poslovna skrivnost",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za poslovno skrivnost po veljavnem ZGD-1?",
+    "prevod_sr": "Šta važi za poslovnu tajnu po važećem ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "ZGD-1 pojem poslovne skrivnosti opredeljuje samostojno, brez sklicevanja na drug zakon.",
+        "prevod_sr": "ZGD-1 pojam poslovne tajne određuje samostalno, bez upućivanja na drugi zakon.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: 39. člen upućuje na zakon koji uređuje poslovne tajne (ZGD-1, 39. člen)."
+      },
+      {
+        "besedilo_sl": "Poslovna skrivnost so vsi podatki o družbi, vpisani v sodni register.",
+        "prevod_sr": "Poslovna tajna su svi podaci o društvu upisani u sudski registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sudski registar je javna knjiga i uvid je omogućen svakome (ZSReg, 7. člen, 1. i 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Poslovna skrivnost je letno poročilo, ki ga družba predloži AJPES zaradi javne objave.",
+        "prevod_sr": "Poslovna tajna je godišnji izveštaj koji društvo dostavlja AJPES-u radi javne objave.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: AJPES godišnje izveštaje javno objavljuje i svakome omogućava besplatan uvid (ZGD-1, 58. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Za poslovno skrivnost se štejejo informacije, ki izpolnjujejo zahteve za poslovno skrivnost v skladu z zakonom, ki ureja poslovne skrivnosti.",
+        "prevod_sr": "Poslovnom tajnom smatraju se informacije koje ispunjavaju zahteve za poslovnu tajnu u skladu sa zakonom koji uređuje poslovne tajne.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 39. člen – ZGD-1 samo upućuje na poseban zakon."
+      },
+      {
+        "besedilo_sl": "ZGD-1 v 40. členu podrobno ureja varstvo poslovne skrivnosti.",
+        "prevod_sr": "ZGD-1 u 40. članu detaljno uređuje zaštitu poslovne tajne.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: 40. člen ZGD-1 je brisan (črtan)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "poslovna skrivnost",
+      "informacije",
+      "sodni register",
+      "javna objava"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 39. in 40. člen; 58. člen, 4. odst.; ZSReg, 7. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291 ; https://pisrs.si/pregledPredpisa?id=ZAKO320"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-032",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Prepoved konkurence",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Za katere od navedenih oseb prepoved konkurence NE velja že po samem zakonu, ampak le, če jo določi akt o ustanovitvi družbe?",
+    "prevod_sr": "Za koja od navedenih lica zabrana konkurencije NE važi već po samom zakonu, već samo ako je odredi osnivački akt društva?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Za komanditiste v komanditni družbi.",
+        "prevod_sr": "Za komanditore u komanditnom društvu.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti: za komanditore zabrana važi samo ako je odredi osnivački akt (ZGD-1, 41. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Za družbenike družbe z neomejeno odgovornostjo.",
+        "prevod_sr": "Za članove društva sa neograničenom odgovornošću.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: za njih zabrana važi po samom zakonu (ZGD-1, 41. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Za prokuriste.",
+        "prevod_sr": "Za prokuriste.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: prokuristi su izričito navedeni u ZGD-1, 41. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Za delničarje v delniški družbi.",
+        "prevod_sr": "Za akcionare u akcionarskom društvu.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti: za akcionare zabrana važi samo ako je odredi osnivački akt (ZGD-1, 41. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Za člane uprave delniške družbe.",
+        "prevod_sr": "Za članove uprave akcionarskog društva.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: članovi uprave, upravnog odbora i nadzornog odbora d.d. navedeni su u ZGD-1, 41. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prepoved konkurence",
+      "komanditist",
+      "delničar",
+      "prokurist",
+      "akt o ustanovitvi"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 41. člen, 1. in 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-033",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Kršitev prepovedi konkurence",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja, če oseba prekrši prepoved konkurence?",
+    "prevod_sr": "Šta važi ako lice prekrši zabranu konkurencije?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Družba lahko od kršilca zahteva, da ji prepusti posle, sklenjene za svoj račun, kot posle, sklenjene za račun družbe.",
+        "prevod_sr": "Društvo može od prekršioca zahtevati da mu prepusti poslove zaključene za svoj račun kao poslove zaključene za račun društva.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 42. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Akt o ustanovitvi lahko določi, da prepoved konkurence po prenehanju funkcije traja največ pet let.",
+        "prevod_sr": "Osnivački akt može odrediti da zabrana konkurencije posle prestanka funkcije traje najviše pet godina.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zabrana ne sme trajati duže od dve godine, a u slučajevima iz 268. člana, 2. odst. i 515. člana, 3. odst. najviše šest meseci (ZGD-1, 41. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Družba lahko zahteva odškodnino.",
+        "prevod_sr": "Društvo može zahtevati naknadu štete.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 42. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Terjatve družbe zastarajo v treh mesecih po tem, ko družba izve za kršitev in kršilca, najpozneje pa v petih letih od kršitve.",
+        "prevod_sr": "Potraživanja društva zastarevaju u roku od tri meseca od kada društvo sazna za povredu i prekršioca, a najkasnije u roku od pet godina od povrede.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 42. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Posli, ki jih je kršilec sklenil za svoj račun, so po samem zakonu nični.",
+        "prevod_sr": "Poslovi koje je prekršilac zaključio za svoj račun ništavi su po samom zakonu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: poslovi ostaju punovažni; društvo može tražiti naknadu štete, prepuštanje poslova ili prenos koristi (ZGD-1, 42. člen, 1. i 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "kršitev prepovedi konkurence",
+      "odškodnina",
+      "kršilec",
+      "zastaranje",
+      "terjatev"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 42. člen; 41. člen, 4. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-034",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Sodni register – vodenje in upravljanje",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kdo vodi in kdo upravlja sodni register?",
+    "prevod_sr": "Ko vodi, a ko upravlja sudskim registrom?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Sodni register vodi AJPES, sodišče pa ga upravlja.",
+        "prevod_sr": "Sudski registar vodi AJPES, a sud njime upravlja.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obrnuto – vodi sud, upravlja AJPES (ZSReg, 2.a člen, 2. i 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Sodni register upravlja AJPES.",
+        "prevod_sr": "Sudskim registrom upravlja AJPES.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: registrom upravlja agencija (AJPES) kao upravljač poslovnog registra (ZSReg, 2.a člen, 4. odst.; 1.a člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Sodni register vodi sodišče.",
+        "prevod_sr": "Sudski registar vodi sud.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 44. člen, 1. odst.; ZSReg, 2.a člen, 2. odst. Vođenje = odlučivanje o upisima."
+      },
+      {
+        "besedilo_sl": "O vpisih v sodni register odloča ministrstvo, pristojno za gospodarstvo.",
+        "prevod_sr": "O upisima u sudski registar odlučuje ministarstvo nadležno za privredu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: o upisima odlučuje sud (ZSReg, 2.a člen, 1. i 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Sodni register sestoji samo iz glavne knjige.",
+        "prevod_sr": "Sudski registar se sastoji samo od glavne knjige.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sastoji se od glavne knjige i zbirke isprava (zbirka listin) – ZSReg, 2. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "sodni register",
+      "sodišče",
+      "AJPES",
+      "vodenje registra",
+      "upravljanje registra",
+      "glavna knjiga",
+      "zbirka listin"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 44. člen, 1. odst.; ZSReg, 1.a, 2. in 2.a člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291 ; https://pisrs.si/pregledPredpisa?id=ZAKO320"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-035",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Subjekti vpisa",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kateri od navedenih subjektov se NE vpiše v sodni register?",
+    "prevod_sr": "Koji od navedenih subjekata se NE upisuje u sudski registar?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Podružnica tujega podjetja.",
+        "prevod_sr": "Ogranak stranog preduzeća.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: ogranak stranog preduzeća je subjekt upisa (ZSReg, 3. člen, 2. odst., 2. točka)."
+      },
+      {
+        "besedilo_sl": "Zadruga.",
+        "prevod_sr": "Zadruga.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: zadruga je subjekt upisa (ZSReg, 3. člen, 1. odst., 9. točka)."
+      },
+      {
+        "besedilo_sl": "Samostojni podjetnik posameznik.",
+        "prevod_sr": "Samostalni preduzetnik.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti: preduzetnik se upisuje u Poslovni registar Slovenije kod AJPES-a (ZGD-1, 74. člen, 1. odst.), a nije na listi subjekata upisa u sudski registar (ZSReg, 3. člen)."
+      },
+      {
+        "besedilo_sl": "Družba z omejeno odgovornostjo.",
+        "prevod_sr": "Društvo sa ograničenom odgovornošću.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: d.o.o. je subjekt upisa (ZSReg, 3. člen, 1. odst., 3. točka)."
+      },
+      {
+        "besedilo_sl": "Zavod.",
+        "prevod_sr": "Ustanova (zavod).",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: zavod je subjekt upisa (ZSReg, 3. člen, 1. odst., 11. točka)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "subjekt vpisa",
+      "sodni register",
+      "Poslovni register Slovenije",
+      "podjetnik",
+      "podružnica"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZSReg, 3. člen; ZGD-1, 74. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291 ; https://pisrs.si/pregledPredpisa?id=ZAKO320"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-036",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Načelo javnosti registra",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kako je urejena javnost sodnega registra?",
+    "prevod_sr": "Kako je uređena javnost sudskog registra?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Vpogled prek spletnih strani agencije je mogoč le proti plačilu sodne takse.",
+        "prevod_sr": "Uvid preko internet stranica agencije moguć je samo uz plaćanje sudske takse.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: uvid preko interneta je besplatan (ZSReg, 7. člen, 2. odst., 1. točka)."
+      },
+      {
+        "besedilo_sl": "Vpogled v sodni register ima le oseba, ki izkaže pravni interes.",
+        "prevod_sr": "Uvid u sudski registar ima samo lice koje dokaže pravni interes.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: uvid je omogućen svakome (»vsakomur«), bez dokazivanja interesa (ZSReg, 7. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Vsakomur mora biti prek spletnih strani agencije omogočen brezplačen vpogled v podatke, ki so o posameznem subjektu vpisani v sodni register.",
+        "prevod_sr": "Svakome mora preko internet stranica agencije biti omogućen besplatan uvid u podatke koji su o pojedinom subjektu upisani u sudski registar.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZSReg, 7. člen, 2. odst., 1. točka."
+      },
+      {
+        "besedilo_sl": "Javnost se zagotavlja tudi z izstavitvijo izpisov iz sodnega registra.",
+        "prevod_sr": "Javnost se obezbeđuje i izdavanjem izvoda iz sudskog registra.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZSReg, 7. člen, 2. odst., 4. točka."
+      },
+      {
+        "besedilo_sl": "Sodni register je javna knjiga.",
+        "prevod_sr": "Sudski registar je javna knjiga.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZSReg, 7. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "javna knjiga",
+      "načelo javnosti",
+      "vpogled",
+      "izpis iz sodnega registra",
+      "agencija"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZSReg, 7. člen, 1. in 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO320"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-037",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Učinek vpisa in zaupanje v register",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja glede pravnih učinkov vpisa v sodni register nasproti tretjim osebam?",
+    "prevod_sr": "Šta važi u pogledu pravnih dejstava upisa u sudski registar prema trećim licima?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Vpis ima nasproti tretjim pravni učinek že od dneva vložitve predloga za vpis.",
+        "prevod_sr": "Upis ima prema trećima pravno dejstvo već od dana podnošenja predloga za upis.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dejstvo prema trećima nastupa od dana objave upisa (ZSReg, 8. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Tretji se lahko vedno, brez omejitev, sklicuje na to, da objavljenega podatka ni poznal.",
+        "prevod_sr": "Treći se uvek, bez ograničenja, može pozivati na to da objavljeni podatak nije poznavao.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: od dana objave se niko ne može pozivati na nepoznavanje podatka (ZSReg, 8. člen, 5. odst.); izuzetak važi samo 15 dana i uz dokaz (8. člen, 6. odst.)."
+      },
+      {
+        "besedilo_sl": "Subjekt vpisa se lahko proti tretjemu sklicuje na vpisane podatke šele po objavi vpisa, razen če dokaže, da je tretji za te podatke vedel.",
+        "prevod_sr": "Subjekt upisa se prema trećem može pozivati na upisane podatke tek posle objave upisa, osim ako dokaže da je treći za te podatke znao.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZSReg, 8. člen, 4. odst."
+      },
+      {
+        "besedilo_sl": "Kdor v pravnem prometu vestno ravna in se pri tem zanese na podatke, vpisane v sodni register, ga ne prizadenejo škodljive pravne posledice.",
+        "prevod_sr": "Ko u pravnom prometu savesno postupa i pri tome se pouzda u podatke upisane u sudski registar, ne pogađaju ga štetne pravne posledice.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: načelo poverenja u registar (ZSReg, 8. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Vpis posameznega podatka ima nasproti tretjim pravni učinek od dneva objave vpisa tega podatka, če zakon ne določa drugače.",
+        "prevod_sr": "Upis pojedinog podatka ima prema trećima pravno dejstvo od dana objave upisa tog podatka, ako zakon ne određuje drugačije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZSReg, 8. člen, 1. odst.; isto ZGD-1, 3. člen, 7. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pravni učinek vpisa",
+      "objava vpisa",
+      "tretja oseba",
+      "vestno ravnanje",
+      "zaupanje v sodni register"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZSReg, 8. člen; ZGD-1, 3. člen, 7. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291 ; https://pisrs.si/pregledPredpisa?id=ZAKO320"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-038",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Učinek objave vpisa",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Vpis novega zastopnika družbe je bil objavljen 1. marca. Družba 10. marca opravi pravno dejanje nasproti poslovnemu partnerju, ki za spremembo ni vedel. Ali se partner lahko sklicuje na to, da vpisanega in objavljenega podatka ni poznal?",
+    "prevod_sr": "Upis novog zastupnika društva objavljen je 1. marta. Društvo 10. marta preduzme pravnu radnju prema poslovnom partneru koji za promenu nije znao. Može li se partner pozvati na to da upisani i objavljeni podatak nije poznavao?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Da, in sicer brez dokazovanja, ker mora družba dokazati, da je partner za podatek vedel.",
+        "prevod_sr": "Da, i to bez dokazivanja, jer društvo mora dokazati da je partner za podatak znao.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: teret dokaza je na trećem licu – ono mora dokazati da nije znalo niti moglo znati (ZSReg, 8. člen, 6. odst.)."
+      },
+      {
+        "besedilo_sl": "Ne, ker se od dneva objave vpisa nihče v nobenem primeru ne more sklicevati na to, da podatka ni poznal.",
+        "prevod_sr": "Ne, jer se od dana objave upisa niko ni u kom slučaju ne može pozivati na to da podatak nije poznavao.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravilo iz 8. člana, 5. odst. ima izuzetak za radnje u prvih 15 dana od objave (ZSReg, 8. člen, 6. odst.)."
+      },
+      {
+        "besedilo_sl": "Da, ker je bilo dejanje opravljeno v petnajstih dneh od objave vpisa, vendar le, če dokaže, da za podatek ni vedel in tudi ni mogel vedeti.",
+        "prevod_sr": "Da, jer je radnja preduzeta u roku od petnaest dana od objave upisa, ali samo ako dokaže da za podatak nije znao niti je mogao znati.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZSReg, 8. člen, 6. odst. – kod radnji u roku od 15 dana od objave treći se može pozvati na nepoznavanje ako dokaže da nije znao niti mogao znati."
+      },
+      {
+        "besedilo_sl": "Da, ker vpis učinkuje nasproti tretjim šele po treh mesecih od objave.",
+        "prevod_sr": "Da, jer upis deluje prema trećima tek posle tri meseca od objave.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: upis deluje prema trećima od dana objave (ZSReg, 8. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ne, ker je rok, v katerem se tretji lahko sklicuje na nepoznavanje, osem dni od objave.",
+        "prevod_sr": "Ne, jer je rok u kojem se treći može pozvati na nepoznavanje osam dana od objave.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rok je petnaest dana od objave (ZSReg, 8. člen, 6. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "objava vpisa",
+      "tretja oseba",
+      "petnajst dni",
+      "dokazno breme"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZSReg, 8. člen, 1., 5. in 6. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO320"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-039",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Prijava za vpis v register",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za prijavo za prvi vpis družbe v register?",
+    "prevod_sr": "Šta važi za prijavu za prvi upis društva u registar?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Prijavo je treba vložiti v 30 dneh po sklenitvi akta o ustanovitvi.",
+        "prevod_sr": "Prijava se mora podneti u roku od 30 dana od zaključenja osnivačkog akta.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rok je 15 dana od ispunjenja uslova za upis (ZGD-1, 47. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Prijavo vloži oseba, ki je po zakonu ali aktih družbe upravičena za zastopanje, če zakon ne določa drugače.",
+        "prevod_sr": "Prijavu podnosi lice koje je po zakonu ili aktima društva ovlašćeno za zastupanje, ako zakon ne određuje drugačije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 46. člen."
+      },
+      {
+        "besedilo_sl": "Prijavo je treba vložiti v 15 dneh po izpolnitvi pogojev za vpis v register.",
+        "prevod_sr": "Prijava se mora podneti u roku od 15 dana od ispunjenja uslova za upis u registar.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 47. člen, 3. odst.; isti rok ZSReg, 3. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Prijava mora vsebovati firmo, dejavnost, sedež, poslovni in elektronski naslov ter druge podatke, določene z zakonom.",
+        "prevod_sr": "Prijava mora sadržati firmu, delatnost, sedište, poslovnu i elektronsku adresu i druge podatke određene zakonom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 47. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Prijavi je treba priložiti akt o ustanovitvi v izvirniku ali overjenem prepisu.",
+        "prevod_sr": "Uz prijavu treba priložiti osnivački akt u originalu ili overenom prepisu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 47. člen, 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prijava za vpis",
+      "akt o ustanovitvi",
+      "overjen prepis",
+      "rok 15 dni",
+      "zastopanje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 46. in 47. člen; ZSReg, 3. člen, 3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291 ; https://pisrs.si/pregledPredpisa?id=ZAKO320"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-040",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Velikost družb – mikro družba",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za razvrstitev družbe med mikro družbe po 55. členu ZGD-1?",
+    "prevod_sr": "Šta važi za razvrstavanje društva u mikro društva po 55. članu ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Eno od meril je, da povprečno število delavcev v poslovnem letu ne presega deset.",
+        "prevod_sr": "Jedan od kriterijuma je da prosečan broj zaposlenih u poslovnoj godini ne prelazi deset.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 55. člen, 2. odst., 1. alineja."
+      },
+      {
+        "besedilo_sl": "Mikro družba je družba, ki izpolnjuje dve od treh meril.",
+        "prevod_sr": "Mikro društvo je društvo koje ispunjava dva od tri kriterijuma.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Mikro družba je družba, ki izpolnjuje dve od teh meril« (ZGD-1, 55. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Merila se presojajo po stanju na dan vpisa družbe v register.",
+        "prevod_sr": "Kriterijumi se ocenjuju prema stanju na dan upisa društva u registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: merila se primenjuju na bilansni presečni dan godišnjeg bilansa stanja (ZGD-1, 55. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Eno od meril je, da čisti prihodki od prodaje ne presegajo 900.000 eurov.",
+        "prevod_sr": "Jedan od kriterijuma je da čisti prihodi od prodaje ne prelaze 900.000 evra.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 55. člen, 2. odst., 2. alineja."
+      },
+      {
+        "besedilo_sl": "Eno od meril je, da vrednost aktive ne presega 450.000 eurov.",
+        "prevod_sr": "Jedan od kriterijuma je da vrednost aktive ne prelazi 450.000 evra.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 55. člen, 2. odst., 3. alineja."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "mikro družba",
+      "povprečno število delavcev",
+      "čisti prihodki od prodaje",
+      "vrednost aktive",
+      "bilančni presečni dan"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 55. člen, 1. in 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-041",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Velikost družb – razvrstitev",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Družba na bilančni presečni dan že več let zapored izkazuje: povprečno 40 delavcev, 12.000.000 eurov čistih prihodkov od prodaje in 4.000.000 eurov vrednosti aktive. Kako se razvrsti po 55. členu ZGD-1?",
+    "prevod_sr": "Društvo na bilansni presečni dan već više godina zaredom iskazuje: prosečno 40 zaposlenih, 12.000.000 evra čistih prihoda od prodaje i 4.000.000 evra vrednosti aktive. Kako se razvrstava po 55. članu ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Kot mikro družba.",
+        "prevod_sr": "Kao mikro društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prelazi sva tri mikro praga – 10 zaposlenih, 900.000 EUR prihoda, 450.000 EUR aktive (ZGD-1, 55. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Ni je mogoče razvrstiti med majhne, ker ne izpolnjuje vseh treh meril za majhno družbo.",
+        "prevod_sr": "Ne može se razvrstati u mala jer ne ispunjava sva tri kriterijuma za malo društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dovoljno je ispuniti dva od tri kriterijuma (ZGD-1, 55. člen, 3. odst.); prelazi samo prag prihoda od 10.000.000 EUR."
+      },
+      {
+        "besedilo_sl": "Kot srednja družba.",
+        "prevod_sr": "Kao srednje društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: srednje je društvo koje NIJE malo; ovo društvo ispunjava dva kriterijuma malog društva (ZGD-1, 55. člen, 3. i 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Kot velika družba.",
+        "prevod_sr": "Kao veliko društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: veliko je društvo koje nije ni mikro ni malo ni srednje (ZGD-1, 55. člen, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Kot majhna družba.",
+        "prevod_sr": "Kao malo društvo.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ispunjava dva kriterijuma malog društva (zaposleni ≤ 50, aktiva ≤ 5.000.000 EUR), a nije mikro jer ne ispunjava nijedan mikro kriterijum (ZGD-1, 55. člen, 2. i 3. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "majhna družba",
+      "merila",
+      "čisti prihodki od prodaje",
+      "vrednost aktive",
+      "razvrščanje družb"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 55. člen, 2. do 5. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-042",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Velikost družb – srednje in velike družbe",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za razvrščanje družb po velikosti?",
+    "prevod_sr": "Šta važi za razvrstavanje društava po veličini?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Velika družba je družba, ki ni mikro, majhna ali srednja družba.",
+        "prevod_sr": "Veliko društvo je društvo koje nije mikro, malo ili srednje društvo.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 55. člen, 5. odst. – veliko društvo je određeno negativno."
+      },
+      {
+        "besedilo_sl": "Pri majhni družbi čisti prihodki od prodaje ne smejo presegati 8.000.000 eurov.",
+        "prevod_sr": "Kod malog društva čisti prihodi od prodaje ne smeju prelaziti 8.000.000 evra.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prag za malo društvo je 10.000.000 EUR čistih prihoda od prodaje i 5.000.000 EUR aktive (ZGD-1, 55. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Določbe, ki se nanašajo na majhne družbe, se za mikro družbe nikoli ne uporabljajo.",
+        "prevod_sr": "Odredbe koje se odnose na mala društva nikada se ne primenjuju na mikro društva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: primenjuju se i na mikro društva, osim ako zakon i drugi propisi ne određuju drugačije (ZGD-1, 55. člen, 7. odst.)."
+      },
+      {
+        "besedilo_sl": "Merila za srednjo družbo so: povprečno število delavcev ne presega 250, čisti prihodki od prodaje ne presegajo 50.000.000 eurov, vrednost aktive ne presega 25.000.000 eurov.",
+        "prevod_sr": "Kriterijumi za srednje društvo su: prosečan broj zaposlenih ne prelazi 250, čisti prihodi od prodaje ne prelaze 50.000.000 evra, vrednost aktive ne prelazi 25.000.000 evra.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 55. člen, 4. odst. (i ovde se traže dva od tri kriterijuma, a društvo ne sme biti mikro ili malo)."
+      },
+      {
+        "besedilo_sl": "Družba se prerazvrsti, če na podlagi podatkov zadnjih dveh zaporednih poslovnih let obakrat preseže ali neha presegati merila.",
+        "prevod_sr": "Društvo se prerazvrstava ako na osnovu podataka poslednje dve uzastopne poslovne godine oba puta pređe ili prestane da prelazi kriterijume.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 55. člen, 6. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "srednja družba",
+      "velika družba",
+      "prerazvrščanje",
+      "poslovno leto",
+      "merila"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 55. člen, 3. do 7. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-043",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Letno poročilo – roki",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za poslovno leto in roke v zvezi z letnim poročilom?",
+    "prevod_sr": "Šta važi za poslovnu godinu i rokove u vezi sa godišnjim izveštajem?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Konsolidirano letno poročilo je treba sestaviti v treh mesecih po koncu poslovnega leta.",
+        "prevod_sr": "Konsolidovani godišnji izveštaj treba sastaviti u roku od tri meseca od kraja poslovne godine.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: konsolidovani godišnji izveštaj se sastavlja u roku od četiri meseca (ZGD-1, 54. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Poslovno leto se lahko razlikuje od koledarskega leta.",
+        "prevod_sr": "Poslovna godina može se razlikovati od kalendarske godine.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 54. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Letno poročilo podjetnika je treba zaradi javne objave predložiti AJPES v osmih mesecih po koncu poslovnega leta.",
+        "prevod_sr": "Godišnji izveštaj preduzetnika treba radi javne objave dostaviti AJPES-u u roku od osam meseci od kraja poslovne godine.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: mala društva (čijim se hartijama ne trguje na organizovanom tržištu) i preduzetnici predaju u roku od tri meseca (ZGD-1, 58. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Revidirano letno poročilo je treba skupaj z revizorjevim poročilom predložiti AJPES v treh mesecih po koncu poslovnega leta.",
+        "prevod_sr": "Revidirani godišnji izveštaj treba zajedno sa izveštajem revizora dostaviti AJPES-u u roku od tri meseca od kraja poslovne godine.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: revidirani godišnji izveštaji predaju se AJPES-u u roku od osam meseci od kraja poslovne godine (ZGD-1, 58. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Letno poročilo je treba sestaviti v treh mesecih po koncu poslovnega leta.",
+        "prevod_sr": "Godišnji izveštaj treba sastaviti u roku od tri meseca od kraja poslovne godine.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 54. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "letno poročilo",
+      "poslovno leto",
+      "konsolidirano letno poročilo",
+      "javna objava",
+      "AJPES",
+      "revizorjevo poročilo"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 54. člen, 1. in 2. odst.; 58. člen, 1. in 3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-044",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Poslovne knjige in letno poročilo",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o poslovnih knjigah in letnem poročilu NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o poslovnim knjigama i godišnjem izveštaju NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Poslovne knjige, bilance stanja in letna poročila je treba trajno hraniti.",
+        "prevod_sr": "Poslovne knjige, bilansi stanja i godišnji izveštaji moraju se trajno čuvati.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 54. člen, 6. odst.)."
+      },
+      {
+        "besedilo_sl": "Poslovne knjige družb se vodijo po sistemu enostavnega knjigovodstva, če zakon ne določa drugače.",
+        "prevod_sr": "Poslovne knjige društava vode se po sistemu prostog knjigovodstva, ako zakon ne određuje drugačije.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (netačna tvrdnja): poslovne knjige moraju se voditi po sistemu DVOJNOG (dvostavnega) knjigovodstva, ako zakon ne određuje drugačije (ZGD-1, 54. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Družbe in podjetniki morajo poslovne knjige zaključiti enkrat letno.",
+        "prevod_sr": "Društva i preduzetnici moraju poslovne knjige zaključiti jednom godišnje.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 54. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Letna poročila velikih in srednjih kapitalskih družb pregleda revizor.",
+        "prevod_sr": "Godišnje izveštaje velikih i srednjih društava kapitala pregleda revizor.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 57. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Letno poročilo majhne kapitalske družbe, z vrednostnimi papirji katere se ne trguje na organiziranem trgu, je sestavljeno vsaj iz bilance stanja, izkaza poslovnega izida in priloge s pojasnili k izkazom.",
+        "prevod_sr": "Godišnji izveštaj malog društva kapitala, čijim se hartijama od vrednosti ne trguje na organizovanom tržištu, sastoji se najmanje od bilansa stanja, bilansa uspeha i priloga sa napomenama uz izveštaje.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 60. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "poslovne knjige",
+      "dvostavno knjigovodstvo",
+      "revizor",
+      "bilanca stanja",
+      "izkaz poslovnega izida",
+      "letno poročilo"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 54. člen, 1., 3. in 6. odst.; 57. člen, 1. odst.; 60. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-045",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podjetnik – pojem",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kdo je podjetnik (samostojni podjetnik posameznik) po ZGD-1?",
+    "prevod_sr": "Ko je preduzetnik (samostalni preduzetnik) po ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pravna oseba, ki na trgu samostojno opravlja pridobitno dejavnost kot svojo izključno dejavnost.",
+        "prevod_sr": "Pravno lice koje na tržištu samostalno obavlja profitnu delatnost kao svoju isključivu delatnost.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je definicija privrednog društva (ZGD-1, 3. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Fizična oseba, ki na trgu samostojno opravlja pridobitno dejavnost v okviru organiziranega podjetja.",
+        "prevod_sr": "Fizičko lice koje na tržištu samostalno obavlja profitnu delatnost u okviru organizovanog preduzeća.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 3. člen, 6. odst."
+      },
+      {
+        "besedilo_sl": "Družba z omejeno odgovornostjo z enim družbenikom.",
+        "prevod_sr": "Društvo sa ograničenom odgovornošću sa jednim članom.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: jednočlano d.o.o. je društvo kapitala i pravno lice (ZGD-1, 3. člen, 3. odst.; 4. člen), a preduzetnik je fizičko lice (3. člen, 6. odst.)."
+      },
+      {
+        "besedilo_sl": "Pravna oseba, ki jo ustanovi ena sama fizična oseba.",
+        "prevod_sr": "Pravno lice koje osniva jedno jedino fizičko lice.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: preduzetnik je fizičko lice, nije pravno lice (ZGD-1, 3. člen, 6. odst.)."
+      },
+      {
+        "besedilo_sl": "Fizična oseba, ki pridobi pravno osebnost z vpisom v sodni register.",
+        "prevod_sr": "Fizičko lice koje stiče pravni subjektivitet upisom u sudski registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: preduzetnik se upisuje u Poslovni registar Slovenije kod AJPES-a (ZGD-1, 74. člen, 1. odst.) i ostaje fizičko lice (3. člen, 6. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "podjetnik",
+      "fizična oseba",
+      "organizirano podjetje",
+      "pridobitna dejavnost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 3. člen, 1., 3. in 6. odst.; 74. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-046",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podjetnik – firma",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj vsebuje firma podjetnika?",
+    "prevod_sr": "Šta sadrži firma preduzetnika?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Oznako d.o.o., če podjetnik zaposluje delavce.",
+        "prevod_sr": "Oznaku d.o.o., ako preduzetnik zapošljava radnike.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: oznaka preduzetnika je s.p. (ZGD-1, 72. člen, 1. odst.); d.o.o. je oznaka društva sa ograničenom odgovornošću (27. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Skrajšano oznako, da gre za samostojnega podjetnika (s.p.).",
+        "prevod_sr": "Skraćenu oznaku da je reč o samostalnom preduzetniku (s.p.).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 72. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Ime in priimek podjetnika.",
+        "prevod_sr": "Ime i prezime preduzetnika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 72. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Oznako dejavnosti.",
+        "prevod_sr": "Oznaku delatnosti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 72. člen, 1. odst. (uz eventualne dodatne sastojke)."
+      },
+      {
+        "besedilo_sl": "EMŠO podjetnika.",
+        "prevod_sr": "JMBG (EMŠO) preduzetnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: EMŠO se navodi u prijavi za upis (ZGD-1, 74. člen, 2. odst.), ali nije sastojak firme (72. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "firma podjetnika",
+      "ime in priimek",
+      "s.p.",
+      "oznaka dejavnosti",
+      "skrajšana firma"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 72. člen, 1. odst.; 74. člen, 2. odst.; 27. člen, 3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-047",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podjetnik – vpis",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj lahko podjetnik začne opravljati dejavnost?",
+    "prevod_sr": "Kada preduzetnik može početi da obavlja delatnost?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Ko mu upravna enota izda obrtno dovoljenje.",
+        "prevod_sr": "Kada mu upravna jedinica izda zanatsku dozvolu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: opšti uslov je upis u Poslovni registar Slovenije kod AJPES-a (ZGD-1, 74. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ko ga registrsko sodišče vpiše v sodni register.",
+        "prevod_sr": "Kada ga registarski sud upiše u sudski registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: preduzetnik se ne upisuje u sudski registar, već u Poslovni registar Slovenije kod AJPES-a (ZGD-1, 74. člen, 1. odst.; ZSReg, 3. člen)."
+      },
+      {
+        "besedilo_sl": "Ko je pri AJPES vpisan v Poslovni register Slovenije.",
+        "prevod_sr": "Kada je kod AJPES-a upisan u Poslovni registar Slovenije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 74. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Z dnem, ko vloži prijavo za vpis.",
+        "prevod_sr": "Danom kada podnese prijavu za upis.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: počinje kada je upisan; predloženi datum upisa mora biti kasniji od dana podnošenja prijave (ZGD-1, 74. člen, 1. i 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Ko je vpisan pri AJPES, razen če njegovo podjetje ustreza merilom za srednje ali velike družbe – takrat se vpiše v sodni register.",
+        "prevod_sr": "Kada je upisan kod AJPES-a, osim ako njegovo preduzeće odgovara kriterijumima za srednja ili velika društva – tada se upisuje u sudski registar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: važeći 74. člen ne poznaje takav izuzetak – svaki preduzetnik se upisuje u Poslovni registar Slovenije kod AJPES-a (ZGD-1, 74. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "podjetnik",
+      "AJPES",
+      "Poslovni register Slovenije",
+      "vpis",
+      "začetek opravljanja dejavnosti"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: primer_testa_1.txt, vprašanje 28 (predelano; ključ po veljavnem ZGD-1)",
+      "zakon_clen": "ZGD-1, 74. člen, 1. in 2. odst.; ZSReg, 3. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291 ; https://pisrs.si/pregledPredpisa?id=ZAKO320"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-048",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podjetnik – sprememba in prenehanje",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere roke določa ZGD-1 za prijavo sprememb in prenehanja opravljanja dejavnosti podjetnika?",
+    "prevod_sr": "Koje rokove određuje ZGD-1 za prijavu promena i prestanka obavljanja delatnosti preduzetnika?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Spremembo podatkov mora podjetnik prijaviti AJPES v 15 dneh po nastanku spremembe.",
+        "prevod_sr": "Promenu podataka preduzetnik mora prijaviti AJPES-u u roku od 15 dana od nastanka promene.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 75. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Prenehanja ni treba prijaviti, ker AJPES podjetnika vedno izbriše sam.",
+        "prevod_sr": "Prestanak ne treba prijaviti jer AJPES preduzetnika uvek briše sam.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prestanak mora prijaviti preduzetnik ili lice koje je za to ovlastio (ZGD-1, 75. člen, 1. odst.); brisanje po službenoj dužnosti važi samo u slučajevima iz 2. odst."
+      },
+      {
+        "besedilo_sl": "Spremembo podatkov mora prijaviti v treh mesecih po nastanku spremembe.",
+        "prevod_sr": "Promenu podataka mora prijaviti u roku od tri meseca od nastanka promene.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rok je 15 dana (ZGD-1, 75. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Prenehanje opravljanja dejavnosti mora prijaviti najmanj tri mesece prej.",
+        "prevod_sr": "Prestanak obavljanja delatnosti mora prijaviti najmanje tri meseca ranije.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: najmanje tri DANA ranije (ZGD-1, 75. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Prenehanje opravljanja dejavnosti mora prijaviti najmanj tri dni prej.",
+        "prevod_sr": "Prestanak obavljanja delatnosti mora prijaviti najmanje tri dana ranije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 75. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "sprememba podatkov",
+      "prenehanje opravljanja dejavnosti",
+      "prijava",
+      "AJPES",
+      "rok"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 75. člen, 1. in 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-049",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podjetnik – izbris po uradni dolžnosti",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "AJPES po uradni dolžnosti izbriše podjetnika iz Poslovnega registra Slovenije v vseh navedenih primerih, RAZEN:",
+    "prevod_sr": "AJPES po službenoj dužnosti briše preduzetnika iz Poslovnog registra Slovenije u svim navedenim slučajevima, OSIM:",
+    "odgovori": [
+      {
+        "besedilo_sl": "na podlagi obvestila registrskega organa, da se je podjetnik statusno preoblikoval v kapitalsko družbo.",
+        "prevod_sr": "na osnovu obaveštenja registarskog organa da se preduzetnik statusno preoblikovao u društvo kapitala.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: to je razlog za brisanje (ZGD-1, 75. člen, 2. odst., 1. točka)."
+      },
+      {
+        "besedilo_sl": "na podlagi obvestila pristojnega sodišča o začetku postopka stečaja nad podjetnikom.",
+        "prevod_sr": "na osnovu obaveštenja nadležnog suda o početku stečajnog postupka nad preduzetnikom.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: to je razlog za brisanje (ZGD-1, 75. člen, 2. odst., 5. točka)."
+      },
+      {
+        "besedilo_sl": "če ugotovi, da poslovni naslov, vpisan pri podjetniku, ne obstaja.",
+        "prevod_sr": "ako utvrdi da poslovna adresa upisana kod preduzetnika ne postoji.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: to je razlog za brisanje (ZGD-1, 75. člen, 2. odst., 3. točka)."
+      },
+      {
+        "besedilo_sl": "če podjetnik v enem poslovnem letu izkaže izgubo.",
+        "prevod_sr": "ako preduzetnik u jednoj poslovnoj godini iskaže gubitak.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti: gubitak nije razlog za brisanje po službenoj dužnosti; razlozi su taksativno navedeni u ZGD-1, 75. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "če ji podjetnik v dveh zaporednih poslovnih letih ne predloži letnega poročila zaradi javne objave.",
+        "prevod_sr": "ako joj preduzetnik u dve uzastopne poslovne godine ne dostavi godišnji izveštaj radi javne objave.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: to je razlog za brisanje (ZGD-1, 75. člen, 2. odst., 2. točka)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "izbris",
+      "po uradni dolžnosti",
+      "Poslovni register Slovenije",
+      "stečaj",
+      "statusno preoblikovanje"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 75. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-050",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podjetnik – prenos podjetja",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za prenos podjetja podjetnika na podjetnika prevzemnika?",
+    "prevod_sr": "Šta važi za prenos preduzeća preduzetnika na preduzetnika preuzimaoca?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Po prenosu podjetnik za obveznosti, nastale pred vpisom prenosa, v nobenem primeru več ne odgovarja.",
+        "prevod_sr": "Posle prenosa preduzetnik za obaveze nastale pre upisa prenosa ni u kom slučaju više ne odgovara.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ako ih preuzimalac ne ispuni, za njih odgovara preduzetnik svom svojom imovinom (ZGD-1, 72.a člen, 7. odst.)."
+      },
+      {
+        "besedilo_sl": "Podjetnik lahko za časa svojega življenja prenese podjetje na drugo fizično osebo.",
+        "prevod_sr": "Preduzetnik može za života preneti preduzeće na drugo fizičko lice.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 72.a člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Prijavo za vpis prenosa podjetja vloži podjetnik prevzemnik pri registrskem sodišču.",
+        "prevod_sr": "Prijavu za upis prenosa preduzeća podnosi preduzetnik preuzimalac kod registarskog suda.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prijavu podnosi preuzimalac kod AJPES-a (ZGD-1, 72.a člen, 5. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodba o prenosu podjetja mora biti sklenjena v obliki notarskega zapisa.",
+        "prevod_sr": "Ugovor o prenosu preduzeća mora biti zaključen u obliku notarskog zapisa.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 72.a člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Podjetnik prevzemnik kot univerzalni pravni naslednik vstopi v vsa pravna razmerja v zvezi s prenesenim podjetjem.",
+        "prevod_sr": "Preduzetnik preuzimalac kao univerzalni pravni sledbenik stupa u sve pravne odnose u vezi sa prenetim preduzećem.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 72.a člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prenos podjetja",
+      "podjetnik prevzemnik",
+      "notarski zapis",
+      "univerzalni pravni naslednik",
+      "AJPES"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 72.a člen, 1., 2., 5. in 7. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-051",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podjetnik – smrt podjetnika",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Podjetnik, ki je imel prokurista, je umrl. Njegova hči želi kot dedinja nadaljevati očetovo podjetje. Kaj velja po ZGD-1?",
+    "prevod_sr": "Preduzetnik koji je imao prokuristu je umro. Njegova ćerka želi da kao naslednica nastavi očevo preduzeće. Šta važi po ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Dedinja kot univerzalna pravna naslednica vstopi v vsa pravna razmerja v zvezi s podjetjem in se vpiše kot podjetnik.",
+        "prevod_sr": "Naslednica kao univerzalni pravni sledbenik stupa u sve pravne odnose u vezi sa preduzećem i upisuje se kao preduzetnik.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 72. člen, 4. odst."
+      },
+      {
+        "besedilo_sl": "Prokura s smrtjo podjetnika ne preneha.",
+        "prevod_sr": "Prokura smrću preduzetnika ne prestaje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: prokura ne prestaje smrću ili gubitkom poslovne sposobnosti preduzetnika (ZGD-1, 72. člen, 7. odst.)."
+      },
+      {
+        "besedilo_sl": "Podjetje s smrtjo podjetnika v vsakem primeru preneha in ga dediči ne morejo nadaljevati.",
+        "prevod_sr": "Preduzeće smrću preduzetnika u svakom slučaju prestaje i naslednici ga ne mogu nastaviti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: naslednik može nastaviti preduzeće (ZGD-1, 72. člen, 4. odst.); AJPES ne briše preduzetnika ako naslednik u roku od tri meseca od pravosnažnosti rešenja o nasleđivanju dostavi izjavu (75. člen, 2. odst., 4. točka)."
+      },
+      {
+        "besedilo_sl": "Izjavo o nadaljevanju podjetja mora dedinja predložiti AJPES v treh letih po pravnomočnosti sklepa o dedovanju.",
+        "prevod_sr": "Izjavu o nastavljanju preduzeća naslednica mora dostaviti AJPES-u u roku od tri godine od pravosnažnosti rešenja o nasleđivanju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: rok je tri MESECA od pravosnažnosti rešenja o nasleđivanju (ZGD-1, 75. člen, 2. odst., 4. točka)."
+      },
+      {
+        "besedilo_sl": "Dedinja, ki nadaljuje zapustnikovo podjetje, lahko v firmi še naprej uporablja tudi ime in priimek zapustnika.",
+        "prevod_sr": "Naslednica koja nastavlja ostaviočevo preduzeće može u firmi i dalje koristiti i ime i prezime ostavioca.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 72. člen, 4. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "dedič",
+      "zapustnik",
+      "prokura",
+      "univerzalni pravni naslednik",
+      "sklep o dedovanju"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 72. člen, 4. in 7. odst.; 75. člen, 2. odst., 4. točka",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-052",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podjetnik – smiselna uporaba določb",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katere od navedenih določb ZGD-1 NISO med tistimi, ki se po 71. členu smiselno uporabljajo za podjetnika?",
+    "prevod_sr": "Koje od navedenih odredaba ZGD-1 NISU među onima koje se po 71. članu shodno primenjuju na preduzetnika?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Določbe o prokuri (33. do 37. člen).",
+        "prevod_sr": "Odredbe o prokuri (33. do 37. člen).",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: prokura je navedena u ZGD-1, 71. člen, 5. alineja."
+      },
+      {
+        "besedilo_sl": "Določbe o prepovedi konkurence (41. člen).",
+        "prevod_sr": "Odredbe o zabrani konkurencije (41. člen).",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti: 71. člen ne navodi 41. člen (ZGD-1, 71. člen)."
+      },
+      {
+        "besedilo_sl": "Določbe o firmi (12. do 23. člen).",
+        "prevod_sr": "Odredbe o firmi (12. do 23. člen).",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: firma je navedena u ZGD-1, 71. člen, 2. alineja."
+      },
+      {
+        "besedilo_sl": "Določbe o podružnici (31. člen).",
+        "prevod_sr": "Odredbe o ogranku (31. člen).",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: podružnica je navedena u ZGD-1, 71. člen, 4. alineja."
+      },
+      {
+        "besedilo_sl": "Določbe o spregledu pravne osebnosti (8. člen).",
+        "prevod_sr": "Odredbe o probijanju pravne ličnosti (8. člen).",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti: 71. člen ne navodi 8. člen; preduzetnik ionako nije pravno lice (ZGD-1, 71. člen; 3. člen, 6. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "podjetnik",
+      "smiselna uporaba",
+      "firma",
+      "prokura",
+      "podružnica"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 71. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-053",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podjetnik – odgovornost",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Podjetnik ima iz poslovanja 30.000 eurov dolga do dobavitelja. Oprema, ki jo uporablja za dejavnost, je vredna 5.000 eurov, poleg tega pa ima v lasti stanovanje. S čim odgovarja za ta dolg?",
+    "prevod_sr": "Preduzetnik iz poslovanja ima 30.000 evra duga prema dobavljaču. Oprema koju koristi za delatnost vredi 5.000 evra, a pored toga ima u svojini stan. Čime odgovara za taj dug?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Z vsem svojim premoženjem, torej tudi s stanovanjem.",
+        "prevod_sr": "Celokupnom svojom imovinom, dakle i stanom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: preduzetnik odgovara za svoje obaveze svom svojom imovinom (ZGD-1, 7. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Za dolg odgovarja podjetje kot pravna oseba, podjetnik osebno pa ne.",
+        "prevod_sr": "Za dug odgovara preduzeće kao pravno lice, a preduzetnik lično ne.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: preduzetnik je fizičko lice (ZGD-1, 3. člen, 6. odst.) i sam odgovara svom svojom imovinom (7. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "S svojim osebnim premoženjem odgovarja le, če sodišče ugotovi spregled pravne osebnosti.",
+        "prevod_sr": "Ličnom imovinom odgovara samo ako sud utvrdi probijanje pravne ličnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: probijanje pravne ličnosti se odnosi na članove društva (ZGD-1, 8. člen); preduzetnik uvek odgovara svom imovinom (7. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Samo z opremo, ki jo uporablja za opravljanje dejavnosti.",
+        "prevod_sr": "Samo opremom koju koristi za obavljanje delatnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon ne ograničava odgovornost na poslovnu imovinu (ZGD-1, 7. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Samo do višine sredstev, ki jih je ob vpisu namenil podjetju.",
+        "prevod_sr": "Samo do visine sredstava koja je pri upisu namenio preduzeću.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odgovara svom svojom imovinom (ZGD-1, 7. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "podjetnik",
+      "odgovornost",
+      "vse premoženje",
+      "dolg",
+      "upnik"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 7. člen, 1. odst.; 3. člen, 6. odst.; 8. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-054",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Tuja podjetja",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za tuje podjetje po ZGD-1?",
+    "prevod_sr": "Šta važi za strano preduzeće po ZGD-1?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Tuje podjetje je lahko samo pravna oseba.",
+        "prevod_sr": "Strano preduzeće može biti samo pravno lice.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: može biti fizičko ili pravno lice (ZGD-1, 674. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Pri poslovanju v Republiki Sloveniji je glede pravic, obveznosti in odgovornosti izenačeno z družbami ali podjetniki s sedežem v Republiki Sloveniji, če zakon ne določa drugače.",
+        "prevod_sr": "U poslovanju u Republici Sloveniji je u pogledu prava, obaveza i odgovornosti izjednačeno sa društvima ili preduzetnicima sa sedištem u Republici Sloveniji, ako zakon ne određuje drugačije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 675. člen."
+      },
+      {
+        "besedilo_sl": "Položaj tujega podjetja se vedno presoja po slovenskem pravu.",
+        "prevod_sr": "Položaj stranog preduzeća uvek se ocenjuje po slovenačkom pravu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: položaj se ocenjuje po pravu države kojoj preduzeće pripada, ako zakon ne određuje drugačije (ZGD-1, 674. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Tuje podjetje je fizična ali pravna oseba, ki opravlja pridobitno dejavnost in ima prebivališče ali sedež zunaj Republike Slovenije.",
+        "prevod_sr": "Strano preduzeće je fizičko ili pravno lice koje obavlja profitnu delatnost i ima prebivalište ili sedište van Republike Slovenije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 674. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Tuje podjetje lahko opravlja pridobitno dejavnost v Republiki Sloveniji preko podružnic.",
+        "prevod_sr": "Strano preduzeće može obavljati profitnu delatnost u Republici Sloveniji preko ogranaka.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ZGD-1, 676. člen, 1. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "tuje podjetje",
+      "podružnica",
+      "sedež",
+      "država članica",
+      "tretja država"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 674., 675. in 676. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  },
+  {
+    "id": "T2-055",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "Podružnica tujega podjetja",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Katera trditev o podružnici tujega podjetja NI pravilna?",
+    "prevod_sr": "Koja tvrdnja o ogranku stranog preduzeća NIJE tačna?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Tuje podjetje lahko začne opravljati dejavnost v Republiki Sloveniji že pred vpisom podružnice v register.",
+        "prevod_sr": "Strano preduzeće može početi da obavlja delatnost u Republici Sloveniji već pre upisa ogranka u registar.",
+        "pravilno": true,
+        "razlaga_sr": "Treba označiti (netačna tvrdnja): pre upisa ogranka u registar strano preduzeće ne može početi da obavlja delatnost u Sloveniji (ZGD-1, 680. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Za obveznosti, ki nastanejo s poslovanjem podružnic, je odgovorno tuje podjetje z vsem svojim premoženjem.",
+        "prevod_sr": "Za obaveze koje nastanu poslovanjem ogranaka odgovara strano preduzeće celokupnom svojom imovinom.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 683. člen)."
+      },
+      {
+        "besedilo_sl": "Za podružnico se smiselno uporabljajo določbe ZGD-1 o dejavnosti, firmi, sedežu in prokuri.",
+        "prevod_sr": "Na ogranak se shodno primenjuju odredbe ZGD-1 o delatnosti, firmi, sedištu i prokuri.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 676. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Za vsako podružnico je treba imenovati enega ali več zastopnikov, ki zastopajo tuje podjetje.",
+        "prevod_sr": "Za svaki ogranak treba imenovati jednog ili više zastupnika koji zastupaju strano preduzeće.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 682. člen)."
+      },
+      {
+        "besedilo_sl": "Podružnica nastopa v imenu in za račun tujega podjetja.",
+        "prevod_sr": "Ogranak nastupa u ime i za račun stranog preduzeća.",
+        "pravilno": false,
+        "razlaga_sr": "Ne označavati: tvrdnja je tačna (ZGD-1, 679. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "podružnica tujega podjetja",
+      "tuje podjetje",
+      "zastopnik",
+      "vpis v register",
+      "odgovornost"
+    ],
+    "vir": {
+      "literatura_str": "",
+      "zakon_clen": "ZGD-1, 676., 679., 680., 682. in 683. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO4291"
+    },
+    "poreklo": "generisano_po_gradivu",
+    "preverjeno": true
+  }
+]

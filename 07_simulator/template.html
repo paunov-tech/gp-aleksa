@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="sl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Gospodarsko pravo – simulator kolokvija</title>
+<style>
+:root{--bg:#f6f5f1;--card:#fff;--ink:#1d2126;--mut:#5d6670;--line:#d9d6cd;--acc:#1f5f8b;--acc-ink:#fff;--ok:#1d7a46;--okbg:#e3f3e9;--bad:#b3261e;--badbg:#fbe6e4;--warn:#8a5a00;--warnbg:#fff3d6}
+@media (prefers-color-scheme:dark){:root{--bg:#15181c;--card:#1e2328;--ink:#e8eaed;--mut:#a0a8b1;--line:#343b43;--acc:#6db3e0;--acc-ink:#0d1114;--ok:#6fd39a;--okbg:#17362a;--bad:#ff8a80;--badbg:#3d1c1a;--warn:#ffcf70;--warnbg:#3a2e12}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--card);border-bottom:1px solid var(--line)}
+.bar{max-width:900px;margin:0 auto;padding:8px 16px;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.bar h1{font-size:16px;margin:0 10px 0 0}
+nav{display:flex;gap:4px;flex-wrap:wrap}
+button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--ink);padding:8px 14px;border-radius:8px}
+button:hover{border-color:var(--acc)}
+button.pri{background:var(--acc);color:var(--acc-ink);border-color:var(--acc);font-weight:600}
+button.on{border-color:var(--acc);color:var(--acc);font-weight:600}
+button:disabled{opacity:.45;cursor:default}
+main{max-width:900px;margin:0 auto;padding:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;margin-bottom:14px}
+h2{font-size:20px;margin:0 0 10px}h3{font-size:16px;margin:14px 0 6px}
+.mut{color:var(--mut);font-size:14px}
+.q{font-size:18px;font-weight:600;margin:6px 0 12px}
+.opt{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0;cursor:pointer}
+.opt input{margin-top:5px;width:18px;height:18px;flex:none}
+.opt.sel{border-color:var(--acc)}
+.opt.ok{background:var(--okbg);border-color:var(--ok)}
+.opt.bad{background:var(--badbg);border-color:var(--bad)}
+.opt.miss{background:var(--warnbg);border-color:var(--warn)}
+.opt .ex{display:block;font-size:14px;color:var(--mut);margin-top:4px}
+.tag{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:999px;padding:1px 8px;margin-right:4px;color:var(--mut)}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.sp{flex:1}
+label.f{display:flex;flex-direction:column;font-size:14px;color:var(--mut);gap:3px}
+select,input[type=number]{font:inherit;padding:7px 8px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+.timer{font-variant-numeric:tabular-nums;font-weight:700;font-size:20px}
+.timer.low{color:var(--bad)}
+.tr{background:var(--warnbg);border-left:4px solid var(--warn);padding:8px 12px;border-radius:6px;margin:8px 0;font-size:15px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line)}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+.meter{height:8px;background:var(--line);border-radius:4px;overflow:hidden;min-width:80px}
+.meter i{display:block;height:100%;background:var(--acc)}
+.big{font-size:40px;font-weight:800}
+.dots{display:flex;gap:4px;flex-wrap:wrap;margin:8px 0}
+.dots button{padding:2px 0;width:34px;font-size:13px}
+.dots button.ans{background:var(--okbg)}
+.dots button.cur{border-color:var(--acc);font-weight:700}
+.fc{min-height:170px;display:flex;flex-direction:column;justify-content:center;text-align:center;cursor:pointer}
+.fc .t{font-size:28px;font-weight:700}
+.overflow{overflow-x:auto}
+</style>
+</head>
+<body>
+<header><div class="bar"><h1>Gospodarsko pravo</h1>
+<nav id="nav"></nav></div></header>
+<main id="app"></main>
+
+<script id="bank" type="application/json">__BANK__</script>
+<script id="vocab" type="application/json">__VOCAB__</script>
+<script id="meta" type="application/json">__META__</script>
+<script>
+"use strict";
+const BANK = JSON.parse(document.getElementById('bank').textContent);
+const VOCAB = JSON.parse(document.getElementById('vocab').textContent);
+const META = JSON.parse(document.getElementById('meta').textContent);
+const $ = (s, r=document) => r.querySelector(s);
+const app = $('#app');
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const DAY = 86400000;
+const BOX_DAYS = [0, 1, 2, 4, 7, 14, 30];
+
+/* ---------- lokalna shramba ---------- */
+const KEY = 'gp-sim-v1';
+let mem = {};
+function load(){ try{ return JSON.parse(localStorage.getItem(KEY)) || {}; }catch(e){ return mem; } }
+function save(s){ mem = s; try{ localStorage.setItem(KEY, JSON.stringify(s)); }catch(e){} }
+function state(){ const s = load(); s.q = s.q || {}; s.v = s.v || {}; s.exams = s.exams || []; s.cfg = s.cfg || {}; return s; }
+
+/* ---------- pomožne ---------- */
+function shuffle(a){ a = a.slice(); for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
+function topics(){ return [...new Set(BANK.map(q => q.tema))].sort(); }
+function score(q, sel, mode){
+  const P = q.odgovori.filter(o => o.pravilno).length;
+  let tp = 0, fp = 0;
+  q.odgovori.forEach((o,i) => { if(sel.has(i)){ o.pravilno ? tp++ : fp++; } });
+  const exact = tp === P && fp === 0;
+  if(mode === 'aon') return exact ? 1 : 0;
+  const raw = P ? (tp - fp) / P : 0;
+  if(mode === 'partial') return Math.max(0, raw);
+  return Math.max(-1, raw); /* negative */
+}
+function record(q, exact){
+  const s = state(); const r = s.q[q.id] || {n:0, ok:0, box:0, due:0, wrong:0};
+  r.n++; if(exact){ r.ok++; if(r.wrong){ r.box = Math.min(r.box+1, BOX_DAYS.length-1); } }
+  else { r.wrong++; r.box = 1; }
+  r.due = Date.now() + (exact ? BOX_DAYS[r.box] : 0) * DAY; r.last = Date.now();
+  s.q[q.id] = r; save(s);
+}
+function isExact(q, sel){ return score(q, sel, 'aon') === 1; }
+
+/* ---------- prikaz vprašanja ---------- */
+function renderQ(q, opts){
+  /* opts: order[], sel:Set, reveal:bool, showTr:bool, allowTr:bool */
+  const multi = q.tip !== 'single';
+  let h = `<div class="mut"><span class="tag">${esc(q.tema)}</span>${q.podtema?`<span class="tag">${esc(q.podtema)}</span>`:''}<span class="tag">težavnost ${esc(q.tezina)}</span>${opts.reveal||opts.allowTr?`<span class="tag">${esc(q.id)}</span>`:''}</div>`;
+  h += `<div class="q">${esc(q.vprasanje_sl)}</div>`;
+  h += `<div class="mut">${multi ? 'Možnih je več pravilnih odgovorov.' : 'Pravilen je en odgovor.'}</div>`;
+  if(opts.showTr && q.prevod_sr) h += `<div class="tr"><b>Prevod:</b> ${esc(q.prevod_sr)}</div>`;
+  opts.order.forEach(i => {
+    const o = q.odgovori[i]; const on = opts.sel.has(i);
+    let c = 'opt' + (on ? ' sel' : '');
+    if(opts.reveal){ c = 'opt ' + (o.pravilno ? (on ? 'ok' : 'miss') : (on ? 'bad' : '')); }
+    h += `<label class="${c}"><input type="${multi?'checkbox':'radio'}" name="o" data-i="${i}" ${on?'checked':''} ${opts.reveal?'disabled':''}><span>${esc(o.besedilo_sl)}`;
+    if(opts.showTr && o.prevod_sr) h += `<span class="ex"><i>${esc(o.prevod_sr)}</i></span>`;
+    if(opts.reveal) h += `<span class="ex"><b>${o.pravilno?'PRAVILNO':'NAPAČNO'}${o.pravilno&&!on?' (niste označili)':''}${!o.pravilno&&on?' (označili ste)':''}.</b> ${esc(o.razlaga_sr||'')}</span>`;
+    h += `</span></label>`;
+  });
+  if(opts.reveal){
+    const v = q.vir || {}; const parts = [v.zakon_clen, v.literatura_str, v.url].filter(Boolean).map(esc);
+    h += `<div class="mut">Vir: ${parts.join(' · ') || '—'} · izvor vprašanja: ${esc(q.poreklo)}${q.kljucne_besede_sl&&q.kljucne_besede_sl.length?' · ključne besede: '+esc(q.kljucne_besede_sl.join(', ')):''}</div>`;
+  }
+  return h;
+}
+function readSel(){ const s = new Set(); app.querySelectorAll('input[name=o]:checked').forEach(e => s.add(+e.dataset.i)); return s; }
+
+/* ---------- UČENJE ---------- */
+let L = null;
+function viewLearn(pool, title){
+  const s = state(); const tsel = s.cfg.learnTopic || '';
+  const src = pool || BANK.filter(q => !tsel || q.tema === tsel);
+  if(!L || L.title !== title || L.topic !== tsel || pool){ L = {title, topic:tsel, list:shuffle(src), i:0, cur:null}; }
+  if(!L.list.length){ app.innerHTML = `<div class="card"><h2>${esc(title)}</h2><p>Ni vprašanj za prikaz.</p></div>`; return; }
+  if(!L.cur){ const q = L.list[L.i % L.list.length]; L.cur = {q, order:shuffle(q.odgovori.map((_,i)=>i)), sel:new Set(), reveal:false, tr:false}; }
+  const c = L.cur;
+  let h = `<div class="card"><div class="row"><h2 style="margin:0">${esc(title)}</h2><span class="sp"></span>`;
+  if(!pool) h += `<label class="f">Tema<select id="lt"><option value="">Vse teme</option>${topics().map(t=>`<option ${t===tsel?'selected':''}>${esc(t)}</option>`).join('')}</select></label>`;
+  h += `<span class="mut">${(L.i % L.list.length)+1} / ${L.list.length}</span></div></div>`;
+  h += `<div class="card">${renderQ(c.q, {order:c.order, sel:c.sel, reveal:c.reveal, showTr:c.tr, allowTr:true})}
+    <div class="row" style="margin-top:12px"><button id="tr">${c.tr?'Skrij prevod':'Pokaži prevod'}</button><span class="sp"></span>
+    ${c.reveal ? '<button class="pri" id="next">Naslednje vprašanje</button>' : '<button class="pri" id="chk">Preveri</button>'}</div></div>`;
+  app.innerHTML = h;
+  const lt = $('#lt'); if(lt) lt.onchange = () => { const s = state(); s.cfg.learnTopic = lt.value; save(s); L = null; viewLearn(null, title); };
+  app.querySelectorAll('input[name=o]').forEach(e => e.onchange = () => { c.sel = readSel(); });
+  $('#tr').onclick = () => { c.sel = c.reveal ? c.sel : readSel(); c.tr = !c.tr; viewLearn(pool, title); };
+  if($('#chk')) $('#chk').onclick = () => { c.sel = readSel(); c.reveal = true; record(c.q, isExact(c.q, c.sel)); viewLearn(pool, title); };
+  if($('#next')) $('#next').onclick = () => { L.i++; L.cur = null; viewLearn(pool, title); window.scrollTo(0,0); };
+}
+
+/* ---------- ŠIBKE TOČKE ---------- */
+function weakPool(){ const s = state(), now = Date.now(); return BANK.filter(q => { const r = s.q[q.id]; return r && r.wrong > 0 && r.box < BOX_DAYS.length-1 && r.due <= now; }); }
+function viewWeak(){
+  const s = state(); const all = BANK.filter(q => s.q[q.id] && s.q[q.id].wrong > 0);
+  const due = weakPool();
+  if(!due.length){ L = null; app.innerHTML = `<div class="card"><h2>Šibke točke</h2><p>${all.length ? `Trenutno ni vprašanj za ponovitev. Skupaj napačno rešenih: ${all.length}; naslednja ponovitev pride po razmiku (1, 2, 4, 7, 14 dni).` : 'Ni še napačno rešenih vprašanj. Najprej rešite nekaj vprašanj v načinu Učenje ali Kolokvij.'}</p>${all.length?'<button id="force">Vseeno ponovi vse napačno rešene</button>':''}</div>`;
+    if($('#force')) $('#force').onclick = () => { L = null; viewLearn(all, 'Šibke točke – vse'); }; return; }
+  if(L && L.title === 'Šibke točke') viewLearn(L.list, 'Šibke točke'); else { L = null; viewLearn(due, 'Šibke točke'); }
+}
+
+/* ---------- KOLOKVIJ ---------- */
+let E = null, tick = null;
+function viewExamSetup(){
+  const s = state(); const c = Object.assign({n:15, min:15, mode:'aon', back:true}, s.cfg.exam || {});
+  const hist = s.exams.slice(-8).reverse();
+  app.innerHTML = `<div class="card"><h2>Kolokvij – simulacija</h2>
+  <p class="mut">Brez prevoda in brez razlag med reševanjem. Rezultat in analiza na koncu. V banki je ${BANK.length} preverjenih vprašanj.</p>
+  <div class="row">
+   <label class="f">Število vprašanj<input type="number" id="n" min="1" max="${BANK.length}" value="${Math.min(c.n, BANK.length)}"></label>
+   <label class="f">Čas (minute)<input type="number" id="min" min="1" max="180" value="${c.min}"></label>
+   <label class="f">Točkovanje<select id="mode">
+     <option value="aon" ${c.mode==='aon'?'selected':''}>Vse ali nič</option>
+     <option value="partial" ${c.mode==='partial'?'selected':''}>Delne točke</option>
+     <option value="negative" ${c.mode==='negative'?'selected':''}>Negativne točke</option></select></label>
+   <label class="f">Vračanje na vprašanja<select id="back"><option value="1" ${c.back?'selected':''}>Dovoljeno</option><option value="0" ${!c.back?'selected':''}>Ni dovoljeno</option></select></label>
+   <label class="f">Tema<select id="et"><option value="">Vse teme</option>${topics().map(t=>`<option ${t===c.topic?'selected':''}>${esc(t)}</option>`).join('')}</select></label>
+  </div>
+  <p class="mut">Vse ali nič: točka samo, če so označeni natanko vsi pravilni odgovori. Delne točke: (pravilno označeni − napačno označeni) / število pravilnih, najmanj 0. Negativne točke: enako, vendar lahko do −1.</p>
+  <button class="pri" id="go">Začni kolokvij</button></div>
+  <div class="card"><h3 style="margin-top:0">Zadnje simulacije</h3>${hist.length ? `<div class="overflow"><table><tr><th>Datum</th><th class="n">Vprašanj</th><th>Točkovanje</th><th class="n">Rezultat</th><th class="n">Porabljen čas</th></tr>${hist.map(x=>`<tr><td>${new Date(x.t).toLocaleString('sl-SI')}</td><td class="n">${x.n}</td><td>${modeName(x.mode)}</td><td class="n"><b>${x.pct}%</b></td><td class="n">${fmt(x.used)}</td></tr>`).join('')}</table></div><p class="mut">${ready(s.exams)}</p>` : '<p class="mut">Ni še simulacij.</p>'}</div>`;
+  $('#go').onclick = () => {
+    const cfg = {n:Math.max(1, Math.min(BANK.length, +$('#n').value||15)), min:Math.max(1, +$('#min').value||15), mode:$('#mode').value, back:$('#back').value==='1', topic:$('#et').value};
+    const s = state(); s.cfg.exam = cfg; save(s);
+    const pool = BANK.filter(q => !cfg.topic || q.tema === cfg.topic);
+    const qs = shuffle(pool).slice(0, cfg.n);
+    E = {cfg, qs, order:qs.map(q => shuffle(q.odgovori.map((_,i)=>i))), sel:qs.map(()=>new Set()), i:0, end:Date.now()+cfg.min*60000, start:Date.now(), done:false};
+    viewExam();
+  };
+}
+const modeName = m => ({aon:'Vse ali nič', partial:'Delne točke', negative:'Negativne točke'}[m] || m);
+const fmt = sec => { sec = Math.max(0, Math.round(sec)); return Math.floor(sec/60) + ':' + String(sec%60).padStart(2,'0'); };
+function ready(ex){ const l3 = ex.slice(-3); if(l3.length < 3) return 'Merilo pripravljenosti: tri zaporedne simulacije z vsaj 80 %.'; return l3.every(x => x.pct >= 80) ? 'Merilo pripravljenosti izpolnjeno: zadnje tri simulacije so vsaj 80 %.' : 'Merilo pripravljenosti še ni izpolnjeno (tri zaporedne simulacije z vsaj 80 %).'; }
+function viewExam(){
+  if(!E){ viewExamSetup(); return; }
+  if(E.done){ viewExamResult(); return; }
+  clearInterval(tick);
+  const q = E.qs[E.i];
+  const dots = E.cfg.back ? `<div class="dots">${E.qs.map((_,k)=>`<button data-k="${k}" class="${k===E.i?'cur':''} ${E.sel[k].size?'ans':''}">${k+1}</button>`).join('')}</div>` : '';
+  app.innerHTML = `<div class="card"><div class="row"><b>Vprašanje ${E.i+1} od ${E.qs.length}</b><span class="sp"></span><span class="timer" id="tm"></span></div>${dots}</div>
+   <div class="card">${renderQ(q, {order:E.order[E.i], sel:E.sel[E.i], reveal:false, showTr:false, allowTr:false})}
+   <div class="row" style="margin-top:12px">${E.cfg.back?`<button id="prev" ${E.i===0?'disabled':''}>Nazaj</button>`:''}<span class="sp"></span>
+   ${E.i < E.qs.length-1 ? '<button class="pri" id="nx">Naprej</button>' : ''}<button id="fin" class="${E.i===E.qs.length-1?'pri':''}">Oddaj kolokvij</button></div></div>`;
+  const keep = () => { E.sel[E.i] = readSel(); };
+  app.querySelectorAll('input[name=o]').forEach(e => e.onchange = keep);
+  app.querySelectorAll('.dots button').forEach(b => b.onclick = () => { keep(); E.i = +b.dataset.k; viewExam(); });
+  if($('#prev')) $('#prev').onclick = () => { keep(); E.i--; viewExam(); };
+  if($('#nx')) $('#nx').onclick = () => { keep(); E.i++; viewExam(); window.scrollTo(0,0); };
+  $('#fin').onclick = () => { keep(); const un = E.sel.filter(x => !x.size).length; if(un && !$('#fin').dataset.c){ $('#fin').dataset.c = 1; $('#fin').textContent = `Neodgovorjenih: ${un} – potrdi oddajo`; return; } finish(); };
+  const upd = () => { const left = (E.end - Date.now())/1000; const tm = $('#tm'); if(!tm) return; tm.textContent = fmt(left); tm.className = 'timer' + (left < 120 ? ' low' : ''); if(left <= 0){ keep(); finish(); } };
+  upd(); tick = setInterval(upd, 500);
+}
+function finish(){
+  clearInterval(tick); E.done = true; E.used = Math.min(E.cfg.min*60, (Date.now()-E.start)/1000);
+  let pts = 0; E.res = E.qs.map((q,k) => { const p = score(q, E.sel[k], E.cfg.mode); const ex = isExact(q, E.sel[k]); pts += p; record(q, ex); return {p, ex}; });
+  E.pts = pts; E.pct = Math.max(0, Math.round(pts / E.qs.length * 100));
+  const s = state(); s.exams.push({t:Date.now(), n:E.qs.length, mode:E.cfg.mode, pct:E.pct, used:E.used}); save(s);
+  viewExamResult();
+}
+function viewExamResult(){
+  const by = {}; E.qs.forEach((q,k) => { const b = by[q.tema] = by[q.tema] || {n:0, p:0, ex:0}; b.n++; b.p += E.res[k].p; if(E.res[k].ex) b.ex++; });
+  const exact = E.res.filter(r => r.ex).length;
+  let h = `<div class="card"><h2>Rezultat</h2><div class="big" id="pct">${E.pct}%</div>
+   <p>${E.pts.toFixed(2)} od ${E.qs.length} točk · popolnoma pravilnih: ${exact} od ${E.qs.length} · točkovanje: ${modeName(E.cfg.mode)} · porabljen čas: ${fmt(E.used)} od ${E.cfg.min}:00 (povprečno ${Math.round(E.used/E.qs.length)} s na vprašanje)</p>
+   <p class="mut">${ready(state().exams)}</p>
+   <h3>Analiza po temah</h3><div class="overflow"><table><tr><th>Tema</th><th class="n">Vprašanj</th><th class="n">Popolnoma pravilnih</th><th class="n">Točke</th></tr>
+   ${Object.keys(by).sort().map(t=>`<tr><td>${esc(t)}</td><td class="n">${by[t].n}</td><td class="n">${by[t].ex}</td><td class="n">${by[t].p.toFixed(2)}</td></tr>`).join('')}</table></div>
+   <div class="row" style="margin-top:12px"><button class="pri" id="again">Nova simulacija</button><button id="wk">Ponovi napačne (Šibke točke)</button></div></div>
+   <h3>Pregled odgovorov</h3>`;
+  E.qs.forEach((q,k) => { h += `<div class="card"><div class="mut">Vprašanje ${k+1} · ${E.res[k].ex ? 'pravilno' : 'napačno'} · ${E.res[k].p.toFixed(2)} točke</div>${renderQ(q, {order:E.order[k], sel:E.sel[k], reveal:true, showTr:true, allowTr:true})}</div>`; });
+  app.innerHTML = h;
+  $('#again').onclick = () => { E = null; viewExamSetup(); window.scrollTo(0,0); };
+  $('#wk').onclick = () => { E = null; go('weak'); };
+}
+
+/* ---------- BESEDIŠČE ---------- */
+let V = null;
+function viewVocab(){
+  const s = state(), now = Date.now(); const tsel = s.cfg.vocTopic || '';
+  const vt = [...new Set(VOCAB.map(v => v.tema).filter(Boolean))].sort();
+  if(!V || V.topic !== tsel){
+    const pool = VOCAB.filter(v => !tsel || v.tema === tsel);
+    const due = pool.filter(v => { const r = s.v[v.termin_sl]; return !r || r.due <= now; });
+    V = {topic:tsel, list:shuffle(due), i:0, flip:false, total:pool.length};
+  }
+  const known = VOCAB.filter(v => (s.v[v.termin_sl]||{}).box >= 3).length;
+  let h = `<div class="card"><div class="row"><h2 style="margin:0">Besedišče</h2><span class="sp"></span>
+    <label class="f">Tema<select id="vt"><option value="">Vse teme</option>${vt.map(t=>`<option ${t===tsel?'selected':''}>${esc(t)}</option>`).join('')}</select></label></div>
+    <p class="mut">Kartic skupaj: ${VOCAB.length} · utrjenih: ${known} · za danes v tem izboru: ${Math.max(0, V.list.length - V.i)}</p></div>`;
+  if(V.i >= V.list.length){ h += `<div class="card"><p>Za danes ni več kartic v tem izboru.</p><button id="vall">Ponovi vse kartice</button></div>`; }
+  else {
+    const v = V.list[V.i];
+    h += `<div class="card fc" id="fc"><div class="t">${esc(v.termin_sl)}</div>${V.flip ? `<div style="margin-top:10px;font-size:20px">${esc(v.prevod_sr)}</div>
+      <div style="margin-top:8px">${esc(v.definicija_sl)}</div><div class="mut" style="margin-top:6px"><i>${esc(v.primer_sl)}</i></div>
+      ${v.lazni_prijatelj && !/^ne\b/i.test(v.lazni_prijatelj) ? `<div class="tr" style="text-align:left"><b>Lažni prijatelj:</b> ${esc(v.lazni_prijatelj)}</div>` : ''}
+      <div class="mut">${esc([v.zakon_clen, v.tema].filter(Boolean).join(' · '))}</div>` : '<div class="mut" style="margin-top:10px">Kliknite za prevod in razlago</div>'}</div>`;
+    h += V.flip ? `<div class="row"><button id="no">Ne znam</button><span class="sp"></span><button class="pri" id="yes">Znam</button></div>` : '';
+  }
+  app.innerHTML = h;
+  $('#vt').onchange = () => { const s = state(); s.cfg.vocTopic = $('#vt').value; save(s); V = null; viewVocab(); };
+  if($('#fc')) $('#fc').onclick = () => { V.flip = !V.flip; viewVocab(); };
+  const mark = ok => { const s = state(); const v = V.list[V.i]; const r = s.v[v.termin_sl] || {box:0, n:0}; r.n++; r.box = ok ? Math.min(r.box+1, BOX_DAYS.length-1) : 0; r.due = Date.now() + (ok ? BOX_DAYS[r.box] : 0) * DAY; s.v[v.termin_sl] = r; save(s); if(!ok) V.list.push(v); V.i++; V.flip = false; viewVocab(); };
+  if($('#yes')) $('#yes').onclick = () => mark(true);
+  if($('#no')) $('#no').onclick = () => mark(false);
+  if($('#vall')) $('#vall').onclick = () => { V = {topic:tsel, list:shuffle(VOCAB.filter(v => !tsel || v.tema === tsel)), i:0, flip:false}; viewVocab(); };
+}
+
+/* ---------- STATISTIKA ---------- */
+function viewStats(){
+  const s = state(); const by = {};
+  BANK.forEach(q => { const b = by[q.tema] = by[q.tema] || {tot:0, seen:0, n:0, ok:0}; b.tot++; const r = s.q[q.id]; if(r){ b.seen++; b.n += r.n; b.ok += r.ok; } });
+  const rows = Object.keys(by).sort().map(t => { const b = by[t]; const pct = b.n ? Math.round(b.ok/b.n*100) : 0; return `<tr><td>${esc(t)}</td><td class="n">${b.seen} / ${b.tot}</td><td class="n">${b.n}</td><td class="n">${b.n ? pct+'%' : '—'}</td><td><div class="meter"><i style="width:${pct}%"></i></div></td></tr>`; }).join('');
+  const P = META.poreklo || {};
+  app.innerHTML = `<div class="card"><h2>Statistika po temah</h2><div class="overflow"><table><tr><th>Tema</th><th class="n">Videna vprašanja</th><th class="n">Poskusov</th><th class="n">Popolnoma pravilnih</th><th></th></tr>${rows}</table></div>
+   <p class="mut">Podatki so shranjeni samo v tem brskalniku (localStorage). ${ready(s.exams)}</p>
+   <button id="reset">Izbriši vso statistiko</button></div>
+   <div class="card"><h3 style="margin-top:0">O banki vprašanj</h3><p class="mut">Zgrajeno: ${esc(META.built)} · vprašanj v simulatorju: ${BANK.length} (samo preverjena) · izločenih nepreverjenih: ${esc(META.excluded)} · kartic besedišča: ${VOCAB.length}</p>
+   <p class="mut">Izvor vprašanj: ${Object.keys(P).map(k => esc(k)+': '+P[k]).join(' · ') || '—'}. Vprašanja z oznako »generisano_po_gradivu« so sestavljena za vajo po zakonih in učnem načrtu; to niso vprašanja z dejanskega kolokvija.</p></div>`;
+  $('#reset').onclick = () => { if($('#reset').dataset.c){ save({}); viewStats(); } else { $('#reset').dataset.c = 1; $('#reset').textContent = 'Potrdi brisanje'; } };
+}
+
+/* ---------- navigacija ---------- */
+const TABS = [['learn','Učenje'],['exam','Kolokvij'],['weak','Šibke točke'],['vocab','Besedišče'],['stats','Statistika']];
+let cur = 'learn';
+function go(t){
+  if(E && !E.done && t !== 'exam'){ return; } /* med kolokvijem ni preklapljanja */
+  clearInterval(tick); cur = t;
+  $('#nav').innerHTML = TABS.map(([k,n]) => `<button data-t="${k}" class="${k===cur?'on':''}">${n}</button>`).join('');
+  $('#nav').querySelectorAll('button').forEach(b => b.onclick = () => go(b.dataset.t));
+  if(t === 'learn'){ if(L && L.title !== 'Učenje') L = null; viewLearn(null, 'Učenje'); }
+  else if(t === 'exam') viewExam();
+  else if(t === 'weak') viewWeak();
+  else if(t === 'vocab') viewVocab();
+  else viewStats();
+}
+go('learn');
+</script>
+</body>
+</html>

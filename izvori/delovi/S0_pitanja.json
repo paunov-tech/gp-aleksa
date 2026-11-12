@@ -1,0 +1,2829 @@
+[
+  {
+    "id": "S0-001",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "prokura – obseg",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Prokurist ne more brez posebnega pooblastila:",
+    "prevod_sr": "Prokurista ne može bez posebnog ovlašćenja:",
+    "odgovori": [
+      {
+        "besedilo_sl": "Dati nepremičnine pod hipoteko.",
+        "prevod_sr": "Staviti nepokretnosti pod hipoteku.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: prokura ovlašćuje na sve pravne radnje iz pravne sposobnosti društva, OSIM otuđenja i opterećenja nepokretnosti – za to prokurista mora biti posebno ovlašćen (ZGD-1, 35. člen, 1. odst.). Hipoteka je opterećenje nepokretnosti."
+      },
+      {
+        "besedilo_sl": "Kupiti večjega paketa delnic na borzi.",
+        "prevod_sr": "Kupiti veći paket akcija na berzi.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: kupovina akcija nije otuđenje ni opterećenje nepokretnosti, pa je obuhvaćena prokurom (ZGD-1, 35. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Oddati poslovnih prostorov v najem.",
+        "prevod_sr": "Izdati poslovne prostorije u zakup.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: davanje u zakup nije ni otuđenje ni (stvarnopravno) opterećenje nepokretnosti; izuzetak iz 35. člena ZGD-1 odnosi se samo na »odsvojitev in obremenitev nepremičnin«."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prokurist",
+      "prokura",
+      "posebno pooblastilo",
+      "obremenitev nepremičnin",
+      "hipoteka"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 1; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 35. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-002",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.d. – zastopanje uprave in soglasje nadzornega sveta",
+    "tezina": 3,
+    "tip": "single",
+    "vprasanje_sl": "Če uprava d.d. sklene pogodbo brez soglasja nadzornega sveta, ki je po statutu potrebno, je taka pogodba",
+    "prevod_sr": "Ako uprava a.d. zaključi ugovor bez saglasnosti nadzornog saveta koja je po statutu potrebna, takav ugovor je",
+    "odgovori": [
+      {
+        "besedilo_sl": "Izpodbojna.",
+        "prevod_sr": "Rušljiv.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: statutarno ograničenje zastupnika nema pravno dejstvo prema trećim licima (ZGD-1, 32. člen, 2. odst.), pa ugovor nije rušljiv; posledica je samo interna odgovornost uprave."
+      },
+      {
+        "besedilo_sl": "Nična.",
+        "prevod_sr": "Ništav.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon ne propisuje ništavost; ograničenje iz statuta ne deluje prema trećima (ZGD-1, 32. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Veljavna.",
+        "prevod_sr": "Punovažan.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: statut ili nadzorni savet mogu odrediti da se pojedine vrste poslova obavljaju samo uz saglasnost NS (ZGD-1, 281. člen, 5. odst.), ali to je interno ograničenje – »statutarna ali druga omejitev nima pravnega učinka proti tretjim osebam« (32. člen, 2. odst.). Ugovor sa trećim licem je punovažan."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "uprava",
+      "nadzorni svet",
+      "soglasje",
+      "statut",
+      "omejitev zastopanja",
+      "veljavna pogodba"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 2; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 32. člen, 2. odst.; 281. člen, 5. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-003",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "prodajna pogodba – prodaja s specifikacijo",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "Kdo ima pravico do specifikacije pri prodaji s specifikacijo?",
+    "prevod_sr": "Ko ima pravo na specifikaciju kod prodaje sa specifikacijom?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Prodajalec.",
+        "prevod_sr": "Prodavac.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prodavac specifikaciju može izvršiti tek supsidijarno, ako kupac to ne učini u roku (ili može odustati od ugovora) – pravo je ugovorom pridržano kupcu (OZ, 519. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Kupec.",
+        "prevod_sr": "Kupac.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: kod prodaje sa specifikacijom je »kupcu pridržana pravica, da pozneje določi obliko, mero ali kakšne druge podrobnosti stvari« (OZ, 519. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Prevoznik.",
+        "prevod_sr": "Prevoznik.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prevoznik nije strana prodajnog ugovora; 519. člen OZ pominje samo kupca i prodavca."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prodaja s specifikacijo",
+      "kupec",
+      "prodajalec",
+      "podrobnosti stvari"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 6; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "OZ, 519. člen",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-004",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "prodajna pogodba – očitne napake",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Kupec pri gospodarski pogodbi mora prodajalca obvestiti o očitnih napakah",
+    "prevod_sr": "Kupac kod privrednog ugovora mora obavestiti prodavca o očiglednim nedostacima",
+    "odgovori": [
+      {
+        "besedilo_sl": "V 8 dneh.",
+        "prevod_sr": "U roku od 8 dana.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno (zamka!): 8 dana je opšti rok; kod privrednih ugovora kupac mora obavestiti »nemudoma« (OZ, 461. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Nemudoma",
+        "prevod_sr": "Bez odlaganja (odmah).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »o očitnih napakah obvestiti prodajalca v osmih dneh, pri gospodarskih pogodbah pa nemudoma, sicer izgubi pravico« (OZ, 461. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Kadar koli.",
+        "prevod_sr": "Bilo kada.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ako ne obavesti na vreme, kupac gubi pravo po osnovu nedostatka (OZ, 461. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "očitna napaka",
+      "gospodarska pogodba",
+      "nemudoma",
+      "obvestilo prodajalcu",
+      "pregled stvari"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 7; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "OZ, 461. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-005",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "posredniška pogodba – obveznost posrednika",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "Pri pogodbi o posredovanju je dolžnost posrednika, da",
+    "prevod_sr": "Kod ugovora o posredovanju dužnost posrednika je da",
+    "odgovori": [
+      {
+        "besedilo_sl": "Posreduje za komitenta.",
+        "prevod_sr": "Posreduje za komitenta (nalogodavca).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno (jedini mogući od ponuđenih): posrednik se obavezuje da će nastojati da nađe i dovede u vezu sa nalogodavcem lice koje će s njim pregovarati o zaključenju ugovora (OZ, 837. člen; obaveza da traži priliku za zaključenje ugovora – 842. člen, 1. odst.). NAPOMENA: zakon stranu zove »naročitelj«, ne »komitent« (komitent je strana komisionog ugovora, 788. člen) – terminologija u starom testu je neprecizna."
+      },
+      {
+        "besedilo_sl": "Sklepa posle za naročnika.",
+        "prevod_sr": "Zaključuje poslove za nalogodavca.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: posrednik samo dovodi strane u vezu; ugovor zaključuje sam nalogodavac (OZ, 837. i 841. člen). Zaključivanje u tuđe ime radi trgovski zastupnik sa ovlašćenjem (809. člen)."
+      },
+      {
+        "besedilo_sl": "Izterjuje zapadle terjatve.",
+        "prevod_sr": "Naplaćuje dospela potraživanja.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nalog za posredovanje ne sadrži ni pravo da posrednik primi ispunjenje za nalogodavca – za to mu treba posebno pismeno ovlašćenje (OZ, 839. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "posredniška pogodba",
+      "posrednik",
+      "naročitelj",
+      "spraviti v stik"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 10; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "OZ, 837. člen; 839. člen; 841. člen; 842. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-006",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "komisijska pogodba – pojem",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Komisionar sklepa pravne posle",
+    "prevod_sr": "Komisionar zaključuje pravne poslove",
+    "odgovori": [
+      {
+        "besedilo_sl": "V imenu in za račun komitenta.",
+        "prevod_sr": "U ime i za račun komitenta.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to bi bilo neposredno zastupanje (npr. trgovski zastupnik sa ovlašćenjem, OZ 809. člen). Komisionar nastupa u SVOJE ime (OZ, 788. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "V svojem imenu in za račun komitenta.",
+        "prevod_sr": "U svoje ime i za račun komitenta.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: komisionar se obavezuje da će »v svojem imenu na račun komitenta« obaviti jedan ili više poslova (OZ, 788. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "V imenu komitenta in za svoj račun.",
+        "prevod_sr": "U ime komitenta i za svoj račun.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obrnute uloge – po 788. členu OZ ime je komisionarovo, a račun komitentov."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "komisionar",
+      "komitent",
+      "v svojem imenu",
+      "na račun komitenta",
+      "komisijska pogodba"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 12; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "OZ, 788. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-007",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "komisijska pogodba – del credere",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Komisionar jamči, da bo tretja oseba izpolnila obveznost",
+    "prevod_sr": "Komisionar jemči da će treće lice ispuniti obavezu",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če je to s pogodbo posebej dogovorjeno.",
+        "prevod_sr": "Ako je to ugovorom posebno dogovoreno.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: komisionar odgovara za ispunjenje obaveze svog saugovarača »le, če je posebej jamčil« (del credere) – OZ, 798. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pri prodajni komisiji.",
+        "prevod_sr": "Kod prodajne komisije.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: vrsta komisije (prodajna/kupovna) nije uslov; odlučujuće je samo posebno jemstvo (OZ, 798. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Pri nakupni komisiji.",
+        "prevod_sr": "Kod kupovne komisije.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: isto – zakon ne vezuje jemstvo za vrstu komisije, već za posebno preuzeto jemstvo (OZ, 798. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "komisionar",
+      "del credere",
+      "jamčiti",
+      "sopogodbenik"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 13; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "OZ, 798. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-008",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "komisijska pogodba – provizija",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Kdaj pridobi komisionar pravico do provizije?",
+    "prevod_sr": "Kada komisionar stiče pravo na proviziju?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Ko je posel s tretjo osebo izvršen.",
+        "prevod_sr": "Kada je posao sa trećim licem izvršen.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: komitent je dužan platiti proviziju »ko je posel, ki ga je opravil komisionar, izvršen«, kao i ako izvršenje spreči uzrok za koji odgovara komitent (OZ, 799. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ko sklene komisijsko pogodbo.",
+        "prevod_sr": "Kada zaključi komisioni ugovor.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: samo zaključenje komisionog ugovora ne daje pravo na proviziju (OZ, 799. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ko sklene pogodbo s tretjo osebo.",
+        "prevod_sr": "Kada zaključi ugovor sa trećim licem.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nije dovoljno zaključenje – posao mora biti IZVRŠEN (OZ, 799. člen, 1. odst.). Poređenje: posrednik stiče pravo već zaključenjem ugovora (847. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "komisionar",
+      "provizija",
+      "izvršitev posla",
+      "komitent"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 14; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "OZ, 799. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-009",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "trgovsko zastopanje (agencija) – sklepanje pogodb",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Agent sklepa posle za principala",
+    "prevod_sr": "Agent (trgovski zastupnik) zaključuje poslove za principala (nalogodavca)",
+    "odgovori": [
+      {
+        "besedilo_sl": "Samo če gre za blago večje vrednosti.",
+        "prevod_sr": "Samo ako je reč o robi veće vrednosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: vrednost robe nije kriterijum; potrebno je ovlašćenje (OZ, 809. člen)."
+      },
+      {
+        "besedilo_sl": "Če je za to posebej pooblaščen.",
+        "prevod_sr": "Ako je za to posebno ovlašćen.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: zastupnik sme zaključivati ugovore u ime i za račun nalogodavca »če je dobil za to od njega posebno ali splošno pooblastilo« (OZ, 809. člen; v. i 807. člen, 1. odst.: »po dobljenem pooblastilu«). Bez ovlašćenja samo posreduje."
+      },
+      {
+        "besedilo_sl": "Če ni iz iste države kot principal.",
+        "prevod_sr": "Ako nije iz iste države kao principal.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: država sedišta nije uslov (OZ, 809. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "trgovski zastopnik",
+      "agent",
+      "naročitelj",
+      "principal",
+      "pooblastilo"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 15; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "OZ, 809. člen; 807. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-010",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "trgovsko zastopanje (agencija) – več zastopnikov",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Ali principal lahko ima na istem teritoriju za isto vrsto poslov več agentov?",
+    "prevod_sr": "Da li principal može na istoj teritoriji za istu vrstu poslova imati više agenata?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Da.",
+        "prevod_sr": "Da.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Naročitelj ima lahko na istem območju za isto vrsto poslov več zastopnikov, če s pogodbo ni drugače določeno« (OZ, 807. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Ne.",
+        "prevod_sr": "Ne.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon to izričito dozvoljava, osim ako je ugovorom drugačije određeno (OZ, 807. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Da, če mu agent dovoli.",
+        "prevod_sr": "Da, ako mu agent dozvoli.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: saglasnost zastupnika nije zakonski uslov (OZ, 807. člen, 4. odst.). Obrnuto važi za zastupnika: ON ne sme bez pristanka nalogodavca raditi za drugog nalogodavca na istom području (807. člen, 5. odst.) – to je zamka."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "trgovski zastopnik",
+      "naročitelj",
+      "isto območje",
+      "več zastopnikov"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 16; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "OZ, 807. člen, 4. in 5. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-011",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "trgovsko zastopanje (agencija) – provizija",
+    "tezina": 3,
+    "tip": "single",
+    "vprasanje_sl": "Kdaj nastane pravica agenta do provizije?",
+    "prevod_sr": "Kada nastaje pravo agenta na proviziju?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Ko je posel s tretjo osebo sklenjen.",
+        "prevod_sr": "Kada je posao sa trećim licem zaključen.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zaključenje ugovora određuje ZA KOJE ugovore pripada provizija (OZ, 823. člen), ali pravo se stiče tek izvršenjem posla (825. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Zmeraj ko naredi kaj za principala.",
+        "prevod_sr": "Uvek kada nešto uradi za principala.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: provizija se vezuje za konkretne ugovore i njihovo izvršenje (OZ, 823. i 825. člen)."
+      },
+      {
+        "besedilo_sl": "Ko je posel s tretjo osebo izvršen.",
+        "prevod_sr": "Kada je posao sa trećim licem izvršen.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: zastupnik stiče pravo na proviziju »če in v obsegu, v katerem je naročitelj opravil ali bi moral opraviti posel s tretjo osebo ali če je tretja oseba opravila svoj del obveznosti«; najkasnije kada je treće lice ispunilo ili trebalo da ispuni svoje obaveze (OZ, 825. člen, 1. i 3. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "trgovski zastopnik",
+      "provizija",
+      "izvršitev posla",
+      "naročitelj"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa.pdf, pitanje 17; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "OZ, 825. člen, 1. in 3. odst.; 823. člen",
+      "url": "https://docs.wixstatic.com/ugd/c58521_977bc628c8e54506821d82c2f550c7a8.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-012",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.d. – sistem upravljanja",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "Enotirni sistem upravljanja nima:",
+    "prevod_sr": "Jednodomni sistem upravljanja nema:",
+    "odgovori": [
+      {
+        "besedilo_sl": "nadzornega sveta,",
+        "prevod_sr": "nadzorni savet,",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: jednodomni sistem ima upravni odbor (koji i vodi i nadzire), a dvodomni upravu i nadzorni savet (ZGD-1, 253. člen, 2. odst.; 285. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "skupščine,",
+        "prevod_sr": "skupštinu,",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: skupštinu akcionara ima svako d.d. bez obzira na sistem upravljanja (ZGD-1, 292. i 293. člen)."
+      },
+      {
+        "besedilo_sl": "direktorja.",
+        "prevod_sr": "direktora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u jednodomnom sistemu upravni odbor može imenovati jednog ili više izvršnih direktora (ZGD-1, 290. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "enotirni sistem",
+      "upravni odbor",
+      "nadzorni svet",
+      "izvršni direktor"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 22; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 253. člen, 2. odst.; 285. člen; 290. člen",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-013",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.o.o. – osnovni kapital",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Osnovni kapital družbe z omejeno odgovornostjo je razdeljen na:",
+    "prevod_sr": "Osnovni kapital društva sa ograničenom odgovornošću podeljen je na:",
+    "odgovori": [
+      {
+        "besedilo_sl": "delnice,",
+        "prevod_sr": "akcije,",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: na akcije je podeljen osnovni kapital akcionarskog društva (ZGD-1, 168. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "poslovne deleže,",
+        "prevod_sr": "poslovne udele,",
+        "pravilno": false,
+        "razlaga_sr": "Netačno po slovu zakona: poslovni udeo je skup prava koji član stiče NA OSNOVU osnovnog uloga i izražava se u procentima (ZGD-1, 471. člen, 2. odst.) – kapital čine ulozi, ne udeli. NAPOMENA: ovo je najdiskutabilnija opcija; ključ je određen po doslovnom tekstu 471. člena."
+      },
+      {
+        "besedilo_sl": "osnovne vložke.",
+        "prevod_sr": "osnovne uloge.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: d.o.o. je društvo »katere osnovni kapital sestavljajo osnovni vložki družbenikov« (ZGD-1, 471. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "osnovni kapital",
+      "osnovni vložek",
+      "poslovni delež",
+      "d.o.o.",
+      "delnica"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 23; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 471. člen, 1. in 2. odst.; 168. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-014",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.d. – dividenda",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "Dividenda je:",
+    "prevod_sr": "Dividenda je:",
+    "odgovori": [
+      {
+        "besedilo_sl": "del dobička družbe, ki pripade delničarju glede na število delnic",
+        "prevod_sr": "deo dobiti društva koji pripada akcionaru prema broju akcija",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: akcije daju »pravico do dela dobička (dividenda)« (ZGD-1, 176. člen, 2. odst.); udeli akcionara u bilansnoj dobiti određuju se srazmerno njihovom udelu u osnovnom kapitalu (231. člen, 1. odst.) – precizno: srazmerno udelu u kapitalu, što kod jednakih akcija znači prema broju akcija."
+      },
+      {
+        "besedilo_sl": "del dobička, ki se izplača imetnikom prednostnih delnic",
+        "prevod_sr": "deo dobiti koji se isplaćuje imaocima prioritetnih akcija",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravo na dividendu daju već obične akcije; prioritetne daju samo dodatne prednosti (ZGD-1, 176. člen, 2. i 3. odst.)."
+      },
+      {
+        "besedilo_sl": "del kosmatega dobička.",
+        "prevod_sr": "deo bruto dobiti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: akcionarima se deli BILANSNA dobit (ZGD-1, 230. i 231. člen), ne bruto dobit."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "dividenda",
+      "delničar",
+      "bilančni dobiček",
+      "navadna delnica",
+      "prednostna delnica"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 26; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 176. člen, 2. odst.; 231. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-015",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.d. – skupščina",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "Skupščina družbe je organ, ki zastopa interese:",
+    "prevod_sr": "Skupština društva je organ koji zastupa interese:",
+    "odgovori": [
+      {
+        "besedilo_sl": "delavcev,",
+        "prevod_sr": "radnika,",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: na skupštini svoja prava ostvaruju akcionari, ne radnici (ZGD-1, 292. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "lastnikov deležev družbe,",
+        "prevod_sr": "vlasnika udela u društvu,",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Delničarji uresničujejo svoje pravice pri zadevah družbe na skupščini« (ZGD-1, 292. člen, 1. odst.) – skupština je organ vlasnika."
+      },
+      {
+        "besedilo_sl": "uprave in nadzornega sveta.",
+        "prevod_sr": "uprave i nadzornog saveta.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: članovi organa vođenja i nadzora mogu prisustvovati skupštini, ali ona je organ akcionara (ZGD-1, 292. člen, 1. i 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "skupščina",
+      "delničar",
+      "organ družbe"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 27; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 292. člen",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-016",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "podjetnik (s.p.) – vpis",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "Podjetnik vloži prijavo za registracijo dejavnosti:",
+    "prevod_sr": "Preduzetnik podnosi prijavu za registraciju delatnosti:",
+    "odgovori": [
+      {
+        "besedilo_sl": "pri AJPES",
+        "prevod_sr": "kod AJPES-a",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: preduzetnik može početi da obavlja delatnost »ko je pri AJPES vpisan v Poslovni register Slovenije« (ZGD-1, 74. člen, 1. odst.); i promene i prestanak prijavljuje AJPES-u (75. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "na sodnem registru",
+        "prevod_sr": "u sudskom registru",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: u sudski registar upisuju se društva; preduzetnik se upisuje u Poslovni register Slovenije kod AJPES-a (ZGD-1, 74. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "pri AJPES, razen če gre za podjetje, ki ustreza merilom za srednje in velike družbe.",
+        "prevod_sr": "kod AJPES-a, osim ako je reč o preduzeću koje ispunjava merila za srednja i velika društva.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno po važećem zakonu: 74. člen ZGD-1 ne poznaje izuzetak po veličini (to je ostatak starog uređenja, kada su se veći preduzetnici upisivali u sudski registar)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "podjetnik",
+      "s.p.",
+      "AJPES",
+      "Poslovni register Slovenije",
+      "vpis"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 28; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 74. člen, 1. odst.; 75. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-017",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.n.o. – vodenje poslov",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "V d.n.o. je upravičen voditi posle družbe:",
+    "prevod_sr": "U d.n.o. (ortačkom društvu) poslove društva ovlašćen je da vodi:",
+    "odgovori": [
+      {
+        "besedilo_sl": "direktor,",
+        "prevod_sr": "direktor,",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: d.n.o. po zakonu nema direktora; poslove vode članovi (ZGD-1, 85. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "vsak družbenik,",
+        "prevod_sr": "svaki član (ortak),",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Posle družbe so upravičeni in dolžni voditi vsi družbeniki« (ZGD-1, 85. člen, 1. odst.); društvenim ugovorom se vođenje može preneti na jednog ili više članova (2. odst.)."
+      },
+      {
+        "besedilo_sl": "komanditist",
+        "prevod_sr": "komanditor",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: komanditor je član komanditnog društva, a ne d.n.o. (ZGD-1, 135. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "d.n.o.",
+      "družbenik",
+      "vodenje poslov",
+      "komanditist"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 30; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 85. člen",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-018",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.d. – obveznosti delničarjev",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "Glavna obveznost delničarjev je:",
+    "prevod_sr": "Glavna obaveza akcionara je:",
+    "odgovori": [
+      {
+        "besedilo_sl": "vplačilo vložka ali izročitev stvarnega vložka",
+        "prevod_sr": "uplata uloga ili predaja nenovčanog (stvarnog) uloga",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Delničarji morajo vplačati emisijski znesek vpisanih delnic na račun družbe ali ji izročiti stvarne vložke« (ZGD-1, 222. člen – naslov člana: glavna obveznost delničarjev)."
+      },
+      {
+        "besedilo_sl": "izplačilo dividend",
+        "prevod_sr": "isplata dividendi",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dividenda je PRAVO akcionara (ZGD-1, 176. člen, 2. odst.), ne njegova obaveza."
+      },
+      {
+        "besedilo_sl": "imenovanje uprave družbe",
+        "prevod_sr": "imenovanje uprave društva",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to nije obaveza akcionara; glavna obaveza je uplata uloga (ZGD-1, 222. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "delničar",
+      "vplačilo vložka",
+      "stvarni vložek",
+      "emisijski znesek"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 31; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 222. člen",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-019",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.d. – uporaba čistega dobička",
+    "tezina": 3,
+    "tip": "single",
+    "vprasanje_sl": "O razporejanju čistega dobička v družbi odločajo:",
+    "prevod_sr": "O raspoređivanju čiste (neto) dobiti u društvu odlučuju:",
+    "odgovori": [
+      {
+        "besedilo_sl": "organi vodenja ali nadzora družbe",
+        "prevod_sr": "organi vođenja ili nadzora društva",
+        "pravilno": true,
+        "razlaga_sr": "Tačno (od ponuđenih): organi vođenja ili nadzora pri usvajanju godišnjeg izveštaja iz čiste dobiti mogu oblikovati druge rezerve iz dobiti – najviše polovinu ostatka (ZGD-1, 230. člen, 3. odst.). PAZI: o upotrebi BILANSNE dobiti odlučuje skupština (293. člen, 1. odst.) – ali ona nije ponuđena."
+      },
+      {
+        "besedilo_sl": "uprava in prokurist družbe",
+        "prevod_sr": "uprava i prokurista društva",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prokurista je zastupnik po punomoćju i nema nadležnost u raspodeli dobiti (ZGD-1, 35. člen; 230. člen)."
+      },
+      {
+        "besedilo_sl": "upniki v družbi",
+        "prevod_sr": "poverioci društva",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: poverioci ne odlučuju o dobiti društva (ZGD-1, 230. i 293. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "čisti dobiček",
+      "bilančni dobiček",
+      "organi vodenja ali nadzora",
+      "rezerve iz dobička",
+      "skupščina"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 32; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 230. člen, 3. odst.; 293. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-020",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.d. – sistem upravljanja",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "Dvotirni sistem upravljanja ima:",
+    "prevod_sr": "Dvodomni sistem upravljanja ima:",
+    "odgovori": [
+      {
+        "besedilo_sl": "upravo, nadzorni svet in skupščino",
+        "prevod_sr": "upravu, nadzorni savet i skupštinu",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: dvodomni sistem = uprava + nadzorni savet (ZGD-1, 253. člen, 2. odst.), a skupštinu ima svako d.d. (292. člen)."
+      },
+      {
+        "besedilo_sl": "upravni odbor in skupščino",
+        "prevod_sr": "upravni odbor i skupštinu",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: upravni odbor je organ JEDNODOMNOG sistema (ZGD-1, 253. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "direktorja in nadzorni svet",
+        "prevod_sr": "direktora i nadzorni savet",
+        "pravilno": false,
+        "razlaga_sr": "Netačno/nepotpuno: nedostaje skupština; organi dvodomnog sistema su uprava i nadzorni savet uz skupštinu (ZGD-1, 253. i 292. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "dvotirni sistem",
+      "uprava",
+      "nadzorni svet",
+      "skupščina",
+      "upravni odbor"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 33; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 253. člen, 2. odst.; 292. člen",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-021",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "osebne in kapitalske družbe",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Katera izmed naštetih družb ni osebna družba?:",
+    "prevod_sr": "Koje od navedenih društava nije društvo lica?:",
+    "odgovori": [
+      {
+        "besedilo_sl": "dvojna družba",
+        "prevod_sr": "dvojno društvo",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dvojno društvo je komanditno društvo u kome je jedini komplementar društvo bez lično odgovornih članova (ZGD-1, 152. člen) – dakle k.d., a to je društvo lica (3. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "d.o.o. z enim družbenikom",
+        "prevod_sr": "d.o.o. sa jednim članom",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: d.o.o. (i jednočlano – 523. člen) je kapitalsko društvo (ZGD-1, 3. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "d.n.o",
+        "prevod_sr": "d.n.o. (ortačko društvo)",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: d.n.o. je društvo lica (ZGD-1, 3. člen, 3. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "osebna družba",
+      "kapitalska družba",
+      "dvojna družba",
+      "d.o.o.",
+      "d.n.o."
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 35; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 3. člen, 3. odst.; 152. člen",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-022",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "firma – sestavine",
+    "tezina": 3,
+    "tip": "single",
+    "vprasanje_sl": "Katera firma d.n.o. se glasi pravilno?:",
+    "prevod_sr": "Koja firma (poslovno ime) d.n.o. glasi pravilno?:",
+    "odgovori": [
+      {
+        "besedilo_sl": "Janez Hun in ostali, Avtoprevozništvo, d.n.o.",
+        "prevod_sr": "Janez Hun in ostali, Avtoprevozništvo, d.n.o.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: firma d.n.o. mora sadržati prezime bar jednog člana sa naznakom da ih je više i oznaku d.n.o. (ZGD-1, 27. člen, 1. odst.), a svaka firma i oznaku koja ukazuje na delatnost (12. člen, 2. odst.) – ovde »Avtoprevozništvo«."
+      },
+      {
+        "besedilo_sl": "Janez Hun, Avtoprevozništvo, Maribor",
+        "prevod_sr": "Janez Hun, Avtoprevozništvo, Maribor",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nema naznake da je članova više ni oznake d.n.o. (ZGD-1, 27. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Janez Hun in ostali, Maribor, d.n.o.",
+        "prevod_sr": "Janez Hun in ostali, Maribor, d.n.o.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nedostaje oznaka koja ukazuje na delatnost (ZGD-1, 12. člen, 2. odst.); mesto (Maribor) nije obavezan sastojak firme."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "firma",
+      "d.n.o.",
+      "oznaka dejavnosti",
+      "priimek družbenika",
+      "dodatne sestavine"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 36; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 12. člen, 2. odst.; 27. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-023",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.o.o. – poslovodja",
+    "tezina": 1,
+    "tip": "single",
+    "vprasanje_sl": "Korporacijski zastopnik d.o.o. je:",
+    "prevod_sr": "Korporativni (zakonski) zastupnik d.o.o. je:",
+    "odgovori": [
+      {
+        "besedilo_sl": "vsak družbenik",
+        "prevod_sr": "svaki član",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: članovi d.o.o. odlučuju o pitanjima iz 505. člena, ali društvo ne zastupaju (ZGD-1, 515. člen, 1. odst.). Svaki član zastupa u d.n.o."
+      },
+      {
+        "besedilo_sl": "vsak član nadzornega sveta",
+        "prevod_sr": "svaki član nadzornog saveta",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nadzorni savet nadzire i eventualno imenuje poslovođu (ZGD-1, 515. člen, 4. odst.), ne zastupa društvo."
+      },
+      {
+        "besedilo_sl": "poslovodja",
+        "prevod_sr": "poslovođa (direktor)",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: društvo ima jednog ili više poslovođa (direktora) koji na sopstvenu odgovornost vode poslove društva »in jo zastopajo« (ZGD-1, 515. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "poslovodja",
+      "direktor",
+      "zakoniti zastopnik",
+      "d.o.o."
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 37; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 515. člen, 1. odst.; 32. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-024",
+    "tema": "2 Statusno pravo – splošni del",
+    "podtema": "prokura – obseg",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Obseg zastopanja prokurista je določen:",
+    "prevod_sr": "Obim zastupanja prokuriste određen je:",
+    "odgovori": [
+      {
+        "besedilo_sl": "v statutu družbe",
+        "prevod_sr": "u statutu društva",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: akt o osnivanju određuje samo POSTUPAK podele prokure (ZGD-1, 33. člen, 1. odst.); obim određuje zakon, a ograničenje nema dejstvo prema trećima (35. člen, 2. odst.). (U originalu štamparska greška »v statusu družbe«.)"
+      },
+      {
+        "besedilo_sl": "z zakonom",
+        "prevod_sr": "zakonom",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: obim prokure propisuje sam zakon – sve pravne radnje iz pravne sposobnosti društva osim otuđenja i opterećenja nepokretnosti (ZGD-1, 35. člen, 1. odst.); »omejitev prokure nima pravnega učinka proti tretjim osebam« (2. odst.)."
+      },
+      {
+        "besedilo_sl": "s pooblastilom direktorja",
+        "prevod_sr": "ovlašćenjem direktora",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: obim prokure ne može se sužavati ovlašćenjem sa dejstvom prema trećima (ZGD-1, 35. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prokura",
+      "obseg prokure",
+      "omejitev prokure",
+      "tretje osebe"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 38; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 35. člen, 1. in 2. odst.; 33. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-025",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "k.d. – odgovornost komplementarja",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Odgovornost komplementarja za obveznosti k.d. je:",
+    "prevod_sr": "Odgovornost komplementara za obaveze k.d. je:",
+    "odgovori": [
+      {
+        "besedilo_sl": "osebna odgovornost",
+        "prevod_sr": "lična odgovornost",
+        "pravilno": false,
+        "razlaga_sr": "Nepotpuno: jeste lična, ali i neograničena i supsidijarna – najpotpuniji je treći odgovor (ZGD-1, 135. i 100. člen)."
+      },
+      {
+        "besedilo_sl": "neomejena odgovornost",
+        "prevod_sr": "neograničena odgovornost",
+        "pravilno": false,
+        "razlaga_sr": "Nepotpuno: jeste neograničena (»z vsem svojim premoženjem«, 135. člen, 1. odst.), ali i lična i supsidijarna – najpotpuniji je treći odgovor."
+      },
+      {
+        "besedilo_sl": "osebna, neomejena in subsidiarna odgovornost",
+        "prevod_sr": "lična, neograničena i supsidijarna odgovornost",
+        "pravilno": true,
+        "razlaga_sr": "Tačno (najpotpuniji odgovor): komplementar odgovara celokupnom svojom imovinom (ZGD-1, 135. člen, 1. odst.); smisleno se primenjuju pravila za d.n.o. (135. člen, 2. odst.), po kojima su članovi poveriocima »subsidiarno odgovorni … z vsem svojim premoženjem« – tek ako društvo na pismeni zahtev ne ispuni (100. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "komplementar",
+      "komanditna družba",
+      "subsidiarna odgovornost",
+      "z vsem svojim premoženjem"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 39; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 135. člen, 1. in 2. odst.; 100. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": false,
+    "opomba_preverjanja": "Ključ nije jednoznačan po slovu zakona: i odgovor »osebna odgovornost« (naslov 100. člena ZGD-1 u vezi sa 135. členom, 2. odst.) i odgovor »neomejena odgovornost« (»z vsem svojim premoženjem«, 135. člen, 1. odst.) su sami za sebe tačni, a u ključu su označeni kao netačni; treći odgovor je samo »najpotpuniji«. Tri tačna od tri ponuđena – pitanje tipa single nema tačno jedan tačan odgovor."
+  },
+  {
+    "id": "S0-026",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.d. – pravice delničarjev",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Katera izmed naštetih pravic ni premoženjska pravica delničarja?:",
+    "prevod_sr": "Koje od navedenih prava nije imovinsko pravo akcionara?:",
+    "odgovori": [
+      {
+        "besedilo_sl": "pravica do premoženja d.d. ob likvidaciji",
+        "prevod_sr": "pravo na imovinu a.d. pri likvidaciji",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravo na odgovarajući deo preostale imovine posle likvidacije ili stečaja je imovinsko pravo (ZGD-1, 176. člen, 2. odst., 3. alineja)."
+      },
+      {
+        "besedilo_sl": "prednostna pravica do nakupa novih delnic",
+        "prevod_sr": "pravo prečeg upisa (kupovine) novih akcija",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravo prečeg upisa novih akcija srazmerno udelu u osnovnom kapitalu (ZGD-1, 337. člen, 1. odst.) štiti imovinski položaj akcionara i svrstava se u imovinska prava. Napomena: zakon sam ne deli prava na imovinska i upravljačka – podela je teorijska; sigurno upravljačko pravo je pravo glasa (176. člen, 2. odst., 1. alineja)."
+      },
+      {
+        "besedilo_sl": "pravica do glasovanja na skupščini",
+        "prevod_sr": "pravo glasa na skupštini",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: pravo glasa je upravljačko pravo – »pravica do udeležbe pri upravljanju družbe« (ZGD-1, 176. člen, 2. odst., 1. alineja; 178. člen, 1. odst.), za razliku od prava na dividendu i likvidacioni ostatak."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "delničar",
+      "premoženjske pravice",
+      "upravljalske pravice",
+      "glasovalna pravica",
+      "prednostna pravica"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 40; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 176. člen, 2. odst.; 178. člen, 1. odst.; 337. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-027",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "ustanovitev – število ustanoviteljev",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Za katero obliko družbe morata biti najmanj dva ustanovitelja?:",
+    "prevod_sr": "Za koji oblik društva moraju postojati najmanje dva osnivača?:",
+    "odgovori": [
+      {
+        "besedilo_sl": "d.d.",
+        "prevod_sr": "a.d. (d.d.)",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: d.d. »lahko ustanovi ena ali več fizičnih ali pravnih oseb« (ZGD-1, 169. člen)."
+      },
+      {
+        "besedilo_sl": "d.o.o.",
+        "prevod_sr": "d.o.o.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: d.o.o. može osnovati jedno ili više lica (ZGD-1, 473. člen, 1. odst.; jednočlano d.o.o. – 523. člen)."
+      },
+      {
+        "besedilo_sl": "d.n.o.",
+        "prevod_sr": "d.n.o.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: d.n.o. je »družba dveh ali več oseb« (ZGD-1, 76. člen, 1. odst.); prestaje ako broj članova padne ispod dva (105. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "ustanovitelj",
+      "d.n.o.",
+      "d.d.",
+      "d.o.o.",
+      "enoosebna družba"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 41; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 76. člen, 1. odst.; 169. člen; 473. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-028",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.d. – prenehanje",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "Katera oblika prenehanja družbe pride v poštev, ko tako odloči skupščina s sklepom?",
+    "prevod_sr": "Koji oblik prestanka društva dolazi u obzir kada tako odluči skupština odlukom?",
+    "odgovori": [
+      {
+        "besedilo_sl": "stečaj",
+        "prevod_sr": "stečaj",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: stečaj je poseban razlog prestanka (ZGD-1, 402. člen, 1. odst., 5. alineja) koji vodi sud po ZFPPIPP, ne nastaje odlukom skupštine o prestanku."
+      },
+      {
+        "besedilo_sl": "prisilna poravnava",
+        "prevod_sr": "prinudno poravnanje",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prinudno poravnanje je sudski postupak finansijskog restrukturiranja, nije oblik prestanka društva po 402. členu ZGD-1."
+      },
+      {
+        "besedilo_sl": "likvidacija",
+        "prevod_sr": "likvidacija",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: društvo prestaje odlukom skupštine (najmanje tročetvrtinska većina zastupljenog kapitala – ZGD-1, 402. člen, 1. odst., 2. alineja), a skupština tada donosi »sklep o prenehanju družbe in začetku likvidacije« (403. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prenehanje družbe",
+      "likvidacija",
+      "sklep skupščine",
+      "stečaj",
+      "prisilna poravnava"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 42; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 402. člen, 1. odst.; 403. člen, 1. odst.",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-029",
+    "tema": "3 Statusno pravo – oblike družb in preoblikovanja",
+    "podtema": "d.n.o. – prenehanje",
+    "tezina": 2,
+    "tip": "single",
+    "vprasanje_sl": "S smrtjo družbenika praviloma preneha:",
+    "prevod_sr": "Smrću člana po pravilu prestaje:",
+    "odgovori": [
+      {
+        "besedilo_sl": "d.n.o.",
+        "prevod_sr": "d.n.o.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: d.n.o. prestaje »s smrtjo ali prenehanjem družbenika, če družbena pogodba ne določa drugače« (ZGD-1, 105. člen, 4. alineja)."
+      },
+      {
+        "besedilo_sl": "d.o.o.",
+        "prevod_sr": "d.o.o.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: poslovni udeli u d.o.o. se nasleđuju (ZGD-1, 481. člen, 1. odst.) – smrt člana ne dovodi do prestanka društva."
+      },
+      {
+        "besedilo_sl": "dvojna družba",
+        "prevod_sr": "dvojno društvo",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dvojno društvo je k.d. u kome je jedini komplementar društvo (pravno lice), ne fizičko lice (ZGD-1, 152. člen), a zbog smrti komanditora društvo ne prestaje (151. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "d.n.o.",
+      "smrt družbenika",
+      "prenehanje družbe",
+      "družbena pogodba"
+    ],
+    "vir": {
+      "literatura_str": "stari test Tutorji EPF: primer_testa_1.pdf, pitanje 43; ključ odredio AI po važećem zakonu (original nema ključ)",
+      "zakon_clen": "ZGD-1, 105. člen; 481. člen, 1. odst.; 151. člen; 152. člen",
+      "url": "https://docs.wixstatic.com/ugd/c58521_ceff741cf2db42a6897981968c6d7db9.pdf"
+    },
+    "poreklo": "stvarno_staro",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-030",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "oblika pogodbe",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kakšna mora biti oblika pogodbe?",
+    "prevod_sr": "Kakav mora biti oblik ugovora?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Za sklenitev pogodbe se ne zahteva nikakršna oblika, razen če zakon določa drugače.",
+        "prevod_sr": "Za zaključenje ugovora ne zahteva se nikakav oblik, osim ako zakon određuje drugačije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: načelo neformalnosti – OZ, 51. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Vsaka pogodba mora biti sklenjena v pisni obliki, sicer je nična.",
+        "prevod_sr": "Svaki ugovor mora biti zaključen u pisanom obliku, inače je ništav.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravilo je neformalnost (OZ, 51. člen, 1. odst.); ništavost zbog oblika pogađa samo ugovore za koje je oblik propisan ili ugovoren kao uslov (55. člen)."
+      },
+      {
+        "besedilo_sl": "Pogodba, na podlagi katere se prenaša lastninska pravica na nepremičnini, mora biti sklenjena v pisni obliki.",
+        "prevod_sr": "Ugovor na osnovu kog se prenosi pravo svojine na nepokretnosti mora biti zaključen u pisanom obliku.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 52. člen – primer zakonom propisanog oblika."
+      },
+      {
+        "besedilo_sl": "Zakonska zahteva glede oblike velja le za sklenitev pogodbe, ne pa za njene poznejše spremembe ali dopolnitve.",
+        "prevod_sr": "Zakonski zahtev u pogledu oblika važi samo za zaključenje ugovora, a ne i za njegove kasnije izmene ili dopune.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zahtev oblika važi i za sve kasnije izmene ili dopune (OZ, 51. člen, 2. odst.), uz izuzetke iz 3. i 4. odst."
+      },
+      {
+        "besedilo_sl": "Gospodarske pogodbe morajo biti vedno sklenjene v obliki notarskega zapisa.",
+        "prevod_sr": "Privredni ugovori moraju uvek biti zaključeni u obliku notarskog zapisa.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: i za privredne ugovore važe opšta pravila OZ o ugovorima, ako nije izričito drugačije određeno (OZ, 13. člen, 1. odst.), dakle neformalnost iz 51. člena."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "oblika pogodbe",
+      "neobličnost",
+      "pisna oblika",
+      "nepremičnina",
+      "ničnost"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 1 (isto: vprasanja_2, pit. 27; vprasanja_3, pit. 16 i 29)",
+      "zakon_clen": "OZ, 51. člen; 52. člen; 55. člen; 13. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-031",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "prodajna pogodba – bistvene sestavine",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj prodajna pogodba velja (je sklenjena)?",
+    "prevod_sr": "Kada prodajni ugovor važi (kada je zaključen)?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Ko se stranki sporazumeta o bistvenih sestavinah – o stvari in kupnini.",
+        "prevod_sr": "Kada se strane sporazumeju o bitnim sastojcima – o stvari i ceni (kupovnini).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: ugovor je zaključen kada se strane sporazumeju o bitnim sastojcima (OZ, 15. člen); kod prodaje su to stvar i kupovnina (435. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Šele ko je kupnina v celoti plačana.",
+        "prevod_sr": "Tek kada je kupovnina u celosti plaćena.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: plaćanje je ISPUNJENJE obaveze kupca, ne uslov nastanka ugovora (OZ, 435. člen, 1. odst.; 15. člen)."
+      },
+      {
+        "besedilo_sl": "Če kupnina v (negospodarski) pogodbi ni določena in v njej tudi ni dovolj podatkov, da bi jo bilo mogoče določiti, se šteje, da pogodba ni nastala.",
+        "prevod_sr": "Ako kupovnina u (neprivrednom) ugovoru nije određena i u njemu nema ni dovoljno podataka da bi se mogla odrediti, smatra se da ugovor nije nastao.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 442. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Če v gospodarski prodajni pogodbi kupnina ni določena niti določljiva, mora kupec plačati kupnino, ki jo je prodajalec običajno zaračunaval ob sklenitvi pogodbe.",
+        "prevod_sr": "Ako u privrednom prodajnom ugovoru kupovnina nije određena ni odrediva, kupac mora platiti cenu koju je prodavac obično naplaćivao u vreme zaključenja ugovora.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 442. člen, 2. odst. (ako takve nema – primerenu kupovninu). Tipična zamka: privredni ugovor ostaje na snazi i bez određene cene."
+      },
+      {
+        "besedilo_sl": "Šele ko prodajalec stvar izroči kupcu.",
+        "prevod_sr": "Tek kada prodavac preda stvar kupcu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: predaja je ispunjenje prodavčeve obaveze (OZ, 435. člen, 1. odst.); ugovor nastaje saglasnošću volja (15. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prodajna pogodba",
+      "bistvene sestavine",
+      "stvar",
+      "kupnina",
+      "gospodarska prodajna pogodba"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 2 (isto: vprasanja_2, pit. 28)",
+      "zakon_clen": "OZ, 15. člen; 435. člen, 1. odst.; 442. člen, 1. in 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-032",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "napake volje – zmota",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Ena stranka je (v bistveni) zmoti – kaj to pomeni za pogodbo?",
+    "prevod_sr": "Jedna strana je u (bitnoj) zabludi – šta to znači za ugovor?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pogodba je izpodbojna – stranka, ki je v bistveni zmoti, lahko zahteva njeno razveljavitev.",
+        "prevod_sr": "Ugovor je rušljiv – strana koja je u bitnoj zabludi može zahtevati njegov poništaj.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 46. člen, 2. odst.; mane volje su razlog rušljivosti (94. člen)."
+      },
+      {
+        "besedilo_sl": "Pogodba je nična in sodišče na to pazi po uradni dolžnosti.",
+        "prevod_sr": "Ugovor je ništav i sud na to pazi po službenoj dužnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zabluda vodi rušljivosti (OZ, 46. i 94. člen); po službenoj dužnosti sud pazi samo na ništavost (92. člen)."
+      },
+      {
+        "besedilo_sl": "Če je pogodba zaradi zmote razveljavljena, ima druga poštena stranka pravico zahtevati povrnitev škode.",
+        "prevod_sr": "Ako je ugovor poništen zbog zablude, druga savesna strana ima pravo da zahteva naknadu štete.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 46. člen, 3. odst. – i kad strana u zabludi za nju nije kriva."
+      },
+      {
+        "besedilo_sl": "Na zmoto se lahko sklicuje tudi stranka, ki pri sklenitvi pogodbe ni ravnala s skrbnostjo, ki se zahteva v prometu.",
+        "prevod_sr": "Na zabludu se može pozvati i strana koja pri zaključenju ugovora nije postupala s pažnjom koja se zahteva u prometu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: poništaj ne može tražiti strana koja nije postupala s dužnom pažnjom (OZ, 46. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Pravica zahtevati razveljavitev preneha v vsakem primeru s pretekom treh let od dneva sklenitve pogodbe.",
+        "prevod_sr": "Pravo da se zahteva poništaj prestaje u svakom slučaju protekom tri godine od dana zaključenja ugovora.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: subjektivni rok 1 godina od saznanja, objektivni 3 godine od zaključenja (OZ, 99. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "bistvena zmota",
+      "izpodbojnost",
+      "razveljavitev",
+      "ničnost",
+      "napake volje"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 1 (isto: vprasanja_3, pit. 38; vprasanja_2, pit. 12; srodno: vprasanja_1, pit. 3 i vprasanja_2, pit. 29 »ničnost izpodbojnost…?«)",
+      "zakon_clen": "OZ, 46. člen; 94. člen; 99. člen; 92. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-033",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "odškodninska odgovornost – predpostavke",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj NE spada med predpostavke (krivdne) odškodninske odgovornosti?",
+    "prevod_sr": "Šta NE spada među pretpostavke (subjektivne) odštetne odgovornosti?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Škoda.",
+        "prevod_sr": "Šteta.",
+        "pravilno": false,
+        "razlaga_sr": "Šteta JESTE pretpostavka: »Kdor povzroči drugemu škodo, jo je dolžan povrniti« (OZ, 131. člen, 1. odst.; pojam štete – 132. člen)."
+      },
+      {
+        "besedilo_sl": "Vzročna zveza med ravnanjem in škodo.",
+        "prevod_sr": "Uzročna veza između radnje i štete.",
+        "pravilno": false,
+        "razlaga_sr": "Uzročna veza JESTE pretpostavka: odgovara onaj ko štetu »povzroči« (OZ, 131. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Krivda povzročitelja.",
+        "prevod_sr": "Krivica štetnika.",
+        "pravilno": false,
+        "razlaga_sr": "Krivica JESTE pretpostavka subjektivne odgovornosti (OZ, 131. člen, 1. odst.; 135. člen)."
+      },
+      {
+        "besedilo_sl": "Poslovna sposobnost povzročitelja.",
+        "prevod_sr": "Poslovna sposobnost štetnika.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno (ne spada): OZ ne traži poslovnu sposobnost; maloletnik sa navršenih 14 godina odgovara po opštim pravilima (OZ, 137. člen, 3. odst.), a odlučujuća je sposobnost rasuđivanja (136. člen). Ovo je stalni distraktor u starim testovima."
+      },
+      {
+        "besedilo_sl": "Pisna pogodba med oškodovalcem in oškodovancem.",
+        "prevod_sr": "Pisani ugovor između štetnika i oštećenog.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno (ne spada): obaveza naknade štete nastaje samim prouzrokovanjem štete, bez ugovora (OZ, 131. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "odškodninska odgovornost",
+      "predpostavke",
+      "škoda",
+      "vzročna zveza",
+      "krivda",
+      "poslovna sposobnost"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 4 (isto: vprasanja_2, pit. 14 i 30; vprasanja_3, pit. 18 i 30)",
+      "zakon_clen": "OZ, 131. člen, 1. odst.; 132. člen; 135. člen; 136. člen; 137. člen, 3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-034",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "temeljna načela obligacijskega prava",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katero načelo NE spada med temeljna načela obligacijskega prava (OZ)?",
+    "prevod_sr": "Koje načelo NE spada među osnovna načela obligacionog prava (OZ)?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Načelo hierarhičnosti.",
+        "prevod_sr": "Načelo hijerarhije.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno (ne spada): među osnovnim načelima OZ (2.–12. člen) nema hijerarhije; naprotiv, učesnici su ravnopravni (4. člen)."
+      },
+      {
+        "besedilo_sl": "Načelo vestnosti in poštenja.",
+        "prevod_sr": "Načelo savesnosti i poštenja.",
+        "pravilno": false,
+        "razlaga_sr": "Spada: OZ, 5. člen."
+      },
+      {
+        "besedilo_sl": "Načelo enake vrednosti dajatev.",
+        "prevod_sr": "Načelo jednake vrednosti davanja.",
+        "pravilno": false,
+        "razlaga_sr": "Spada: OZ, 8. člen."
+      },
+      {
+        "besedilo_sl": "Načelo enakopravnosti udeležencev.",
+        "prevod_sr": "Načelo ravnopravnosti učesnika.",
+        "pravilno": false,
+        "razlaga_sr": "Spada: OZ, 4. člen."
+      },
+      {
+        "besedilo_sl": "Prepoved povzročanja škode.",
+        "prevod_sr": "Zabrana prouzrokovanja štete.",
+        "pravilno": false,
+        "razlaga_sr": "Spada: OZ, 10. člen."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "temeljna načela",
+      "vestnost in poštenje",
+      "enakopravnost udeležencev",
+      "enaka vrednost dajatev",
+      "prepoved povzročanja škode"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 5 (isto: vprasanja_2, pit. 31)",
+      "zakon_clen": "OZ, 2.–12. člen (zlasti 4., 5., 8. in 10. člen)",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-035",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "gospodarska pogodba",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj je gospodarska pogodba oziroma med kom je sklenjena?",
+    "prevod_sr": "Šta je privredni ugovor, odnosno između koga je zaključen?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pogodba, ki jo skleneta med seboj gospodarska subjekta.",
+        "prevod_sr": "Ugovor koji međusobno zaključe dva privredna subjekta.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Gospodarske pogodbe so pogodbe, ki jih sklepajo med seboj gospodarski subjekti« (OZ, 13. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Vsaka pogodba, pri kateri je vsaj ena stranka gospodarska družba.",
+        "prevod_sr": "Svaki ugovor kod kog je bar jedna strana privredno društvo.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: OBE strane moraju biti privredni subjekti (»med seboj«, OZ, 13. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Za gospodarske subjekte se štejejo tudi samostojni podjetniki posamezniki.",
+        "prevod_sr": "Privrednim subjektima smatraju se i samostalni preduzetnici.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: privredni subjekti su privredna društva i druga pravna lica koja obavljaju dobitnu delatnost te samostalni preduzetnici (OZ, 13. člen, 3. odst.)."
+      },
+      {
+        "besedilo_sl": "Pogodba med gospodarsko družbo in potrošnikom.",
+        "prevod_sr": "Ugovor između privrednog društva i potrošača.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: potrošač nije privredni subjekt u smislu OZ, 13. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Gospodarska pogodba je veljavna le, če je sklenjena v pisni obliki.",
+        "prevod_sr": "Privredni ugovor je punovažan samo ako je zaključen u pisanom obliku.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: i za privredne ugovore važi neformalnost (OZ, 51. člen, 1. odst.; 13. člen, 1. odst.). U jednoj studentskoj belešci stoji suprotno – pogrešno."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "gospodarska pogodba",
+      "gospodarski subjekt",
+      "samostojni podjetnik posameznik",
+      "pridobitna dejavnost"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 6 (isto: vprasanja_2, pit. 9 i 32; vprasanja_3, pit. 4)",
+      "zakon_clen": "OZ, 13. člen; 51. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-036",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "sklenitev pogodbe – molk naslovnika",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj se šteje, da je z molkom ponudba sprejeta?",
+    "prevod_sr": "Kada se smatra da je ćutanjem ponuda prihvaćena?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če je naslovnik glede določenega blaga v stalni poslovni zvezi s ponudnikom in ponudbe, ki se nanaša na takšno blago, ni takoj ali v danem roku zavrnil.",
+        "prevod_sr": "Ako je ponuđeni u pogledu određene robe u stalnoj poslovnoj vezi sa ponudiocem, a ponudu koja se odnosi na takvu robu nije odmah ili u ostavljenom roku odbio.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 30. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Vedno, kadar naslovnik ponudbe v osmih dneh ne zavrne.",
+        "prevod_sr": "Uvek kada ponuđeni ne odbije ponudu u roku od osam dana.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ćutanje ponuđenog ne znači prihvat (OZ, 30. člen, 1. odst.); nikakav rok od 8 dana ne postoji."
+      },
+      {
+        "besedilo_sl": "Če je ponudnik v ponudbi določil, da bo molk naslovnika veljal za sprejem.",
+        "prevod_sr": "Ako je ponudilac u ponudi odredio da će ćutanje ponuđenog važiti kao prihvat.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: takva odredba u ponudi je bez dejstva (OZ, 30. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Molk naslovnika praviloma pomeni, da ponudbo sprejema.",
+        "prevod_sr": "Ćutanje ponuđenog po pravilu znači da ponudu prihvata.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravilo je obrnuto – »Če naslovnik molči, to ne pomeni, da sprejema ponudbo« (OZ, 30. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če naslovnik poslane stvari, za katero mu je dana ponudba, ne vrne v roku, ki ga je določil ponudnik.",
+        "prevod_sr": "Ako ponuđeni poslatu stvar, za koju mu je data ponuda, ne vrati u roku koji je odredio ponudilac.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zakon upravo taj primer navodi kao propuštanje koje NE važi kao prihvat (OZ, 30. člen, 2. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "molk naslovnika",
+      "ponudba",
+      "sprejem ponudbe",
+      "stalna poslovna zveza"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 7 (isto: vprasanja_2, pit. 24 i 33)",
+      "zakon_clen": "OZ, 30. člen, 1.–3. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-037",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "zamudne obresti",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj lahko upnik terja zamudne obresti?",
+    "prevod_sr": "Kada poverilac može zahtevati zatezne kamate?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če je dolžnik v zamudi z izpolnitvijo denarne obveznosti.",
+        "prevod_sr": "Ako je dužnik u docnji sa ispunjenjem novčane obaveze.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 378. člen, 1. odst. – pored glavnice duguje i zatezne kamate."
+      },
+      {
+        "besedilo_sl": "Le, če dokaže, da mu je zaradi zamude nastala škoda.",
+        "prevod_sr": "Samo ako dokaže da mu je zbog docnje nastala šteta.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pravo na zatezne kamate ne zavisi od štete (OZ, 380. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ne glede na to, ali mu je zaradi dolžnikove zamude nastala kakšna škoda.",
+        "prevod_sr": "Bez obzira na to da li mu je zbog dužnikove docnje nastala kakva šteta.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 380. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Samo, če so bile zamudne obresti izrecno dogovorjene s pogodbo.",
+        "prevod_sr": "Samo ako su zatezne kamate izričito ugovorene.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zatezne kamate duguju se po samom zakonu (OZ, 378. člen, 1. odst.); ugovoriti se može samo drugačija stopa (379. člen)."
+      },
+      {
+        "besedilo_sl": "Če je škoda zaradi zamude večja od zamudnih obresti, lahko zahteva tudi razliko do popolne odškodnine.",
+        "prevod_sr": "Ako je šteta zbog docnje veća od zateznih kamata, može zahtevati i razliku do potpune naknade.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 380. člen, 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zamudne obresti",
+      "denarna obveznost",
+      "zamuda dolžnika",
+      "popolna odškodnina"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 8 (isto: vprasanja_2, pit. 18 i 34; vprasanja_3, pit. 9 i 34)",
+      "zakon_clen": "OZ, 378. člen; 379. člen; 380. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-038",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "sprememba dolžnika – prevzem dolga",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj velja prevzem dolga?",
+    "prevod_sr": "Kada važi preuzimanje duga?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če upnik privoli v pogodbo med dolžnikom in prevzemnikom.",
+        "prevod_sr": "Ako poverilac pristane na ugovor između dužnika i preuzimaoca.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: preuzimanje duga vrši se ugovorom između dužnika i preuzimaoca »v katero je privolil upnik« (OZ, 427. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Že s sklenitvijo pogodbe med dolžnikom in prevzemnikom; upnika je treba le obvestiti.",
+        "prevod_sr": "Već zaključenjem ugovora između dužnika i preuzimaoca; poverioca treba samo obavestiti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: bez pristanka poverioca ugovor ima samo dejstvo ugovora o preuzimanju ispunjenja (OZ, 427. člen, 5. odst.). Zamka: obaveštenje je dovoljno kod cesije (419. člen), ne kod preuzimanja duga."
+      },
+      {
+        "besedilo_sl": "Če se upnik v roku, ki mu je bil postavljen, ne izreče, se šteje, da je v prevzem privolil.",
+        "prevod_sr": "Ako se poverilac u ostavljenom roku ne izjasni, smatra se da je pristao na preuzimanje.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ako se ne izjasni, smatra se da je pristanak ODBIO (OZ, 427. člen, 4. odst.)."
+      },
+      {
+        "besedilo_sl": "Domneva se, da je upnik privolil, če je brez omejitve sprejel kakšno izpolnitev od prevzemnika, ki jo je ta izpolnil v svojem imenu.",
+        "prevod_sr": "Pretpostavlja se da je poverilac pristao ako je bez ograde primio neko ispunjenje od preuzimaoca koje je ovaj izvršio u svoje ime.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 427. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Dokler upnik ne privoli, ima pogodba učinek pogodbe o prevzemu izpolnitve.",
+        "prevod_sr": "Dok poverilac ne pristane, ugovor ima dejstvo ugovora o preuzimanju ispunjenja.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 427. člen, 5. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prevzem dolga",
+      "privolitev upnika",
+      "prevzemnik",
+      "prevzem izpolnitve"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 9 (isto: vprasanja_2, pit. 35)",
+      "zakon_clen": "OZ, 427. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-039",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "prodaja na obroke – pridobitev lastninske pravice",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj pridobi kupec lastninsko pravico na stvari pri prodaji na obroke?",
+    "prevod_sr": "Kada kupac stiče pravo svojine na stvari kod prodaje na rate?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Z izročitvijo stvari v njegovo posest, če si prodajalec ni pridržal lastninske pravice.",
+        "prevod_sr": "Predajom stvari u njegov posed, ako prodavac nije zadržao pravo svojine.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: svojina na pokretnoj stvari stiče se predajom u posed sticaoca (SPZ, 60. člen, 1. odst.), a kod prodaje na rate stvar se predaje pre isplate cene (OZ, 522. člen)."
+      },
+      {
+        "besedilo_sl": "Vedno šele s plačilom zadnjega obroka.",
+        "prevod_sr": "Uvek tek plaćanjem poslednje rate.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to važi samo ako je posebno ugovoren pridržaj svojine (OZ, 520. člen, 1. odst.); inače svojina prelazi predajom (SPZ, 60. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če si je prodajalec s posebnim pogodbenim določilom pridržal lastninsko pravico, šele ko kupec plača vso kupnino.",
+        "prevod_sr": "Ako je prodavac posebnom ugovornom odredbom zadržao pravo svojine, tek kada kupac isplati celu kupovninu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: prodavac može zadržati svojinu i nakon predaje »vse dotlej, dokler kupec ne plača vse kupnine« (OZ, 520. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Že s podpisom pisne pogodbe, ne glede na izročitev stvari.",
+        "prevod_sr": "Već potpisivanjem pisanog ugovora, bez obzira na predaju stvari.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: sam ugovor je samo pravni osnov (SPZ, 40. člen); za sticanje svojine na pokretnoj stvari potrebna je predaja (SPZ, 60. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "S plačilom začetnega obroka.",
+        "prevod_sr": "Plaćanjem početne rate.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: plaćanje prve rate nije način sticanja svojine; odlučujuća je predaja (SPZ, 60. člen, 1. odst.) odnosno isplata cele cene kod pridržaja (OZ, 520. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prodaja na obroke",
+      "lastninska pravica",
+      "izročitev",
+      "pridržek lastninske pravice",
+      "kupnina"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 10 (isto: vprasanja_2, pit. 36)",
+      "zakon_clen": "SPZ, 40. in 60. člen, 1. odst.; OZ, 520. člen, 1. odst.; 522. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-040",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "odškodninska odgovornost – krivda",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Krivda je podana, če je škoda povzročena:",
+    "prevod_sr": "Krivica postoji ako je šteta prouzrokovana:",
+    "odgovori": [
+      {
+        "besedilo_sl": "namenoma.",
+        "prevod_sr": "namerno.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Krivda je podana, kadar oškodovalec povzroči škodo namenoma ali iz malomarnosti« (OZ, 135. člen)."
+      },
+      {
+        "besedilo_sl": "iz malomarnosti.",
+        "prevod_sr": "iz nepažnje (nemara).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 135. člen – drugi oblik krivice."
+      },
+      {
+        "besedilo_sl": "po naključju.",
+        "prevod_sr": "slučajno.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: slučaj nije oblik krivice; krivica je samo namera ili nepažnja (OZ, 135. člen)."
+      },
+      {
+        "besedilo_sl": "zaradi višje sile.",
+        "prevod_sr": "usled više sile.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: viša sila nije oblik krivice (OZ, 135. člen)."
+      },
+      {
+        "besedilo_sl": "izključno namenoma; malomarnost ne zadošča.",
+        "prevod_sr": "isključivo namerno; nepažnja nije dovoljna.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dovoljna je i nepažnja (OZ, 135. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "krivda",
+      "naklep",
+      "malomarnost",
+      "oškodovalec"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 19 (isto: vprasanja_3, pit. 31; vprasanja_1, pit. 11; vprasanja_2, pit. 37)",
+      "zakon_clen": "OZ, 135. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-041",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "odškodninska odgovornost – domneva krivde, objektivna odgovornost",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj se krivda domneva in kdaj se odgovarja ne glede na krivdo?",
+    "prevod_sr": "Kada se krivica pretpostavlja, a kada se odgovara bez obzira na krivicu?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pri krivdni (subjektivni) odgovornosti: povzročitelj je prost odgovornosti, če dokaže, da je škoda nastala brez njegove krivde.",
+        "prevod_sr": "Kod subjektivne odgovornosti: štetnik se oslobađa ako dokaže da je šteta nastala bez njegove krivice.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: obrnut teret dokazivanja – »…jo je dolžan povrniti, če ne dokaže, da je škoda nastala brez njegove krivde« (OZ, 131. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Nikoli – krivdo povzročitelja mora vedno dokazati oškodovanec.",
+        "prevod_sr": "Nikada – krivicu štetnika uvek mora dokazati oštećeni.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: po OZ, 131. člen, 1. odst. dokazuje štetnik da nije kriv."
+      },
+      {
+        "besedilo_sl": "Za škodo od stvari ali dejavnosti, iz katerih izvira večja škodna nevarnost za okolico, se odgovarja ne glede na krivdo.",
+        "prevod_sr": "Za štetu od stvari ili delatnosti iz kojih proizlazi povećana opasnost za okolinu odgovara se bez obzira na krivicu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: objektivna odgovornost (OZ, 131. člen, 2. odst.) – tu se krivica ne ispituje."
+      },
+      {
+        "besedilo_sl": "Pri odgovornosti za nevarno stvar je imetnik prost odgovornosti že, če dokaže, da ni ravnal malomarno.",
+        "prevod_sr": "Kod odgovornosti za opasnu stvar imalac se oslobađa već ako dokaže da nije postupao nepažljivo.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odgovara se »ne glede na krivdo« (OZ, 131. člen, 2. odst.), pa dokaz o odsustvu krivice ne oslobađa."
+      },
+      {
+        "besedilo_sl": "Krivda se domneva samo pri gospodarskih pogodbah.",
+        "prevod_sr": "Krivica se pretpostavlja samo kod privrednih ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pretpostavka krivice je opšte pravilo odštetne odgovornosti (OZ, 131. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "domneva krivde",
+      "krivdna odgovornost",
+      "objektivna odgovornost",
+      "nevarna stvar",
+      "dokazno breme"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2, pitanje 15",
+      "zakon_clen": "OZ, 131. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-042",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "poroštvo – solidarno poroštvo",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj je značilno za solidarno poroštvo?",
+    "prevod_sr": "Šta je karakteristično za solidarno jemstvo?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Porok se zaveže kot porok in plačnik.",
+        "prevod_sr": "Jemac se obavezuje kao jemac i platac.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 1019. člen, 3. odst."
+      },
+      {
+        "besedilo_sl": "Upnik lahko zahteva izpolnitev bodisi od glavnega dolžnika bodisi od poroka ali pa od obeh hkrati.",
+        "prevod_sr": "Poverilac može zahtevati ispunjenje bilo od glavnog dužnika bilo od jemca, ili od obojice istovremeno.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 1019. člen, 3. odst. (U studentskoj belešci piše »od upnika in poroka« – pogrešno; treba: od GLAVNOG DUŽNIKA ili jemca.)"
+      },
+      {
+        "besedilo_sl": "Upnik sme od poroka zahtevati izpolnitev šele, ko je glavni dolžnik ne izpolni v roku, določenem v pisni zahtevi.",
+        "prevod_sr": "Poverilac sme od jemca zahtevati ispunjenje tek kad ga glavni dužnik ne izvrši u roku određenom u pismenom zahtevu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je SUPSIDIJARNO jemstvo (OZ, 1019. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Za obveznost, nastalo iz gospodarske pogodbe, porok odgovarja kot porok in plačnik, če ni dogovorjeno kaj drugega.",
+        "prevod_sr": "Za obavezu nastalu iz privrednog ugovora jemac odgovara kao jemac i platac, ako nije drugačije ugovoreno.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 1019. člen, 4. odst. – kod privrednih ugovora solidarno jemstvo je pravilo."
+      },
+      {
+        "besedilo_sl": "Poroštvena izjava je pri solidarnem poroštvu lahko dana tudi ustno.",
+        "prevod_sr": "Izjava o jemstvu kod solidarnog jemstva može biti data i usmeno.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ugovor o jemstvu obavezuje jemca samo ako je izjavu dao pismeno (OZ, 1013. člen) – bez izuzetka za solidarno jemstvo."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "solidarno poroštvo",
+      "porok in plačnik",
+      "subsidiarno poroštvo",
+      "glavni dolžnik",
+      "gospodarska pogodba"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 12 (isto: vprasanja_3, pit. 23 i 36; vprasanja_1, pit. 12; vprasanja_2, pit. 11 i 38)",
+      "zakon_clen": "OZ, 1019. člen; 1013. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-043",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "utrditev obveznosti – pogodbena kazen",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Za katere obveznosti pogodbena kazen ne more biti dogovorjena?",
+    "prevod_sr": "Za koje obaveze ugovorna kazna ne može biti ugovorena?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Za denarne obveznosti.",
+        "prevod_sr": "Za novčane obaveze.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Pogodbena kazen ne more biti dogovorjena za denarne obveznosti« (OZ, 247. člen, 3. odst.) – kod njih tu ulogu imaju zatezne kamate (378. člen)."
+      },
+      {
+        "besedilo_sl": "Za obveznost izročitve stvari.",
+        "prevod_sr": "Za obavezu predaje stvari.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je nenovčana obaveza, za koju se kazna može ugovoriti (OZ, 247. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Za obveznost oprave dela ali storitve.",
+        "prevod_sr": "Za obavezu izvršenja dela ili usluge.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nenovčana obaveza – kazna dopuštena (OZ, 247. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Za nedenarne obveznosti iz gospodarskih pogodb.",
+        "prevod_sr": "Za nenovčane obaveze iz privrednih ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zabrana se odnosi samo na novčane obaveze (OZ, 247. člen, 3. odst.), nezavisno od toga da li je ugovor privredni."
+      },
+      {
+        "besedilo_sl": "Za obveznost opustitve (npr. prepoved konkurence).",
+        "prevod_sr": "Za obavezu nečinjenja (npr. zabrana konkurencije).",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: i to je nenovčana obaveza; zakon isključuje samo novčane (OZ, 247. člen, 1. i 3. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pogodbena kazen",
+      "denarna obveznost",
+      "nedenarna obveznost",
+      "zamuda",
+      "neizpolnitev"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_1, pitanje 13 (isto: vprasanja_2, pit. 17 i 39; vprasanja_3, pit. 8)",
+      "zakon_clen": "OZ, 247. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-044",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "prodajna pogodba – pravne napake",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj ima stvar pravno napako?",
+    "prevod_sr": "Kada stvar ima pravni nedostatak?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Če ima na prodani stvari kdo tretji pravico, ki izključuje, zmanjšuje ali omejuje kupčevo pravico, kupec pa o njej ni bil obveščen in ni privolil, da vzame tako obremenjeno stvar.",
+        "prevod_sr": "Ako na prodatoj stvari neko treći ima pravo koje isključuje, umanjuje ili ograničava kupčevo pravo, a kupac o njemu nije bio obavešten niti je pristao da uzme tako opterećenu stvar.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 488. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Če stvar nima lastnosti, ki so potrebne za njeno običajno rabo ali za promet.",
+        "prevod_sr": "Ako stvar nema svojstva potrebna za njenu redovnu upotrebu ili za promet.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je STVARNI (materijalni) nedostatak (OZ, 459. člen, 1. tč.)."
+      },
+      {
+        "besedilo_sl": "Če je kupec za pravico tretjega vedel in je privolil, da vzame obremenjeno stvar.",
+        "prevod_sr": "Ako je kupac za pravo trećeg znao i pristao da uzme opterećenu stvar.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: tada prodavac ne odgovara – uslov je da kupac nije bio obavešten i nije pristao (OZ, 488. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Če prodajna pogodba ni bila sklenjena v predpisani obliki.",
+        "prevod_sr": "Ako prodajni ugovor nije zaključen u propisanom obliku.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: nedostatak oblika vodi ništavosti ugovora (OZ, 55. člen, 1. odst.), nije pravni nedostatak stvari."
+      },
+      {
+        "besedilo_sl": "Če se stvar ne ujema z vzorcem ali modelom.",
+        "prevod_sr": "Ako stvar ne odgovara uzorku ili modelu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: i to je stvarni nedostatak (OZ, 459. člen, 4. tč.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pravna napaka",
+      "stvarna napaka",
+      "pravica tretjega",
+      "prodajalec",
+      "kupec"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 10 (isto: vprasanja_1, pit. 14; vprasanja_2, pit. 13 i 40)",
+      "zakon_clen": "OZ, 488. člen, 1. odst.; 459. člen; 55. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-045",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "sklenitev pogodbe – trenutek sklenitve",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kdaj je pogodba sklenjena?",
+    "prevod_sr": "Kada je ugovor zaključen?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Ko se pogodbeni stranki sporazumeta o njenih bistvenih sestavinah.",
+        "prevod_sr": "Kada se ugovorne strane sporazumeju o njegovim bitnim sastojcima.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 15. člen."
+      },
+      {
+        "besedilo_sl": "Ko ponudnik prejme od naslovnika izjavo, da ponudbo sprejema.",
+        "prevod_sr": "Kada ponudilac primi od ponuđenog izjavu da prihvata ponudu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: teorija prijema – OZ, 21. člen, 1. odst. (U studentskoj belešci »ko ponudnik sprejme izjavo« i »ponudba je sklenjena« – neprecizno: zaključuje se UGOVOR, kad ponudilac PRIMI izjavu.)"
+      },
+      {
+        "besedilo_sl": "Že takrat, ko naslovnik izjavo o sprejemu odpošlje.",
+        "prevod_sr": "Već onda kada ponuđeni pošalje izjavu o prihvatu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odlučujući je PRIJEM izjave kod ponudioca, ne slanje (OZ, 21. člen, 1. odst.; 28. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Šele ko se stranki sporazumeta tudi o vseh stranskih točkah.",
+        "prevod_sr": "Tek kada se strane sporazumeju i o svim sporednim tačkama.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ako su sporedne tačke ostavljene za kasnije, ugovor se smatra zaključenim (OZ, 22. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Vedno šele, ko je pogodba zapisana in podpisana.",
+        "prevod_sr": "Uvek tek kada je ugovor zapisan i potpisan.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: za zaključenje se ne traži nikakav oblik, osim ako zakon određuje drugačije (OZ, 51. člen, 1. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "sklenitev pogodbe",
+      "bistvene sestavine",
+      "ponudnik",
+      "naslovnik",
+      "sprejem ponudbe"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2, pitanje 2 (isto: vprasanja_3, pit. 13 i 26)",
+      "zakon_clen": "OZ, 15. člen; 21. člen, 1. odst.; 22. člen, 2. odst.; 28. člen, 1. odst.; 51. člen, 1. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-046",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "prenehanje obveznosti – pobot",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj velja za pobot – kakšni morata biti terjatvi (poleg tega, da sta vzajemni) in kako pobot nastane?",
+    "prevod_sr": "Šta važi za prebijanje (kompenzaciju) – kakva moraju biti potraživanja (osim što su uzajamna) i kako prebijanje nastaje?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Obe terjatvi se morata glasiti na denar ali na druge nadomestne stvari iste vrste in iste kakovosti.",
+        "prevod_sr": "Oba potraživanja moraju glasiti na novac ili na druge zamenljive stvari iste vrste i istog kvaliteta.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: istovrsnost – OZ, 311. člen."
+      },
+      {
+        "besedilo_sl": "Obe terjatvi morata biti zapadli.",
+        "prevod_sr": "Oba potraživanja moraju biti dospela.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: dospelost – OZ, 311. člen."
+      },
+      {
+        "besedilo_sl": "Terjatvi morata biti enako visoki.",
+        "prevod_sr": "Potraživanja moraju biti jednake visine.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: 311. člen OZ jednaku visinu ne traži (uslovi su uzajamnost, istovrsnost i dospelost)."
+      },
+      {
+        "besedilo_sl": "Pobot nastane samodejno, takoj ko se stečejo pogoji zanj.",
+        "prevod_sr": "Prebijanje nastaje automatski, čim se steknu uslovi.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: »Pobot ne nastane takoj, ko se stečejo pogoji zanj, temveč mora to ena stranka drugi izjaviti« (OZ, 312. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ena stranka mora drugi izjaviti, da pobota; po izjavi se šteje, da je pobot nastal takrat, ko so se stekli pogoji zanj.",
+        "prevod_sr": "Jedna strana mora drugoj izjaviti da prebija; nakon izjave smatra se da je prebijanje nastalo onda kad su se stekli uslovi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 312. člen, 1. i 2. odst. Zakon ne traži poseban oblik izjave (studentovo »s pobotnim pismom« nije zakonski uslov)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "pobot",
+      "vzajemnost",
+      "istovrstnost",
+      "zapadlost",
+      "izjava o pobotu"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2, pitanje 3 (isto: vprasanja_3, pit. 14, 22 i 27)",
+      "zakon_clen": "OZ, 311. člen; 312. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-047",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "neveljavnost pogodb – ničnost",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj je nična pogodba?",
+    "prevod_sr": "Šta je ništav ugovor?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pogodba, ki nasprotuje ustavi, prisilnim predpisom ali moralnim načelom, če namen kršenega pravila ne odkazuje na kakšno drugo sankcijo ali zakon ne predpisuje kaj drugega.",
+        "prevod_sr": "Ugovor koji je protivan ustavu, prinudnim propisima ili moralnim načelima, ako cilj povređenog pravila ne upućuje na drugu sankciju ili zakon ne propisuje nešto drugo.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 86. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pogodba, ki jo je brez dovoljenja zakonitega zastopnika sklenila poslovno omejeno sposobna oseba.",
+        "prevod_sr": "Ugovor koji je bez dozvole zakonskog zastupnika zaključilo ograničeno poslovno sposobno lice.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: takav ugovor je RUŠLJIV (OZ, 41. člen, 3. odst.; 94. člen)."
+      },
+      {
+        "besedilo_sl": "Pogodba, sklenjena v bistveni zmoti.",
+        "prevod_sr": "Ugovor zaključen u bitnoj zabludi.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: bitna zabluda je razlog rušljivosti (OZ, 46. člen, 2. odst.; 94. člen)."
+      },
+      {
+        "besedilo_sl": "Pogodba, ki ni sklenjena v predpisani obliki, če iz namena predpisa, s katerim je določena oblika, ne izhaja kaj drugega.",
+        "prevod_sr": "Ugovor koji nije zaključen u propisanom obliku, ako iz cilja propisa kojim je oblik određen ne proizlazi nešto drugo.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 55. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Pogodba, sklenjena pod vplivom nedopustne grožnje.",
+        "prevod_sr": "Ugovor zaključen pod uticajem nedopuštene pretnje.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pretnja je mana volje – druga strana može zahtevati poništaj, tj. ugovor je rušljiv (OZ, 45. člen, 1. odst.; 94. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "nična pogodba",
+      "ničnost",
+      "izpodbojnost",
+      "prisilni predpisi",
+      "moralna načela",
+      "oblika"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 24 (isto: vprasanja_2, pit. 25)",
+      "zakon_clen": "OZ, 86. člen, 1. odst.; 55. člen, 1. odst.; 41. člen, 3. odst.; 45. člen; 46. člen; 94. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-048",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "neveljavnost pogodb – uveljavljanje ničnosti",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Ničnost pogodbe se lahko uveljavlja:",
+    "prevod_sr": "Ništavost ugovora može se isticati:",
+    "odgovori": [
+      {
+        "besedilo_sl": "časovno neomejeno – pravica do uveljavljanja ničnosti ne ugasne.",
+        "prevod_sr": "vremenski neograničeno – pravo na isticanje ništavosti se ne gasi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 93. člen."
+      },
+      {
+        "besedilo_sl": "v enem letu, odkar je upravičenec zvedel za razlog, najpozneje pa v treh letih od sklenitve pogodbe.",
+        "prevod_sr": "u roku od godinu dana od saznanja za razlog, a najkasnije u roku od tri godine od zaključenja ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to su rokovi za poništaj RUŠLJIVOG ugovora (OZ, 99. člen) – klasična zamena ništavost/rušljivost."
+      },
+      {
+        "besedilo_sl": "tako, da nanjo pazi sodišče po uradni dolžnosti.",
+        "prevod_sr": "tako što na nju sud pazi po službenoj dužnosti.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 92. člen."
+      },
+      {
+        "besedilo_sl": "s strani vsake zainteresirane osebe.",
+        "prevod_sr": "od strane svakog zainteresovanog lica.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: na ništavost se može pozvati »vsaka zainteresirana oseba« (OZ, 92. člen)."
+      },
+      {
+        "besedilo_sl": "le s strani pogodbenika, v čigar interesu je določena.",
+        "prevod_sr": "samo od strane ugovarača u čijem je interesu određena.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to važi za rušljivost (OZ, 95. člen, 1. odst.); na ništavost se poziva svako zainteresovano lice (92. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "ničnost",
+      "uveljavljanje ničnosti",
+      "po uradni dolžnosti",
+      "zainteresirana oseba",
+      "izpodbojnost"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 17 (isto: vprasanja_2, pit. 4)",
+      "zakon_clen": "OZ, 92. člen; 93. člen; 95. člen, 1. odst.; 99. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-049",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "spremembe strank – prenos pogodbe",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Ali je mogoč prenos celotne pogodbe na tretjo osebo?",
+    "prevod_sr": "Da li je moguć prenos celog ugovora na treće lice?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Da – vsaka stranka dvostranske pogodbe jo lahko prenese na tretjega, če v to privoli druga stranka.",
+        "prevod_sr": "Da – svaka strana dvostranog ugovora može ga preneti na trećeg, ako na to pristane druga strana.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 122. člen, 1. odst. (Studentovo golo »da« je nepotpuno – ključan je pristanak druge strane.)"
+      },
+      {
+        "besedilo_sl": "Da – privolitev druge stranke ni potrebna, treba jo je le obvestiti.",
+        "prevod_sr": "Da – pristanak druge strane nije potreban, treba je samo obavestiti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: potreban je pristanak (OZ, 122. člen, 1. odst.); obaveštenje je dovoljno samo ako je pristanak dat unapred (2. odst.). Samo obaveštenje dovoljno je kod cesije (419. člen)."
+      },
+      {
+        "besedilo_sl": "Ne – prenesti je mogoče le posamezno terjatev, ne pa pogodbe kot celote.",
+        "prevod_sr": "Ne – može se preneti samo pojedino potraživanje, ne i ugovor kao celina.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: OZ izričito uređuje prenos ugovora (122. člen)."
+      },
+      {
+        "besedilo_sl": "S prenosom postane tretji imetnik vseh pravic in obveznosti prenositelja iz te pogodbe.",
+        "prevod_sr": "Prenosom treći postaje imalac svih prava i obaveza prenosioca iz tog ugovora.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 122. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Privolitev v prenos je veljavna v kakršnikoli obliki, tudi če je za preneseno pogodbo predpisana posebna oblika.",
+        "prevod_sr": "Pristanak na prenos punovažan je u bilo kom obliku, čak i ako je za preneti ugovor propisan poseban oblik.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pristanak važi samo ako je dat u obliku koji zakon propisuje za zaključenje prenetog ugovora (OZ, 122. člen, 3. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prenos pogodbe",
+      "privolitev druge stranke",
+      "prenositelj",
+      "prevzemnik"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2, pitanje 5 (isto: vprasanja_3, pit. 7 i 33)",
+      "zakon_clen": "OZ, 122. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-050",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "utrditev obveznosti – ara",
+    "tezina": 3,
+    "tip": "multi",
+    "vprasanje_sl": "Tisti, ki je dal aro, pogodbe ne izpolni (in je za neizpolnitev odgovoren). Kaj lahko zahteva druga stranka?",
+    "prevod_sr": "Onaj ko je dao kaparu ne ispuni ugovor (i odgovoran je za neispunjenje). Šta može zahtevati druga strana?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Izpolnitev pogodbe, če je to še mogoče, in povrnitev škode, aro pa všteje v odškodnino ali vrne.",
+        "prevod_sr": "Ispunjenje ugovora, ako je još moguće, i naknadu štete, a kaparu uračunava u naknadu ili vraća.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: prva mogućnost izbora po OZ, 65. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Zadovolji se lahko s prejeto aro.",
+        "prevod_sr": "Može se zadovoljiti primljenom kaparom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: druga mogućnost po OZ, 65. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Vrnitev dvojne are.",
+        "prevod_sr": "Vraćanje dvostruke kapare.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: dvostruku kaparu može tražiti strana koja je kaparu DALA, kada je za neispunjenje odgovorna strana koja ju je primila (OZ, 65. člen, 2. odst.) – obrnute uloge."
+      },
+      {
+        "besedilo_sl": "Izpolnitev pogodbe in povrnitev celotne škode, poleg tega pa obdrži aro, ne da bi jo vštela.",
+        "prevod_sr": "Ispunjenje ugovora i naknadu cele štete, a pored toga zadržava kaparu bez uračunavanja.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ako traži ispunjenje i naknadu štete, kaparu mora uračunati u naknadu ili vratiti (OZ, 65. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Ničesar – stranka, ki je dala aro, si je z njo kupila pravico odstopiti od pogodbe.",
+        "prevod_sr": "Ništa – strana koja je dala kaparu njome je kupila pravo da odustane od ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ako nije drugačije ugovoreno, strana koja je dala kaparu ne može odustati ostavljajući kaparu (OZ, 64. člen, 3. odst.); to važi samo kad je ugovorena kapara kao odustanica (68. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "ara",
+      "neizpolnitev pogodbe",
+      "dvojna ara",
+      "odstopnina",
+      "povrnitev škode"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 25 (isto: vprasanja_2, pit. 6)",
+      "zakon_clen": "OZ, 65. člen, 1. in 2. odst.; 64. člen, 3. odst.; 68. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-051",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "prodaja na obroke – oblika in bistvene sestavine",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj mora vsebovati pogodba o prodaji na obroke?",
+    "prevod_sr": "Šta mora sadržati ugovor o prodaji na rate?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Stvar in njeno ceno pri prodaji za gotovino.",
+        "prevod_sr": "Stvar i njenu cenu pri prodaji za gotovinu.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 524. člen."
+      },
+      {
+        "besedilo_sl": "Skupen znesek vseh obročnih odplačil, vštevši tudi tisto, kar je bilo plačano ob sklenitvi pogodbe.",
+        "prevod_sr": "Ukupan iznos svih otplata u ratama, uključujući i ono što je plaćeno pri zaključenju ugovora.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 524. člen."
+      },
+      {
+        "besedilo_sl": "Znesek posameznih obrokov, njihovo število ter njihove roke.",
+        "prevod_sr": "Iznos pojedinih rata, njihov broj i njihove rokove.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 524. člen."
+      },
+      {
+        "besedilo_sl": "Notarsko overjen podpis kupca kot pogoj za veljavnost pogodbe.",
+        "prevod_sr": "Notarski overen potpis kupca kao uslov punovažnosti ugovora.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: traži se samo pisani oblik (OZ, 523. člen). Notarska overa potpisa kupca je uslov da PRIDRŽAJ SVOJINE deluje prema kupčevim poveriocima (520. člen, 2. odst.) – zamka."
+      },
+      {
+        "besedilo_sl": "Pogodba mora biti sestavljena v pisni obliki.",
+        "prevod_sr": "Ugovor mora biti sastavljen u pisanom obliku.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 523. člen."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prodaja na obroke",
+      "bistvene sestavine",
+      "obrok",
+      "pisna oblika",
+      "skupen znesek obročnih odplačil"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2, pitanje 8 (isto: vprasanja_2, pit. 19; vprasanja_3, pit. 6 i 37)",
+      "zakon_clen": "OZ, 523. člen; 524. člen; 520. člen, 2. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-052",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "sprememba upnika – odstop terjatve (cesija)",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kaj je potrebno za odstop terjatve (cesijo)?",
+    "prevod_sr": "Šta je potrebno za ustupanje potraživanja (cesiju)?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pogodba med upnikom (odstopnikom) in tretjim (prevzemnikom).",
+        "prevod_sr": "Ugovor između poverioca (ustupioca) i trećeg (prijemnika).",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: poverilac može »s pogodbo, ki jo sklene s kom tretjim« preneti svoje potraživanje (OZ, 417. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Privolitev dolžnika.",
+        "prevod_sr": "Pristanak dužnika.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: »Za prenos terjatve ni potrebna dolžnikova privolitev« (OZ, 419. člen, 1. odst.)."
+      },
+      {
+        "besedilo_sl": "Odstopnik mora dolžnika obvestiti o odstopu.",
+        "prevod_sr": "Ustupilac mora obavestiti dužnika o ustupanju.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 419. člen, 1. odst. – obaveštenje je dužnost ustupioca (studentovo »da je dolžnik seznanjen« je neprecizno: obaveštenje nije isto što i pristanak, a ustupanje važi i pre obaveštenja)."
+      },
+      {
+        "besedilo_sl": "Če dolžnik, ki za odstop ni vedel, pred obvestilom izpolni odstopniku, je izpolnitev veljavna in je prost obveznosti.",
+        "prevod_sr": "Ako dužnik koji nije znao za ustupanje pre obaveštenja ispuni ustupiocu, ispunjenje je punovažno i on je oslobođen obaveze.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 419. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Dogovor med dolžnikom in upnikom iz gospodarske pogodbe o prepovedi prenosa denarne terjatve prepreči učinek prenosa.",
+        "prevod_sr": "Dogovor između dužnika i poverioca iz privrednog ugovora o zabrani prenosa novčanog potraživanja sprečava dejstvo prenosa.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: kod privrednog ugovora prenos novčanog potraživanja »kljub temu učinkuje« (OZ, 417. člen, 4. odst.); zabrana oduzima dejstvo samo po opštem pravilu iz 2. odst."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "odstop terjatve",
+      "cesija",
+      "odstopnik",
+      "prevzemnik",
+      "obvestilo dolžniku",
+      "privolitev dolžnika"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 20 (isto: vprasanja_3, pit. 32; vprasanja_2, pit. 10)",
+      "zakon_clen": "OZ, 417. člen; 419. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-053",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "odškodninsko pravo – vrste škode",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Katere so oblike nepremoženjske škode?",
+    "prevod_sr": "Koji su oblici nematerijalne (neimovinske) štete?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Telesne bolečine.",
+        "prevod_sr": "Telesni bolovi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 132. člen (v. i 179. člen)."
+      },
+      {
+        "besedilo_sl": "Duševne bolečine.",
+        "prevod_sr": "Duševni bolovi.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 132. člen."
+      },
+      {
+        "besedilo_sl": "Strah.",
+        "prevod_sr": "Strah.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 132. člen."
+      },
+      {
+        "besedilo_sl": "Okrnitev ugleda pravne osebe.",
+        "prevod_sr": "Povreda ugleda pravnog lica.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 132. člen; novčana naknada pravnom licu – 183. člen. (Studenti je u nabrajanju često izostave.)"
+      },
+      {
+        "besedilo_sl": "Izgubljeni dobiček.",
+        "prevod_sr": "Izgubljena dobit.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: izgubljena dobit (sprečavanje povećanja imovine) je IMOVINSKA šteta, kao i obična šteta (OZ, 132. člen)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "nepremoženjska škoda",
+      "telesne bolečine",
+      "duševne bolečine",
+      "strah",
+      "okrnitev ugleda pravne osebe",
+      "izgubljeni dobiček"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 2 (isto: vprasanja_2, pit. 16 i 21)",
+      "zakon_clen": "OZ, 132. člen; 179. člen; 183. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-054",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "nastanek obveznosti – temelji",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Kateri so temelji (viri nastanka) obligacijskega razmerja po OZ?",
+    "prevod_sr": "Koji su osnovi (izvori nastanka) obligacionog odnosa po OZ?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Pogodba.",
+        "prevod_sr": "Ugovor.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, II. poglavje »Nastanek obveznosti«, 1. oddelek (od 15. člena)."
+      },
+      {
+        "besedilo_sl": "Povzročitev škode.",
+        "prevod_sr": "Prouzrokovanje štete.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: II. poglavje, 2. oddelek (od 131. člena)."
+      },
+      {
+        "besedilo_sl": "Neupravičena pridobitev.",
+        "prevod_sr": "Neosnovano obogaćenje.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: II. poglavje, 3. oddelek (od 190. člena). Ostali izvori po OZ: poslovodstvo brez naročila (199. člen i dalje) i enostranska izjava volje (207. člen i dalje)."
+      },
+      {
+        "besedilo_sl": "Zastaranje.",
+        "prevod_sr": "Zastarelost.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zastarelost je uređena u IV. poglavju »Prenehanje obveznosti«, 4. oddelek »Zastaranje« (335. člen i dalje) – ne stvara obavezu."
+      },
+      {
+        "besedilo_sl": "Pobot.",
+        "prevod_sr": "Prebijanje (kompenzacija).",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prebijanje je način PRESTANKA obaveze (OZ, 311. člen i dalje), ne izvor."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "nastanek obveznosti",
+      "pogodba",
+      "povzročitev škode",
+      "neupravičena pridobitev",
+      "poslovodstvo brez naročila",
+      "enostranska izjava volje"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2, pitanje 20",
+      "zakon_clen": "OZ, II. poglavje (15., 131., 190., 199., 207. člen); 311. člen; 335. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-055",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "napake volje – prevara",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Kakšna je pogodba, če je sklenjena pod vplivom prevare?",
+    "prevod_sr": "Kakav je ugovor ako je zaključen pod uticajem prevare?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Izpodbojna – prevarana stranka lahko zahteva razveljavitev pogodbe.",
+        "prevod_sr": "Rušljiv – prevarena strana može zahtevati poništaj ugovora.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 49. člen, 1. odst.; 94. člen."
+      },
+      {
+        "besedilo_sl": "Razveljavitev lahko zahteva tudi takrat, kadar zmota ni bistvena.",
+        "prevod_sr": "Poništaj može zahtevati i onda kada zabluda nije bitna.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: razlika u odnosu na običnu zabludu – OZ, 49. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Nična, zato nanjo pazi sodišče po uradni dolžnosti.",
+        "prevod_sr": "Ništav, pa na to sud pazi po službenoj dužnosti.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prevara je mana volje i vodi rušljivosti (OZ, 49. i 94. člen), ne ništavosti."
+      },
+      {
+        "besedilo_sl": "Če prevarana stranka doseže razveljavitev, nima pravice do povrnitve škode.",
+        "prevod_sr": "Ako prevarena strana postigne poništaj, nema pravo na naknadu štete.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: strana koja je u prevari zaključila ugovor ima pravo na naknadu nastale štete (OZ, 49. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Prevara, ki jo je storil kdo tretji, vedno vpliva na odplačno pogodbo, tudi če druga pogodbena stranka zanjo ni vedela in ni bila dolžna vedeti.",
+        "prevod_sr": "Prevara koju je učinio neko treći uvek utiče na teretni ugovor, čak i ako druga ugovorna strana za nju nije znala niti je morala znati.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: prevara trećeg utiče samo ako je druga strana za nju znala ili morala znati (OZ, 49. člen, 3. odst.); bez tog uslova samo kod besplatnog ugovora (4. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "prevara",
+      "izpodbojnost",
+      "razveljavitev",
+      "povrnitev škode",
+      "zmota"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_2, pitanje 23",
+      "zakon_clen": "OZ, 49. člen; 94. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-056",
+    "tema": "5 Obveznosti – odškodnina, zavarovanje, prenehanje, spremembe strank in stvarno pravo",
+    "podtema": "zastaranje – terjatve iz gospodarskih pogodb",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "V kolikšnem času zastarajo terjatve iz gospodarskih pogodb?",
+    "prevod_sr": "U kom roku zastarevaju potraživanja iz privrednih ugovora?",
+    "odgovori": [
+      {
+        "besedilo_sl": "V treh letih.",
+        "prevod_sr": "Za tri godine.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: »Terjatve iz gospodarskih pogodb … zastarajo v treh letih« (OZ, 349. člen, 1. odst.). Napomena: ugovor nema »rok važenja« od 3 godine – zastareva potraživanje."
+      },
+      {
+        "besedilo_sl": "V petih letih.",
+        "prevod_sr": "Za pet godina.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: pet godina je OPŠTI rok zastarelosti (OZ, 346. člen); za privredne ugovore važi poseban, kraći rok (349. člen)."
+      },
+      {
+        "besedilo_sl": "V enem letu.",
+        "prevod_sr": "Za jednu godinu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: OZ, 349. člen, 1. odst. određuje tri godine."
+      },
+      {
+        "besedilo_sl": "V desetih letih.",
+        "prevod_sr": "Za deset godina.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: OZ, 349. člen, 1. odst. određuje tri godine."
+      },
+      {
+        "besedilo_sl": "Terjatve iz gospodarskih pogodb ne zastarajo.",
+        "prevod_sr": "Potraživanja iz privrednih ugovora ne zastarevaju.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: zastarevaju za tri godine (OZ, 349. člen, 1. odst.); ne gasi se pravo na isticanje NIŠTAVOSTI (93. člen) – ne mešati."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "zastaranje",
+      "gospodarska pogodba",
+      "terjatev",
+      "splošni zastaralni rok"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 3 (original: »Kako dolgo je veljavna gospodarska pogodba?« – studentov odgovor »3 leta«; pitanje preformulisano na zastarelost, na koju se odgovor očigledno odnosi)",
+      "zakon_clen": "OZ, 349. člen, 1. odst.; 346. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-057",
+    "tema": "4 Pogodbeno pravo – sklenitev in veljavnost pogodb",
+    "podtema": "sklenitev pogodbe – učinek ponudbe",
+    "tezina": 2,
+    "tip": "multi",
+    "vprasanje_sl": "Ali ponudba veže ponudnika?",
+    "prevod_sr": "Da li ponuda obavezuje ponudioca?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Da, razen če je ponudnik izključil svojo obveznost, da ostane pri ponudbi, ali če ta izključitev izhaja iz okoliščin posla.",
+        "prevod_sr": "Da, osim ako je ponudilac isključio svoju obavezu da ostane pri ponudi ili ako to isključenje proizlazi iz okolnosti posla.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 25. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Ne – do sprejema je ponudba vedno neobvezna in jo lahko ponudnik kadarkoli prekliče.",
+        "prevod_sr": "Ne – do prihvata je ponuda uvek neobavezna i ponudilac je može opozvati bilo kada.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ponuda obavezuje (OZ, 25. člen, 1. odst.); povući se može samo ako ponuđeni primi povlačenje pre ponude ili istovremeno s njom (2. odst.)."
+      },
+      {
+        "besedilo_sl": "Ponudba, v kateri je določen rok za sprejem, veže ponudnika do izteka tega roka.",
+        "prevod_sr": "Ponuda u kojoj je određen rok za prihvat obavezuje ponudioca do isteka tog roka.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 26. člen, 1. odst."
+      },
+      {
+        "besedilo_sl": "Ponudnik lahko ponudbo umakne le, če naslovnik prejme umik, preden prejme ponudbo, ali sočasno z njo.",
+        "prevod_sr": "Ponudilac može povući ponudu samo ako ponuđeni primi povlačenje pre nego što primi ponudu ili istovremeno s njom.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: OZ, 25. člen, 2. odst."
+      },
+      {
+        "besedilo_sl": "Ustna ponudba brez roka za sprejem veže ponudnika osem dni.",
+        "prevod_sr": "Usmena ponuda bez roka za prihvat obavezuje ponudioca osam dana.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: usmena ponuda bez roka smatra se odbijenom ako nije prihvaćena odmah, osim ako iz okolnosti proizlazi da ponuđeni ima vreme za razmišljanje (OZ, 26. člen, 4. odst.)."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "ponudba",
+      "ponudnik",
+      "učinek ponudbe",
+      "umik ponudbe",
+      "rok za sprejem"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 15 (isto: vprasanja_3, pit. 28)",
+      "zakon_clen": "OZ, 25. člen; 26. člen, 1. in 4. odst.",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  },
+  {
+    "id": "S0-058",
+    "tema": "6 Posamezne pogodbe in vrednostni papirji (2. kolokvij)",
+    "podtema": "komisijska pogodba – del credere provizija",
+    "tezina": 1,
+    "tip": "multi",
+    "vprasanje_sl": "Če komisionar prevzame odgovornost (jamči) za izpolnitev obveznosti svojega sopogodbenika, za katero vrsto provizije gre?",
+    "prevod_sr": "Ako komisionar preuzme odgovornost (jemči) za ispunjenje obaveze svog saugovarača, o kojoj vrsti provizije je reč?",
+    "odgovori": [
+      {
+        "besedilo_sl": "Del credere provizija.",
+        "prevod_sr": "Delkredere provizija.",
+        "pravilno": true,
+        "razlaga_sr": "Tačno: komisionar koji je jemčio za ispunjenje obaveza svog saugovarača ima pravo i na posebnu naknadu – »del credere provizija« (OZ, 798. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Običajna komisijska provizija, brez pravice do posebnega plačila.",
+        "prevod_sr": "Obična komisiona provizija, bez prava na posebnu naknadu.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: uz redovnu proviziju (OZ, 799. člen) pripada mu i POSEBNA naknada (798. člen, 2. odst.)."
+      },
+      {
+        "besedilo_sl": "Posredniško plačilo.",
+        "prevod_sr": "Posrednička naknada.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: to je naknada posrednika iz posredničkog ugovora (OZ, 846. i 847. člen)."
+      },
+      {
+        "besedilo_sl": "Odstopnina.",
+        "prevod_sr": "Odustanica.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: odustanica je iznos za pravo odustanka od ugovora (v. OZ, 68. člen), nema veze sa jemstvom komisionara."
+      },
+      {
+        "besedilo_sl": "Pogodbena kazen.",
+        "prevod_sr": "Ugovorna kazna.",
+        "pravilno": false,
+        "razlaga_sr": "Netačno: ugovorna kazna je sankcija za neispunjenje ili docnju dužnika (OZ, 247. člen), ne naknada komisionaru."
+      }
+    ],
+    "kljucne_besede_sl": [
+      "komisionar",
+      "del credere",
+      "del credere provizija",
+      "sopogodbenik",
+      "jamstvo"
+    ],
+    "vir": {
+      "literatura_str": "zapiski Tutorji EPF: vprasanja_3, pitanje 21 (bez studentovog odgovora)",
+      "zakon_clen": "OZ, 798. člen",
+      "url": "https://pisrs.si/pregledPredpisa?id=ZAKO1263"
+    },
+    "poreklo": "po_zapiskih",
+    "preverjeno": true
+  }
+]
