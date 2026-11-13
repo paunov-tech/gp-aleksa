@@ -83,6 +83,10 @@ function state(){ const s = load(); s.q = s.q || {}; s.v = s.v || {}; s.exams = 
 /* ---------- pomožne ---------- */
 function shuffle(a){ a = a.slice(); for(let i=a.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; }
 function topics(){ return [...new Set(BANK.map(q => q.tema))].sort(); }
+/* filter tem: '' = teme 1–5 (brez 2. kolokvija), 'g:123' = skupina tem po prvi številki, sicer točno ime teme */
+function inTopic(q, sel){ if(!sel) return q.tema[0] !== '6'; if(sel.startsWith('g:')) return sel.slice(2).includes(q.tema[0]); return q.tema === sel; }
+const GROUPS = [['', 'Teme 1–5 (brez teme 6)'], ['g:123', 'Teme 1–3: temeljni pojmi + statusno pravo'], ['g:45', 'Teme 4–5: pogodbeno pravo + obveznosti']];
+function topicOptions(sel){ return GROUPS.map(([v,n]) => `<option value="${v}" ${v===(sel||'')?'selected':''}>${n}</option>`).join('') + topics().map(t=>`<option ${t===sel?'selected':''}>${esc(t)}</option>`).join(''); }
 function score(q, sel, mode){
   const P = q.odgovori.filter(o => o.pravilno).length;
   let tp = 0, fp = 0;
@@ -131,13 +135,13 @@ function readSel(){ const s = new Set(); app.querySelectorAll('input[name=o]:che
 let L = null;
 function viewLearn(pool, title){
   const s = state(); const tsel = s.cfg.learnTopic || '';
-  const src = pool || BANK.filter(q => !tsel || q.tema === tsel);
+  const src = pool || BANK.filter(q => inTopic(q, tsel));
   if(!L || L.title !== title || L.topic !== tsel || pool){ L = {title, topic:tsel, list:shuffle(src), i:0, cur:null}; }
   if(!L.list.length){ app.innerHTML = `<div class="card"><h2>${esc(title)}</h2><p>Ni vprašanj za prikaz.</p></div>`; return; }
   if(!L.cur){ const q = L.list[L.i % L.list.length]; L.cur = {q, order:shuffle(q.odgovori.map((_,i)=>i)), sel:new Set(), reveal:false, tr:false}; }
   const c = L.cur;
   let h = `<div class="card"><div class="row"><h2 style="margin:0">${esc(title)}</h2><span class="sp"></span>`;
-  if(!pool) h += `<label class="f">Tema<select id="lt"><option value="">Vse teme</option>${topics().map(t=>`<option ${t===tsel?'selected':''}>${esc(t)}</option>`).join('')}</select></label>`;
+  if(!pool) h += `<label class="f">Tema<select id="lt">${topicOptions(tsel)}</select></label>`;
   h += `<span class="mut">${(L.i % L.list.length)+1} / ${L.list.length}</span></div></div>`;
   h += `<div class="card">${renderQ(c.q, {order:c.order, sel:c.sel, reveal:c.reveal, showTr:c.tr, allowTr:true})}
     <div class="row" style="margin-top:12px"><button id="tr">${c.tr?'Skrij prevod':'Pokaži prevod'}</button><span class="sp"></span>
@@ -175,15 +179,15 @@ function viewExamSetup(){
      <option value="partial" ${c.mode==='partial'?'selected':''}>Delne točke</option>
      <option value="negative" ${c.mode==='negative'?'selected':''}>Negativne točke</option></select></label>
    <label class="f">Vračanje na vprašanja<select id="back"><option value="1" ${c.back?'selected':''}>Dovoljeno</option><option value="0" ${!c.back?'selected':''}>Ni dovoljeno</option></select></label>
-   <label class="f">Tema<select id="et"><option value="">Vse teme</option>${topics().map(t=>`<option ${t===c.topic?'selected':''}>${esc(t)}</option>`).join('')}</select></label>
+   <label class="f">Tema<select id="et">${topicOptions(c.topic)}</select></label>
   </div>
   <p class="mut">Vse ali nič: točka samo, če so označeni natanko vsi pravilni odgovori. Delne točke: (pravilno označeni − napačno označeni) / število pravilnih, najmanj 0. Negativne točke: enako, vendar lahko do −1.</p>
   <button class="pri" id="go">Začni kolokvij</button></div>
   <div class="card"><h3 style="margin-top:0">Zadnje simulacije</h3>${hist.length ? `<div class="overflow"><table><tr><th>Datum</th><th class="n">Vprašanj</th><th>Točkovanje</th><th class="n">Rezultat</th><th class="n">Porabljen čas</th></tr>${hist.map(x=>`<tr><td>${new Date(x.t).toLocaleString('sl-SI')}</td><td class="n">${x.n}</td><td>${modeName(x.mode)}</td><td class="n"><b>${x.pct}%</b></td><td class="n">${fmt(x.used)}</td></tr>`).join('')}</table></div><p class="mut">${ready(s.exams)}</p>` : '<p class="mut">Ni še simulacij.</p>'}</div>`;
   $('#go').onclick = () => {
-    const cfg = {n:Math.max(1, Math.min(BANK.length, +$('#n').value||15)), min:Math.max(1, +$('#min').value||15), mode:$('#mode').value, back:$('#back').value==='1', topic:$('#et').value};
+    const cfg = {n:Math.max(1, +$('#n').value||15), min:Math.max(1, +$('#min').value||15), mode:$('#mode').value, back:$('#back').value==='1', topic:$('#et').value};
     const s = state(); s.cfg.exam = cfg; save(s);
-    const pool = BANK.filter(q => !cfg.topic || q.tema === cfg.topic);
+    const pool = BANK.filter(q => inTopic(q, cfg.topic));
     const qs = shuffle(pool).slice(0, cfg.n);
     E = {cfg, qs, order:qs.map(q => shuffle(q.odgovori.map((_,i)=>i))), sel:qs.map(()=>new Set()), i:0, end:Date.now()+cfg.min*60000, start:Date.now(), done:false};
     viewExam();

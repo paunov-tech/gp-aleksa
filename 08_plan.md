@@ -1,6 +1,8 @@
 # 08 — Plan polaganja
 
-Napisano: petak 13. 11. 2026. Datum 1. kolokvijuma **nije poznat** (nije javno objavljen), zato su date dve varijante. Čim Aleksa javi datum i gradivo, plan se preračunava.
+Napisano: petak 13. 11. 2026. **Ažurirano istog dana: kolokvijum je za 7 dana (oko pet. 20. 11.) → važi „Varijanta 7 dana" ispod.** Tačan dan, sat i gradivo još treba da potvrdi Aleksa; varijanta 14 dana ostaje samo kao rezerva ako se termin pomeri.
+
+**Tri stvari za danas:** (1) pošalji mejl asistentu (deo E), (2) javi koje teme su bile na predavanjima, (3) uradi Dan 1.
 
 Alati: simulator `07_simulator/index.html` (otvara se dvoklikom, radi bez interneta), rečnik `05_recnik.csv` / Anki `05_anki.tsv`, sažeci `03_teme/`, `05_lazni_prijatelji.md`, `05_jezik_pitanja.md`, `04_model_testa.md`.
 
@@ -26,9 +28,9 @@ Redosled tema ispod pretpostavlja redosled iz učnog načrta (temeljni pojmovi �
 | 1 | pet. 13. 11. | `05_jezik_pitanja.md` + lažni prijatelji A | T1 Temeljni pojmi, prva polovina | 20 × T1 | — |
 | 2 | sub. 14. 11. | T1 | T1 druga polovina (sodstvo, EU) | 20 × T1 | — |
 | 3 | ned. 15. 11. | T2 | T2 Statusno – splošni del (firma, zastopanje, prokura, register, s.p.) | 25 × T2 | 1. simulacija: 15 pit. / 15 min |
-| 4 | pon. 16. 11. | T3 | T3 osebne družbe + d.o.o. | 25 × T3 | 2. simulacija |
+| 4 | pon. 16. 11. | T3 | T3 osebne družbe + d.o.o. (uz [tabelu oblika](03_teme/T0_tabela_oblik_druzb.md)) | 25 × T3 | 2. simulacija |
 | 5 | uto. 17. 11. | T3 | T3 d.d., povezane družbe, preoblikovanja | 25 × T3 | 3. simulacija: 20 pit. / 15 min |
-| 6 | sre. 18. 11. | Šibke točke | Ponavljanje: tabela 4 oblika društava; parovi iz lažnih prijatelja C | *Šibke točke* dok ne bude prazno | 4. simulacija: 20 / 15 |
+| 6 | sre. 18. 11. | Šibke točke | Ponavljanje: [tabela 4 oblika društava](03_teme/T0_tabela_oblik_druzb.md); parovi iz lažnih prijatelja C | *Šibke točke* dok ne bude prazno | 4. simulacija: 20 / 15 |
 | 7 | čet. 19. 11. | samo pogrešne kartice | Lagano: `04_model_testa.md` t. 3–4, ček-lista D | *Šibke točke* | 5. simulacija: 20 / 15; rano na spavanje |
 
 U ovoj varijanti nema vremena za T4/T5 — raditi ih samo ako Aleksa potvrdi da ulaze (tada izbaciti T3 drugi deo).
@@ -52,7 +54,7 @@ U ovoj varijanti nema vremena za T4/T5 — raditi ih samo ako Aleksa potvrdi da 
 | 14 | čet. 26. 11. | samo pogrešne | ček-lista D; ništa novo | 10 lakih | **5.**: 20 / 15; rano na spavanje |
 
 ### Pravila za simulacije (poslednjih 5 dana — svaki dan jedna)
-- Režim *Kolokvij*, 15 minuta, bez prevoda, telefon van sobe, bez pauze.
+- Režim *Kolokvij*, 15 minuta, bez prevoda, telefon van sobe, bez pauze. Tema: **„Teme 1–3"** (dok se ne potvrdi gradivo).
 - Bodovanje: dok se ne sazna pravo → **Vse ali nič**. Ako se sazna da ima negativnih bodova → *Negativne točke*.
 - Vraćanje na pitanja: dok se ne sazna → jednom **Dovoljeno**, jednom **Ni dovoljeno** (naizmenično).
 - Posle svake: pregled svih pogrešnih + upis u beležnicu: *jezik / zamka / znanje*.

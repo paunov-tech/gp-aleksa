@@ -71,3 +71,8 @@
 - Korisnik javio: kolokvijum je za 7 dana (~20. 11.) → važi varijanta 7 dana iz `08_plan.md`.
 - Ažuriranje sajta: `python3 izvori/delovi/merge.py && python3 07_simulator/build.py && git add -A && git commit && git push` (Pages se sam ponovo gradi za ~1 min).
 - ZA KASNIJE (zaključavanje samo za Aleksu): repo vratiti na private (Pages se tada gasi na ovom planu) → ili GitHub Pro, ili dodati Aleksu kao saradnika.
+
+## 2026-11-13 01:05 — Brza dorada posle objave
+- Novo: `03_teme/T0_tabela_oblik_druzb.md` (d.n.o. / k.d. / d.o.o. / d.d. na jednoj strani, SL + SR, sa članovima ZGD-1 proverenim u tekstu).
+- Simulator: filter tema po grupama („Teme 1–5", „Teme 1–3", „Teme 4–5"); podrazumevano više ne ulazi tema 6 (2. kolokvijum). Testirano Playwrightom (191 pitanje u grupi 1–3; kolokvij od 20 pitanja samo iz tema 1–3; istek vremena).
+- Plan: na vrhu upisano da je kolokvijum za 7 dana i da važi varijanta 7 dana; linkovi na tabelu.

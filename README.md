@@ -5,11 +5,12 @@ Privatni materijal za učenje. Link ne deliti dalje.
 ## Počni ovde
 
 1. **[Simulator kolokvijuma](07_simulator/index.html)** — učenje, kolokvij na vreme, ponavljanje grešaka, kartice rečnika. Radi i na telefonu; napredak se čuva u pregledaču na tom uređaju.
-2. **[Plan polaganja](08_plan.md)** — dnevni plan (varijanta 7 dana), ček-lista za dan testa, nacrt mejla asistentu.
+2. **[Plan polaganja](08_plan.md)** — kolokvijum je za 7 dana: dnevni plan (varijanta 7 dana), ček-lista za dan testa, nacrt mejla asistentu.
 3. **[Jezik pitanja](05_jezik_pitanja.md)** i **[lažni prijatelji](05_lazni_prijatelji.md)** — pročitati prvog dana.
 
 ## Teme (slovenački → srpski → objašnjenje)
 
+- **[Tabela: četiri oblika društava na jednoj strani](03_teme/T0_tabela_oblik_druzb.md)** — najčešće pitano na starim testovima
 - [1 Temeljni pravni pojmi in pravni sistem](03_teme/T1_temeljni_pojmi_in_pravni_sistem.md)
 - [2 Statusno pravo – splošni del](03_teme/T2_statusno_pravo_splosni_del.md)
 - [3 Statusno pravo – oblike družb in preoblikovanja](03_teme/T3_oblike_druzb_in_preoblikovanja.md)
